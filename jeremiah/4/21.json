@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "fa",
   "chapter": 4,
-  "translation": "تا کی ⟨את⟩ نشان را ببینم؟ صدای شوفار را بشنوم؟",
+  "translation": "تا کی نشان را ببینم؟ صدای شوفار را بشنوم؟",
   "tokens": [
     {
       "surface": "עַד",
@@ -21,8 +21,7 @@
     },
     {
       "surface": "נֵּ֑ס",
-      "gloss": "⟨את⟩",
-      "marks": "نشان"
+      "gloss": "نشان"
     },
     {
       "surface": "אֶשְׁמְעָ֖ה",
