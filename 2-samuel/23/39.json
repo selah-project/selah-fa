@@ -1,12 +1,33 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 39,
   "ref": "2-samuel 23:39",
   "book": "2-samuel",
   "lang": "fa",
   "chapter": 23,
-  "translation": "اوریاه حِتی؛ همه ⟨את⟩ سی‌ویك... ",
-  "tokens": [],
-  "timestamp": "2026-08-15T04:02:32.419458755Z",
+  "translation": "اوریَه حِتی؛ در همه ⟨את⟩ سی‌و‌هفت ⟨بودند⟩.",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "اوریَه"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "حِتی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "در همه"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "و هفت"
+    }
+  ],
+  "timestamp": "2026-08-16T06:22:39.436935880Z",
   "model": "glm-5.3"
 }

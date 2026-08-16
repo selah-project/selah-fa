@@ -5,8 +5,41 @@
   "book": "genesis",
   "lang": "fa",
   "chapter": 7,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-13T19:56:05.809957291Z",
-  "model": "glm-5.2"
+  "translation": "و باران بر زمین چهل روز و چهل شب ⟨بود⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "باران"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چهل"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "و چهل"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شب"
+    }
+  ],
+  "timestamp": "2026-08-16T06:23:05.594774796Z",
+  "model": "glm-5.3"
 }
