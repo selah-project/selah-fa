@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 48:22",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 48,
+  "translation": "و بر دیبون و بر نبو و بر بیتِ دِبْلاتاییم،",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "دیبون"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "نبو"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیتِ"
+    },
+    {
+      "surface": "דבלתים",
+      "gloss": "دِبْلاتاییم"
+    }
+  ],
+  "timestamp": "2026-08-14T00:07:02.043237534Z",
+  "model": "glm-5.2"
+}

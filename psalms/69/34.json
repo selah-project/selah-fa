@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 69,
+  "translation": "زیرا یاهوه می‌شنود، به بی‌نوایان، و ⟨את⟩ بندانِ خود را حقارت نمی‌نهد.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "می‌شنود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "بی‌نوایان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "بندانِ خود"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "بندانِ خود"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "حقارت می‌نهد"
+    }
+  ],
+  "timestamp": "2026-08-14T00:12:05.658166469Z",
+  "model": "glm-5.2"
+}

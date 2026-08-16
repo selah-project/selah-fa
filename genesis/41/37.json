@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 41:37",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 41,
+  "translation": "وخوش آمد سختی در چشمانِ فَرعون و در چشمانِ همهٔ بردگانش.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "وخوش آمد"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "سختی"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "در چشمانِ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فَرعون"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "و در چشمانِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "بردگانش"
+    }
+  ],
+  "timestamp": "2026-08-13T20:07:04.334237920Z",
+  "model": "glm-5.2"
+}

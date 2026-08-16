@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "ezekiel 7:2",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و تو، پسرِ انسان، چنین گفت اَدونای یاهوه به زمینِ یِسرائل: پایان! آمده است پایان بر چهار کنارهٔ زمین.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "و تو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "כה",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לאדמת",
+      "gloss": "به زمینِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائل"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "پایان"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آمده است"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "پایان"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "کنارهٔ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-15T04:15:21.641393188Z",
+  "model": "glm-5.3"
+}

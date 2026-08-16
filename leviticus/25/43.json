@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 25:43",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "بر او مسلط نشوی با درشتی، و از الوهیمِ خود بترسی.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תרדה",
+      "gloss": "مسلط شوی"
+    },
+    {
+      "surface": "בו",
+      "gloss": "بر او"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "با درشتی"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "و بترسی"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "از الوهیمِ خود"
+    }
+  ],
+  "timestamp": "2026-08-13T20:29:10.226434114Z",
+  "model": "glm-5.2"
+}

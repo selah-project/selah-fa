@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "و موشه ⟨את⟩ چوب‌ها را پیش از رویِ یاهوه در خیمهٔ گواهی گذاشت.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "و گذاشت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چوب‌ها"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "چوب‌ها"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیش از رویِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "در خیمهٔ"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "گواهی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:36:25.053823309Z",
+  "model": "glm-5.2"
+}

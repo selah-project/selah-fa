@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 1:35",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "پسرانِ عِساو: اِلیفاز، رَعوئیل، و یَعوش، و یَعلام، و قُرح.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عِساو"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "اِلیفاز"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رَعوئیل"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "و یَعوش"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "و یَعلام"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "و قُرح"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:10.534386978Z",
+  "model": "glm-5.2"
+}

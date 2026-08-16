@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 44,
+  "translation": "و روییدنی میانِ چمن، چون بیدها بر کنارِ جوی‌های آب.",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "و روییدنی"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "میانِ"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "چمن"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "چون بیدها"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "کنارِ جوی‌های"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آب"
+    }
+  ],
+  "timestamp": "2026-08-13T21:50:37.376930304Z",
+  "model": "glm-5.2"
+}

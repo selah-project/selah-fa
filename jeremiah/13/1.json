@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 13:1",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "چنین گفت یاهوه مرا: برو و برای خود کمری از کتان بخَر و آن را بر کمرت بگذار و در آب مزنش.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مرا"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "برو"
+    },
+    {
+      "surface": "וקנית",
+      "gloss": "وبخر"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برای‌خود"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "کمر"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "از-کتان"
+    },
+    {
+      "surface": "ושמתו",
+      "gloss": "وبگذار"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "کمرت"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ودر-آب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תבאהו",
+      "gloss": "آورش"
+    }
+  ],
+  "timestamp": "2026-08-13T22:00:07.919280271Z",
+  "model": "glm-5.2"
+}

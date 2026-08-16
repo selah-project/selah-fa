@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 15:26",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "اَمام، و شِماع، و مولاداه",
+  "tokens": [
+    {
+      "surface": "אמם",
+      "gloss": "اَمام"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "و شِماع"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "و مولاداه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:58:05.472245822Z",
+  "model": "glm-5.2"
+}

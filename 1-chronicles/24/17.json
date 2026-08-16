@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 24:17",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "بیست‌ویكم برای یاكین، بیست‌ودوم برای گامول.",
+  "tokens": [
+    {
+      "surface": "ליכין",
+      "gloss": "برای یاكین"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یك"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "وبیست"
+    },
+    {
+      "surface": "לגמול",
+      "gloss": "برای گامول"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "وبیست"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:31.873146133Z",
+  "model": "glm-5.2"
+}

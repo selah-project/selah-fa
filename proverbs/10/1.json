@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "مَثَل‌های شْلومو: پسرِ خردمند، پدر را شاد می‌کند، و پسرِ نادان، اندوهِ مادرِ ⟨او⟩ است.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "مَثَل‌های"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شْلومو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "خردمند"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "شاد می‌کند"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پدر را"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "و پسرِ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "اندوهِ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "مادرِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:01:10.871716252Z",
+  "model": "glm-5.2"
+}

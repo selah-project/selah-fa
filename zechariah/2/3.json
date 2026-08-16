@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 2:3",
+  "book": "zechariah",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و یاهوه چهار صنعتگر را به من نشان داد",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "و به من نشان داد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "صنعتگر"
+    }
+  ],
+  "timestamp": "2026-08-13T22:35:02.041994507Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و او از خانه‌اش بیرون رود و برود و برای مردِ دیگری همسر گردد،",
+  "tokens": [
+    {
+      "surface": "וְיָצְאָ֖ה",
+      "gloss": "و بیرون رود"
+    },
+    {
+      "surface": "מִבֵּית֑וֹ",
+      "gloss": "از خانه‌اش"
+    },
+    {
+      "surface": "וְהָלְכָ֖ה",
+      "gloss": "و برود"
+    },
+    {
+      "surface": "וְהָיְתָ֥ה",
+      "gloss": "و گردد"
+    },
+    {
+      "surface": "לְאִישׁ",
+      "gloss": "برای مردِ"
+    },
+    {
+      "surface": "אַחֵֽר",
+      "gloss": "دیگری"
+    }
+  ],
+  "timestamp": "2026-08-13T20:50:50.598225240Z",
+  "model": "glm-5.2"
+}

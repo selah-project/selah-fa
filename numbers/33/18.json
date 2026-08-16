@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 33:18",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "و کوچ کردند از حَصِروت، و اردو زدند در رِتْمَه.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "و کوچ کردند"
+    },
+    {
+      "surface": "מחצרת",
+      "gloss": "از حَصِروت"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "و اردو زدند"
+    },
+    {
+      "surface": "ברתמה",
+      "gloss": "در رِتْمَه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:42:02.146172327Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 26:17",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "و ییتسحاق از آن‌جا رفت و در درهٔ گِرار چشمه برافکند و آن‌جا ساکن شد.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "و رفت"
+    },
+    {
+      "surface": "משם",
+      "gloss": "از آن‌جا"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ییتسحاق"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "و چشمه برافکند"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "در دره"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "گِرار"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "و ساکن شد"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آن‌جا"
+    }
+  ],
+  "timestamp": "2026-08-13T20:01:51.420526838Z",
+  "model": "glm-5.2"
+}

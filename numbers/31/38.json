@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 31:38",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و گاوان شش و سیزده هزار، و مَکْسِ ایشان برای یاهوه دو و هفتاد.",
+  "tokens": [
+    {
+      "surface": "והבקר",
+      "gloss": "و گاوان"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "شش"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "و سیزده"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "و مَکْسِ ایشان"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "برای یاهوه"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "و هفتاد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:40:57.723760102Z",
+  "model": "glm-5.2"
+}

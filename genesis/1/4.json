@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و الوهیم ⟨את⟩ نور را دید، که نیکوست؛ و الوهیم میانِ نور و میانِ تاریکی جدا کرد.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "و دید"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نور"
+    },
+    {
+      "surface": "האור",
+      "gloss": "نور را"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیکوست"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "و جدا کرد"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "בין",
+      "gloss": "میانِ"
+    },
+    {
+      "surface": "האור",
+      "gloss": "نور"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "و میانِ"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "تاریکی"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:17.142782371Z",
+  "model": "glm-5.2"
+}

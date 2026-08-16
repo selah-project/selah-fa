@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "چگونه سوراخ کنم؟ نه سوراخ کرده اِل، و چگونه خشم گیرم؟ نه خشم گرفته یاهوه!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "چگونه"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "سوراخ کنم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "سوراخ کرده"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "و چگونه"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "خشم گیرم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "خشم گرفته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:38:39.311079919Z",
+  "model": "glm-5.2"
+}

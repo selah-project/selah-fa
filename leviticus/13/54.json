@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 54,
+  "ref": "leviticus 13:54",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "و کوهن فرمان دهد و آنچه که ضایعه در آن است بشویند ⟨את⟩، و آن را هفت روز دومِ بازبستند",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "و فرمان دهد"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کوهن"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "و بشویند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آنچه که ضایعه در آن است"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در آن"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ضایعه"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "و بازبستندش"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "هفتِ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روز"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "دوم"
+    }
+  ],
+  "timestamp": "2026-08-15T03:50:55.857325146Z",
+  "model": "glm-5.3"
+}

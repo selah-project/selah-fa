@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "سخنی اَدونای فرستاد در یاعکوو، و ⟨آن⟩ افتاد در یِسرائیل.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "سخنی"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "فرستاد"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "در یاعکوو"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "و افتاد"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "در یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-13T21:43:33.163902129Z",
+  "model": "glm-5.2"
+}

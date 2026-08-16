@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 24:4",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و شد کلام یاهوه به من، به این سخن:",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֥י",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "דְבַר",
+      "gloss": "کلامِ"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֵלַ֥י",
+      "gloss": "به من"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "به این سخن"
+    }
+  ],
+  "timestamp": "2026-08-13T22:03:04.183248611Z",
+  "model": "glm-5.2"
+}

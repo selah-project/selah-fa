@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 1:30",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "میشماع، و دومة، مَشا، حَداد، و تِیما.",
+  "tokens": [
+    {
+      "surface": "משמע",
+      "gloss": "میشماع"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "و دومة"
+    },
+    {
+      "surface": "משא",
+      "gloss": "مَشا"
+    },
+    {
+      "surface": "חדד",
+      "gloss": "حَداد"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "و تِیما"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:59.867388140Z",
+  "model": "glm-5.2"
+}

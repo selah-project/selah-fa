@@ -1,0 +1,41 @@
+{
+  "tier": "4.6",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 75,
+  "translation": "شاخ خود را به عالی برنیاورید، با گردنی ⟨خشک⟩ سخن نگویید",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "برنیاورید"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "به عالی"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "شاخ خود را"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "سخن نگویید"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "با گردنی"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "⟨خشک⟩"
+    }
+  ],
+  "timestamp": "2026-08-15T04:27:28.122230720Z",
+  "model": "glm-4.6"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "ezra 2:56",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "پسرانِ یَعلا، پسرانِ دارقون، پسرانِ گیدَّل،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "یَعلا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "דרקון",
+      "gloss": "دارقون"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "گیدَّل"
+    }
+  ],
+  "timestamp": "2026-08-13T23:28:51.220423485Z",
+  "model": "glm-5.2"
+}

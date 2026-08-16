@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 109,
+  "translation": "و به‌جای نیکی، بدی را بر من نهادند، و به‌جای محبّتِ من، نفرت را.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "و نهادند"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "به‌جای"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "نیکی"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "و نفرت"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "به‌جای"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "محبّتِ من"
+    }
+  ],
+  "timestamp": "2026-08-15T04:25:15.503623136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 40:21",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 40,
+  "translation": "و بازگرداند ⟨את⟩ سَرِ ساقیان بر ساقی‌گریِ خود، و داد جام را بر کفِ پَرعوه.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "و بازگرداند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سَرِ ساقیان"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سَرِ"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "ساقیان"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "ساقی‌گریِ خود"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "و داد"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "جام"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כף",
+      "gloss": "کفِ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پَرعوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:05:31.195435264Z",
+  "model": "glm-5.2"
+}

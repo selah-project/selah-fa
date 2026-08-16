@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و بود کلامِ یاهوه به یوناه پسرِ اَمیتای، به این سخن:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "یوناه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "اَمیتای"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به این سخن"
+    }
+  ],
+  "timestamp": "2026-08-13T22:31:03.470865243Z",
+  "model": "glm-5.2"
+}

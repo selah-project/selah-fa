@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 6:26",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "زیرا بهای یک زنِ زناکار تا یک قرصِ نان ⟨است⟩، و زنِ اِیش، نفسِ گران‌بها را شکار می‌کند.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "بهای"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زنِ"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "زناکار"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "قرص"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "و زنِ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "اِیش"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفسِ"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "گران‌بها"
+    },
+    {
+      "surface": "תצוד",
+      "gloss": "شکار می‌کند"
+    }
+  ],
+  "timestamp": "2026-08-13T23:00:39.220373489Z",
+  "model": "glm-5.2"
+}

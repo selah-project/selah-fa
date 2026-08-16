@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 6:22",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "چنین گفت یاهوه: اینک قومی می‌آید از زمینِ شمال، و گویِ بزرگی بیدار می‌شود از کرانه‌هایِ زمین.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قومی"
+    },
+    {
+      "surface": "בא",
+      "gloss": "می‌آید"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "از زمینِ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "شمال"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "و گویِ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "بزرگی"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "بیدار می‌شود"
+    },
+    {
+      "surface": "מירכתי",
+      "gloss": "از کرانه‌هایِ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T21:56:45.296727075Z",
+  "model": "glm-5.2"
+}

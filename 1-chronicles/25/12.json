@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 25:12",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "پنجم نَتَنیاهو؛ پسرانش و برادرانش، دوازده.",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "پنجم"
+    },
+    {
+      "surface": "נתניהו",
+      "gloss": "نَتَنیاهو"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "پسرانش"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "و برادرانش"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ده"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:22.007337711Z",
+  "model": "glm-5.2"
+}

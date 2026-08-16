@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 1:44",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و بِلع مُرد، و یووابِ پسرِ زِرَح، از بُصْره، به جایِ او پادشاهی کرد.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "و مُرد"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "بِلع"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "و پادشاهی کرد"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "به جایِ او"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "یوواب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زِرَح"
+    },
+    {
+      "surface": "מבצרה",
+      "gloss": "از بُصْره"
+    }
+  ],
+  "timestamp": "2026-08-14T00:17:39.647243497Z",
+  "model": "glm-5.2"
+}

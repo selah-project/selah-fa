@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و ⟨את⟩ تمامِ چربیِ او بر دارد كاهن از او، و بسوزاند به سویِ مذبح.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "تمامِ چربیِ او"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "چربیِ او"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "بر دارد"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "از او"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "و بسوزاند"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "به سویِ مذبح"
+    }
+  ],
+  "timestamp": "2026-08-13T20:22:39.602418103Z",
+  "model": "glm-5.2"
+}

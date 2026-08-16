@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "به خنده گفتم: «مجنون!» و به شادی: «این چه می‌کند؟»",
+  "tokens": [
+    {
+      "surface": "לִשְׂחוֹק",
+      "gloss": "به خنده"
+    },
+    {
+      "surface": "אָמַרְתִּי",
+      "gloss": "گفتم"
+    },
+    {
+      "surface": "מְהוֹלָל",
+      "gloss": "مجنون"
+    },
+    {
+      "surface": "וּלְשִׂמְחָה",
+      "gloss": "و به شادی"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "זֹּה",
+      "gloss": "این"
+    },
+    {
+      "surface": "עֹשָׂה",
+      "gloss": "می‌کند"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:23.945855043Z",
+  "model": "glm-5.2"
+}

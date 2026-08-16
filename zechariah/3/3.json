@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 3:3",
+  "book": "zechariah",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و یهوشُعَع پوشیده بود در جامه‌های آلوده و ایستاده بود پیشِ فرشته.",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "و یهوشُعَع"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "پوشیده"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "در جامه‌های"
+    },
+    {
+      "surface": "צואים",
+      "gloss": "آلوده"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "و ایستاده بود"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشِ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "فرشته"
+    }
+  ],
+  "timestamp": "2026-08-13T22:35:23.435683145Z",
+  "model": "glm-5.2"
+}

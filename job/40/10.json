@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 40:10",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 40,
+  "translation": "بپوش اکنون غرور و بلندی را، و جلال و شکوه را بپوش",
+  "tokens": [
+    {
+      "surface": "עדה",
+      "gloss": "بپوش"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اکنون"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "غرور"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "و بلندی"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "و جلال"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "و شکوه"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "بپوش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:14:36.102934035Z",
+  "model": "glm-5.2"
+}

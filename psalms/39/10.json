@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 39,
+  "translation": "خاموش شده‌ام، دهانم را نمی‌گشایم، زیرا تو ⟨آن را⟩ کردی.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "خاموش شده‌ام"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "می‌گشایم"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دهانم را"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "کردی"
+    }
+  ],
+  "timestamp": "2026-08-13T22:42:48.898358304Z",
+  "model": "glm-5.2"
+}

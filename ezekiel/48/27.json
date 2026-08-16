@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 48:27",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 48,
+  "translation": "و بر کنارِ زَبولون، از سویِ خاور تا سویِ دریا، گاد، یکی ⟨بخش⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "کنارِ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زَبولون"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "از سویِ"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "خاور"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "سویِ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکی"
+    }
+  ],
+  "timestamp": "2026-08-13T22:25:29.069521896Z",
+  "model": "glm-5.2"
+}

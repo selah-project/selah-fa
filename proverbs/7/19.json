@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "زیرا مرد در خانه‌اش نیست؛ راهی راهِ دور شده است.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "در خانه‌اش"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "راهی شده است"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "راهِ"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "دور"
+    }
+  ],
+  "timestamp": "2026-08-15T04:26:53.446952077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 34:6",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 34,
+  "translation": "و ⟨او را⟩ در دره‌ای در زمینِ موآب، روبروی بیت پعور دفن کرد؛ و هیچ‌کس قبرِ او را تا امروز نمی‌داند.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "و دفن کرد"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "او"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "در دره‌ای"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "در زمینِ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "מול",
+      "gloss": "روبروی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "پعور"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "می‌داند"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هیچ‌کس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قبرِ او"
+    },
+    {
+      "surface": "קברתו",
+      "gloss": "قبرِ او"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "امروز"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    }
+  ],
+  "timestamp": "2026-08-13T20:53:26.165337331Z",
+  "model": "glm-5.2"
+}

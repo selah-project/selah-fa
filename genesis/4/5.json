@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 4:5",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و به قایین و به هدیه‌اش توجه نکرد، و بر قایین بسیار سوزانید، و روی‌هایش فرو افتاد.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "و به"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قایین"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و به"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "هدیه‌اش"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שעה",
+      "gloss": "توجه کرد"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "و سوزانید"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "بر قایین"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "و فرو افتادند"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "روی‌هایش"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:48.614503583Z",
+  "model": "glm-5.2"
+}

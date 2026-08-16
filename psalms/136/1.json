@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 136,
+  "translation": "به یاهوه سپاس گویید، که نیکوست، که تا به ابد رحمتِ اوست.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "سپاس گویید"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "به یاهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیکوست"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "تا به ابد"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "رحمتِ اوست"
+    }
+  ],
+  "timestamp": "2026-08-15T04:26:56.194791095Z",
+  "model": "glm-5.3"
+}

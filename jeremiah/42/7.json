@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 42:7",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 42,
+  "translation": "و بود در پایانِ ده روز، و بود سخنِ یاهوه به یِرمِیاهو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "در پایانِ"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ده"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روز"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخانِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمِیاهو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:08:04.584335887Z",
+  "model": "glm-5.2"
+}

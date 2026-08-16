@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 34,
+  "ref": "1-samuel 2:34",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و این برای تو نشانه‌ای است که بر دو پسرت خواهد آمد، بر حوفنی و پینحاس: در یک روز هر دو خواهند مرد.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "و این"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برای تو"
+    },
+    {
+      "surface": "האות",
+      "gloss": "نشانه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "خواهد آمد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "پسرانت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "حوفنی"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "و پینحاس"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روز"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "خواهند مرد"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "هر دو"
+    }
+  ],
+  "timestamp": "2026-08-15T04:00:52.349697053Z",
+  "model": "glm-5.3"
+}

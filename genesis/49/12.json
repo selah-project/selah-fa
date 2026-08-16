@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 49:12",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 49,
+  "translation": "تیره‌روی است چشم‌ها از می، و سفید دندان‌ها از شیر.",
+  "tokens": [
+    {
+      "surface": "חכלילי",
+      "gloss": "تیره‌روی است"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "چشم‌ها"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "از می"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "و سفید"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دندان‌ها"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "از شیر"
+    }
+  ],
+  "timestamp": "2026-08-13T20:09:28.309538762Z",
+  "model": "glm-5.2"
+}

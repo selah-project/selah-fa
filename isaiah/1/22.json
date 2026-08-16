@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "isaiah 1:22",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "نقره‌ات به سرگینه بدل شد، شرابِ تو با آب رقیق‌شده.",
+  "tokens": [
+    {
+      "surface": "כספך",
+      "gloss": "نقره‌ات"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بدل شد"
+    },
+    {
+      "surface": "لסיגים",
+      "gloss": "به سرگینه"
+    },
+    {
+      "surface": "סבאך",
+      "gloss": "شرابِ تو"
+    },
+    {
+      "surface": "מהול",
+      "gloss": "رقیق‌شده"
+    },
+    {
+      "surface": "במים",
+      "gloss": "با آب"
+    }
+  ],
+  "timestamp": "2026-08-15T04:06:43.418687471Z",
+  "model": "glm-5.3"
+}

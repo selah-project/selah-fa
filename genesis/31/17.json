@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "وَ یاعکوو برخاست و پسرانش و ⟨את⟩ زنانش را بر شتران سوار کرد،",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "وَ برخاست"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعکوو"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "وَ سوار کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پسرانش"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "پسرانش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "زنانش"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "زنانش"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "شتران"
+    }
+  ],
+  "timestamp": "2026-08-13T20:03:43.446311185Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 106,
+  "translation": "و پینخاس ایستاد و داوری کرد، و طاعون بازداشته شد.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "و ایستاد"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "پینخاس"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "و داوری کرد"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "و بازداشته شد"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "طاعون"
+    }
+  ],
+  "timestamp": "2026-08-13T22:53:12.248874051Z",
+  "model": "glm-5.2"
+}

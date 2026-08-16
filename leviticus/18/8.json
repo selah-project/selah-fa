@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "برهنه‌گیِ زنِ پدرت را آشکار نکنی؛ او برهنه‌گیِ پدرت است.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "برهنه‌گیِ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زنِ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "پدرت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "آشکار کنی"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "برهنه‌گیِ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "پدرت"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوست"
+    }
+  ],
+  "timestamp": "2026-08-13T20:26:13.392001519Z",
+  "model": "glm-5.2"
+}

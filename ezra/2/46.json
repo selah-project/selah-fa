@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "ezra 2:46",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "پسرانِ حَگَو، پسرانِ شَملای، پسرانِ حَنان،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "חגב",
+      "gloss": "حَگَو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "שמלי",
+      "gloss": "شَملای"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "حَنان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:28:50.301243137Z",
+  "model": "glm-5.2"
+}

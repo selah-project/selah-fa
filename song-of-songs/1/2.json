@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "ببوسد مرا بِ بوسه‌هایی از دهانِ خودش، زیرا عشق‌های تو نیکوترند از شراب.",
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "ببوسد مرا"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "بِ بوسه‌هایی"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "از دهانِ خودش"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "نیکوترند"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "عشق‌های تو"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "از شراب"
+    }
+  ],
+  "timestamp": "2026-08-13T23:15:30.693247254Z",
+  "model": "glm-5.2"
+}

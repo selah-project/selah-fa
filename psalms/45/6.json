@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 45,
+  "translation": "تیرهای تو تیزند؛ مردمان زیر تو می‌افتند، در دلِ دشمنانِ پادشاه.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "تیرهایِ تو"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "تیزند"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "مردمان"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "زیرِ تو"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "می‌افتند"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "در دلِ"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "دشمنانِ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:44:13.124928973Z",
+  "model": "glm-5.2"
+}

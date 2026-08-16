@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 36:11",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "و پسرانِ اِلیفاز ⟨بودند⟩: تیمان، اُمر، صفو، و جاعتم، و قناز.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "و بودند"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "اِلیفاز"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "تیمان"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "اُمر"
+    },
+    {
+      "surface": "צפו",
+      "gloss": "صفو"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "و جاعتم"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "و قناز"
+    }
+  ],
+  "timestamp": "2026-08-13T20:04:52.124214044Z",
+  "model": "glm-5.2"
+}

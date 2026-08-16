@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 48:24",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 48,
+  "translation": "و بر قریوت، و بر بُصره، و بر همهٔ شهرهای سرزمین موآب، دورها و نزدیک‌ها",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "קריות",
+      "gloss": "قریوت"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "بُصره"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شهرهای"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "سرزمین"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "הרחקות",
+      "gloss": "دورها"
+    },
+    {
+      "surface": "והקרבות",
+      "gloss": "و نزدیک‌ها"
+    }
+  ],
+  "timestamp": "2026-08-14T00:06:36.470118920Z",
+  "model": "glm-5.2"
+}

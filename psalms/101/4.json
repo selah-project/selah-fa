@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 101,
+  "translation": "دلِ کج از من دور خواهد شد؛ بدی را نخواهم دانست.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "دلِ"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "کج"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "دور خواهد شد"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "از من"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "خواهم دانست"
+    }
+  ],
+  "timestamp": "2026-08-13T22:51:55.281953264Z",
+  "model": "glm-5.2"
+}

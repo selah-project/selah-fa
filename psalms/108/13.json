@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 108,
+  "translation": "بده به ما یاری را برابرِ تنگنا، و بیهوده‌ست رستگاریِ انسان.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "بده"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "به ما"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "یاریِ"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "برابرِ تنگنا"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "و بیهوده‌ست"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "رستگاریِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    }
+  ],
+  "timestamp": "2026-08-13T22:53:24.359915806Z",
+  "model": "glm-5.2"
+}

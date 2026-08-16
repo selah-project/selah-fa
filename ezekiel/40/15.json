@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 40:15",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 40,
+  "translation": "و روبه‌رویِ دروازه، تا روبه‌رویِ ایوانِ دروازهٔ درونی، پنجاه اَمّه بود.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رویِ"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دروازه"
+    },
+    {
+      "surface": "היאתון",
+      "gloss": "آنان آمدند"
+    },
+    {
+      "surface": "על",
+      "gloss": "تا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "رویِ"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ایوان"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دروازهٔ"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "درونی"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاه"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "اَمّه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:22:45.517977841Z",
+  "model": "glm-5.2"
+}

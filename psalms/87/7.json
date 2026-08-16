@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 87,
+  "translation": "و آوازخوانان چون نی‌نوازان: تمام چشمه‌های من در تو ⟨هست⟩.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "و آوازخوانان"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "چون نی‌نوازان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "چشمه‌هایِ من"
+    },
+    {
+      "surface": "בך",
+      "gloss": "در تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:49:42.972695080Z",
+  "model": "glm-5.2"
+}

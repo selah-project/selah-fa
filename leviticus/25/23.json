@@ -1,0 +1,61 @@
+{
+  "tier": "4.6",
+  "verse": 23,
+  "ref": "leviticus 25:23",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و زمین به‌طورِ ابدی فروخته نمی‌شود، زیرا زمین از آنِ من است، و شما غریبه و ساکن نزد من هستید.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "و زمین"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "فروخته می‌شود"
+    },
+    {
+      "surface": "לצמתת",
+      "gloss": "به‌طورِ ابدی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "از آنِ من"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "غریبه"
+    },
+    {
+      "surface": "ותושבים",
+      "gloss": "و ساکن"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "شما"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "نزد من"
+    }
+  ],
+  "timestamp": "2026-08-15T03:54:30.545002968Z",
+  "model": "glm-4.6"
+}

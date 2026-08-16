@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 61,
+  "translation": "به رهبرِ موزون، بر نواختنِ ساز. برای داوود.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "به رهبرِ موزون"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "نواختنِ ساز"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "برای داوود"
+    }
+  ],
+  "timestamp": "2026-08-13T22:45:47.987215021Z",
+  "model": "glm-5.2"
+}

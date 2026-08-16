@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "نگو: «چه بود که روزهای پیشین بهتر از این‌ها بودند؟»، که نه از روی حکمت دربارهٔ این پرسیدی.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نـ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "گو"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "که روزهای"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "پیشین"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بودند"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "بهتر"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "از این‌ها"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "از حکمت"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "پرسیدی"
+    },
+    {
+      "surface": "על",
+      "gloss": "دربارهٔ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:40.509157320Z",
+  "model": "glm-5.2"
+}

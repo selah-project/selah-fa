@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "بهتر است توبیخِ آشکار تا محبّتی پنهان.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "بهتر است"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "توبیخ"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "آشکار"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "از محبّت"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "پنهان"
+    }
+  ],
+  "timestamp": "2026-08-15T04:28:15.699369391Z",
+  "model": "glm-5.3"
+}

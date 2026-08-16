@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "پشتِ خدایانِ دیگر نروید، از خدایانِ مردم‌هایی که پیرامونِ شما هستند.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "نروید"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پشتِ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "خدایانِ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "دیگر"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "از خدایانِ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "مردم‌هایی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "پیرامونِ شما"
+    }
+  ],
+  "timestamp": "2026-08-15T20:53:02.814895844Z",
+  "model": "glm-5.3"
+}

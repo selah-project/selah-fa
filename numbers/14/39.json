@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 14:39",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و موشه ⟨את⟩ سخنانِ این‌ها را به همهٔ پسرانِ یسرائیل گفت، و قوم بسیار سوگواری کردند.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سخنان"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "سخنانِ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اینِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "و سوگواری کردند"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بسیار"
+    }
+  ],
+  "timestamp": "2026-08-13T20:35:03.854299145Z",
+  "model": "glm-5.2"
+}

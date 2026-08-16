@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 16:20",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "و ییشای الاغی نانْ و تشی شرابْ و بزّی به نزدِ شائول فرستاد.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "و گرفت"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ییشای"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "الاغی"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "ונאד",
+      "gloss": "و تشی"
+    },
+    {
+      "surface": "יין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "וגדי",
+      "gloss": "و بزّی"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بز"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "و فرستاد"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "به دستِ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نزدِ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    }
+  ],
+  "timestamp": "2026-08-13T21:12:03.105773888Z",
+  "model": "glm-5.2"
+}

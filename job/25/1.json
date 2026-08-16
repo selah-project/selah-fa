@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 25:1",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "پاسخ داد بیلدادِ شُوحی و گفت:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "پاسخ داد"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "بیلداد"
+    },
+    {
+      "surface": "השחי",
+      "gloss": "شُوحی"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:11:33.587371026Z",
+  "model": "glm-5.2"
+}

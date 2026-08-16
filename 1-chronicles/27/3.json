@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 27:3",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "از بنی‌فِرِص، او سرِ تمامی فرماندهانِ لشکرها برای ماهِ نخست.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی‌"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "فِرِص"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سرِ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "تمامی"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "فرماندهانِ"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "لشکرها"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "برای ماهِ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "نخست"
+    }
+  ],
+  "timestamp": "2026-08-13T23:42:47.457656338Z",
+  "model": "glm-5.2"
+}

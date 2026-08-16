@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 88,
+  "translation": "یاهوه، الوهیمِ نجاتِ من، روز فریاد زدم، در شب، پیشِ رویِ تو.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوهیمِ"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "نجاتِ من"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "فریاد زدم"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "درِ شب"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "پیشِ رویِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:49:40.067048337Z",
+  "model": "glm-5.2"
+}

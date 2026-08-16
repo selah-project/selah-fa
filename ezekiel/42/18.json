@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 42,
+  "translation": "⟨את⟩ سمتِ جنوب را اندازه گرفت، پانصد نی، با نیِ اندازه.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سمتِ جنوب"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "سمتِ"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "جنوب"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "اندازه گرفت"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پانصد"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "(صد)"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "نی"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "با نیِ"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "اندازه"
+    }
+  ],
+  "timestamp": "2026-08-15T04:17:50.044919562Z",
+  "model": "glm-5.3"
+}

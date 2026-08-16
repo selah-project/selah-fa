@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "psalms 119:69",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 119,
+  "translation": "متکبران بر من دروغ چسبانیدند؛ من با تمام دل فرمان‌های تو را نگاه می‌دارم.",
+  "tokens": [
+    {
+      "surface": "טפלו",
+      "gloss": "چسبانیدند"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغ"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "متکبران"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "با تمام"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "نگه می‌دارم"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "فرمان‌های تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:56:11.413928668Z",
+  "model": "glm-5.2"
+}

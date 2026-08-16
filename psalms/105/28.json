@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 105,
+  "translation": "فرستاد تاریکی را، و ⟨את⟩ تاریک ساخت؛ و بر سخنِ او عصیان نکردند.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "فرستاد"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "تاریکی را"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "و تاریک ساخت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "عصیان کردند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سخنِ او"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "سخنِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T22:52:50.224257341Z",
+  "model": "glm-5.2"
+}

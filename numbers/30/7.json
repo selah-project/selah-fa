@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 30:7",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "و اگر بود شود برای مردی، و نذرهایش بر او، یا بیانِ بی‌پروای لب‌هایش، که بست بر جانِ او،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بود"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "شود"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "برای مردی"
+    },
+    {
+      "surface": "ונדריה",
+      "gloss": "و نذرهایش"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "بر او"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מבטא",
+      "gloss": "بیانِ بی‌پروا"
+    },
+    {
+      "surface": "שפתיה",
+      "gloss": "لب‌هایش"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "بست"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "جانِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:41:37.858988221Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 5:11",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "زنان را در تسیون بی‌حرمت کردند، باکره‌ها را در شهرهای یهودا.",
+  "tokens": [
+    {
+      "surface": "נשים",
+      "gloss": "زنان را"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "در تسیون"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "بی‌حرمت کردند"
+    },
+    {
+      "surface": "בתלת",
+      "gloss": "باکره‌ها را"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "در شهرهای"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:19:30.719416880Z",
+  "model": "glm-5.2"
+}

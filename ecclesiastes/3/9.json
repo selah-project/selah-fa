@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "چه سودی ⟨است⟩ برای آنکه می‌کند در آنی که او در آن رنج می‌کشد؟",
+  "tokens": [
+    {
+      "surface": "מַה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "יִּתְרוֹן",
+      "gloss": "سود"
+    },
+    {
+      "surface": "הָֽעוֹשֶׂה",
+      "gloss": "برای آنکه می‌کند"
+    },
+    {
+      "surface": "בַּאֲשֶׁר",
+      "gloss": "در آنی که"
+    },
+    {
+      "surface": "ה֥וּא",
+      "gloss": "او"
+    },
+    {
+      "surface": "עָמֵֽל",
+      "gloss": "رنج می‌کشد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:19:56.255648105Z",
+  "model": "glm-5.2"
+}

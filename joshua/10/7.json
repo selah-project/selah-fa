@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 10:7",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و یِهوشُع از گیلگل بالا رفت، او و همهٔ قومِ جنگ با او، و همهٔ دلاورانِ قدرت.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "و بالا رفت"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یِهوشُع"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "گیلگل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و همهٔ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قومِ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "با او"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و همهٔ"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "دلاورانِ"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "قدرت"
+    }
+  ],
+  "timestamp": "2026-08-13T20:56:41.943884960Z",
+  "model": "glm-5.2"
+}

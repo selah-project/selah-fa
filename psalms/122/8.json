@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 122,
+  "translation": "به خاطرِ برادرانم و یارانم، سخن خواهم گفت، اکنون، سلامتی در تو.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "به خاطرِ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برادرانم"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "و یارانم"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "سخن خواهم گفت"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اکنون"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    },
+    {
+      "surface": "בך",
+      "gloss": "در تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:56:34.358742048Z",
+  "model": "glm-5.2"
+}

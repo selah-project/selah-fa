@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 35:31",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "و کفاره‌ای برای نفسِ قاتلی که او بدکار است به مردن نگیرید، چون مرگ کشته خواهد شد.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "بگیرید"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "کفاره‌ای"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "برای نفسِ"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "قاتلی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار است"
+    },
+    {
+      "surface": "למות",
+      "gloss": "به مردن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرگ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "کشته خواهد شد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:42:25.096808055Z",
+  "model": "glm-5.2"
+}

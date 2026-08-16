@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 55,
+  "translation": "من، به اِلوهیم، صدا خواهم زد، و یاهوه مرا نجات خواهد داد.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "اِلوهیم"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "صدا خواهم زد"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "و یاهوه"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "مرا نجات خواهد داد"
+    }
+  ],
+  "timestamp": "2026-08-13T22:44:47.561325529Z",
+  "model": "glm-5.2"
+}

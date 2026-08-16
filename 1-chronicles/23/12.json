@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 23:12",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "پسرانِ قِهات، عَمرام یِتصهار حِبرون و عوزیئیل، چهار.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قِهات"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "عَمرام"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "یِتصهار"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "حِبرون"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "و عوزیئیل"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چهار"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:29.057425062Z",
+  "model": "glm-5.2"
+}

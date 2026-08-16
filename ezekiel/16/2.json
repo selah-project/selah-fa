@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "پسرِ آدم، باآگاه‌کن یروشالَییم را ⟨את⟩ زشته‌هایش را،",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "باآگاه‌کن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یروشالَییم"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشالَییم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زشته‌هایش"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "زشته‌هایش"
+    }
+  ],
+  "timestamp": "2026-08-13T22:15:03.681097893Z",
+  "model": "glm-5.2"
+}

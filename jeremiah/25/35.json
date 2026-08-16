@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 25:35",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و نابود خواهد شد گریختن از چوپانان، و رهایی از توانمایهانِ گله.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "و نابود خواهد شد"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "گریختن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "چوپانان"
+    },
+    {
+      "surface": "ופליטה",
+      "gloss": "و رهایی"
+    },
+    {
+      "surface": "מאדירי",
+      "gloss": "از توانمایهانِ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "گله"
+    }
+  ],
+  "timestamp": "2026-08-13T22:02:52.274394295Z",
+  "model": "glm-5.2"
+}

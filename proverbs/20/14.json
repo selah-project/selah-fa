@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 20:14",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "«بد است، بد است» می‌گوید خریدار، وَ آنگاه که راه خود می‌رود، آن‌گاه فخر می‌فروشد.",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "می‌گوید"
+    },
+    {
+      "surface": "הקונה",
+      "gloss": "خریدار"
+    },
+    {
+      "surface": "ואזל",
+      "gloss": "وَ می‌رود"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برای خودش"
+    },
+    {
+      "surface": "אז",
+      "gloss": "آنگاه"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "فخر می‌فروشد"
+    }
+  ],
+  "timestamp": "2026-08-14T00:14:15.838439455Z",
+  "model": "glm-5.2"
+}

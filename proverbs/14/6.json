@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 14:6",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "متمسخر حکمت را می‌جوید و نیست، و دانش برای فهیم آسان است.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "می‌جوید"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "متمسخر"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نیست"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "و دانش"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "برای فهیم"
+    },
+    {
+      "surface": "נקל",
+      "gloss": "آسان است"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:01.225428798Z",
+  "model": "glm-5.2"
+}

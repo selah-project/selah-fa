@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و نامِ رودِ دوم گیحون ⟨است⟩؛ او همان است که می‌گردد ⟨את⟩ همهٔ زمینِ کوش را.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "و نامِ"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "رودِ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دومِ"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "گیحون"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "همان است که می‌گردد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همهٔ زمینِ کوش"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینِ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "کوش"
+    }
+  ],
+  "timestamp": "2026-08-13T19:54:55.459449289Z",
+  "model": "glm-5.2"
+}

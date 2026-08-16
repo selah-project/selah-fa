@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و کِلوب برادرِ شوشَه، ⟨את⟩ مِحیر را زاد، او پدرِ اِشتون است.",
+  "tokens": [
+    {
+      "surface": "וּכְל֥וּב",
+      "gloss": "و کِلوب"
+    },
+    {
+      "surface": "אֲחִֽי",
+      "gloss": "برادرِ"
+    },
+    {
+      "surface": "שׁוּחָ֖ה",
+      "gloss": "شوشَه"
+    },
+    {
+      "surface": "הוֹלִ֣יד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "مِحیر را"
+    },
+    {
+      "surface": "מְחִ֑יר",
+      "gloss": "مِحیر"
+    },
+    {
+      "surface": "ה֖וּא",
+      "gloss": "او"
+    },
+    {
+      "surface": "אֲבִ֥י",
+      "gloss": "پدرِ"
+    },
+    {
+      "surface": "אֶשְׁתּֽוֹן",
+      "gloss": "اِشتون"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:35.554242349Z",
+  "model": "glm-5.2"
+}

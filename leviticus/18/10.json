@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 18:10",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "عریانیِ دخترِ پسرت یا دخترِ دخترت، عریانیِ آنان را برهنه نکنی، که عریانیِ تو ⟩آنها⟨ هستند.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "عریانیِ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دخترِ"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "پسرت"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دخترِ"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "دخترت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "برهنه کنی"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "عریانیِ آنان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "عریانیِ تو"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "آنها هستند"
+    }
+  ],
+  "timestamp": "2026-08-13T20:26:14.089803841Z",
+  "model": "glm-5.2"
+}

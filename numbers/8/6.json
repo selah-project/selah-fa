@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "لاویان را ⟨את⟩ از میانِ پسرانِ ییسْرائل بگیر، و ⟨את⟩ آنان را پاک کن.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "بگیر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لاویان"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاویان"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "از میانِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ییسْرائل"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "و پاک کن"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ آنان",
+      "marks": "آنان"
+    }
+  ],
+  "timestamp": "2026-08-15T03:51:36.742093391Z",
+  "model": "glm-5.3"
+}

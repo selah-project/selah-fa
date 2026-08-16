@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 19:7",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و گفت: نه، التماس می‌کنم، برادرانم، بدی نکنید.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נא",
+      "gloss": "التماس می‌کنم"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برادرانم"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "بدی کنید"
+    }
+  ],
+  "timestamp": "2026-08-13T19:59:06.612357109Z",
+  "model": "glm-5.2"
+}

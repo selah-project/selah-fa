@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 8:14",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "وَ اَحیو، شاشَق، وَ یِرِموت.",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "وَ اَحیو"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "شاشَق"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "وَ یِرِموت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:35.755724206Z",
+  "model": "glm-5.2"
+}

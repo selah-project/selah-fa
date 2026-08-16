@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 7:17",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و آنچه از گوشتِ قربانی باقی ماند، در روزِ سوم در آتش سوزانده شود.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "و آنچه باقی ماند"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "از گوشت"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "قربانی"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روز"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "سوم"
+    },
+    {
+      "surface": "באש",
+      "gloss": "در آتش"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "سوزانده شود"
+    }
+  ],
+  "timestamp": "2026-08-13T20:23:17.941503380Z",
+  "model": "glm-5.2"
+}

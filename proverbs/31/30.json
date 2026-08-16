@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "proverbs 31:30",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "فریب است زیبایی و باد است خوبی؛ زنی که از یاهوه بترسد، اوست که ستوده می‌شود.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "فریب است"
+    },
+    {
+      "surface": "החן",
+      "gloss": "زیبایی"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "و باد است"
+    },
+    {
+      "surface": "היפי",
+      "gloss": "خوبی"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زن"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ترسِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اوست"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "ستوده می‌شود"
+    }
+  ],
+  "timestamp": "2026-08-15T20:54:02.287980793Z",
+  "model": "glm-5.3+hand"
+}

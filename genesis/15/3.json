@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 15:3",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و اَوراهام گفت: «اینک به من ندهاده‌ای ذرّه‌ای! و اینک پسرِ بیتِ من وارثِ ⟨את⟩ من مى‌شود.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "اَوراهام"
+    },
+    {
+      "surface": "הן",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "לי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ندهاده‌ای"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ذرّه‌ای"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "بیتِ من"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "وارثِ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "من"
+    }
+  ],
+  "timestamp": "2026-08-13T19:58:19.729906269Z",
+  "model": "glm-5.2"
+}

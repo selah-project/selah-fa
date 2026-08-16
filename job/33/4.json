@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 33:4",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "رُخِ اِل مرا ساخت، و نَفَسِ شدّای مرا زنده می‌دارد.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "رُخِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "עשתני",
+      "gloss": "مرا ساخت"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "و نَفَسِ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّای"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "مرا زنده می‌دارد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:13:01.126638445Z",
+  "model": "glm-5.2"
+}

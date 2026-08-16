@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "و خورشید درآید و پاک شود، و آنگاه از قدس‌ها بخورد، چون نانِ اوست.",
+  "tokens": [
+    {
+      "surface": "וּבָא",
+      "gloss": "و درآید"
+    },
+    {
+      "surface": "הַשֶּׁמֶשׁ",
+      "gloss": "خورشید"
+    },
+    {
+      "surface": "וְטָהֵר",
+      "gloss": "و پاک شود"
+    },
+    {
+      "surface": "וְאַחַר",
+      "gloss": "و آنگاه"
+    },
+    {
+      "surface": "יֹאכַל",
+      "gloss": "بخورد"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הַקֳּדָשִׁים",
+      "gloss": "قدس‌ها"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "לַחְמוֹ",
+      "gloss": "نانِ اوست"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:27:53.849185291Z",
+  "model": "glm-5.2"
+}

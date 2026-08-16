@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "چون خاموش بودم، استخوان‌هایم خُرد شدند؛ با غرشِ من، تمام ⟨آن⟩ روز.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "خاموش بودم"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "خُرد شدند"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "استخوان‌هایم"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "با غرشِ من"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روز"
+    }
+  ],
+  "timestamp": "2026-08-13T22:41:57.460433686Z",
+  "model": "glm-5.2"
+}

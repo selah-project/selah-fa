@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 29:29",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "وَ لابان به راحِل، دخترِ خود، ⟨את⟩ بِلها، کنیزِ خود را، به ⟨او⟩ برای کنیز داد.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "وَ داد"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "به راحِل"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "دخترِ او"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بِلها"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "بِلها"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "کنیزِ او"
+    },
+    {
+      "surface": "לה",
+      "gloss": "برای او"
+    },
+    {
+      "surface": "לשפחה",
+      "gloss": "برای کنیز"
+    }
+  ],
+  "timestamp": "2026-08-13T23:53:17.117278465Z",
+  "model": "glm-5.2"
+}

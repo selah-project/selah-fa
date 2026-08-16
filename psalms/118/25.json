@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 118,
+  "translation": "ای یاهوه، اکنون نجات ده! ای یاهوه، اکنون روانی بیاور!",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "ای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "نجات ده"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اکنون"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "ای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "روانی بیاور"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اکنون"
+    }
+  ],
+  "timestamp": "2026-08-13T22:54:49.017730931Z",
+  "model": "glm-5.2"
+}

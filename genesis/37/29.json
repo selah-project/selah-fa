@@ -1,0 +1,58 @@
+{
+  "tier": "4.6",
+  "verse": 29,
+  "ref": "genesis 37:29",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "و بازگشت رئوبن به چاه و، اینک، یوسف ⟨نیست⟩ در چاه و پاره کرد ⟨את⟩ لباس‌هایش",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "و بازگشت"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئوبن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "چاه"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و، اینک،"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "در چاه"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "و پاره کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لباس‌هایش"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "لباس‌هایش"
+    }
+  ],
+  "timestamp": "2026-08-15T03:41:12.309655253Z",
+  "model": "glm-4.6"
+}

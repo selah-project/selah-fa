@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و ⟨את⟩ پلیکان و ⟨את⟩ کرکس‌مردارخوار و ⟨את⟩ باکلان،",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "و پلیکان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "کرکس‌مردارخوار"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "کرکس‌مردارخوار"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "باکلان"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "باکلان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:46:59.241523955Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "آیا ننوشته‌ام برای تو سه‌بار، در مشورت‌ها و دانش؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "آیا ن"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "نوشته‌ام"
+    },
+    {
+      "surface": "لך",
+      "gloss": "برای تو"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "سه‌بار"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "در مشورت‌ها"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "و دانش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:56.392025493Z",
+  "model": "glm-5.2"
+}

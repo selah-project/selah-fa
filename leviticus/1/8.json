@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و پسرانِ اهرُن، کاهنان، ⟨את⟩ تکه‌ها را، ⟨את⟩ سر را، و ⟨את⟩ پیه را، بر هیزمی که بر آتش است که بر مذبح است، بچینند.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "و بچینند"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهرُن"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهنان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تکه‌ها"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "تکه‌ها"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سر"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "پیه"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "پیه"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "هیزم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "האש",
+      "gloss": "آتش"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مذبح"
+    }
+  ],
+  "timestamp": "2026-08-13T20:22:08.398748517Z",
+  "model": "glm-5.2"
+}

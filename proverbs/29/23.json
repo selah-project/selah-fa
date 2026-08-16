@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 29:23",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "غرورِ آدم ⟨او را⟩ پست می‌کند، و ⟨کسی که⟩ فروتنِ روح است، شکوه را نگه می‌دارد.",
+  "tokens": [
+    {
+      "surface": "גאות",
+      "gloss": "غرورِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "תשפילנו",
+      "gloss": "پست می‌کند"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "و فروتنِ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "نگه می‌دارد"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شکوه را"
+    }
+  ],
+  "timestamp": "2026-08-14T00:14:57.474185579Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 16:15",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "گونی بر پوستم دوختم، و شاخِ مرا در خاک می‌غلتانم.",
+  "tokens": [
+    {
+      "surface": "שק",
+      "gloss": "گونی"
+    },
+    {
+      "surface": "תפרתי",
+      "gloss": "دوختم"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بر"
+    },
+    {
+      "surface": "גלדי",
+      "gloss": "پوستم"
+    },
+    {
+      "surface": "ועללתי",
+      "gloss": "و می‌غلتانم"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "در خاک"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "شاخِ مرا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:09:49.279623550Z",
+  "model": "glm-5.2"
+}

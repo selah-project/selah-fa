@@ -1,0 +1,65 @@
+{
+  "ref": "joshua 3:12",
+  "lang": "fa",
+  "book": "joshua",
+  "chapter": 3,
+  "verse": 12,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:46:46Z",
+  "translation": "و اکنون برای خود دوازده مرد از قبیله‌های یسرائیل بگیرید، یک مرد—یک مرد برای ⟨هر⟩ قبیله.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و اکنون"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "بگیرید"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "برای خود"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دَه"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "משבטי",
+      "gloss": "از قبیله‌های"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یک مرد"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یک مرد"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "برای ⟨هر⟩ قبیله"
+    }
+  ]
+}

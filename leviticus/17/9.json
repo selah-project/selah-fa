@@ -1,0 +1,66 @@
+{
+  "tier": "hand",
+  "verse": 9,
+  "ref": "leviticus 17:9",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "و به درگاهِ خیمهٔ موعد آن را نیاورد، تا ⟨את⟩-آن را ⟨برای⟩ یاهوه بسازد؛ آن مرد از قومش منقطع شود.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "و به"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "درگاهِ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمهٔ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "موعد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "آن را بیاورد"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "تا بسازد"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-آن",
+      "marks": "آن (قربانی، به‌سوی یاهوه)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨برای⟩ یاهوه"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "و منقطع شود"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "آن مرد"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "همان"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "از قومش"
+    }
+  ],
+  "timestamp": "2026-08-14T17:46:57Z",
+  "model": "claude-fable-5/hand"
+}

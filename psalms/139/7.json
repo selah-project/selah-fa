@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 139,
+  "translation": "کجا بروم از روحِ تو؟ و کجا از حضورِ تو بگریزم؟",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "کجا"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "بروم"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "از روحِ تو"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "و کجا"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "از حضورِ تو"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "بگریزم"
+    }
+  ],
+  "timestamp": "2026-08-13T22:57:39.977622289Z",
+  "model": "glm-5.2"
+}

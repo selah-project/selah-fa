@@ -1,0 +1,62 @@
+{
+  "ref": "1-kings 21:3",
+  "lang": "fa",
+  "book": "1-kings",
+  "chapter": 21,
+  "verse": 3,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:47:37Z",
+  "translation": "و ناوُت به اَخآب گفت: «حاشا بر من از یاهوه، که ⟨את⟩ میراثِ پدرانم را به تو بدهم.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "ناوُت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "اَخآب"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "حاشا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "از یاهوه"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "که بدهم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میراث"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "میراثِ"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "پدرانم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "به تو"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "بردگانی را بر اسب‌ها دیدم، و وزیرانی چون بردگان بر زمین راه می‌روند.",
+  "tokens": [
+    {
+      "surface": "רָאִ֥יתִי",
+      "gloss": "دیدم"
+    },
+    {
+      "surface": "עֲבָדִ֖ים",
+      "gloss": "بردگانی"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "סוּסִ֑ים",
+      "gloss": "اسب‌ها"
+    },
+    {
+      "surface": "וְשָׂרִ֛ים",
+      "gloss": "و وزیران"
+    },
+    {
+      "surface": "הֹלְכִ֥ים",
+      "gloss": "راه می‌روند"
+    },
+    {
+      "surface": "כַּעֲבָדִ֖ים",
+      "gloss": "چون بردگان"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:51.383428715Z",
+  "model": "glm-5.2"
+}

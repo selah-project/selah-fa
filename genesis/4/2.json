@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و افزود بر زاییدن ⟨את⟩ برادرِ او، ⟨את⟩ هِبِل؛ و هِبِل چوپانِ گله بود، و قایین کشاورزِ خاک بود.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "و‌افزود"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "بر‌زاییدن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "برادرِ او"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برادرِ‌او"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هِبِل"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هِبِل"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و‌بود"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هِبِل"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "چوپان"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "گله"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "و‌قایین"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "کشاورز"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "خاک"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:55.514452262Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 90,
+  "translation": "دعای موشه، مردِ الوهیم. اَدونای، پناهگاهِ ⟨او⟩ تو بوده‌ای برای ما، در نسلی و نسلی.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "دعا"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "برای موشه"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردِ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "پناهگاه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "היית",
+      "gloss": "بوده‌ای"
+    },
+    {
+      "surface": "לנو",
+      "gloss": "برای ما"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "در نسلی"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "و نسلی"
+    }
+  ],
+  "timestamp": "2026-08-15T04:25:36.090835641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "بر دلِ بعلِ او تکیه کرده است، و از غنیمت بی‌بهره نخواهد ماند.",
+  "tokens": [
+    {
+      "surface": "בָּ֣טַח",
+      "gloss": "اعتماد کرد"
+    },
+    {
+      "surface": "בָּ֭הּ",
+      "gloss": "به او"
+    },
+    {
+      "surface": "לֵ֣ב",
+      "gloss": "دلِ"
+    },
+    {
+      "surface": "בַּעְלָ֑הּ",
+      "gloss": "بعلِ او"
+    },
+    {
+      "surface": "וְ֝שָׁלָ֗ל",
+      "gloss": "و غنیمت"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יֶחְסָֽר",
+      "gloss": "کم خواهد شد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:06:25.064787695Z",
+  "model": "glm-5.2"
+}

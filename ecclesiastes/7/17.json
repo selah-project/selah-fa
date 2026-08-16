@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "بسیار بدی مکن و احمق مباش؛ چرا بمیری نه در وقتِ تو؟",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مکن"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "بدی کنی"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و مباش"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "باشی"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "احمق"
+    },
+    {
+      "surface": "למה",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "بمیری"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "نه در"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "وقتِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:08.468260305Z",
+  "model": "glm-5.2"
+}

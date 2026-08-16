@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 30:22",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "و الوهیم به راشِل یاد کرد، و الوهیم صدای ⟨את⟩ او را شنید، و ⟨את⟩ رَحِمِ او را گشود.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "و یاد کرد"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "راشِل"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راشِل"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "و شنید"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "به او"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "و گشود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رَحِمِ او"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "رَحِمِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:02:09.950716457Z",
+  "model": "glm-5.2"
+}

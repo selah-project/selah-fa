@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "وگفت یکی: بفرما نئے، برو ⟨את⟩ با بنده‌هات. گفت: من می‌روم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وگفت"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "بفرما"
+    },
+    {
+      "surface": "נא",
+      "gloss": "نئے"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "برو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ با",
+      "marks": "بنده‌هات"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "بنده‌هات"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "می‌روم"
+    }
+  ],
+  "timestamp": "2026-08-15T04:05:37.535126100Z",
+  "model": "glm-5.3"
+}

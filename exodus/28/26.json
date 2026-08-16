@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 28:26",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "و دو حلقهٔ زرین بسازی، و آن‌ها را بر دو سرِ چوشن، بر لبهٔ آن که به سویِ پهلویِ اِفود است، درون خواهی نهاد.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "و بسازی"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "حلقه"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زرین"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "و خواهی نهاد"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ آن‌ها",
+      "marks": "حلقه‌ها"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "سرِ"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "چوشن"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "لبهٔ آن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "سویِ"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "اِفود"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "درون"
+    }
+  ],
+  "timestamp": "2026-08-13T20:18:04.134778202Z",
+  "model": "glm-5.2"
+}

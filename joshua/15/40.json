@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "joshua 15:40",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و کَبّون، و لَحماص، و کِتْلیش،",
+  "tokens": [
+    {
+      "surface": "וְכַבּ֥וֹן",
+      "gloss": "و کَبّون"
+    },
+    {
+      "surface": "וְלַחְמָ֖ס",
+      "gloss": "و لَحماص"
+    },
+    {
+      "surface": "וְכִתְלִֽישׁ",
+      "gloss": "و کِتْلیش"
+    }
+  ],
+  "timestamp": "2026-08-13T20:57:57.667547649Z",
+  "model": "glm-5.2"
+}

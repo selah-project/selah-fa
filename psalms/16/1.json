@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "نگاره‌ای از داوود. مرا نگهبان، ای اِل، زیرا به تو پناه آورده‌ام.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "نگاره"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "از داوود"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "مرا نگهبان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ای اِل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "پناه آورده‌ام"
+    },
+    {
+      "surface": "בך",
+      "gloss": "به تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:38:56.375855476Z",
+  "model": "glm-5.2"
+}

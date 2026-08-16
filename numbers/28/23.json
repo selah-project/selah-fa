@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "به‌جز عالیِ صبحگاهی که برای عالیِ همیشگی است، این‌ها را ⟨את⟩ بکنید.",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "به‌جزِ"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "عالیِ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "صبحگاهی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "برای عالیِ"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "همیشگی"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "بکنید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "این‌ها"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T20:39:56.719732515Z",
+  "model": "glm-5.2"
+}

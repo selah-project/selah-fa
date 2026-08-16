@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 107:25",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 107,
+  "translation": "و ⟨او⟩ گفت و بادِ توفانی را برپا داشت، و موج‌هایش را برافراشت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "و برپا داشت"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "باد"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "توفانی"
+    },
+    {
+      "surface": "ותרומם",
+      "gloss": "و برافراشت"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "موج‌هایش"
+    }
+  ],
+  "timestamp": "2026-08-13T22:53:29.907092761Z",
+  "model": "glm-5.2"
+}

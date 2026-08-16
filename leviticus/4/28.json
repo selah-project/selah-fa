@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 4:28",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "یا آشکار شود به او گناهش که گناه کرده، و بیاورد هدیه‌اش بزغالهٔ مادهٔ بی‌نقص، بر گناهِ او که گناه کرده.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "آشکار شود"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "گناهِ او"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گناه کرده"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "و بیاورد"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "هدیهٔ او"
+    },
+    {
+      "surface": "שעירת",
+      "gloss": "بزغالهٔ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بز"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "بی‌نقص"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ماده"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "گناهِ او"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گناه کرده"
+    }
+  ],
+  "timestamp": "2026-08-13T20:22:49.276233839Z",
+  "model": "glm-5.2"
+}

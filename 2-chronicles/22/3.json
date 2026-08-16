@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 22:3",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "او نیز در راه‌هایِ خاندانِ اَخْآو رفت، زیرا مادرِش مشاورِ او بود تا به شرارت وامی‌داشت.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "نیز"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "رفت"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "در راه‌هایِ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خاندانِ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "اَخْآو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "مادرِش"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "יועצתו",
+      "gloss": "مشاورِ او"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "تا به شرارت وامی‌داشت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:48:38.915441412Z",
+  "model": "glm-5.2"
+}

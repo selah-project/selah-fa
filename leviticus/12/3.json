@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و در روز هشتم، ختنه شود گوشتِ پیش‌پوستۀ او.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "و در روز"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "هشتم"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "ختنه شود"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشتِ"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "پیش‌پوستۀ او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:55:43.950394086Z",
+  "model": "glm-5.2"
+}

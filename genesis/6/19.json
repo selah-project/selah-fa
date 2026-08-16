@@ -1,0 +1,69 @@
+{
+  "tier": "4.6",
+  "verse": 19,
+  "ref": "genesis 6:19",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و از همه زنده از همه گوشت دو از همه آوردی به سوی کشتی برای زنده داشتن ⟨את⟩ با تو نر و ماده باشند",
+  "tokens": [
+    {
+      "surface": "ומכל",
+      "gloss": "و از همه"
+    },
+    {
+      "surface": "החי",
+      "gloss": "زنده"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "از همه"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "از همه"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "آوردی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "کشتی"
+    },
+    {
+      "surface": "להחית",
+      "gloss": "برای زنده داشتن"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ با تو"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "و ماده"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "باشند"
+    }
+  ],
+  "timestamp": "2026-08-15T03:29:43.030175588Z",
+  "model": "glm-4.6"
+}

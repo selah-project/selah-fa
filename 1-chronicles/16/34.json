@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 34,
+  "ref": "1-chronicles 16:34",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "به یاهوه سپاس گویید، که نیکوست، که مهرِ او تا ابد ⟨می‌ماند⟩.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "سپاس گویید"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "به یاهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیکوست"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "تا ابد"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "مهرِ او"
+    }
+  ],
+  "timestamp": "2026-08-15T04:34:03.686374183Z",
+  "model": "glm-5.3"
+}

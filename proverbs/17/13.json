@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "بازگردانندهٔ بدی به جای نیکی، بدی از خانهٔ او کنده نخواهد شد.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "بازگردانندهٔ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "به جای"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "نیکی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "کنده خواهد شد"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "از خانهٔ او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:48.527115376Z",
+  "model": "glm-5.2"
+}

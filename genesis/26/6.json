@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 26:6",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "و ییتسحاق در گْرار ساکن شد.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "و ساکن شد"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ییتسحاق"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "در گْرار"
+    }
+  ],
+  "timestamp": "2026-08-13T20:01:50.318025458Z",
+  "model": "glm-5.2"
+}

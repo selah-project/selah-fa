@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 90:13",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 90,
+  "translation": "بازگرد، ای یاهوه، تا کی؟ و بر بندگانت ⟨آن‌چه⟩ تغیّر پذیرد.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "بازگرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ای یاهوه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "והנחם",
+      "gloss": "و تغیّر پذیرد"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "بندگانت"
+    }
+  ],
+  "timestamp": "2026-08-13T22:51:14.765532701Z",
+  "model": "glm-5.2"
+}

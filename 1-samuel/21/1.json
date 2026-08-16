@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و ⟨او⟩ برخاست و رفت، و یِهوناتان به شهر آمد.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "و برخاست"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "و رفت"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "و یِهوناتان"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آمد"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "به شهر"
+    }
+  ],
+  "timestamp": "2026-08-13T21:13:52.798228740Z",
+  "model": "glm-5.2"
+}

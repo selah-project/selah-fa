@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "به دور شوید از من، همهٔ کنندگانِ بی‌ارزشی، زیرا یاهوه صدای گریهٔ مرا شنیده است.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "به دور شوید"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "از من"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "کنندگانِ"
+    },
+    {
+      "surface": "און",
+      "gloss": "بی‌ارزشی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "شنیده است"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صدای"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "گریهٔ مرا"
+    }
+  ],
+  "timestamp": "2026-08-13T22:37:10.039578272Z",
+  "model": "glm-5.2"
+}

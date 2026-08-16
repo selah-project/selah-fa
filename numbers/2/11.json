@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و لشکرش و پسرده‌شدگانش شش و چهل هزار و پانصد.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "و لشکرش"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "و پسرده‌شدگانش"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "شش"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "و چهل"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "و پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:31:11.218443798Z",
+  "model": "glm-5.2"
+}

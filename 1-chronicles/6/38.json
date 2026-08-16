@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 6:38",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "تسادوق، پسرِ او؛ اَحیماعتس، پسرِ او.",
+  "tokens": [
+    {
+      "surface": "צָד֥וֹק",
+      "gloss": "تسادوق"
+    },
+    {
+      "surface": "בְּנ֖וֹ",
+      "gloss": "پسرِ او"
+    },
+    {
+      "surface": "אֲחִימַ֥עַץ",
+      "gloss": "اَحیماعتس"
+    },
+    {
+      "surface": "בְּנֽוֹ",
+      "gloss": "پسرِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:11.632420958Z",
+  "model": "glm-5.2"
+}

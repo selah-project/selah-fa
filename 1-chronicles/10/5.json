@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و دید ناقلِ ادواتِ او که مرده است شائول، و افتاد نیز او بر شمشیر و مرد.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "و دید"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ناقلِ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ادواتِ او"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مرده است"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "و افتاد"
+    },
+    {
+      "surface": "גם",
+      "gloss": "نیز"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "شمشیر"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:38:27.958267339Z",
+  "model": "glm-5.2"
+}

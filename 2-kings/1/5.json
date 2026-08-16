@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 1:5",
+  "book": "2-kings",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و فرستادگان نزد او بازگشتند و به آنان گفت: چرا بازگشتید؟",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "و بازگشتند"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "فرستادگان"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "نزد او"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "به آنان"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "بازگشتید"
+    }
+  ],
+  "timestamp": "2026-08-13T21:32:47.261938393Z",
+  "model": "glm-5.2"
+}

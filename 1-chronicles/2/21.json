@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 2:21",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و بعدآمد خترون به سوی دختر ماکیر، پدر گیلعاد، و او او را گرفت، و او پشتی شصت سال بود، و برایش زایید ⟨את⟩ سگوب را.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "و بعد"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آمد"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "خترون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دختر"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "ماکیر"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پدر"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گیلعاد"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "و او"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "او را گرفت"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "و او"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "شصت"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "و زایید"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برایش"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سگوب"
+    },
+    {
+      "surface": "שגוב",
+      "gloss": "سگوب"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:37.844578343Z",
+  "model": "glm-5.2"
+}

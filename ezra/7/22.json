@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 7:22",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "تا صد تالان نقره، و صد کُر گندم، و صد بَت شراب، و صد بَت روغن، و نمک بی‌آن‌که نوشته شود.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "نقره"
+    },
+    {
+      "surface": "ככרין",
+      "gloss": "تالان"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "صد"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "חנטין",
+      "gloss": "گندم"
+    },
+    {
+      "surface": "כרין",
+      "gloss": "کُر"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "صد"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "בתין",
+      "gloss": "بَت"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "صد"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "בתין",
+      "gloss": "بَت"
+    },
+    {
+      "surface": "משח",
+      "gloss": "روغن"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "صد"
+    },
+    {
+      "surface": "ומלח",
+      "gloss": "و نمک"
+    },
+    {
+      "surface": "די",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "نوشته"
+    }
+  ],
+  "timestamp": "2026-08-13T23:30:56.296565109Z",
+  "model": "glm-5.2"
+}

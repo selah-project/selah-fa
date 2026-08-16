@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 41,
+  "translation": "و بود در روزِ دومِ بمیراندنِ ⟨את⟩ گَدَلْیا، و هیچ‌کس نمی‌دانست.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دومِ"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "بمیراندنِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گَدَلْیا"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "گَدَلْیا"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "و هیچ‌کس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "می‌دانست"
+    }
+  ],
+  "timestamp": "2026-08-13T22:07:46.555648586Z",
+  "model": "glm-5.2"
+}

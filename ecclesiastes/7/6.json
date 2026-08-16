@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "چون مانند صدای خارها ⟨که⟩ زیرِ دیگ‌اند، چنین خندهٔ نادان ⟨است⟩؛ و این نیز هَبَل است.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "مانند صدای"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "خارها"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "زیرِ"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "دیگ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "خندهٔ"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "و"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هَبَل"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:38.998877979Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و شموئیل ⟨את⟩ قوم را نزد یاهوه در هامِتسپا فراخواند.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "و فراخواند"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئیل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نزد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "در هامِتسپا"
+    }
+  ],
+  "timestamp": "2026-08-13T21:10:03.029197773Z",
+  "model": "glm-5.2"
+}

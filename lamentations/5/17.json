@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 5:17",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "به سببِ این دلِ ما بیمار ⟨است⟩؛ به سببِ این‌ها چشم‌های ما تاریک شدند.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "به سببِ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "بیمار"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "دلِ ما"
+    },
+    {
+      "surface": "על",
+      "gloss": "به سببِ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "تاریک شدند"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "چشم‌های ما"
+    }
+  ],
+  "timestamp": "2026-08-13T23:19:31.644164038Z",
+  "model": "glm-5.2"
+}

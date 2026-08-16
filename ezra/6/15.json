@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 6:15",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و این خانه تا روز سوم ماه آذار تکمیل شد، که ⟨این⟩ سال ششم پادشاهی دارْیاوُش شاه بود.",
+  "tokens": [
+    {
+      "surface": "ושיציא",
+      "gloss": "و تکمیل شد"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "خانه"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "این"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "תלתה",
+      "gloss": "سوم"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "ماه"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "آذار"
+    },
+    {
+      "surface": "די",
+      "gloss": "که"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨این⟩"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "سال"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ششم"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "پادشاهی"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "دارْیاوُش"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "شاه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:29:53.132354521Z",
+  "model": "glm-5.2"
+}

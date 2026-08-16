@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 89,
+  "translation": "او مرا صدا خواهد زد: پدرِ من، ⟨تو⟩ اِلِ من، و صخرهٔ رستگاریِ من!",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "مرا صدا خواهد زد"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پدرِ من"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨تو⟩"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "اِلِ من"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "و صخرهٔ"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "رستگاریِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T22:50:19.343380280Z",
+  "model": "glm-5.2"
+}

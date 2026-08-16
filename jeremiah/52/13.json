@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 52:13",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 52,
+  "translation": "و ⟨את⟩ بیت یاهوه و ⟨את⟩ بیت پادشاه را به آتش سوزاند، و ⟨את⟩ همهٔ بیت‌های یروشلَییم و ⟨את⟩ همهٔ بیت بزرگ را در آتش سوزاند.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "و سوزاند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بیت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "بیت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "همه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "بیت‌های"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلَییم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "همه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "سوزاند"
+    },
+    {
+      "surface": "באש",
+      "gloss": "در آتش"
+    }
+  ],
+  "timestamp": "2026-08-13T22:11:53.711355653Z",
+  "model": "glm-5.2"
+}

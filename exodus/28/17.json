@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 28:17",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "و پر کنی در آن ترصیعِ سنگ، چهار ردیف سنگ: ردیفِ اُدُم، پیتدا و بَرِقَت — ردیفِ یکم.",
+  "tokens": [
+    {
+      "surface": "ומלאת",
+      "gloss": "و پر کنی"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در آن"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "ترصیع"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "سنگ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "ردیف‌ها"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "سنگ"
+    },
+    {
+      "surface": "טור",
+      "gloss": "ردیف"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "اُدُم"
+    },
+    {
+      "surface": "פטדה",
+      "gloss": "پیتدا"
+    },
+    {
+      "surface": "וברקת",
+      "gloss": "و بَرِقَت"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "ردیف"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یکم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:17:15.035152684Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "نفسِ مرا نگاهبان باش و برسانم؛ مبادا خجل شوم، که به تو پناه برده‌ام.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "نگهبانِ … باش"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نفسِ مرا"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "و برسانم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مبادا"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "خجل شوم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "پناه برده‌ام"
+    },
+    {
+      "surface": "בך",
+      "gloss": "به تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:40:24.737451002Z",
+  "model": "glm-5.2"
+}

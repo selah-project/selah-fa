@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "jeremiah 51:63",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 51,
+  "translation": "و چون تمام کنی خواندنِ ⟨את⟩ این کتاب را، سنگی بر او ببند و او را به میانِ فْرات افکن.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و خواهد بود"
+    },
+    {
+      "surface": "ככלתך",
+      "gloss": "چون تمام کنی تو"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "خواندنِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "این کتاب"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "کتاب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "תקשר",
+      "gloss": "ببند"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر او"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "سنگی"
+    },
+    {
+      "surface": "והשלכתו",
+      "gloss": "و افکنی او را"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "میانِ"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "فْرات"
+    }
+  ],
+  "timestamp": "2026-08-13T22:11:16.659865208Z",
+  "model": "glm-5.2"
+}

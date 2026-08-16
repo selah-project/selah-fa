@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و بر سنگ‌ها، ⟨את⟩ تمامِ سخنانِ این تورا را، به‌خوبی روشن کنی.»",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "و بنویسی"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "سنگ‌ها"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تمامِ سخنانِ این تورا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "سخنانِ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "این تورا"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": ""
+    },
+    {
+      "surface": "באר",
+      "gloss": "روشن کنی"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "به‌خوبی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:50:39.547681323Z",
+  "model": "glm-5.2"
+}

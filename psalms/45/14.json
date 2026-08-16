@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 45:14",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 45,
+  "translation": "تمامِ شکوه ⟨است⟩ دخترِ پادشاه؛ درون، از قلاده‌های طلا لباسِ ⟨او⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "כבודה",
+      "gloss": "شکوه"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دخترِ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "درون"
+    },
+    {
+      "surface": "ממשבצות",
+      "gloss": "از قلاده‌های"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "طلا"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "لباسِ"
+    }
+  ],
+  "timestamp": "2026-08-13T22:43:55.371221347Z",
+  "model": "glm-5.2"
+}

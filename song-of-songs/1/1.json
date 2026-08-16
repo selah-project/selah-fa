@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "سرودِ سرودها، آنکه ⟨از⟩ شُلوموه است.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "سرودِ"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "سرودها"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنکه"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "⟨از⟩ شُلوموه است"
+    }
+  ],
+  "timestamp": "2026-08-13T23:15:30.693024328Z",
+  "model": "glm-5.2"
+}

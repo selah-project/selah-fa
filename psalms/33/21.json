@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "زیرا در او دل ما شاد می‌شود، زیرا به نام قدوسِ او توکل کرده‌ایم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در او"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "شاد می‌شود"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "دل ما"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "به نام"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "قدوسِ او"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "توکل کرده‌ایم"
+    }
+  ],
+  "timestamp": "2026-08-15T04:22:55.221357543Z",
+  "model": "glm-5.3"
+}

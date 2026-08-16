@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 7:23",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "زنجیر بساز، زیرا زمین پر است از دادِ خون‌ها، و شهر پر است از خشونت.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "بساز"
+    },
+    {
+      "surface": "הרתוק",
+      "gloss": "زنجیر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "پر است"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "از دادِ"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "خون‌ها"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "و شهر"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "پر است"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "از خشونت"
+    }
+  ],
+  "timestamp": "2026-08-13T22:12:32.099124475Z",
+  "model": "glm-5.2"
+}

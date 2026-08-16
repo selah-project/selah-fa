@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "2-samuel 23:25",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "شَمّاه الحَرودی، اِلیقا الحَرودی،",
+  "tokens": [
+    {
+      "surface": "שַׁמָּה",
+      "gloss": "شَمّاه"
+    },
+    {
+      "surface": "הַֽחֲרֹדִי",
+      "gloss": "الحَرودی"
+    },
+    {
+      "surface": "אֱלִיקָא",
+      "gloss": "اِلیقا"
+    },
+    {
+      "surface": "הַחֲרֹדִי",
+      "gloss": "الحَرودی"
+    }
+  ],
+  "timestamp": "2026-08-15T04:02:24.236969161Z",
+  "model": "glm-5.3"
+}

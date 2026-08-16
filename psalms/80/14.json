@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 80,
+  "translation": "گرازِ جنگل آن را ویران می‌کند، و زیوزِ صحرا آن را می‌چَراند.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "ویرانش می‌کند"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "گراز"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "از جنگل"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "و زیوز"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "صحرا"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "می‌چراندش"
+    }
+  ],
+  "timestamp": "2026-08-13T22:49:09.878692797Z",
+  "model": "glm-5.2"
+}

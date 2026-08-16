@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "دیدم ⟨את⟩ همهٔ زندگانِ آنان که زیر خورشید راه می‌روند، با کودکِ دوم که جایگزین او می‌ایستد.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "دیدم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همهٔ زندگان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "زندگانِ"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "راه‌روندگان"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "زیر"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "خورشید"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "کودکِ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "می‌ایستد"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "جایگزین او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:05.109099166Z",
+  "model": "glm-5.2"
+}

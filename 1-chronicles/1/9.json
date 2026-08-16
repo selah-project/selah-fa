@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 1:9",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و پسرانِ کوش: سَبا و حَویله و سَبتا و رَعما و سَبتخا؛ و پسرانِ رَعما: شِبا و دَدان.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "کوش"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "سَبا"
+    },
+    {
+      "surface": "וחוילה",
+      "gloss": "و حَویله"
+    },
+    {
+      "surface": "וסבתא",
+      "gloss": "و سَبتا"
+    },
+    {
+      "surface": "ורעמא",
+      "gloss": "و رَعما"
+    },
+    {
+      "surface": "וסבתכא",
+      "gloss": "و سَبتخا"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "רעמא",
+      "gloss": "رَعما"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شِبا"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "و دَدان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:00.995715476Z",
+  "model": "glm-5.2"
+}

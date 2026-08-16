@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "اگر نقره قرض دهی، ⟨את⟩ قومِ مرا، ⟨את⟩ فقیرِ که با توست، نباشی به او چون طلبکار؛ نه بگذارید بر او بهره.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "نقره"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "قرض دهی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قومِ مرا"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "قومِ مرا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فقیرِ"
+    },
+    {
+      "surface": "העני",
+      "gloss": "فقیرِ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "که با توست"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "باشی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "چون طلبکار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "بگذارید"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر او"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "بهره"
+    }
+  ],
+  "timestamp": "2026-08-13T20:15:40.497309191Z",
+  "model": "glm-5.2"
+}

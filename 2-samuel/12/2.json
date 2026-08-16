@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 12:2",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "به ثروتمند گله‌ای و رمه‌ای بسیار فراوان بود.",
+  "tokens": [
+    {
+      "surface": "לְעָשִׁ֗יר",
+      "gloss": "به ثروتمند"
+    },
+    {
+      "surface": "הָיָ֛ה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "צֹ֥אן",
+      "gloss": "گله"
+    },
+    {
+      "surface": "וּבָקָ֖ר",
+      "gloss": "و رمه"
+    },
+    {
+      "surface": "הַרְבֵּ֥ה",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "מְאֹֽד",
+      "gloss": "فراوان"
+    }
+  ],
+  "timestamp": "2026-08-13T21:19:56.274473136Z",
+  "model": "glm-5.2"
+}

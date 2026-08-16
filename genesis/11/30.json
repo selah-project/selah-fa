@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و سارای نابارور بود، فرزندی برای او نبود.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "و ⟨بود⟩"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سارای"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "نابارور"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نبود"
+    },
+    {
+      "surface": "לה",
+      "gloss": "برای او"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "فرزندی"
+    }
+  ],
+  "timestamp": "2026-08-13T19:58:08.914306139Z",
+  "model": "glm-5.2"
+}

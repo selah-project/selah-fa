@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "1-chronicles 15:9",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "از پسرانِ حِورُون: اِلی‌اِیل رئیس، و برادرانش هشتاد.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "از پسرانِ"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "حِورُون"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "اِلی‌اِیل"
+    },
+    {
+      "surface": "השר",
+      "gloss": "رئیس"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "و برادرانش"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "هشتاد"
+    }
+  ],
+  "timestamp": "2026-08-15T20:54:28.262282228Z",
+  "model": "glm-5.3"
+}

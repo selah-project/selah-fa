@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 29:16",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و برای لابان دو دختر بودند؛ نامِ بزرگ‌تر لِئه، و نامِ کوچک‌تر راحِل.",
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "و برای لابان"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "دختر"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نامِ"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "بزرگ‌تر"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لِئه"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "و نامِ"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "کوچک‌تر"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحِل"
+    }
+  ],
+  "timestamp": "2026-08-13T20:02:21.387102881Z",
+  "model": "glm-5.2"
+}

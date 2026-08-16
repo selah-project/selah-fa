@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 24:5",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و گفت به او غلام: شاید نخواهد زن آمدن به دنبالِ من به این زمین؛ آیا بازگردانم ⟨את⟩ پسرِ تو به زمینی که از آنجا بیرون آمدی؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "شاید"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "خواهد"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "زن"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "آمدن"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "به دنبالِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "ההשב",
+      "gloss": "آیا بازگردانم"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "بازگردانم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پسرِ تو"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "پسرِ تو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "بیرون آمدی"
+    },
+    {
+      "surface": "משם",
+      "gloss": "از آنجا"
+    }
+  ],
+  "timestamp": "2026-08-13T20:00:42.423694076Z",
+  "model": "glm-5.2"
+}

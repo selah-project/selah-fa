@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 78,
+  "translation": "نانِ توانمندان خورد ⟨هر⟩ مرد؛ خوراک فرستاد بر آنان تا سیری.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "نانِ"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "توانمندان"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "خورد"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "خوراک"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "فرستاد"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بر آنان"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "تا سیری"
+    }
+  ],
+  "timestamp": "2026-08-13T22:48:15.604996393Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 3:37",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و دانست همهٔ قوم و همهٔ یِسرائیل در روزِ آن که از پادشاه نبود ⟨את⟩ آونِرِ پسرِ نِر را به کشتن.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "و دانست"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و همهٔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "מהמלך",
+      "gloss": "از پادشاه"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "به کشتن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آونِرِ پسرِ نِر"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "آونِر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "נר",
+      "gloss": "نِر"
+    }
+  ],
+  "timestamp": "2026-08-13T21:17:01.598940589Z",
+  "model": "glm-5.2"
+}

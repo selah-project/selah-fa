@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "زیرا راست است سخن یاهوه، و تمامِ کارِ او در وفاداری.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "راست"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و تمامِ"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "کارِ او"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "در وفاداری"
+    }
+  ],
+  "timestamp": "2026-08-13T22:41:40.270001321Z",
+  "model": "glm-5.2"
+}

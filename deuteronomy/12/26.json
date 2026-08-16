@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 12:26",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "تنها مقدساتت که برای تو باشند و نذرهایت را بردار و به جایگاهی که یاهوه برگزیند بیا.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "تنها"
+    },
+    {
+      "surface": "קדשיך",
+      "gloss": "مقدساتت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "باشند"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برای تو"
+    },
+    {
+      "surface": "ונדריך",
+      "gloss": "و نذرهایت"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "بردار"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "و بیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "جایگاه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "برگزیند"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:47:45.443383345Z",
+  "model": "glm-5.2"
+}

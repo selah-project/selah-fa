@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و عزریاه ⟨את⟩ سرایاه را زاد، و سرایاه ⟨את⟩ یهوتساداک را زاد.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "و عزریاه"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سرایاه"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "سرایاه"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "و سرایاه"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یهوتساداک"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "یهوتساداک"
+    }
+  ],
+  "timestamp": "2026-08-15T04:33:37.015054914Z",
+  "model": "glm-5.3"
+}

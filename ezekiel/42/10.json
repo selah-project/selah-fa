@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 42,
+  "translation": "در پهنایِ دیوارِ حیاط، راهِ سویِ خاور، به رویِ گزینه و به رویِ بنا — لَشکّات.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "در پهنایِ"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "دیوارِ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "حیاط"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راهِ"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "سویِ خاور"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رویِ"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "گزینه"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و به"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رویِ"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "بنا"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "لَشکّات"
+    }
+  ],
+  "timestamp": "2026-08-13T22:22:49.847037433Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 9:30",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و از پسرانِ کوهَنیم، عطّارهایِ مخلوطِ عطری برایِ بُسُم‌ها بودند.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "و از"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کوهَنیم"
+    },
+    {
+      "surface": "רקחי",
+      "gloss": "عطّارهایِ"
+    },
+    {
+      "surface": "המרקחת",
+      "gloss": "مخلوطِ عطری"
+    },
+    {
+      "surface": "לבשמים",
+      "gloss": "برایِ بُسُم‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T23:38:07.156602833Z",
+  "model": "glm-5.2"
+}

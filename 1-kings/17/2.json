@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 17:2",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "و بود سخنِ یاهوه به او، به گفتن:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخنِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به گفتن"
+    }
+  ],
+  "timestamp": "2026-08-13T21:30:20.869451076Z",
+  "model": "glm-5.2"
+}

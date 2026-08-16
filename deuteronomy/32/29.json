@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 29,
+  "ref": "deuteronomy 32:29",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "کاش خردمند می‌شدند، این را درمی‌یافتند، بر آخرتِ خود می‌اندیشیدند!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "کاش"
+    },
+    {
+      "surface": "חכמו",
+      "gloss": "خردمند می‌شدند"
+    },
+    {
+      "surface": "ישכילו",
+      "gloss": "درمی‌یافتند"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "می‌اندیشیدند"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "بر آخرتِ خود"
+    }
+  ],
+  "timestamp": "2026-08-15T03:56:24.485745484Z",
+  "model": "glm-5.3"
+}

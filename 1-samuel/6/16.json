@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 6:16",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و پنج سَرَنِ فِلِشتیان دیدند و در آن روز به عَقرون بازگشتند.",
+  "tokens": [
+    {
+      "surface": "וחמשה",
+      "gloss": "و پنج"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "سَرَنِ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فِلِشتیان"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "دیدند"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "و بازگشتند"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "به عَقرون"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روز"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    }
+  ],
+  "timestamp": "2026-08-13T21:09:22.291062668Z",
+  "model": "glm-5.2"
+}

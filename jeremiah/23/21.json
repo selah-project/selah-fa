@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "من نبیان را نفرستادم و ⟨את⟩، پس آنان دویدند؛ با آنان سخن نگفتم، پس آنان نبوت کردند.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "فرستادم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نبیان را"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "نبیان"
+    },
+    {
+      "surface": "והם",
+      "gloss": "و آنان"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "دویدند"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "سخن گفتم"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "با آنان"
+    },
+    {
+      "surface": "והם",
+      "gloss": "و آنان"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "نبوت کردند"
+    }
+  ],
+  "timestamp": "2026-08-14T00:06:25.604887850Z",
+  "model": "glm-5.2"
+}

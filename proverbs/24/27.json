@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 24:27",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "آماده کن در بیرون کارت را، و آماده‌ساز در صحرا برایت؛ بعد، خانه‌ات را بنا کن.",
+  "tokens": [
+    {
+      "surface": "הכן",
+      "gloss": "آماده کن"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "در بیرون"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "کارت را"
+    },
+    {
+      "surface": "ועתדה",
+      "gloss": "و آماده‌ساز"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "در صحرا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برایت"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "ובנית",
+      "gloss": "و بنا کن"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "خانه‌ات را"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:32.789797914Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "judges 20:44",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و هجده هزار مرد از بِنیامین افتادند، ⟨את⟩ همهٔ اینان مردانِ دلاور.",
+  "tokens": [
+    {
+      "surface": "ויפלו",
+      "gloss": "و افتادند"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "از بِنیامین"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "هجده"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ـ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همهٔ اینان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اینان"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "مردانِ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "دلاور"
+    }
+  ],
+  "timestamp": "2026-08-13T21:07:16.659458755Z",
+  "model": "glm-5.2"
+}

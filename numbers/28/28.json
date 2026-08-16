@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 28:28",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "و هدیهٔ آن‌ها، آردِ نرم، آمیخته در روغن، سه دهم برای گاوِ واحد، دو دهم برای قوچِ واحد.",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "و هدیهٔ آن‌ها"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "آردِ نرم"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "آمیخته"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "در روغن"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سه"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "دهم"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "برای گاو"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "واحد"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "دهم"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "برای قوچ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "واحد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:39:56.951330724Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "4.6",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "من ⟨آن⟩ مردم که رنج را در عصای غضبش ⟨هست⟩ دیده‌ام.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "دیده‌ام"
+    },
+    {
+      "surface": "עני",
+      "gloss": "رنج"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "در عصای"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "غضبش"
+    }
+  ],
+  "timestamp": "2026-08-15T04:30:27.306800627Z",
+  "model": "glm-4.6"
+}

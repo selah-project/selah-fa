@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 27:13",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و این‌ها برِ نفرین خواهند ایستاد، در کوهِ عیبال: رئوون، گاد، و اَشِر، و زِوولون، دان، و نفتالی.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "و این‌ها"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "خواهند ایستاد"
+    },
+    {
+      "surface": "על",
+      "gloss": "برِ"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "نفرین"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "در کوهِ"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "عیبال"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئوون"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "و اَشِر"
+    },
+    {
+      "surface": "וזבולן",
+      "gloss": "و زِوولون"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "و نفتالی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:50:53.757626307Z",
+  "model": "glm-5.2"
+}

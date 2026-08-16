@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و گفتند درختان به انجیر: بیا، تو بر ما پادشاهی کن.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "و گفتند"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "درختان"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "به انجیر"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "بیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "تو"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "پادشاهی کن"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "بر ما"
+    }
+  ],
+  "timestamp": "2026-08-13T21:02:57.258264997Z",
+  "model": "glm-5.2"
+}

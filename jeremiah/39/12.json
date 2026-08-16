@@ -1,0 +1,81 @@
+{
+  "tier": "4.6",
+  "verse": 12,
+  "ref": "jeremiah 39:12",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 39,
+  "translation": "بگیرش و چشمانت ⟨را⟩ بر او بگدار و هیچ کار بد برایش مکن، مگر آن‌گونه که به تو گوید، همان کن با او.",
+  "tokens": [
+    {
+      "surface": "קחנו",
+      "gloss": "بگیرش"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "و چشمانت"
+    },
+    {
+      "surface": "שים",
+      "gloss": "بگدار"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر او"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "مکن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برایش"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "هیچ کار"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "مگر"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "آن‌گونه که"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "گوید"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "به تو"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همان"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کن"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "با او"
+    }
+  ],
+  "timestamp": "2026-08-15T04:25:51.945196544Z",
+  "model": "glm-4.6"
+}

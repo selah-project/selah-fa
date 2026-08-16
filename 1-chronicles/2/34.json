@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 2:34",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و برای شِشان پسرانی نبود، بلکه ⟨تنها⟩ دخترانی. و برای شِشان غلامی مِصری بود و نامِ او یَرْحا.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "לששן",
+      "gloss": "برای شِشان"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پسرانی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨تنها⟩"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "دخترانی"
+    },
+    {
+      "surface": "ולששן",
+      "gloss": "و برای شِشان"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلامی"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "مِصری"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "و نامِ او"
+    },
+    {
+      "surface": "ירחע",
+      "gloss": "یَرْحا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:18.599842329Z",
+  "model": "glm-5.2"
+}

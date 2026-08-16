@@ -1,0 +1,65 @@
+{
+  "tier": "4.6",
+  "verse": 18,
+  "ref": "genesis 35:18",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "وَیَهی بِصِأت نَفشاه کی مِتاه وَتیقِرا شِمُو بِن اُونی وَآبِیو قارا لُو بِنیَمین",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وَیَهی"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "بِصِأت"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "نَفشاه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "מתה",
+      "gloss": "مِتاه"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "وَتیقِرا"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "شِمُو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "אוני",
+      "gloss": "اُونی"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "وَآبِیو"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "قارا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "لُو"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "بِنیَمین"
+    }
+  ],
+  "timestamp": "2026-08-15T03:40:17.061431672Z",
+  "model": "glm-4.6"
+}

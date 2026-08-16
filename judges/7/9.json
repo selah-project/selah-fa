@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "judges 7:9",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و در شبِ آن، یاهوه به او گفت: برخیز، به اردوگاه فرود آی، زیرا آن را به دستِ تو داده‌ام.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "در شبِ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "קום",
+      "gloss": "برخیز"
+    },
+    {
+      "surface": "רד",
+      "gloss": "فرود آی"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "به اردوگاه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "آن را داده‌ام"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "به دستِ تو"
+    }
+  ],
+  "timestamp": "2026-08-15T03:58:30.024658982Z",
+  "model": "glm-5.3"
+}

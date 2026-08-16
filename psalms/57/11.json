@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 57,
+  "translation": "زیرا بزرگ است تا آسمان‌ها حُسنتِ تو، و تا اَبرها راستیِ تو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "بزرگ است"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمان‌ها"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "حُسنتِ تو"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ابرها"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "راستیِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:44:51.179445349Z",
+  "model": "glm-5.2"
+}

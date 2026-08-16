@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 68,
+  "translation": "کوهِ الوهیم، کوهِ باشان؛ کوهِ قله‌ها، کوهِ باشان.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "کوهِ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کوهِ"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "باشان"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کوهِ"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "قله‌ها"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کوهِ"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "باشان"
+    }
+  ],
+  "timestamp": "2026-08-13T22:46:45.489558351Z",
+  "model": "glm-5.2"
+}

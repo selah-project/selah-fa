@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "leviticus 15:17",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و هر جامه و هر پوست که بر آن شرابِ زهر (نشستنِ نطفه) باشد، در آب شسته شود و تا غروب ناپاک است.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "جامه"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "עור",
+      "gloss": "پوست"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "باشد"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر آن"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "نشستِ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "نطفه"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "شسته شود"
+    },
+    {
+      "surface": "במים",
+      "gloss": "در آب"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "و ناپاک است"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "غروب"
+    }
+  ],
+  "timestamp": "2026-08-15T03:51:01.944878886Z",
+  "model": "glm-5.3"
+}

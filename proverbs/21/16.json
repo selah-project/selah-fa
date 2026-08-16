@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 21:16",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "انسانی گمراه از راهِ فهمیدن، در جمعِ رفائیم آرام خواهد گرفت.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "انسانی"
+    },
+    {
+      "surface": "תועה",
+      "gloss": "گمراه"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "از راهِ"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "فهمیدن"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "در جمعِ"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رفائیم"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "آرام خواهد گرفت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:26.274463744Z",
+  "model": "glm-5.2"
+}

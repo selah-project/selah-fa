@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "2-chronicles 17:15",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "و کنارِ دستِ او یهوحَنان سرور، و با او دویست و هشتاد هزار.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و کنارِ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دستِ او"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "یهوحَنان"
+    },
+    {
+      "surface": "השר",
+      "gloss": "سرور"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "و با او"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دویست"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "و هشتاد"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    }
+  ],
+  "timestamp": "2026-08-15T20:54:40.788344476Z",
+  "model": "glm-5.3+hand"
+}

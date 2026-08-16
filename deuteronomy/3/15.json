@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و به ماخیر، ⟨את⟩ گیلعاد را دادم.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "و به ماخیر"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "دادم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گیلعاد"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "گیلعاد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:43:54.731483360Z",
+  "model": "glm-5.2"
+}

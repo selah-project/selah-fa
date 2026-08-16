@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 25:15",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "هشتم، یِشَعْیاهو، پسرانش و برادرانش، دوازده",
+  "tokens": [
+    {
+      "surface": "הַשְּׁמִינִ֣י",
+      "gloss": "هشتم"
+    },
+    {
+      "surface": "יְשַֽׁעְיָ֔הוּ",
+      "gloss": "یِشَعْیاهو"
+    },
+    {
+      "surface": "בָּנָ֥יו",
+      "gloss": "پسرانش"
+    },
+    {
+      "surface": "וְאֶחָ֖יו",
+      "gloss": "و برادرانش"
+    },
+    {
+      "surface": "שְׁנֵ֥ים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עָשָֽׂר",
+      "gloss": "ده"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:45.105173842Z",
+  "model": "glm-5.2"
+}

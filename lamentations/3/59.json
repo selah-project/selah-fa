@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "lamentations 3:59",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "دیدی، یاهوه، ستمِ مرا؛ داوری کن داوریِ مرا.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "دیدی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עותתי",
+      "gloss": "ستمِ مرا"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "داوری کن"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "داوریِ مرا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:18:10.422917582Z",
+  "model": "glm-5.2"
+}

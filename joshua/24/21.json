@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و گفت قوم به یِهوشُع: نه، بلکه ⟨את⟩ یاهوه پرستش خواهیم کرد.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یِهوشُع"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلکه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "پرستش خواهیم کرد"
+    }
+  ],
+  "timestamp": "2026-08-13T21:00:24.781420837Z",
+  "model": "glm-5.2"
+}

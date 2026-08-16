@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "به سوی بت‌ها روی مبرید، و خدایانِ مذاب برای خود نسازید. من یاهوه، الوهیمِ شما هستم.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "برگرید"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "بت‌ها"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "و خدایانِ"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "مذاب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "بسازید"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "برایِ شما"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "الوهیمِ شما"
+    }
+  ],
+  "timestamp": "2026-08-13T20:27:12.414465485Z",
+  "model": "glm-5.2"
+}

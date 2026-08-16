@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 31:1",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و یاهوه به موشه سخن گفت، به‌سانِ گفتن:",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "به"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "לֵּאמֹר",
+      "gloss": "به‌سانِ گفتن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:41:25.962490846Z",
+  "model": "glm-5.2"
+}

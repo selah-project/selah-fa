@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 59:5",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 59,
+  "translation": "بی گناه می‌دوند و آماده می‌شوند؛ بیدار شو به دیدار من و ببین.",
+  "tokens": [
+    {
+      "surface": "בלי",
+      "gloss": "بی"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گناه"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "می‌دوند"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "و آماده می‌شوند"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "بیدار شو"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "به دیدار من"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "و ببین"
+    }
+  ],
+  "timestamp": "2026-08-13T22:45:18.131772509Z",
+  "model": "glm-5.2"
+}

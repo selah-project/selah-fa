@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "آنگاه راهِ تو را در امنیت بیفامی، و پایِ تو را برخوردی نخواهد بود.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "آنگاه"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "بیفامی"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "در امنیت"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "راهِ تو را"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "و پایِ تو را"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "خواهد-یافت"
+    }
+  ],
+  "timestamp": "2026-08-13T22:59:10.922543879Z",
+  "model": "glm-5.2"
+}

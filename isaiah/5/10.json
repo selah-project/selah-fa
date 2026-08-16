@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "که ده جفتِ تاکستان یک بَت می‌سازد، و دانهٔ یک حومر یک اِیفه می‌سازد.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ده"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "جفتِ"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "تاکستان"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "می‌سازند"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بَت"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "و دانهٔ"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "حومر"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "می‌سازد"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "اِیفه"
+    }
+  ],
+  "timestamp": "2026-08-13T21:41:43.337186804Z",
+  "model": "glm-5.2"
+}

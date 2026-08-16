@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 15:45",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "عَقْرون و دخترانش و حیاط‌هایش؛",
+  "tokens": [
+    {
+      "surface": "עֶקְר֥וֹן",
+      "gloss": "عَقْرون"
+    },
+    {
+      "surface": "וּבְנֹתֶ֖יהָ",
+      "gloss": "و دخترانش"
+    },
+    {
+      "surface": "וַחֲצֵרֶֽיהָ",
+      "gloss": "و حیاط‌هایش"
+    }
+  ],
+  "timestamp": "2026-08-13T20:58:03.168216026Z",
+  "model": "glm-5.2"
+}

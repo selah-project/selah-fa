@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 27:29",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و بر گاوهای چراکننده در شارون، شِترَی شارونی، و بر گاوها در درّه‌ها، شافَت پُر عَدلای.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "گاوها"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "چراکننده"
+    },
+    {
+      "surface": "בשרון",
+      "gloss": "در شارون"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "شِترَی"
+    },
+    {
+      "surface": "השרוני",
+      "gloss": "شارونی"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "گاوها"
+    },
+    {
+      "surface": "בעמקים",
+      "gloss": "در درّه‌ها"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "شافَت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُر"
+    },
+    {
+      "surface": "עדלי",
+      "gloss": "عَدلای"
+    }
+  ],
+  "timestamp": "2026-08-13T23:42:44.560351093Z",
+  "model": "glm-5.2"
+}

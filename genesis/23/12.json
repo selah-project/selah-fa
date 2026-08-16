@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "و سجده کرد اَوراهام، پیش ازِ قومِ زمین.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "و سجده کرد"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراهام"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیش ازِ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قومِ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T19:59:56.093154332Z",
+  "model": "glm-5.2"
+}

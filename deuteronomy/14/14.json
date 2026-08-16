@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و ⟨את⟩ هر کلاغی را به نوعِ او",
+  "tokens": [
+    {
+      "surface": "וְאֵת",
+      "gloss": "⟨את⟩",
+      "marks": "هر کلاغی"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "עֹרֵב",
+      "gloss": "کلاغ"
+    },
+    {
+      "surface": "לְמִינוֹ",
+      "gloss": "به نوعِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:46:53.901688571Z",
+  "model": "glm-5.2"
+}

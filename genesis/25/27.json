@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 25:27",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و بزرگ شدند پسران، و شد عیسو مردی دانای شکار، مردِ صحرا، و یاعکوو مردی بی‌آلایش، ساکنِ خیمه‌ها.",
+  "tokens": [
+    {
+      "surface": "ויגדלו",
+      "gloss": "و بزرگ شدند"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "پسران"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "دانای"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "شکار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردِ"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "صحرا"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "و یاعکوو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "תם",
+      "gloss": "بی‌آلایش"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ساکنِ"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "خیمه‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T20:01:12.988345881Z",
+  "model": "glm-5.2"
+}

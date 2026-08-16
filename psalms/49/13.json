@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 49,
+  "translation": "و انسان در افتخار نمی‌ماند؛ مانند بهیمات هلاک شد.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "و انسان"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "در افتخار"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "می‌ماند"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "همانند شد"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "مانند بهیمات"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "هلاک شد"
+    }
+  ],
+  "timestamp": "2026-08-14T00:11:50.609182388Z",
+  "model": "glm-5.2"
+}

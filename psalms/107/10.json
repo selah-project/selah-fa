@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 107,
+  "translation": "نشینندگانِ تاریکی و سایهٔ مرگ، اسیرانِ رنج و آهن،",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "نشینندگانِ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "تاریکی"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "و سایهٔ مرگ"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "اسیرانِ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "رنج"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "و آهن"
+    }
+  ],
+  "timestamp": "2026-08-13T22:53:05.373207002Z",
+  "model": "glm-5.2"
+}

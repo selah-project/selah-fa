@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 27:5",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و اگر از پسرِ پنج سال تا پسرِ بیست سال، آن‌گاه برآوردِ تو برای نر بیست شکل و برای ماده ده شکل باشد.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "از پسرِ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "و باشد"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "برآوردِ تو"
+    },
+    {
+      "surface": "הזכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "شکل"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "و برای ماده"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ده"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "شکل"
+    }
+  ],
+  "timestamp": "2026-08-13T20:30:47.243344169Z",
+  "model": "glm-5.2"
+}

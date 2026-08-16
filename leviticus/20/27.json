@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 20:27",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و مردی یا زنی که در آنان آوُب یا یدعونی باشد، به مرگ کشته شوند؛ با سنگ ⟨את⟩ آنان را سنگسار کنند؛ خونشان بر آنان است.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "و مردی"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زنی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "باشد"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "در آنان"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "آوُب"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "ידעני",
+      "gloss": "یدعونی"
+    },
+    {
+      "surface": "מות",
+      "gloss": "به مرگ"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "کشته شوند"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "با سنگ"
+    },
+    {
+      "surface": "ירגמו",
+      "gloss": "سنگسار کنند"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ آنان",
+      "marks": "آنان"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "خونشان"
+    },
+    {
+      "surface": "בם",
+      "gloss": "بر آنان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:27:48.728811115Z",
+  "model": "glm-5.2"
+}

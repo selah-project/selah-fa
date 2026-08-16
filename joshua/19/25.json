@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 19:25",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و بود مرزِ ایشان: خلَقات و حَلی و بَطَن و عَکشاف.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "مرزِ ایشان"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "خلَقات"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "و حَلی"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "و بَطَن"
+    },
+    {
+      "surface": "ואכשף",
+      "gloss": "و عَکشاف"
+    }
+  ],
+  "timestamp": "2026-08-13T20:58:58.735534468Z",
+  "model": "glm-5.2"
+}

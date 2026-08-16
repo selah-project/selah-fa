@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 12:37",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و از اَشِر، خروج‌کنندگانِ لشکر برای آرایشِ جنگ، چهل هزار.",
+  "tokens": [
+    {
+      "surface": "ומאשר",
+      "gloss": "و از اَشِر"
+    },
+    {
+      "surface": "יוצאי",
+      "gloss": "خروج‌کنندگانِ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "برای آرایشِ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چهل"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    }
+  ],
+  "timestamp": "2026-08-13T23:39:21.413316666Z",
+  "model": "glm-5.2"
+}

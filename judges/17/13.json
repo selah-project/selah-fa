@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 17:13",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "وَ میخا گفت: اکنون دانستم که یاهوه به من نیکی خواهد کرد، زیرا لاوی برایم به کاهن شده است.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وَ گفت"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "میخا"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "اکنون"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "دانستم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "نیکی خواهد کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "شده است"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برایم"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "لاوی"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "به کاهن"
+    }
+  ],
+  "timestamp": "2026-08-13T21:05:47.190623398Z",
+  "model": "glm-5.2"
+}

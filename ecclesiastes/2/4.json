@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "بزرگ ساختم کارهایِ خود را؛ برای خودم خانه‌ها ساختم، برای خودم تاکستان‌ها کاشتم.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "بزرگ ساختم"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "کارهایِ خود را"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ساختم"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برای خودم"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "خانه‌ها"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "کاشتم"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برای خودم"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "تاکستان‌ها"
+    }
+  ],
+  "timestamp": "2026-08-15T04:31:01.935410401Z",
+  "model": "glm-5.3"
+}

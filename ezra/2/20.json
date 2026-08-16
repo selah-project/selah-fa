@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 2:20",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "پسرانِ گِبّار، نودِ و پنج.",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "גִבָּ֖ר",
+      "gloss": "گِبّار"
+    },
+    {
+      "surface": "תִּשְׁעִ֥ים",
+      "gloss": "نودِ"
+    },
+    {
+      "surface": "וַחֲמִשָּֽׁה",
+      "gloss": "و پنج"
+    }
+  ],
+  "timestamp": "2026-08-13T23:28:14.964530949Z",
+  "model": "glm-5.2"
+}

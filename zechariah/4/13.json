@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 4:13",
+  "book": "zechariah",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و ⟨او⟩ به من گفت، به‌قولِ: آیا نمی‌دانی این‌ها چیست‌ند؟ و من گفتم: نه، آقای من.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به‌قولِ"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "می‌دانی"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و گفتم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "آقای من"
+    }
+  ],
+  "timestamp": "2026-08-13T22:34:31.559559844Z",
+  "model": "glm-5.2"
+}

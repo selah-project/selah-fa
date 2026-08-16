@@ -1,0 +1,54 @@
+{
+  "tier": "hand",
+  "verse": 20,
+  "ref": "ezekiel 45:20",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 45,
+  "translation": "و ⟨چنین⟩ خواهی کرد ⟨در⟩ هفتمِ ماه، برای مردِ خطاکننده و از ⟨خطا⟩، و ⟨את⟩ خانه را کفّاره خواهید کرد.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "و ⟨چنین⟩"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "خواهی کرد"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "⟨در⟩ هفتمِ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ماه"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "برای مردِ"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "خطاکننده"
+    },
+    {
+      "surface": "ומפתי",
+      "gloss": "و از ⟨خطا⟩"
+    },
+    {
+      "surface": "וכפרתם",
+      "gloss": "و کفّاره خواهید کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خانه"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "خانه"
+    }
+  ],
+  "timestamp": "2026-08-14T17:47:39Z",
+  "model": "claude-fable-5/hand"
+}

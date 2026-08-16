@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و این‌سو و آن‌سو رو کرد و دید که هیچ‌کس نیست، و ⟨את⟩ آن مصری را زد و او را در شن پنهان کرد.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "و رو کرد"
+    },
+    {
+      "surface": "כה",
+      "gloss": "این‌سو"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "و آن‌سو"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "و دید"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אין",
+      "gloss": "هیچ‌"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کس نیست"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "و زد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آن مصری"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "مصری"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "و او را پنهان کرد"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "در شن"
+    }
+  ],
+  "timestamp": "2026-08-13T23:54:30.842247099Z",
+  "model": "glm-5.2"
+}

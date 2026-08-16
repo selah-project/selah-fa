@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 8:12",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "آنگاه شْلومو سوختنی‌ها را برای یاهوه بالا آورد، بر مذبحِ یاهوه که پیش از ایوان ساخته بود.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "آنگاه"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "بالا آورد"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شْلومو"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "سوختنی‌ها"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "برای یاهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبحِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ساخته بود"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیش از"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "ایوان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:45:32.105044852Z",
+  "model": "glm-5.2"
+}

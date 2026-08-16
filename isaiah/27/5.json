@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 27:5",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "اَو بچسبد به پناهگاهِ من، شالم برایم سازد، شالم برایم سازد.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "اَو"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "بچسبد"
+    },
+    {
+      "surface": "במעוזי",
+      "gloss": "به پناهگاهِ من"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "سازد"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالم"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برایم"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالم"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "سازد"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برایم"
+    }
+  ],
+  "timestamp": "2026-08-13T21:45:58.318015995Z",
+  "model": "glm-5.2"
+}

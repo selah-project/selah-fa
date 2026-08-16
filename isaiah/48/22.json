@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 48,
+  "translation": "«شالوم نیست»، گفت یاهوه، برای شرمغان.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "برای شرمغان"
+    }
+  ],
+  "timestamp": "2026-08-13T21:50:45.112445036Z",
+  "model": "glm-5.2"
+}

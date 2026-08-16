@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 20:16",
+  "book": "2-kings",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و گفت یشعیهو به حزقیا بشنو ⟨את⟩ سخنِ یاهوه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "یشعیهو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حزقیا"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "بشنو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخنِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-14T00:02:51.412245644Z",
+  "model": "glm-5.2"
+}

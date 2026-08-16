@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "سخنانِ دهانِ حکیم، فیض‌اند، و لبانِ نادان او را فرو می‌برند.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "سخنانِ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دهانِ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حکیم"
+    },
+    {
+      "surface": "חן",
+      "gloss": "فیض‌اند"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "و لبانِ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "او را فرو می‌برند"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:44.549694538Z",
+  "model": "glm-5.2"
+}

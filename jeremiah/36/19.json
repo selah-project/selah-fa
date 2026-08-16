@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 36:19",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "و سران به باروخ گفتند: برو، پنهان شو — تو و یِرمیاهو — و هیچ‌کس نداند که کجا هستید.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "و گفتند"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "سران"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "باروخ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برو"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "پنهان شو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "וירמיהו",
+      "gloss": "و یِرمیاهو"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "و کسی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "بداند"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "که کجا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "هستید"
+    }
+  ],
+  "timestamp": "2026-08-13T22:06:39.450526980Z",
+  "model": "glm-5.2"
+}

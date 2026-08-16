@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 113,
+  "translation": "تا بنشاند با بزرگواران، با بزرگوارانِ قومِ ⟨خودش⟩",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "تا بنشاند"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "بزرگواران"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "بزرگوارانِ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "قومِ ⟨خودش⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T22:53:43.007274005Z",
+  "model": "glm-5.2"
+}

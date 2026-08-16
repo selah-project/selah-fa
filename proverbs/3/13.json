@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 3:13",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "خوشا ⟨به⟩ آدمی که خرد را یافت، و آدمی که تَبونَه را می‌بَرَد.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵ֣י",
+      "gloss": "خوشا"
+    },
+    {
+      "surface": "אָ֭דָם",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "מָצָ֣א",
+      "gloss": "یافت"
+    },
+    {
+      "surface": "חָכְמָ֑ה",
+      "gloss": "خرد"
+    },
+    {
+      "surface": "וְ֝אָדָ֗ם",
+      "gloss": "و آدمی"
+    },
+    {
+      "surface": "יָפִ֥יק",
+      "gloss": "می‌بَرَد"
+    },
+    {
+      "surface": "תְּבוּנָֽה",
+      "gloss": "تَبونَه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:59:25.203609337Z",
+  "model": "glm-5.2"
+}

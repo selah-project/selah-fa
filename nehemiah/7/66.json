@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "nehemiah 7:66",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "همهٔ قوم یک‌جا ⟨بودند⟩: چهار رِبو، دو هزار، سیصد وَ شصت",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "یک‌جا"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "رِبو"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "دو هزار"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سیصد"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "←سیصد"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "وَ شصت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:33:15.365647610Z",
+  "model": "glm-5.2"
+}

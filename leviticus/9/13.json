@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 9:13",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و ⟨את⟩ هولوکاست را نزد او آماده کردند به تکه‌هایش، و ⟨את⟩ سر را، و بر مذبح سوزاند.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "هولوکاست"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "هولوکاست"
+    },
+    {
+      "surface": "המציאו",
+      "gloss": "آماده کردند"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "نزد او"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "به تکه‌هایش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "سر"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "و سوزاند"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مذبح"
+    }
+  ],
+  "timestamp": "2026-08-13T20:23:46.654491714Z",
+  "model": "glm-5.2"
+}

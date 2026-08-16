@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 33:45",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "و کوچ کردند از عِیِّیم، و چادر زدند در دیبونِ گاد.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "و کوچ کردند از"
+    },
+    {
+      "surface": "מעיים",
+      "gloss": "عِیِّیم"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "و چادر زدند در"
+    },
+    {
+      "surface": "בדיבן",
+      "gloss": "دیبونِ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:41:55.670465101Z",
+  "model": "glm-5.2"
+}

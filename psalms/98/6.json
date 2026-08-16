@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 98,
+  "translation": "با حَصوصِروت و صدای شوفار، پیش از پادشاه، یاهوه، کرناش کنید.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "با حَصوصِروت"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "و صدای"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شوفار"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "کرناش کنید"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیش از"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:51:56.877155211Z",
+  "model": "glm-5.2"
+}

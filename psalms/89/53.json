@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 89,
+  "translation": "مبارک است یاهوه برای همیشه؛ آمین، و آمین.",
+  "tokens": [
+    {
+      "surface": "בָּר֖וּךְ",
+      "gloss": "مبارک است"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לְ֝עוֹלָ֗ם",
+      "gloss": "برای همیشه"
+    },
+    {
+      "surface": "אָ֘מֵ֥ן",
+      "gloss": "آمین"
+    },
+    {
+      "surface": "וְאָמֵֽן",
+      "gloss": "و آمین"
+    }
+  ],
+  "timestamp": "2026-08-13T22:50:31.387619744Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "برای سَلّای، قَلّای؛ برای عاموق، عِیوِر.",
+  "tokens": [
+    {
+      "surface": "לְסַלַּ֥י",
+      "gloss": "برای سَلّای"
+    },
+    {
+      "surface": "קַלָּ֖י",
+      "gloss": "قَلّای"
+    },
+    {
+      "surface": "לְעָמ֥וֹק",
+      "gloss": "برای عاموق"
+    },
+    {
+      "surface": "עֵֽבֶר",
+      "gloss": "عِیوِر"
+    }
+  ],
+  "timestamp": "2026-08-14T00:17:23.550469539Z",
+  "model": "glm-5.2"
+}

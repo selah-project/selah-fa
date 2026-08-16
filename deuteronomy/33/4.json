@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "توراتی که موشه به ما فرمان داد، میراثِ اجتماعِ یاعکوو است.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فرمان داد"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "به ما"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "میراثِ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "اجتماعِ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعکوو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:53:14.222252645Z",
+  "model": "glm-5.2"
+}

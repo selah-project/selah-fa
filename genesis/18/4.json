@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 18:4",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "بگیرید، التماس، اندکی آب، و بشویید پای خود را، و تکیه دهید زیر درخت",
+  "tokens": [
+    {
+      "surface": "יקח",
+      "gloss": "بگیرند"
+    },
+    {
+      "surface": "נא",
+      "gloss": "التماس"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "اندکی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آب"
+    },
+    {
+      "surface": "وרחצו",
+      "gloss": "و بشویید"
+    },
+    {
+      "surface": "רגליכם",
+      "gloss": "پای شما را"
+    },
+    {
+      "surface": "והשענו",
+      "gloss": "و تکیه دهید"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "زیر"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "درخت"
+    }
+  ],
+  "timestamp": "2026-08-13T19:58:48.591393019Z",
+  "model": "glm-5.2"
+}

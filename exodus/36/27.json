@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 36:27",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "و برای پشتِ مسکن، به سویِ غرب، شش تخته ساخت.",
+  "tokens": [
+    {
+      "surface": "ולירכתי",
+      "gloss": "و برای پشتِ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "به سویِ غرب"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ساخت"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "شش"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "تخته‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T20:20:23.694393359Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 29:32",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و بود شمارِ عقیق که آورد اجتماع، گاو هفتاد، قوچ‌ها صد، بره‌ها دویست، برای عقیقِ یاهوه؛ همهٔ این‌ها.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "شمارِ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "عقیقِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "آورد"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "اجتماع"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "گاو"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "هفتاد"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "قوچ‌ها"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "صد"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "بره‌ها"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دویست"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "برای عقیقِ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T23:50:35.602428901Z",
+  "model": "glm-5.2"
+}

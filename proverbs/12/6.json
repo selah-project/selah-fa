@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 12:6",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "سخنان بدکاران کمینِ خون است، و دهانِ راستان آنان را رهایی می‌بخشد.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "سخنانِ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکاران"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "کمینِ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "و دهانِ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "راستان"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "آنها را رهایی می‌بخشد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:01:30.516093496Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "ref": "psalms 18:26",
+  "lang": "fa",
+  "book": "psalms",
+  "chapter": 18,
+  "verse": 26,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:47:12Z",
+  "translation": "با پارسا خود را پارسا می‌نمایی، با مردِ کامل خود را کامل می‌نمایی.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "پارسا"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "خود را پارسا می‌نمایی"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "مردِ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "کامل"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "خود را کامل می‌نمایی"
+    }
+  ]
+}

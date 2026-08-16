@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 2:8",
+  "book": "daniel",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "پادشاه پاسخ داد و گفت: قطعاً من می‌دانم که شما زمان را خریداری می‌کنید، به این سبب که می‌بینید فرمان از من قطعی است.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "پاسخ داد"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "יציב",
+      "gloss": "قطع"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "می‌دانم"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "من"
+    },
+    {
+      "surface": "די",
+      "gloss": "که"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "زمان"
+    },
+    {
+      "surface": "אנתון",
+      "gloss": "شما"
+    },
+    {
+      "surface": "זבנין",
+      "gloss": "خریداری می‌کنید"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "به سببِ"
+    },
+    {
+      "surface": "די",
+      "gloss": "که"
+    },
+    {
+      "surface": "חזיתון",
+      "gloss": "می‌بینید"
+    },
+    {
+      "surface": "די",
+      "gloss": "که"
+    },
+    {
+      "surface": "אזדא",
+      "gloss": "قطعی"
+    },
+    {
+      "surface": "מני",
+      "gloss": "از"
+    },
+    {
+      "surface": "מלתא",
+      "gloss": "فرمان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:24:20.239966499Z",
+  "model": "glm-5.2"
+}

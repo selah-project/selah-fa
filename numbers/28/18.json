@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 28:18",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "در روزِ اول، فراخوانِ مقدّس ⟨است⟩؛ هر کارِ خدمت نکنید.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "در روز"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "اول"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "فراخوان"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدّس"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "کارِ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "خدمت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نـ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کنید"
+    }
+  ],
+  "timestamp": "2026-08-13T20:40:34.611902280Z",
+  "model": "glm-5.2"
+}

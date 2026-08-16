@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 42:13",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 42,
+  "translation": "و اگر شما می‌گویید: «نخواهیم نشدن در این زمین، تا شنیدن نکنیم در صدای یاهوه الوهیم شما»،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "می‌گویید"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "شما"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נשב",
+      "gloss": "خواهیم نشدن"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "در زمین"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "تا"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "شنیدن نکنیم"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "در صدای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "الوهیم شما"
+    }
+  ],
+  "timestamp": "2026-08-13T22:08:50.414059039Z",
+  "model": "glm-5.2"
+}

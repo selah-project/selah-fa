@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 45,
+  "translation": "و داد ⟨את⟩ صدایِ خود را به گریستن، و شنیدند مصریان، و شنید خانهٔ فرعون.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "و داد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صدایِ او"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "صدایِ او"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "به گریستن"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "و شنیدند"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصریان"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "و شنید"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانهٔ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    }
+  ],
+  "timestamp": "2026-08-13T20:08:52.134506258Z",
+  "model": "glm-5.2"
+}

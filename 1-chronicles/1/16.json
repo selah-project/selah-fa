@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و ⟨את⟩ اَروَدی، و ⟨את⟩ تزمَری، و ⟨את⟩ حَمَتی را.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "اَروَدی"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "اَروَدی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "تزمَری"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "تزمَری"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "حَمَتی"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "حَمَتی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:58.857743091Z",
+  "model": "glm-5.2"
+}

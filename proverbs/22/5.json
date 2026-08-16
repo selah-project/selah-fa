@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 22:5",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "خارها و دام‌ها در راهِ کج ⟨هستند⟩؛ نگاه‌دارِ نفسِ خود از ایشان دور می‌شود.",
+  "tokens": [
+    {
+      "surface": "צנים",
+      "gloss": "خارها"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "دام‌ها"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "در راهِ"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "کج"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "نگاه‌دارِ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "نفسِ خود"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "دور می‌شود"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "از ایشان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:03.015439798Z",
+  "model": "glm-5.2"
+}

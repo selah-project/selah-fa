@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zechariah 8:17",
+  "book": "zechariah",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و هرکس ⟨את⟩ بدی همسایه‌اش را در دل خود نگزارید و سوگند دروغ را دوست ندارید، زیرا ⟨את⟩ همه این چیزها را که من متنفرم ـ خروش یاهوه.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "و هرکس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بدی"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "همسایه‌اش"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תחשבו",
+      "gloss": "نگزارید"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "در دل خود"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "و سوگند"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאהבו",
+      "gloss": "دوست دارید"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همه این چیزها"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همه"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "این"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "من متنفرم"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "خروش"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:35:38.006949991Z",
+  "model": "glm-5.2"
+}

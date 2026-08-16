@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 50,
+  "translation": "اگر گرسنه شوم، نه بگویم به تو، که از آنِ من است جهان و پری آن.",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "אֶרְעַב",
+      "gloss": "گرسنه شوم"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אֹמַר",
+      "gloss": "بگویم"
+    },
+    {
+      "surface": "לָךְ",
+      "gloss": "به تو"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "که"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "از آنِ من است"
+    },
+    {
+      "surface": "תֵבֵל",
+      "gloss": "جهان"
+    },
+    {
+      "surface": "וּמְלֹאָהּ",
+      "gloss": "و پری آن"
+    }
+  ],
+  "timestamp": "2026-08-13T22:43:47.852373835Z",
+  "model": "glm-5.2"
+}

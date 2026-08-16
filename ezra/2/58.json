@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "ezra 2:58",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "همهٔ هَتینیم و پسرانِ بندگانِ شْلومو، سه‌صد و نود و دو.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "هَتینیم"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "وپسرانِ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "بندگانِ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شْلومو"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "نود"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ودو"
+    }
+  ],
+  "timestamp": "2026-08-14T00:16:46.275199030Z",
+  "model": "glm-5.2"
+}

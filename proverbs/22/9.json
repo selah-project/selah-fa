@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 22:9",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "خوبِ چشم، او برکت می‌یابد، زیرا از نانِ خود به فقیر می‌دهد.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "خوب"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چشم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "برکت می‌یابد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "می‌دهد"
+    },
+    {
+      "surface": "מלחמו",
+      "gloss": "از نانِ خود"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "به فقیر"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:51.132999633Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 34,
+  "translation": "و چون پادشاه ⟨את⟩ سخنانِ تورا را شنید، ⟨את⟩ جامه‌هایش را دَرید.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و چون"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "شنید"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سخنانِ تورا"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "سخنانِ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "تورا"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "دَرید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جامه‌هایش"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "جامه‌هایش را"
+    }
+  ],
+  "timestamp": "2026-08-13T23:52:20.824230589Z",
+  "model": "glm-5.2"
+}

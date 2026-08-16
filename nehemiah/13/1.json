@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 13:1",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "در آن روز خوانده شد در سفْرِ موشه به گوشِ مردم، و یافت شد نوشته در آن که عمرانی و موأبی به جمعگاه الوهیم تا جهان نیاید.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "در روز"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "خوانده شد"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "در سفْر"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "به گوشِ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "و یافت شد"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "نوشته"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در آن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "بیاید"
+    },
+    {
+      "surface": "עמני",
+      "gloss": "عمّونی"
+    },
+    {
+      "surface": "ומאבי",
+      "gloss": "و موأبی"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "به جمعگاه"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "جهان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:51.447060507Z",
+  "model": "glm-5.2"
+}

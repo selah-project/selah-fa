@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 6:25",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "یاهوه چهرش را بر تو بتاباند و بر تو مهر ورزد،",
+  "tokens": [
+    {
+      "surface": "יָאֵ֨ר",
+      "gloss": "بتاباند"
+    },
+    {
+      "surface": "יְהוָ֧ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "פָּנָ֛יו",
+      "gloss": "چهرش"
+    },
+    {
+      "surface": "אֵלֶ֖יךָ",
+      "gloss": "بر تو"
+    },
+    {
+      "surface": "וִֽיחֻנֶּֽךָּ",
+      "gloss": "و بر تو مهر ورزد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:32:06.522045909Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و بَکبَکَّر، حِرِش، و گَلال، و مَتَنیا پسرِ میکا، پسرِ زیکری، پسرِ آساف.",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "و بَکبَکَّر"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "حِرِش"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "و گَلال"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "و مَتَنیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "میکا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "زیکری"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "آساف"
+    }
+  ],
+  "timestamp": "2026-08-13T23:38:13.303227535Z",
+  "model": "glm-5.2"
+}

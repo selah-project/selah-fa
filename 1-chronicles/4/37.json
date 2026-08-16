@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 4:37",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و زیزا پسر شیفعی پسر آلّون پسر یدایاه پسر شیمری پسر شِماعیاه",
+  "tokens": [
+    {
+      "surface": "וזיזא",
+      "gloss": "و زیزا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "שפעי",
+      "gloss": "شیفعی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "آلّون"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "یدایاه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "شیمری"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شِماعیاه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:13.504859811Z",
+  "model": "glm-5.2"
+}

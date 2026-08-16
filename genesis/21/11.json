@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 21:11",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و این سخن در چشمانِ اَوراهام به‌سختی بد شد، به‌سببِ پسرِ‌اش.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "و بد شد"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "این سخن"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "به‌سختی"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "در چشمانِ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراهام"
+    },
+    {
+      "surface": "על",
+      "gloss": "به‌سببِ"
+    },
+    {
+      "surface": "אודת",
+      "gloss": "بخاطرِ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرِ‌اش"
+    }
+  ],
+  "timestamp": "2026-08-13T19:59:54.431047011Z",
+  "model": "glm-5.2"
+}

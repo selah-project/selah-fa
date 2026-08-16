@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 36:33",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "و ساخت ⟨את⟩ میلهٔ میانی را تا از میان تخته‌ها از این سر تا آن سر بگذرد.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و ساخت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میلهٔ میانی"
+    },
+    {
+      "surface": "הבריח",
+      "gloss": "میلهٔ"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "میانی"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "تا بگذرد"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "از میان"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "تخته‌ها"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "این سر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تا"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "آن سر"
+    }
+  ],
+  "timestamp": "2026-08-13T20:20:49.366993639Z",
+  "model": "glm-5.2"
+}

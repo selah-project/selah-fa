@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 28:34",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "و از دیدنِ آنچه چشمانِ تو ⟨خواهند دید⟩ دیوانه شوی.",
+  "tokens": [
+    {
+      "surface": "וְהָיִ֖יתָ",
+      "gloss": "و ⟨شوی⟩"
+    },
+    {
+      "surface": "מְשֻׁגָּ֑ע",
+      "gloss": "دیوانه"
+    },
+    {
+      "surface": "מִמַּרְאֵ֥ה",
+      "gloss": "از دیدنِ"
+    },
+    {
+      "surface": "עֵינֶ֖יךָ",
+      "gloss": "چشمانِ تو"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "که"
+    },
+    {
+      "surface": "תִּרְאֶֽה",
+      "gloss": "می‌بینی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:51:43.950004121Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 15:10",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و شراب نزدیک کنی برای نوشابه نصف هین، آتش‌قربانی بوی آرامش برای یاهوه.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "و شراب"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "نزدیک کنی"
+    },
+    {
+      "surface": "לנסך",
+      "gloss": "برای نوشابه"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "نصف"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "هین"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "آتش‌قربانی"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "بوی"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "آرامش"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "برای یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:36:02.783875584Z",
+  "model": "glm-5.2"
+}

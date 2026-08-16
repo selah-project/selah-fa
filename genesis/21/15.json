@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و آبِ پوستین تمام شد و کودک را زیر یکی از بوته‌ها انداخت.",
+  "tokens": [
+    {
+      "surface": "ולכלו",
+      "gloss": "و تمام شد"
+    },
+    {
+      "surface": "המים",
+      "gloss": "آبِ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "پوستین"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "و انداخت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کودک"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "کودک"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "زیرِ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکی از"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "بوته‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T20:00:16.168920261Z",
+  "model": "glm-5.2"
+}

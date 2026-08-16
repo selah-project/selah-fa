@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 23:28",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "تسَلمون هَاَحوحی، مَهَرای هَنِتوفاتی،",
+  "tokens": [
+    {
+      "surface": "צלמון",
+      "gloss": "تسَلمون"
+    },
+    {
+      "surface": "האחחי",
+      "gloss": "هَاَحوحی"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "مَهَرای"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "هَنِتوفاتی"
+    }
+  ],
+  "timestamp": "2026-08-13T21:23:14.088260533Z",
+  "model": "glm-5.2"
+}

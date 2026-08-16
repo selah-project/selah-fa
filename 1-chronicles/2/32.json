@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "1-chronicles 2:32",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و پسرانِ یادَع، برادرِ شَمّای: یِتِر و یوناتان؛ و یِتِر بی‌پسر درگذشت.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "یادَع"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برادرِ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "شَمّای"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "یِتِر"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "و یوناتان"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و درگذشت"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "یِتِر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه\/بی"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پسران"
+    }
+  ],
+  "timestamp": "2026-08-15T04:33:33.327662150Z",
+  "model": "glm-5.3"
+}

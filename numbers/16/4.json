@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "و موشه شنید و بر چهره‌اش فروافتاد.",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁמַ֣ע",
+      "gloss": "و شنید"
+    },
+    {
+      "surface": "מֹשֶׁ֔ה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "וַיִּפֹּ֖ל",
+      "gloss": "و فروافتاد"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "פָּנָֽיו",
+      "gloss": "چهره‌اش"
+    }
+  ],
+  "timestamp": "2026-08-13T20:36:37.880434293Z",
+  "model": "glm-5.2"
+}

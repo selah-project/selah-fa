@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 2:24",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "پسرانِ عَزماوَت، چهل و دو.",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "עַזְמָ֖וֶת",
+      "gloss": "عزماوت"
+    },
+    {
+      "surface": "אַרְבָּעִ֥ים",
+      "gloss": "چهل"
+    },
+    {
+      "surface": "וּשְׁנָֽיִם",
+      "gloss": "و دو"
+    }
+  ],
+  "timestamp": "2026-08-13T23:27:44.449326619Z",
+  "model": "glm-5.2"
+}

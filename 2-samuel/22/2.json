@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 22:2",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "و ⟨او⟩ گفت: یاهوه صخرهٔ من و دژِ من و رهایی‌بخشِ من است،",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و ⟨او⟩ گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "صخرهٔ من"
+    },
+    {
+      "surface": "ומצדתי",
+      "gloss": "و دژِ من"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "و رهایی‌بخشِ من"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برای من"
+    }
+  ],
+  "timestamp": "2026-08-13T21:22:27.815427538Z",
+  "model": "glm-5.2"
+}

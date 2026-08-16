@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezekiel 40:47",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 40,
+  "translation": "و ⟨او⟩ ⟨את⟩ حیاط را اندازه گرفت: درازیِ صد اَمه و پهناییِ صد اَمه، مربع، و مذبح ⟨بود⟩ پیش ازِ خانه.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "و اندازه گرفت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حیاط"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "حیاط"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "درازیِ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "صد"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "اَمه"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "و پهناییِ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "صد"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "اَمه"
+    },
+    {
+      "surface": "מרבעת",
+      "gloss": "مربع"
+    },
+    {
+      "surface": "והמזבח",
+      "gloss": "و مذبح"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیش ازِ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "خانه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:23:06.080180046Z",
+  "model": "glm-5.2"
+}

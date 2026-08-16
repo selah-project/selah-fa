@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 20:22",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و از قادِش به راه افتادند، و پسرانِ یِسرائِل، تمامِ جامعه، به هورِ کوه آمدند.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "و به راه افتادند"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "از قادِش"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "و آمدند"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائِل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "جامعه"
+    },
+    {
+      "surface": "הר",
+      "gloss": "هورِ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "کوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:37:19.230266092Z",
+  "model": "glm-5.2"
+}

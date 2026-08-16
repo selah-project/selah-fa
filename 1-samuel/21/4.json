@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و حالا چه چیزی زیر دستِ توست؟ پنج نان به من بده، یا هرچه یافت می‌شود.»",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و حالا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "יש",
+      "gloss": "چیزی هست"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "زیرِ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "دستِ تو"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "بده"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "یافت می‌شود"
+    }
+  ],
+  "timestamp": "2026-08-13T21:13:52.799074363Z",
+  "model": "glm-5.2"
+}

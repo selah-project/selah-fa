@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 8:40",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "تا بترسند ⟨از⟩ تو، تمامِ روزهائی که آنان زنده‌اند بر رویِ زمینی که به پدرانِ ما دادی،",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "تا"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "بترسند"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "روزهائی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "הם",
+      "gloss": "آنان"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زنده‌اند"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رویِ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمینی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "دادی"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "به پدرانِ ما"
+    }
+  ],
+  "timestamp": "2026-08-13T21:27:16.367629602Z",
+  "model": "glm-5.2"
+}

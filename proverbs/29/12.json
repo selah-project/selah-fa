@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 29:12",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "فرمانروا، اگر گوش به سخنِ دروغ بسپارد، همهٔ خدمتکارانش بدکارند.",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "فرمانروا،"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "اگر گوش بسپارد"
+    },
+    {
+      "surface": "על",
+      "gloss": "به"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخنِ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "خدمتکارانش"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکارند"
+    }
+  ],
+  "timestamp": "2026-08-13T23:05:13.081335712Z",
+  "model": "glm-5.2"
+}

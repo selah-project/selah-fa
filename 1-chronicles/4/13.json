@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 4:13",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و پسرانِ قِناز: عُتنی‌ئیل و سِرایاه؛ و پسرانِ عُتنی‌ئیل: حَتات.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "قِناز"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "عُتنی‌ئیل"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "و سِرایاه"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "عُتنی‌ئیل"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "حَتات"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:26.925014148Z",
+  "model": "glm-5.2"
+}

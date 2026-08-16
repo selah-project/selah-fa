@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 12:12",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "عَتّای ششم، اِلی‌اِل هفتم.",
+  "tokens": [
+    {
+      "surface": "עַתַּי֙",
+      "gloss": "عَتّای"
+    },
+    {
+      "surface": "הַשִּׁשִּׁ֔י",
+      "gloss": "ششم"
+    },
+    {
+      "surface": "אֱלִיאֵ֖ל",
+      "gloss": "اِلی‌اِل"
+    },
+    {
+      "surface": "הַשְּׁבִעִֽי",
+      "gloss": "هفتم"
+    }
+  ],
+  "timestamp": "2026-08-14T00:17:47.289105708Z",
+  "model": "glm-5.2"
+}

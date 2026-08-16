@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "خورشید بر زمین برآمده بود، و لوط به تسوع درآمد.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "خورشید"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "برآمده بود"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "و لوط"
+    },
+    {
+      "surface": "בא",
+      "gloss": "درآمد"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "به تسوع"
+    }
+  ],
+  "timestamp": "2026-08-13T19:59:18.558823268Z",
+  "model": "glm-5.2"
+}

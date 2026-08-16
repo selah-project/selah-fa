@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 9:16",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و سیصد سپر از زرِ کوبیده، سیصد ⟨یک⟩ زر بر یکِ سپر بالا می‌رفت، و پادشاه آن‌ها را در خانهٔ جارِ لُبنان نهاد.",
+  "tokens": [
+    {
+      "surface": "ושלש",
+      "gloss": "و سیصد"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "מגנים",
+      "gloss": "سپرها"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زرِ"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "کوبیده"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سیصد"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زر"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "بالا می‌رفت"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "המגן",
+      "gloss": "سپرِ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "و نهاد آن‌ها را"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "در خانهٔ"
+    },
+    {
+      "surface": "יער",
+      "gloss": "جارِ"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "لُبنان"
+    }
+  ],
+  "timestamp": "2026-08-14T00:18:25.300859191Z",
+  "model": "glm-5.2"
+}

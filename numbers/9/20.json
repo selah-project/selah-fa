@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 9:20",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و گاهی بود که ابر روزهایی چند بر مسکن باشد؛ به فرمانِ یاهوه اردو می‌زدند و به فرمانِ یاهوه کوچ می‌کردند.",
+  "tokens": [
+    {
+      "surface": "ויש",
+      "gloss": "و گاهی بود"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "باشد"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ابر"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روزهایی"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "چند"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "על",
+      "gloss": "به"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فرمانِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "יחנו",
+      "gloss": "اردو می‌زدند"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و به"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فرمانِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "کوچ می‌کردند"
+    }
+  ],
+  "timestamp": "2026-08-13T20:34:10.570149273Z",
+  "model": "glm-5.2"
+}

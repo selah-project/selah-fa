@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 33:5",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "اگر بتوانی مرا پاسخ دهی، ⟨امر خود را⟩ پیشِ من بچین، بایست.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "توانی"
+    },
+    {
+      "surface": "השיבני",
+      "gloss": "مرا پاسخ دهی"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "بچین"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشِ من"
+    },
+    {
+      "surface": "התיצבה",
+      "gloss": "بایست"
+    }
+  ],
+  "timestamp": "2026-08-13T23:13:03.316784094Z",
+  "model": "glm-5.2"
+}

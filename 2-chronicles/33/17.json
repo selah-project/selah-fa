@@ -1,0 +1,45 @@
+{
+  "ref": "2-chronicles 33:17",
+  "lang": "fa",
+  "book": "2-chronicles",
+  "chapter": 33,
+  "verse": 17,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:47:37Z",
+  "translation": "امّا قوم هنوز در بلندی‌ها ذبح می‌کردند — فقط برای یاهوه الوهیمِ ایشان.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "امّا"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "هنوز"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "ذبح می‌کردند"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "در بلندی‌ها"
+    },
+    {
+      "surface": "רק",
+      "gloss": "فقط"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "برای یاهوه"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "الوهیمِ ایشان"
+    }
+  ]
+}

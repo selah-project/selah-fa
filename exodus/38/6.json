@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 38,
+  "translation": "و ساخت ⟨את⟩ میله‌ها را از چوبِ شطیم، و پوشاند ⟨את⟩ آن‌ها را مس.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و ساخت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میله‌ها"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "میله‌ها"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "چوبِ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شطیم"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "و پوشاند"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ آن‌ها را",
+      "marks": "آن‌ها"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "مس"
+    }
+  ],
+  "timestamp": "2026-08-13T20:20:37.434199875Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "تنها ⟨את⟩ طلا و ⟨את⟩ نقره، ⟨את⟩ مس، ⟨את⟩ آهن، ⟨את⟩ قلع، و ⟨את⟩ سرب",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "تنها"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "طلا"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "طلا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "نقره"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "نقره"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مس"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "مس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آهن"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "آهن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قلع"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "قلع"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "سرب"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "سرب"
+    }
+  ],
+  "timestamp": "2026-08-13T20:40:50.550868501Z",
+  "model": "glm-5.2"
+}

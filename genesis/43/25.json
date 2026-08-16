@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 43,
+  "translation": "و آماده کردند ⟨את⟩ هدیه را تا آمدنِ یوسف در نیمروز، زیرا شنیده بودند که آنجا نان خواهند خورد.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "و آماده کردند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هدیه"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "هدیه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "آمدنِ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "در نیمروز"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "شنیده بودند"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آنجا"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "خواهند خورد"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:07:24.084135778Z",
+  "model": "glm-5.2"
+}

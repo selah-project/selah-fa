@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و مُرد پسرِ این زن در شب، که او بر او خوابیده بود.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "و مُرد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "زن"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "در شب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "خوابیده بود"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر او"
+    }
+  ],
+  "timestamp": "2026-08-13T21:25:06.043455149Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "ref": "exodus 26:32",
+  "lang": "fa",
+  "book": "exodus",
+  "chapter": 26,
+  "verse": 32,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:55:53Z",
+  "translation": "و ⟨את⟩ آن را بر چهار ستونِ شطیمِ پوشیده ⟨با⟩ طلا بگذاری؛ قلاب‌هایشان از طلا ⟨است⟩، بر چهار پایهٔ نقره.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "و بگذاری"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "آن"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "ستونِ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شطیم"
+    },
+    {
+      "surface": "מצפים",
+      "gloss": "پوشیده"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "با طلا"
+    },
+    {
+      "surface": "וויהם",
+      "gloss": "و قلاب‌هایشان"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "از طلا ⟨است⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "پایهٔ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "نقره"
+    }
+  ]
+}

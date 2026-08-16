@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "و به او گفت: «با من ⟨את⟩ به سویِ خانه بیا، و نان بخور.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بیا"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "با من \/ من"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "به سویِ خانه"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "و بخور"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    }
+  ],
+  "timestamp": "2026-08-13T21:28:41.619111885Z",
+  "model": "glm-5.2"
+}

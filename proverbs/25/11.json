@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 25:11",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "سیب‌های زرین در قاب‌های نقره، سخنی است که در زمانِ خود گفته شود.",
+  "tokens": [
+    {
+      "surface": "תפוחי",
+      "gloss": "سیب‌های"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زرین"
+    },
+    {
+      "surface": "במשכיות",
+      "gloss": "در قاب‌های"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "نقره"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخنی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گفته‌شود"
+    },
+    {
+      "surface": "על",
+      "gloss": "در"
+    },
+    {
+      "surface": "אפניו",
+      "gloss": "زمانِ خودش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:23.920995927Z",
+  "model": "glm-5.2"
+}

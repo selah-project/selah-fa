@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 25:17",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "وَ کاپورتِ زرِ ناب سازی: دو اَمه و نیم درازیِ آن، و یک اَمه و نیم پهنایِ آن.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "وَ سازی"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "کاپورت"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زر"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ناب"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "دو اَمه"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "و نیم"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "درازیِ آن"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "و یک اَمه"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "و نیم"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "پهنایِ آن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:17:27.326985495Z",
+  "model": "glm-5.2"
+}

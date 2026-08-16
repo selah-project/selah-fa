@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 136,
+  "translation": "به الوهیمِ خدایان سپاس گویید، که تا به ابد رحمتِ اوست.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "سپاس گویید"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "به الوهیمِ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "خدایان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "لעולם",
+      "gloss": "تا به ابد"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "رحمتِ اوست"
+    }
+  ],
+  "timestamp": "2026-08-15T04:26:56.195033400Z",
+  "model": "glm-5.3"
+}

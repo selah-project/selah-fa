@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "nehemiah 7:58",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "پسرانِ یَعلَا، پسرانِ دارْقون، پسرانِ گیدْئِل.",
+  "tokens": [
+    {
+      "surface": "בְּנֵי",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "יַעְלָ֥א",
+      "gloss": "یَعلَا"
+    },
+    {
+      "surface": "בְנֵי",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "דַרְק֖וֹן",
+      "gloss": "دارْقون"
+    },
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "גִדֵּֽל",
+      "gloss": "گیدْئِل"
+    }
+  ],
+  "timestamp": "2026-08-13T23:33:18.719201645Z",
+  "model": "glm-5.2"
+}

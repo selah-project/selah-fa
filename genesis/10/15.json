@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "وکَناعان زاد ⟨את⟩ صیدون بیکورش را و⟨את⟩ حِت را.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "وکَناعان"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صیدون"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "صیدون"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "بیکورش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "حِت"
+    },
+    {
+      "surface": "חת",
+      "gloss": "حِت"
+    }
+  ],
+  "timestamp": "2026-08-13T19:57:02.444868082Z",
+  "model": "glm-5.2"
+}

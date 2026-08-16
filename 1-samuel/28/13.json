@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 28:13",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "و به او گفت پادشاه: نترس، زیرا چه دیدی؟ و گفت زن به شائول: الوهیم دیدم، بالا می‌روند از زمین.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "לה",
+      "gloss": "به او"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "بترس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "دیدی"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "زن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "دیدم"
+    },
+    {
+      "surface": "עלים",
+      "gloss": "بالا می‌روند"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T21:15:28.335661562Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و با سرو پوشیده شد، از بالا، بر پهلوها که بر ستون‌ها بودند، چهل‌و‌پنج؛ پانزده ردیف.",
+  "tokens": [
+    {
+      "surface": "וספן",
+      "gloss": "و پوشیده شد"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "با سرو"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "از بالا"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "پهلوها"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ستون‌ها"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چهل"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "و پنج"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پانزده"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "הטור",
+      "gloss": "ردیف"
+    }
+  ],
+  "timestamp": "2026-08-13T21:26:11.981528449Z",
+  "model": "glm-5.2"
+}

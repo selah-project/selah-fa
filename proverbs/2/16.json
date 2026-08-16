@@ -1,0 +1,37 @@
+{
+  "tier": "hand",
+  "verse": 16,
+  "ref": "proverbs 2:16",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "تا تو را رهایی دهد از زنِ بیگانه، از اجنبی‌ای که سخنانش را نرم ساخته.",
+  "tokens": [
+    {
+      "surface": "להצילך",
+      "gloss": "تا تو را رهایی دهد"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "از زنِ"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "بیگانه"
+    },
+    {
+      "surface": "מנכריה",
+      "gloss": "از اجنبی‌ای که"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "سخنانش را"
+    },
+    {
+      "surface": "החליקה",
+      "gloss": "نرم ساخته"
+    }
+  ],
+  "timestamp": "2026-08-14T17:46:57Z",
+  "model": "claude-fable-5/hand"
+}

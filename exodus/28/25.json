@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 28:25",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "و ⟨את⟩ دو سرِ دو رشته را بر دو گلدوزی خواهی داد، و بر شانه‌های اِفود روبروی رویِ آن خواهی نهاد.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "دو سر"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "سرِ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "رشته"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "خواهی داد"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "המשבצות",
+      "gloss": "گلدوزی"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "و خواهی نهاد"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כתפות",
+      "gloss": "شانه‌های"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "اِفود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "מול",
+      "gloss": "روبروی"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "رویِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:18:04.134443115Z",
+  "model": "glm-5.2"
+}

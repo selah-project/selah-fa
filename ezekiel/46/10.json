@@ -1,0 +1,43 @@
+{
+  "tier": "hand",
+  "verse": 10,
+  "ref": "ezekiel 46:10",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 46,
+  "translation": "و رئیس ⟨در⟩ میانشان؛ ⟨چون⟩ درآیند، درآید، و ⟨چون⟩ بیرون روند، بیرون رَوَد.",
+  "tokens": [
+    {
+      "surface": "והנשיא",
+      "gloss": "و رئیس",
+      "marks": ""
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "⟨در⟩ میانشان",
+      "marks": ""
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "⟨چون⟩ درآیند",
+      "marks": ""
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "درآید",
+      "marks": ""
+    },
+    {
+      "surface": "ובצאתם",
+      "gloss": "و ⟨چون⟩ بیرون روند",
+      "marks": ""
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "بیرون رَوَد",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-08-14T17:47:39Z",
+  "model": "claude-fable-5/hand"
+}

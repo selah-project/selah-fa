@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 7:2",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و نتوانستند کوهنین درآمدن به خانه یاهوه، زیرا پر بود شکوه یاهوه ⟨את⟩ خانه یاهوه را.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "توانستند"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کوهنین"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "درآمدن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "پر بود"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شکوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خانه یاهوه"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:44:47.660990651Z",
+  "model": "glm-5.2"
+}

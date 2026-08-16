@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 26:19",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "چنین ⟨است⟩ مردی که فریب می‌دهد ⟨את⟩ همدمش و می‌گوید: آیا شوخی نمی‌کنم؟",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "که فریب می‌دهد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همدمش"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "همدمش"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و می‌گوید"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "شوخی نمی‌کنم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    }
+  ],
+  "timestamp": "2026-08-13T23:05:07.681318451Z",
+  "model": "glm-5.2"
+}

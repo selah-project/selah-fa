@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 23:20",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "پسران عوزی‌اِل میکاه سر و ییشیاه دوم",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֖י",
+      "gloss": "پسران"
+    },
+    {
+      "surface": "עֻזִּיאֵ֑ל",
+      "gloss": "عوزی‌اِل"
+    },
+    {
+      "surface": "מִיכָ֣ה",
+      "gloss": "میکاه"
+    },
+    {
+      "surface": "הָרֹ֔אשׁ",
+      "gloss": "سر"
+    },
+    {
+      "surface": "וְיִשִּׁיָּ֖ה",
+      "gloss": "و ییشیاه"
+    },
+    {
+      "surface": "הַשֵּׁנִֽי",
+      "gloss": "دوم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:33.267369990Z",
+  "model": "glm-5.2"
+}

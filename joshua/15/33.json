@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 15:33",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "در شِفِلا: اِشتائول، و تسرعاه، و اَشنه،",
+  "tokens": [
+    {
+      "surface": "בשפלה",
+      "gloss": "در شِفِلا"
+    },
+    {
+      "surface": "אשתאול",
+      "gloss": "اِشتائول"
+    },
+    {
+      "surface": "וצרעה",
+      "gloss": "و تسرعاه"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "و اَشنه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:58:09.749723332Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 2:24",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "نه، پسرانم، که خوب نیستِ شنیده‌ای که من می‌شنوم — که شما قومِ یاهوه را به گناه می‌گزارید.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "خوب است"
+    },
+    {
+      "surface": "השמעה",
+      "gloss": "شنیده‌ای"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "می‌شنوم"
+    },
+    {
+      "surface": "מעברים",
+      "gloss": "می‌گزارید به گناه"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قومِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T21:08:11.098484336Z",
+  "model": "glm-5.2"
+}

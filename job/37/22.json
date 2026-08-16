@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "job 37:22",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "از شمال، زر می‌آید؛ بر اِلوَه، شکوهِ هول‌انگیز است.",
+  "tokens": [
+    {
+      "surface": "מצפון",
+      "gloss": "از شمال"
+    },
+    {
+      "surface": "זהب",
+      "gloss": "زر"
+    },
+    {
+      "surface": "יאתה",
+      "gloss": "می‌آید"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "اِلوَه"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "هول‌انگیز"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "شکوه"
+    }
+  ],
+  "timestamp": "2026-08-15T04:29:40.683260665Z",
+  "model": "glm-5.3"
+}

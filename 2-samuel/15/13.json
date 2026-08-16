@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 15:13",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و آمد خبرآور نزد داوود، به‌قولِ ⟨که⟩: دل مردِ یِسرائیل در پیِ اَوشالوم شده است.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "و آمد"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "خبرآور"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نزد"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به‌قولِ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "شده است"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "در پیِ"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "اَوشالوم"
+    }
+  ],
+  "timestamp": "2026-08-13T21:20:22.273790111Z",
+  "model": "glm-5.2"
+}

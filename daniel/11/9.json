@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و⟨او⟩ وارد پادشاهی پادشاهِ جنوب شود، و به سرزمینِ خود بازگردد.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ووارد شود"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "به پادشاهی"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "جنوب"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "وبازگردد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "سرزمینِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:28:07.194229669Z",
+  "model": "glm-5.2"
+}

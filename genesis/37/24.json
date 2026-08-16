@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "و او را گرفتند و ⟨את⟩ او را به چاه انداختند، و چاه خالی بود — آب در آن نبود.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "و او را گرفتند"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "و انداختند"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "او"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "به چاه"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "و چاه"
+    },
+    {
+      "surface": "רק",
+      "gloss": "خالی"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نبود"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در آن"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آب"
+    }
+  ],
+  "timestamp": "2026-08-13T20:06:04.712345988Z",
+  "model": "glm-5.2"
+}

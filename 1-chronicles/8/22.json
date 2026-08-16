@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "1-chronicles 8:22",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و ییشپان، و عِیوِر، و اِلی‌اِیل.",
+  "tokens": [
+    {
+      "surface": "וישפן",
+      "gloss": "و ییشپان"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "و عِیوِر"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "و اِلی‌اِیل"
+    }
+  ],
+  "timestamp": "2026-08-15T04:33:30.896351094Z",
+  "model": "glm-5.3"
+}

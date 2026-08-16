@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و یاهوه گفت: آیا خشم افروختنِ نیکو برای توست؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "آیا نیکو کردن"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "خشم افروختن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برای توست"
+    }
+  ],
+  "timestamp": "2026-08-13T22:31:39.581799237Z",
+  "model": "glm-5.2"
+}

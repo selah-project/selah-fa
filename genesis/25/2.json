@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و او برایش ⟨את⟩ زِمران و ⟨את⟩ یَقشان و ⟨את⟩ مِدان و ⟨את⟩ میدیان و ⟨את⟩ یِشبک و ⟨את⟩ شُوحَ را زایید.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "و زایید"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برایش"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زِمران"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "زِمران"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "یَقشان"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "یَقشان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مِدان"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "مِدان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "میدیان"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "میدیان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "یِشبک"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "یِشبک"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "شُوحَ"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "شُوحَ"
+    }
+  ],
+  "timestamp": "2026-08-13T20:01:26.895287227Z",
+  "model": "glm-5.2"
+}

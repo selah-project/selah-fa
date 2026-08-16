@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و پسری زاد، و نامِ ⟨את⟩ او را گِرِشوم خواند، زیرا گفت: غریب بوده‌ام در زمینِ بیگانه.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "و زاد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسری"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "و خواند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نامِ او"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "نامِ او"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "گِرِشوم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "גר",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "بوده‌ام"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "در زمینِ"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "بیگانه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:10:17.717153435Z",
+  "model": "glm-5.2"
+}

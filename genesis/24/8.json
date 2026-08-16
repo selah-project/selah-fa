@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 24:8",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و اگر نخواهد زن آمدن به دنبالِ تو، تو پاک خواهی شد از قسمِ من این؛ تنها ⟨את⟩ پسرم را باز نگردانی به آنجا.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "خواهد"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "زن"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "آمدن"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "به دنبالِ تو"
+    },
+    {
+      "surface": "ונקית",
+      "gloss": "تو پاک خواهی شد"
+    },
+    {
+      "surface": "משבעתי",
+      "gloss": "از قسمِ من"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "רק",
+      "gloss": "تنها"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پسرم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "بازگردانی"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "به آنجا"
+    }
+  ],
+  "timestamp": "2026-08-13T20:00:42.424240885Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 8:26",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و شَمْشِرای، و شَحَرْیَه، و عَتَلْیَه.",
+  "tokens": [
+    {
+      "surface": "וְשַׁמְשְׁרַ֥י",
+      "gloss": "و شَمْشِرای"
+    },
+    {
+      "surface": "וּשְׁחַרְיָ֖ה",
+      "gloss": "و شَحَرْیَه"
+    },
+    {
+      "surface": "וַעֲתַלְיָֽה",
+      "gloss": "و عَتَلْیَه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:33.304918637Z",
+  "model": "glm-5.2"
+}

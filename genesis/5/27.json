@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 5:27",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و شدند همهٔ روزهایِ مَتوشَلَخ نه و شصت سال و نهصد سال، و مرد.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "و شدند"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روزهایِ"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "مَتوشَلَخ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نه"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "و شصت"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:05.981034693Z",
+  "model": "glm-5.2"
+}

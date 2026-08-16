@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 3:2",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و دست به دستِ او بنا کردند مردان یِریحو، و دست به دستِ او بنا کرد زَکور پسر اِمری.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دستِ او"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "بنا کردند"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "مردان"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "یِریحو"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دستِ او"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بنا کرد"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "زَکور"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "اِمری"
+    }
+  ],
+  "timestamp": "2026-08-13T23:32:19.500761296Z",
+  "model": "glm-5.2"
+}

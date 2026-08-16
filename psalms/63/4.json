@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 63,
+  "translation": "زیرا که بهتر است حُسنت از زندگی، لب‌هایم ستایشت می‌کنند",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا که"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بهتر است"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "حُسنت"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "از زندگی"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "لب‌هایم"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "ستایشت می‌کنند"
+    }
+  ],
+  "timestamp": "2026-08-13T22:46:04.005951628Z",
+  "model": "glm-5.2"
+}

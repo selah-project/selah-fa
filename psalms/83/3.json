@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 83,
+  "translation": "که اینک دشمنانت همهمه می‌کنند و منسانت سر برافراشته‌اند،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "دشمنانت"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "همهمه می‌کنند"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "و منسانت"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "برافراشته‌اند"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    }
+  ],
+  "timestamp": "2026-08-13T22:49:08.179798174Z",
+  "model": "glm-5.2"
+}

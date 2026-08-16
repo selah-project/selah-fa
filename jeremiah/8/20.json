@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "گذشت درو، تمام شد تابستان، و ما نجات نیافتیم.",
+  "tokens": [
+    {
+      "surface": "עָבַ֥ר",
+      "gloss": "گذشت"
+    },
+    {
+      "surface": "קָצִ֖יר",
+      "gloss": "درو"
+    },
+    {
+      "surface": "כָּ֣לָה",
+      "gloss": "تمام شد"
+    },
+    {
+      "surface": "קָ֑יִץ",
+      "gloss": "تابستان"
+    },
+    {
+      "surface": "וַאֲנַ֖חְנוּ",
+      "gloss": "و ما"
+    },
+    {
+      "surface": "ל֥וֹא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נוֹשָֽׁעְנוּ",
+      "gloss": "نجات یافتیم"
+    }
+  ],
+  "timestamp": "2026-08-13T21:59:09.396775576Z",
+  "model": "glm-5.2"
+}

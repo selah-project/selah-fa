@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "بر سرِ بلندی‌ها، بالایِ راه، در خانهٔ مسیرها ایستاده است",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "بر سرِ"
+    },
+    {
+      "surface": "مרומים",
+      "gloss": "بلندی‌ها"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بالایِ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راه"
+    },
+    {
+      "surface": "בית",
+      "gloss": "در خانهٔ"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "مسیرها"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "ایستاده است"
+    }
+  ],
+  "timestamp": "2026-08-13T23:00:58.245047752Z",
+  "model": "glm-5.2"
+}

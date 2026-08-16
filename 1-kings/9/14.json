@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و حیرام برای پادشاه صد و بیست کیکار طلا فرستاد.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "و فرستاد"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "حیرام"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "برای پادشاه"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "صد"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "و بیست"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "کیکار"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "طلا"
+    }
+  ],
+  "timestamp": "2026-08-13T21:27:43.978418464Z",
+  "model": "glm-5.2"
+}

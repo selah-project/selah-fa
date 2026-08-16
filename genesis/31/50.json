@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "genesis 31:50",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "اً رنج دهی ⟨את⟩ دخترانم و اگر زنانی بگیری بر دخترانم — نیست مردی با ما، ببین، الوهیم گواه است میانِ من و میانِ تو.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اً"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "رنج دهی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دخترانم"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "دخترانم"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "بگیری"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "زنانی"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "دخترانم"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "با ما"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ببین"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "עד",
+      "gloss": "گواه"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "میانِ من"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "و میانِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:04:15.499301139Z",
+  "model": "glm-5.2"
+}

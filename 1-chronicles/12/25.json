@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 12:25",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "از بنیانِ یهودا، برندگانِ سپرِ بزرگ و نیزه، شش هزار و هشتصد، مجهّزِ لشکر.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بنیانِ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "برندگانِ"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "سپرِ بزرگ"
+    },
+    {
+      "surface": "ורמח",
+      "gloss": "و نیزه"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "شش"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "و هشت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "مجهّزِ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشکر"
+    }
+  ],
+  "timestamp": "2026-08-13T23:39:01.992380194Z",
+  "model": "glm-5.2"
+}

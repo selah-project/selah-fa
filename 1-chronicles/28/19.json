@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 28:19",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "همه به نوشته از دستِ یاهوه بر من، فهماً داده شد؛ تمامِ کارهای الگو.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "همه"
+    },
+    {
+      "surface": "בכתב",
+      "gloss": "به نوشته"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "از دستِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "השכיל",
+      "gloss": "فهماً داده شد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "מלאכות",
+      "gloss": "کارهای"
+    },
+    {
+      "surface": "התבנית",
+      "gloss": "الگو"
+    }
+  ],
+  "timestamp": "2026-08-13T23:43:21.106223680Z",
+  "model": "glm-5.2"
+}

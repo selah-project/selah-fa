@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و یاهوه به قایین گفت: چرا بر تو سوزانیده شد؟ و چرا روی‌هایت فرو افتاد؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قایین"
+    },
+    {
+      "surface": "למה",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "سوزانیده شد"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بر تو"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "و چرا"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "فرو افتادند"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "روی‌هایت"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:48.614900418Z",
+  "model": "glm-5.2"
+}

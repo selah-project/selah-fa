@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 12:20",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "فریب در دلِ بداندیشان، و برای مشاورانِ صلح شادی.",
+  "tokens": [
+    {
+      "surface": "מרמה",
+      "gloss": "فریب"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "در دلِ"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "بداندیشان"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "וליעצי",
+      "gloss": "و برای مشاورانِ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "صلح"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "شادی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:01:43.288096125Z",
+  "model": "glm-5.2"
+}

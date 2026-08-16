@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 5:20",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و شدند همهٔ روزهای یَرِد دو و شصت سال و نه‌صد سال، و ⟨او⟩ مُرد.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "و شدند"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روزهای"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "یَرِد"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "و شصت"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و مُرد"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:52.515696377Z",
+  "model": "glm-5.2"
+}

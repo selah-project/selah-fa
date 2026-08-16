@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "job 33:33",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "اگر نیست، تو به من بشنو، خاموش باش و من تو را حکمت خواهم آموخت.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "بشنو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "خاموش باش"
+    },
+    {
+      "surface": "ואאלפך",
+      "gloss": "و تو را خواهم آموخت"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:12:54.905579686Z",
+  "model": "glm-5.2"
+}

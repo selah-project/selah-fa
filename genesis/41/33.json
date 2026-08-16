@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 41:33",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 41,
+  "translation": "وَاکنون، فَرعون ببیند مردی دانا و حکیم، و او را بر زمینِ مِتسْراییم بگمارد.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "وَاکنون"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ببیند"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فَرعون"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "و حکیم"
+    },
+    {
+      "surface": "וישיתהו",
+      "gloss": "و او را بگمارد"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینِ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسْراییم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:07:02.614682787Z",
+  "model": "glm-5.2"
+}

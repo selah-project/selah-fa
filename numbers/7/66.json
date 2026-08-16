@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "numbers 7:66",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "در روزِ دهم، نَسی برای بنی‌دان: اَخیعِزِر پسرِ عَمیشَدّای.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "دهم"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "نَسی"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "برای بنی‌"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "اَخیعِزِر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "عَمیشَدّای"
+    }
+  ],
+  "timestamp": "2026-08-13T20:33:41.092249120Z",
+  "model": "glm-5.2"
+}

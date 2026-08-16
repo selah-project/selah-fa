@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "قیام کنند گواهانِ ستم، آنچه را نمی‌دانستم از من می‌پرسند.",
+  "tokens": [
+    {
+      "surface": "יקومון",
+      "gloss": "قیام کنند"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "گواهانِ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ستم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنچه را"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "دانستم"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "از من می‌پرسند"
+    }
+  ],
+  "timestamp": "2026-08-13T22:41:53.427120353Z",
+  "model": "glm-5.2"
+}

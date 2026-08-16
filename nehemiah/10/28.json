@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 10:28",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "مَلوک، حاریم، بَعَنا",
+  "tokens": [
+    {
+      "surface": "מַלּ֥וּךְ",
+      "gloss": "مَلوک"
+    },
+    {
+      "surface": "חָרִ֖ם",
+      "gloss": "حاریم"
+    },
+    {
+      "surface": "בַּעֲנָֽה",
+      "gloss": "بَعَنا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:33:53.748410515Z",
+  "model": "glm-5.2"
+}

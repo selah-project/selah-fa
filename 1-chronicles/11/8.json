@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و ⟨او⟩ شهر را از پیرامون ساخت، از مِلو تا پیرامون؛ و یُآو ⟨את⟩ بقیهٔ شهر را زنده داشت.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "و ساخت"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهرِ"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "از پیرامون"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "مِلو"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "پیرامونِ"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "و یُآو"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "زنده داشت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بقیهٔ"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "بقیهٔ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:54.232391681Z",
+  "model": "glm-5.2"
+}

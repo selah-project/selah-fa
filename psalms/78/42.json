@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 78,
+  "translation": "یادشان نرفت ⟨את⟩ دستِ او — روزی که ⟨آنها را⟩ از دشمن بازخرید کرد",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "یادشان نرفت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دستِ او"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دستِ او"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روزی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "بازخرید کرد"
+    },
+    {
+      "surface": "מני",
+      "gloss": "از"
+    },
+    {
+      "surface": "צר",
+      "gloss": "دشمن"
+    }
+  ],
+  "timestamp": "2026-08-15T04:24:44.807876541Z",
+  "model": "glm-5.3"
+}

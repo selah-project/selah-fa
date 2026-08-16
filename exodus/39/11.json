@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 39:11",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 39,
+  "translation": "و ردیفِ دوّم، نُوفَخ، سَفیر و یَهالوم.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "و ردیفِ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوّم"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "نُوفَخ"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "سَفیر"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "و یَهالوم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:20:31.772580859Z",
+  "model": "glm-5.2"
+}

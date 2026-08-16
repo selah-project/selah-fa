@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "سپاس گویید یاهوه را با کینور؛ با نِوِل ده‌تار، برای او بزنید.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "سپاس گویید"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاهوه را"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "با کینور"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "با نِوِل"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "ده‌تار"
+    },
+    {
+      "surface": "زמרו",
+      "gloss": "بزنید"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برای او"
+    }
+  ],
+  "timestamp": "2026-08-13T22:41:40.269697547Z",
+  "model": "glm-5.2"
+}

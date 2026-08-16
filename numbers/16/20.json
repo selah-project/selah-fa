@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 16:20",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "و سخن گفت یاهوه با موشه و با اَهارون، به این سخن:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "با"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و با"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اَهارون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به این سخن:"
+    }
+  ],
+  "timestamp": "2026-08-13T20:36:45.612509571Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "ezekiel 45:22",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 45,
+  "translation": "و ناسی در آن روز برای خود و برای همهٔ قومِ زمین گاو جوانی ⟨برای⟩ گناه تهیه کند.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "و تهیه کند"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "ناسی"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روز"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "برای خودش"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "و برای"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "פר",
+      "gloss": "گاو جوان"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "قربانی گناه"
+    }
+  ],
+  "timestamp": "2026-08-15T20:54:00.738328840Z",
+  "model": "glm-5.3+hand"
+}

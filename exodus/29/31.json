@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و ⟨את⟩ قوچِ نصب را بگیری، و بپزانی ⟨את⟩ گوشتِ او را در مکانِ مقدّس.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "قوچِ نصب"
+    },
+    {
+      "surface": "איל",
+      "gloss": "قوچ"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "نصب"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "بگیری"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "و بپزانی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گوشتِ او"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "گوشتِ او"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "در مکانِ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدّس"
+    }
+  ],
+  "timestamp": "2026-08-13T20:18:35.265177293Z",
+  "model": "glm-5.2"
+}

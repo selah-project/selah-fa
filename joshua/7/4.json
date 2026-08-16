@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 7:4",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "وبالا رفتند از قوم آنجا نزدیک به سه هزار مرد، وگریختند از پیش مردان هَعَی.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "وبالا رفتند"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "آنجا"
+    },
+    {
+      "surface": "כשלשת",
+      "gloss": "نزدیک به سه"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "وگریختند"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "از پیشِ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "مردان"
+    },
+    {
+      "surface": "העי",
+      "gloss": "هَعَی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:56:25.879118636Z",
+  "model": "glm-5.2"
+}

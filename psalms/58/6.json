@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 58,
+  "translation": "که به صدای زمزمه‌گران نمی‌شنود، افسونگری که بسیار ماهر است.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "می‌شنود"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "به صدای"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "زمزمه‌گران"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "افسونگری"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "ماهر است"
+    }
+  ],
+  "timestamp": "2026-08-13T22:45:18.863384018Z",
+  "model": "glm-5.2"
+}

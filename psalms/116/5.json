@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 116,
+  "translation": "خودرأم یاهوه ⟨است⟩ و دادگر، و الوهیمِ ما رحم‌گر ⟨است⟩.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "خودرأم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "و دادگر"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "و الوهیمِ ما"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "رحم‌گر"
+    }
+  ],
+  "timestamp": "2026-08-13T22:55:00.624089551Z",
+  "model": "glm-5.2"
+}

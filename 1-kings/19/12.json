@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 19:12",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و پس از زلزله، آتشی ⟨بود⟩؛ نه در آتش یاهوه ⟨بود⟩. و پس از آتش، صدای سکوتی نازک.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "و پس از"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "زلزله"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آتشی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "באש",
+      "gloss": "در آتش"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "و پس از"
+    },
+    {
+      "surface": "האש",
+      "gloss": "آتش"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صدای"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "سکوتی"
+    },
+    {
+      "surface": "דקה",
+      "gloss": "نازک"
+    }
+  ],
+  "timestamp": "2026-08-13T21:31:07.664758743Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "deuteronomy 20:20",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "تنها درختی که بدانی که درختِ خوراکی نیست، ⟨את⟩ آن را تباه کنی و ببری، و بر شهری که با تو جنگ می‌کند محاصره‌ساز بسازی تا فروافتادنِ آن.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "تنها"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "درختی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "بدانی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "درخت"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "خوراکی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "است"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ آن",
+      "marks": "آن (درخت)"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "تباه کنی"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "و ببری"
+    },
+    {
+      "surface": "ובנית",
+      "gloss": "و بسازی"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "محاصره‌ساز"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "می‌کند"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "با تو"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "רדתה",
+      "gloss": "فروافتادنِ آن"
+    }
+  ],
+  "timestamp": "2026-08-15T03:56:25.514839408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و گفت یاهوه به یهوشعا: برخیز تو، چرا این‌گونه تو روی صورت خود می‌افتی؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یهوشعا"
+    },
+    {
+      "surface": "קם",
+      "gloss": "برخیز"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تو"
+    },
+    {
+      "surface": "למה",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این‌گونه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "می‌افتی"
+    },
+    {
+      "surface": "על",
+      "gloss": "روی"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "صورت خود"
+    }
+  ],
+  "timestamp": "2026-08-13T20:55:52.759455497Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "اکنن برو، آن را بر لوحی نزد ⟨آنها⟩ حک کن، و در کتابی نقش بزن، و برای روزِ آخر باشد، تا ابد، تا همیشه.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "اکنون"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "برو"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "آن را حک کن"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "لوحی"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "نزد آنها"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و در"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "کتابی"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "نقش بزن"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "و باشد"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "برای روزِ"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "آخر"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "تا ابد"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "همیشه"
+    }
+  ],
+  "timestamp": "2026-08-13T21:47:21.363418867Z",
+  "model": "glm-5.2"
+}

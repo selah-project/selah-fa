@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 119:57",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 119,
+  "translation": "سهمِ من یاهوه ⟨است⟩؛ گفتم تا نگه دارم ⟨את⟩ سخنانت را.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "سهمِ من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "گفتم"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "تا نگه دارم"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "سخنانت"
+    }
+  ],
+  "timestamp": "2026-08-13T22:55:11.613650674Z",
+  "model": "glm-5.2"
+}

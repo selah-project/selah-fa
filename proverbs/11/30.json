@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "میوهٔ صدیق درختِ زندگی است، و گیرندهٔ جان‌ها خردمند است.",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "میوهٔ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صدیق"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "درختِ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگی"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "و گیرندهٔ"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "جان‌ها"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "خردمند"
+    }
+  ],
+  "timestamp": "2026-08-15T04:27:33.348761888Z",
+  "model": "glm-5.3"
+}

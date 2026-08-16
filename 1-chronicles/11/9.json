@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و داوود پیش رفت، می‌رفت و بزرگ می‌شد، و یاهوه صَبایوت با او بود.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "و پیش رفت"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "می‌رفت"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "و بزرگ می‌شد"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "و یاهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صَبایوت"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "با او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:56.463730247Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و همهٔ رندهٔ بال‌داری که برای او چهار پا باشد، مردار او برای شماست.",
+  "tokens": [
+    {
+      "surface": "וְכֹל",
+      "gloss": "و همهٔ"
+    },
+    {
+      "surface": "שֶׁרֶץ",
+      "gloss": "رنده"
+    },
+    {
+      "surface": "הָעוֹף",
+      "gloss": "بال‌دار"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "برای او"
+    },
+    {
+      "surface": "אַרְבַּע",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "רַגְלָיִם",
+      "gloss": "پا"
+    },
+    {
+      "surface": "שֶׁקֶץ",
+      "gloss": "مردار"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "اوست"
+    },
+    {
+      "surface": "לָכֶם",
+      "gloss": "برای شما"
+    }
+  ],
+  "timestamp": "2026-08-13T20:24:09.887639975Z",
+  "model": "glm-5.2"
+}

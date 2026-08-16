@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و پس از او اِبْصان از بیت‌لَحِم داوری کرد ⟨את⟩ یِسرائِل را.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "و داوری کرد"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "پس از او"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرائِل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائِل"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "اِبْصان"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "از بیتِ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لَحِم"
+    }
+  ],
+  "timestamp": "2026-08-13T21:05:11.150186004Z",
+  "model": "glm-5.2"
+}

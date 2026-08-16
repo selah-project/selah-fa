@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.3",
+  "verse": 56,
+  "ref": "leviticus 13:56",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "و اگر کوهن ببیند و اینک ضایعه پس از شسته‌شدنِ ⟨את⟩ آن کم‌رنگ شده باشد، ⟨את⟩ آن را از جامه یا از پوست یا از تار یا از پود بِگُداید.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ببیند"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کوهن"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "کم‌رنگ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ضایعه"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پس از"
+    },
+    {
+      "surface": "הכבס",
+      "gloss": "شسته‌شدنِ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "آن (ضایعه)"
+    },
+    {
+      "surface": "וקרע",
+      "gloss": "و بگداید"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "آن را"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "جامه"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "העור",
+      "gloss": "پوست"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "השתי",
+      "gloss": "تار"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "مן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "پود"
+    }
+  ],
+  "timestamp": "2026-08-15T03:51:05.103099818Z",
+  "model": "glm-5.3"
+}

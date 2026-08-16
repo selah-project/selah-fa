@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و نیز دستِ یاهوه بر ایشان ⟨بود⟩ تا ایشان را از میانِ اردوگاه نابود کند، تا تمام شدنِ ایشان.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "و نیز"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دستِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "בם",
+      "gloss": "بر ایشان"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "تا نابود کند"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "از میانِ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "اردوگاه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "تمام شدنِ ایشان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:43:00.244448167Z",
+  "model": "glm-5.2"
+}

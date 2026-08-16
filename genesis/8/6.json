@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "وچنین شد در پایانِ چهل روز، که نُوح پنجرهٔ تابوت را — که ساخته بود — گشود.",
+  "tokens": [
+    {
+      "surface": "והי",
+      "gloss": "وچنین‌شد"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "درپایانِ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چهل"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "وگشود"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنجرهٔ تابوت"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "پنجرهٔ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "تابوت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ساخته‌بود"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:26.746427187Z",
+  "model": "glm-5.2"
+}

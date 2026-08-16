@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 102,
+  "translation": "شبیه شدم به پلیکانِ بیابان؛ بودم مانند جغگِ ویرانه‌ها.",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "شبیه شدم"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "به پلیگانِ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بیابان"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "بودم"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "مانندِ جغگِ"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ویرانه‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T22:51:41.814698761Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و ⟨את⟩ بازگشتگان از پیِ یاهوه، و آنانی که یاهوه را نجسته‌اند، و او را نپرسیده‌اند.”",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "بازگشتگان"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "بازگشتگان"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "از پیِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "و آنانی که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نـ"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "جسته‌اند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نـ"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "پرسیده‌اند او را"
+    }
+  ],
+  "timestamp": "2026-08-13T22:34:12.246011662Z",
+  "model": "glm-5.2"
+}

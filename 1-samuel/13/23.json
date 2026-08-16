@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "1-samuel 13:23",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "و پادگانِ فلیشتیم به گذرگاهِ مِخماس بیرون رفت.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "و بیرون رفت"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "پادگان"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلیشتیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "گذرگاه"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "مِخماس"
+    }
+  ],
+  "timestamp": "2026-08-15T04:01:26.294047476Z",
+  "model": "glm-5.3"
+}

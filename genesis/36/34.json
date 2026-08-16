@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 36:34",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "و یووَو مرد و حوشام از سرزمینِ تَیمانی به‌جایِ او پادشاه شد.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "یووَو"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "و پادشاه شد"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "به‌جایِ او"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "حوشام"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "از سرزمینِ"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "تَیمانی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:05:07.853214588Z",
+  "model": "glm-5.2"
+}

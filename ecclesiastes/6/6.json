@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "اگرچه هزار سال، دو بار زندگی کند و خوبی را نبیند، آیا همه به یک جای واحد نمی‌رود؟",
+  "tokens": [
+    {
+      "surface": "וְאִלּ֣וּ",
+      "gloss": "اگرچه"
+    },
+    {
+      "surface": "חָיָ֗ה",
+      "gloss": "زندگی کند"
+    },
+    {
+      "surface": "אֶ֤לֶף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "שָׁנִים֙",
+      "gloss": "سال"
+    },
+    {
+      "surface": "פַּעֲמַ֔יִם",
+      "gloss": "دو بار"
+    },
+    {
+      "surface": "וְטוֹבָ֖ה",
+      "gloss": "و خوبی"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "نه"
+    },
+    {
+      "surface": "רָאָ֑ה",
+      "gloss": "ببیند"
+    },
+    {
+      "surface": "הֲלֹ֛א",
+      "gloss": "آیا نه"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "به"
+    },
+    {
+      "surface": "מָק֥וֹם",
+      "gloss": "جای"
+    },
+    {
+      "surface": "אֶחָ֖ד",
+      "gloss": "واحد"
+    },
+    {
+      "surface": "הַכֹּ֥ל",
+      "gloss": "همه"
+    },
+    {
+      "surface": "הוֹלֵֽךְ",
+      "gloss": "می‌رود"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:27.002471948Z",
+  "model": "glm-5.2"
+}

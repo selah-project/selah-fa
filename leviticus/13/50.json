@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "و ببیند کاهن ⟨את⟩ ⟨آن⟩ نگاع را و بسپارد ⟨את⟩ ⟨آن⟩ نگاع را هفت روز.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "و ببیند"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨آن⟩ نگاع"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "⟨آن⟩ نگاع را"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "و بسپارد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨آن⟩ نگاع"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "⟨آن⟩ نگاع را"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روز"
+    }
+  ],
+  "timestamp": "2026-08-13T20:25:25.970028584Z",
+  "model": "glm-5.2"
+}

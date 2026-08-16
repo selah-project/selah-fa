@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 19:1",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و ⟨بود⟩ پس از این، نَحاش پادشاه بنی‌عَمّون مُرد، و پسرش به جای او سلطنت کرد.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و ⟨بود⟩"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پس از"
+    },
+    {
+      "surface": "כן",
+      "gloss": "این"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و مُرد"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "نَحاش"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی‌"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عَمّون"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "و سلطنت کرد"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "به جای او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:52.665546057Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 34:30",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 34,
+  "translation": "از پادشاهیِ انسانِ بی‌دین، از دام‌های قوم.",
+  "tokens": [
+    {
+      "surface": "ממלך",
+      "gloss": "از پادشاهیِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسانِ"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "بی‌دین"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "از دام‌های"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:13:45.601056984Z",
+  "model": "glm-5.2"
+}

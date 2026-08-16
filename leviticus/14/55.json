@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و برای برصِ جامه و برای خانه،",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "و برای برصِ"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "جامه"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "و برای خانه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:25:14.542227874Z",
+  "model": "glm-5.2"
+}

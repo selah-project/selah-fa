@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 2:18",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و بت‌ها بکلی خواهند رفت",
+  "tokens": [
+    {
+      "surface": "והאלילים",
+      "gloss": "و بت‌ها"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "بکلی"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "خواهند رفت"
+    }
+  ],
+  "timestamp": "2026-08-13T21:40:14.012151371Z",
+  "model": "glm-5.2"
+}

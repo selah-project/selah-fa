@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 32:23",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "بدی‌ها را بر آنان انباشته کنم، تیرهایم را در آنان پایان دهم.",
+  "tokens": [
+    {
+      "surface": "אַסְפֶּ֥ה",
+      "gloss": "انباشته کنم"
+    },
+    {
+      "surface": "עָלֵ֖ימוֹ",
+      "gloss": "بر آنان"
+    },
+    {
+      "surface": "רָע֑וֹת",
+      "gloss": "بدی‌ها"
+    },
+    {
+      "surface": "חִצַּ֖י",
+      "gloss": "تیرهایم"
+    },
+    {
+      "surface": "אֲכַלֶּה",
+      "gloss": "را پایان دهم"
+    },
+    {
+      "surface": "בָּֽם",
+      "gloss": "در آنان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:52:34.898136297Z",
+  "model": "glm-5.2"
+}

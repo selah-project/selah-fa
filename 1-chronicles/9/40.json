@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و پسرِ یِهوناتان مَریو‌بَعال بود، و مَری‌بَعال ⟨את⟩ میکاه را زاد.",
+  "tokens": [
+    {
+      "surface": "וּבֶן",
+      "gloss": "و پسرِ"
+    },
+    {
+      "surface": "יְהוֹנָתָ֖ן",
+      "gloss": "یِهوناتان"
+    },
+    {
+      "surface": "מְרִ֣יב",
+      "gloss": "مَریو"
+    },
+    {
+      "surface": "בָּ֑עַל",
+      "gloss": "بَعال"
+    },
+    {
+      "surface": "וּמְרִי",
+      "gloss": "و مَری"
+    },
+    {
+      "surface": "בַ֖עַל",
+      "gloss": "بَعال"
+    },
+    {
+      "surface": "הוֹלִ֥יד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "میکاه"
+    },
+    {
+      "surface": "מִיכָֽה",
+      "gloss": "میکاه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:38:12.075740871Z",
+  "model": "glm-5.2"
+}

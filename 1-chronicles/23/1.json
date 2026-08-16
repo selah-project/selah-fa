@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "و داوود پیر شد و از روزها سیر شد، و ⟨את⟩ شلومو پسرش را بر یسرائیل پادشاه کرد.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "و داوود"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "پیر شد"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "و سیر شد"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "از روزها"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "و پادشاه کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شلومو"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:35.259578324Z",
+  "model": "glm-5.2"
+}

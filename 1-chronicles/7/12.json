@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و شُپّیم و حُپّیم پسرانِ عیر؛ حوشیم پسرانِ آحِر.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "و شُپّیم"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "و حُپّیم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "عیر"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "حوشیم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "آحِر"
+    }
+  ],
+  "timestamp": "2026-08-14T00:17:59.540042786Z",
+  "model": "glm-5.2"
+}

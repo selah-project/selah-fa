@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 6:17",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "چشم‌های بالا، زبانِ دروغ، و دست‌هایی که خونِ بی‌گناه می‌ریزند،",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "چشم‌ها"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "بلند"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغ"
+    },
+    {
+      "surface": "וידים",
+      "gloss": "و دست‌ها"
+    },
+    {
+      "surface": "שפכות",
+      "gloss": "ریزنده"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "بی‌گناه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:00:18.453908622Z",
+  "model": "glm-5.2"
+}

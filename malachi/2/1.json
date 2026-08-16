@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و اکنون، به شما ای کاهنان ⟨است⟩ این فرمان، این",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و اکنون"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "به شما"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "فرمان"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهنان"
+    }
+  ],
+  "timestamp": "2026-08-13T22:36:19.931596583Z",
+  "model": "glm-5.2"
+}

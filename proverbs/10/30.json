@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "صادق تا جهان لرزانده نخواهد شد، و رستگاران در زمین ساکن نخواهند شد.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "صادق"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "تا جهان"
+    },
+    {
+      "surface": "בל",
+      "gloss": "هرگز"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "لرزانده نخواهد شد"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "و رستگاران"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نخواهند"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "ساکن شد"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "در زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T23:01:08.959534301Z",
+  "model": "glm-5.2"
+}

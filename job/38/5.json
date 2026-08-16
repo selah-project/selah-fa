@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 38:5",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 38,
+  "translation": "چه کسی اندازه‌هایش را قرار داد که تو بدانی؟ یا چه کسی بر آن خط را کشید؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "چه کسی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "قرار داد"
+    },
+    {
+      "surface": "ממדיה",
+      "gloss": "اندازه‌هایش"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "بدانی"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "چه کسی"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "کشید"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "بر آن"
+    },
+    {
+      "surface": "קו",
+      "gloss": "خط"
+    }
+  ],
+  "timestamp": "2026-08-13T23:14:23.211960198Z",
+  "model": "glm-5.2"
+}

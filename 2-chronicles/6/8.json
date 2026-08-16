@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 6:8",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و یاهوه به داوید پدرِ من گفت: چون که بود با دلِ تو ساختنِ خانه‌ای برای نامِ من، نیکو کردی که بود با دلِ تو،",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوید"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پدرِ من"
+    },
+    {
+      "surface": "יען",
+      "gloss": "چون که"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "دلِ تو"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ساختنِ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانه‌ای"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "برای نامِ من"
+    },
+    {
+      "surface": "הטיבות",
+      "gloss": "نیکو کردی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "دلِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T23:43:54.374774646Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و زاباد ⟨את⟩ اَفلال را زاد، و اَفلال ⟨את⟩ عوِبِد را زاد.",
+  "tokens": [
+    {
+      "surface": "וְזָבָד֙",
+      "gloss": "و زاباد"
+    },
+    {
+      "surface": "הוֹלִ֣יד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "اَفلال"
+    },
+    {
+      "surface": "אֶפְלָ֔ל",
+      "gloss": "اَفلال"
+    },
+    {
+      "surface": "וְאֶפְלָ֖ל",
+      "gloss": "و اَفلال"
+    },
+    {
+      "surface": "הוֹלִ֥יד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "عوِبِد"
+    },
+    {
+      "surface": "עוֹבֵֽד",
+      "gloss": "عوِبِد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:05.589446202Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 22:29",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "و چون ذبیحِ شکرگزاری برای یاهوه بِکُشید، برای خشنودیِ شما بِکُشید،",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "و چون"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "بکُشید"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ذبیح"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "شکرگزاری"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "برای یاهوه"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "برای خشنودیِ شما"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "بکُشید"
+    }
+  ],
+  "timestamp": "2026-08-13T20:28:14.831236017Z",
+  "model": "glm-5.2"
+}

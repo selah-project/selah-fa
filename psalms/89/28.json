@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 89,
+  "translation": "همچنین من، او را بکر خواهم بخشید، برترینِ پادشاهانِ زمین!",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "همچنین"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "بکر"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "او را خواهم بخشید"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "برترینِ"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "پادشاهانِ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T22:50:19.343487911Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 32:18",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "بازنگردیم به خانه‌هایمان، تا وارث شوند بنی‌یِسرائیل، هر مردِ، میراثِ خود را.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "بازگردیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "خانه‌هایمان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "התנחל",
+      "gloss": "وارث شوند"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی‌"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر مردِ"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "میراثِ خود را"
+    }
+  ],
+  "timestamp": "2026-08-13T20:41:14.276074017Z",
+  "model": "glm-5.2"
+}

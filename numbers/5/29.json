@@ -1,0 +1,49 @@
+{
+  "tier": "4.6",
+  "verse": 29,
+  "ref": "numbers 5:29",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "این توراتِ کنایات است که اگر زنی زیرِ شوهرش منحرف شود و ⟨نپاک⟩ شود",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "توراتِ"
+    },
+    {
+      "surface": "הקנאת",
+      "gloss": "کنایات"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "תשטה",
+      "gloss": "منحرف شود"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زنی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "زیرِ"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "شوهرش"
+    },
+    {
+      "surface": "ונטמאה",
+      "gloss": "و ⟨نپاک⟩ شود"
+    }
+  ],
+  "timestamp": "2026-08-15T03:56:03.900115931Z",
+  "model": "glm-4.6"
+}

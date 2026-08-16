@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 7:25",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "وَحشَت می‌آید و شالم را بطلبند و ⟨آنگاه⟩ نیست.",
+  "tokens": [
+    {
+      "surface": "קְפָ֖דָה",
+      "gloss": "وَحشَت"
+    },
+    {
+      "surface": "בָ֑א",
+      "gloss": "می‌آید"
+    },
+    {
+      "surface": "וּבִקְשׁ֥וּ",
+      "gloss": "و بطلبند"
+    },
+    {
+      "surface": "שָׁל֖וֹם",
+      "gloss": "شالم"
+    },
+    {
+      "surface": "וָאָֽיִן",
+      "gloss": "و نیست"
+    }
+  ],
+  "timestamp": "2026-08-14T00:07:52.622368584Z",
+  "model": "glm-5.2"
+}

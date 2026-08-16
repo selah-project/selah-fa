@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 40:1",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 40,
+  "translation": "و یاهوه ⟨את⟩ ایّوو را پاسخ داد و گفت:",
+  "tokens": [
+    {
+      "surface": "וַיַּ֖עַן",
+      "gloss": "و پاسخ داد"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ایّوو"
+    },
+    {
+      "surface": "אִיּ֗וֹב",
+      "gloss": "ایّوو"
+    },
+    {
+      "surface": "וַיֹּאמַֽר",
+      "gloss": "و گفت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:14:42.883669852Z",
+  "model": "glm-5.2"
+}

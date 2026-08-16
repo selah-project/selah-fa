@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و اگر برای او برادرانی نیست، پس شما ⟨את⟩ میراث او را به برادرانِ پدرش بدهید.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برای او"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "برادران"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "و شما بدهید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میراث او"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "میراث او"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "به برادرانِ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پدرش"
+    }
+  ],
+  "timestamp": "2026-08-13T20:40:00.362840923Z",
+  "model": "glm-5.2"
+}

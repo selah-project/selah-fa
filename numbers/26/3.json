@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 26:3",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "و سخن گفت موشه و اَلعازار کاهن ⟨את⟩ آنان در دشت‌های موآب، بر یَردُن یرِحو، به این سخن:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "و اَلعازار"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "آنان"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "در دشت‌های"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "یَردُن"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "یرِحو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به این سخن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:39:17.552819942Z",
+  "model": "glm-5.2"
+}

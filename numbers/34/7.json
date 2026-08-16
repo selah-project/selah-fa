@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "numbers 34:7",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 34,
+  "translation": "و این برای شما مرزِ شمال خواهد بود: از دریای بزرگ برای خود نشانی خواهید نهاد: هارِ کوه.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "و این"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "خواهد بود"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "برای شما"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "مرز"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "شمال"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دریای"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "نشانی خواهید نهاد"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "برای خود"
+    },
+    {
+      "surface": "הר",
+      "gloss": "هار"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "کوه"
+    }
+  ],
+  "timestamp": "2026-08-15T03:54:00.344273759Z",
+  "model": "glm-5.3"
+}

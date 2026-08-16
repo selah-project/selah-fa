@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و ⟨את⟩ عقیقه را پوست کنداز، و آن را به تکه‌هایِ خود بَبَرَد.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "و پوست کنداز"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عقیقه"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "عقیقه"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "و بَبَرَد"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "تکه‌هایِ خود"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "به تکه‌هایِ خود"
+    }
+  ],
+  "timestamp": "2026-08-13T20:22:08.398466224Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-samuel 14:51",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و قیس، پدرِ شاؤل؛ و نِر، پدرِ اَوینِر، پسرِ اَوی‌اِل.",
+  "tokens": [
+    {
+      "surface": "וקיש",
+      "gloss": "و قیس"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پدرِ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "و نِر"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پدرِ"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "اَوینِر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "اَوی‌اِل"
+    }
+  ],
+  "timestamp": "2026-08-13T21:11:38.182721397Z",
+  "model": "glm-5.2"
+}

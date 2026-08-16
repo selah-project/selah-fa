@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 23:23",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "از سی تن گرامی‌تر بود، و به سه تن نرسید؛ و داوود او را بر گاردِ خود گماشت.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "سی تن"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "گرامی‌تر بود"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و به"
+    },
+    {
+      "surface": "השלשה",
+      "gloss": "سه تن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نرسید"
+    },
+    {
+      "surface": "בא",
+      "gloss": "نرسید"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "و گماشت او را"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "משמעתו",
+      "gloss": "گاردِ خود"
+    }
+  ],
+  "timestamp": "2026-08-13T21:23:26.303753629Z",
+  "model": "glm-5.2"
+}

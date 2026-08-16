@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و این است هدیه‌ای که از ⟨آنها⟩ ⟨את⟩ بگیرید: زر، و سیم، و مس.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "و این"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "هدیه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "بگیرید"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ از آنها",
+      "marks": "از آنها"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زر"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "و سیم"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "و مس"
+    }
+  ],
+  "timestamp": "2026-08-15T03:48:07.665522076Z",
+  "model": "glm-5.3"
+}

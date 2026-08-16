@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "proverbs 12:22",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "مکروهِ یاهوه لبانِ دروغ‌اند، و کنندهٔ ایمان‌داری خشنودیِ اویند.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "مکروهِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "لبانِ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغ"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "و کنندهٔ"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ایمان‌داری"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "خشنودیِ اویند"
+    }
+  ],
+  "timestamp": "2026-08-15T04:27:30.916245632Z",
+  "model": "glm-5.3"
+}

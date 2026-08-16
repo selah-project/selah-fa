@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 25:7",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و این‌اند روزهایِ سال‌هایِ زندگیِ اَبراهام که زیست: صد سال و هفتاد سال و پنج سال.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "و این‌اند"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روزهایِ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "سال‌هایِ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "زندگیِ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَبراهام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زیست"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "صد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "و هفتاد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "و پنج"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-08-13T20:01:14.864728630Z",
+  "model": "glm-5.2"
+}

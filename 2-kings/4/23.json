@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 4:23",
+  "book": "2-kings",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و ⟨او⟩ گفت: «چرا تو نزدِ او می‌رویِ امروز؟ نه هلال است و نه شبات.» و ⟨او⟩ گفت: «شالوم.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "تو"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "می‌روی"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "نزدِ او"
+    },
+    {
+      "surface": "היום",
+      "gloss": "امروز"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "هلال"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "شبات"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    }
+  ],
+  "timestamp": "2026-08-13T21:33:49.929132731Z",
+  "model": "glm-5.2"
+}

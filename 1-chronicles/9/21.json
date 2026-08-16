@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 9:21",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "زکریّا پسر مَشَلَمیّا ⟨⟨بود⟩⟩ دربانِ دهانهٔ خیمهٔ موعد.",
+  "tokens": [
+    {
+      "surface": "זְכַרְיָה",
+      "gloss": "زکریّا"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "מְשֶֽׁלֶמְיָה",
+      "gloss": "مَشَلَمیّا"
+    },
+    {
+      "surface": "שֹׁעֵר",
+      "gloss": "دربانِ"
+    },
+    {
+      "surface": "פֶּתַח",
+      "gloss": "دهانهٔ"
+    },
+    {
+      "surface": "לְאֹהֶל",
+      "gloss": "خیمهٔ"
+    },
+    {
+      "surface": "מוֹעֵֽד",
+      "gloss": "موعد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:38:10.908013548Z",
+  "model": "glm-5.2"
+}

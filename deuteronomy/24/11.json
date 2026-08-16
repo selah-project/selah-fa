@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "deuteronomy 24:11",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "بیرون بایستی، و مردی که تو به او وام می‌دهی، ⟨את⟩ وثیقه را به نزدِ تو بیرون بیاورد.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "بیرون"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "بایستی"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "و مردی که"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "נשה",
+      "gloss": "به او وام می‌دهی"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در او \/ به او"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "بیرون بیاورد"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "به نزدِ تو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وثیقه"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "وثیقه"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "بیرون"
+    }
+  ],
+  "timestamp": "2026-08-15T03:55:20.235354196Z",
+  "model": "glm-5.3"
+}

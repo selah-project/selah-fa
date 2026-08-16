@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "ای پسرِ آدم، دو زن، دخترانِ یک مادر بودند.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "زن"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "دخترانِ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "مادرِ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بودند"
+    }
+  ],
+  "timestamp": "2026-08-13T22:17:50.358991762Z",
+  "model": "glm-5.2"
+}

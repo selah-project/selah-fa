@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 44,
+  "translation": "و حالا بشنو، ای یاعکوو بندهٔ من، و ای یِسرائیل که او را برگزیدم.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و حالا"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "بشنو"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعکوو"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "بندهٔ من"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "و یِسرائیل"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "برگزیدم"
+    },
+    {
+      "surface": "בו",
+      "gloss": "او را"
+    }
+  ],
+  "timestamp": "2026-08-13T21:50:37.376235303Z",
+  "model": "glm-5.2"
+}

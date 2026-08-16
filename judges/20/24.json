@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 20:24",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و پسرانِ یِسرائیل به پسرانِ بِنیامین نزدیک شدند در روزِ دوم.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "و نزدیک شدند"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "י שראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بِنیامین"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوم"
+    }
+  ],
+  "timestamp": "2026-08-13T21:07:14.334492156Z",
+  "model": "glm-5.2"
+}

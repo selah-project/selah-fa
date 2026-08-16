@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و سنگین‌کرد پَرعُه ⟨את⟩ دلِ خود را، همچنین در اینِ بارِ، و نه، رواند کرد ⟨את⟩ قوم را.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "و سنگین‌کرد"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پَرعُه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دلِ او"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دلِ خود را"
+    },
+    {
+      "surface": "גם",
+      "gloss": "همچنین"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "در بارِ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اینِ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه،"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "رواند کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم را"
+    }
+  ],
+  "timestamp": "2026-08-13T20:12:25.968998690Z",
+  "model": "glm-5.2"
+}

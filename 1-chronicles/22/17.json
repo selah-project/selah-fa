@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 22:17",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "و داوود به همهٔ سرورانِ یسرائیل فرمان داد تا به پسرش شلومو یاری کنند،",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "و فرمان داد"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "به همهٔ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سرورانِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "تا یاری کنند"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "به شلومو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:34.915233170Z",
+  "model": "glm-5.2"
+}

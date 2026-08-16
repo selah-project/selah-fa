@@ -1,0 +1,73 @@
+{
+  "tier": "4.6",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و داوُد برخاست و گذشت، او و شش‌صد مردِ آن‌که با او بودند، به‌سوی اَخیش، پسرِ ماؤوخ، پادشاهِ گَت.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "و برخاست"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوُد"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "و گذشت"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "و شش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آن‌که"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "با او بودند"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به‌سوی"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "اَخیش"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "ماؤوخ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "גת",
+      "gloss": "گَت"
+    }
+  ],
+  "timestamp": "2026-08-15T04:03:58.415364197Z",
+  "model": "glm-4.6"
+}

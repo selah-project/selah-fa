@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "زیرا که از آن سو ⟨את⟩ زمین را خواهی دید، و بدانجا نخواهی آمد، به زمینی که من به پسرانِ یِسرائیل می‌دهم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا که"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "از آن سو"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "خواهی دید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "و بدانجا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "خواهی آمد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "می‌دهم"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "به پسرانِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-13T20:52:37.582938543Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 46,
+  "translation": "الوهیم برای ما پناهگاه و توان است، یاری در تنگناها بسیار یافت می‌شود.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "برای ما"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "پناهگاه"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "و توان"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "یاری"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "در تنگناها"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "یافت می‌شود"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بسیار"
+    }
+  ],
+  "timestamp": "2026-08-13T22:43:41.800026728Z",
+  "model": "glm-5.2"
+}

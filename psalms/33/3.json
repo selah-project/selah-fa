@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "برای او بخوانید ترانه‌ای تازه؛ نیکو بنوازید با شیوه‌وری.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "بخوانید"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برای او"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ترانه‌ای"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "تازه"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "نیکو"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "بنوازید"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "با شیوه‌وری"
+    }
+  ],
+  "timestamp": "2026-08-13T22:41:40.269869333Z",
+  "model": "glm-5.2"
+}

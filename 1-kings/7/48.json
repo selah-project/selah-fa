@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-kings 7:48",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و شلومه همهٔ ظروفی را که در بیت یاهوه است ساخت: ⟨את⟩ مذبحِ طلا و ⟨את⟩ سفره‌ای را که بر آن نانِ حضور است، ⟨از⟩ طلا.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و ساخت"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "ظروفی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "בית",
+      "gloss": "در بیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مذبح"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبحِ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "طلا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "سفره‌ای"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "سفره‌ای"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "را که"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر آن"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نانِ"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "حضور"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "طلا"
+    }
+  ],
+  "timestamp": "2026-08-13T21:25:50.406273240Z",
+  "model": "glm-5.2"
+}

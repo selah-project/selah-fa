@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و یِهوو ⟨את⟩ بَعْل را از اسرائیل نابود کرد.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "و نابود کرد"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "یِهوو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بَعْل"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "بَعْل"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "از اسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-13T21:35:13.206965643Z",
+  "model": "glm-5.2"
+}

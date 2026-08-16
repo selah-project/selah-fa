@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 36:9",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "و نچرخد ارث از سبطی به سبطی دیگر، زیرا هر مردی به ارثِ خود بچسبد سبط‌های بنی‌یِسرائیل.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "بچرخد"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ارث"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "از سبطی"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "به سبطی"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دیگر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر مردی"
+    },
+    {
+      "surface": "בנחלתו",
+      "gloss": "به ارثِ خود"
+    },
+    {
+      "surface": "ידבקו",
+      "gloss": "بچسبند"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "سبط‌های"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی‌"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-13T20:42:51.777854957Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 71,
+  "translation": "مرا دور مَنْدان در زمان پیری؛ چون توانِ من تمام شود، رهایم مَکن.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مَکن"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "دور مَنْدان مرا"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "در زمان"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "پیری"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "چون تمام شود"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "توانِ من"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مَکن"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "رهایم"
+    }
+  ],
+  "timestamp": "2026-08-13T22:46:48.710188136Z",
+  "model": "glm-5.2"
+}

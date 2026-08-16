@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "پسرانِ شِم: عِیلام و اَشّور و اَرفَخشاد و لود و اَرام.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شِم"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عِیلام"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "و اَشّور"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "و اَرفَخشاد"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "و لود"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "و اَرام"
+    }
+  ],
+  "timestamp": "2026-08-13T19:57:01.605703329Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 13:19",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "آرزوی برآمده برای نفس خوشایند است، و زشتکاری احمق‌ها دوری از بدی است.",
+  "tokens": [
+    {
+      "surface": "תאוה",
+      "gloss": "آرزوی"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "برآمده"
+    },
+    {
+      "surface": "תערב",
+      "gloss": "خوشایند است"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "برای نفس"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "و زشتکاری"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "احمق‌ها"
+    },
+    {
+      "surface": "סור",
+      "gloss": "دوری"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "از بدی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:01:56.590226416Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و جان داد و مُرد اَبراهام در پیریِ نیکو، پیر و سیر، و به‌قومِ خود گرد آورده شد.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "و جان داد"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و مُرد"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَبراهام"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "در پیریِ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "نیکو"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "پیر"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "و سیر"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "و گرد آورده شد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "قومِ ⟨خود⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T20:01:14.864932929Z",
+  "model": "glm-5.2"
+}

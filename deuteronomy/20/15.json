@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 20:15",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "کذا تو برای همهٔ شهرهایی که از تو بسیار دورند — که از شهرهای این گویانِ این‌ها ⟨هستند⟩ نیست — خواهی کرد.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "کذا"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تو خواهی کرد"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "برای همهٔ"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "شهرها"
+    },
+    {
+      "surface": "הרחקת",
+      "gloss": "دور"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "از تو"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "از شهرهای"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "گویان"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "این"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "این‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T20:48:42.416055724Z",
+  "model": "glm-5.2"
+}

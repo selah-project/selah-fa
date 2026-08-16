@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و ذبح کند ⟨את⟩ پرندهٔ یکی را به سوی ظرفِ سفالی بر فراز آب‌های زنده.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "و ذبح کند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پرنده"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "پرندهٔ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ظرفِ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "سفالی"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر فراز"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آب‌های"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زنده"
+    }
+  ],
+  "timestamp": "2026-08-13T20:25:10.858575476Z",
+  "model": "glm-5.2"
+}

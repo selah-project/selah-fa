@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 85,
+  "translation": "اَمانت از زمین می‌روید، و صدق از آسمان‌ها می‌نگرد.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "اَمانت"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "از زمین"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "می‌روید"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "و صدق"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "از آسمان‌ها"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "می‌نگرد"
+    }
+  ],
+  "timestamp": "2026-08-15T04:24:46.147984464Z",
+  "model": "glm-5.3"
+}

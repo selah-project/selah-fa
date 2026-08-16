@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 50,
+  "translation": "به الوهیم شکر را ذبح کن، و نذرهایت را به علیّن بپرداز.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "ذبح کن"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "به الوهیم"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "شکر"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "و بپرداز"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "به علیّن"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "نذرهایت"
+    }
+  ],
+  "timestamp": "2026-08-13T22:44:10.018194955Z",
+  "model": "glm-5.2"
+}

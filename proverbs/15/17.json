@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "proverbs 15:17",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "خوب است خوراکِ سبزی، و محبّت آن‌جا؛ بیش از گاوی علف‌خورده و نفاق در آن.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "خوب است"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "خوراکِ"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "سبزی"
+    },
+    {
+      "surface": "ואהבה",
+      "gloss": "و محبّت"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آن‌جا"
+    },
+    {
+      "surface": "משור",
+      "gloss": "گاوی"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "علف‌خورده"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "و نفاق"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در آن"
+    }
+  ],
+  "timestamp": "2026-08-15T04:27:23.508364933Z",
+  "model": "glm-5.3"
+}

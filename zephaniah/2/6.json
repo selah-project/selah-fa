@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 2:6",
+  "book": "zephaniah",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و نوارِ دریا، چراگاه‌هایِ چمنزار، برایِ چوپانان، و قفس‌هایِ گله خواهد شد.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "و خواهد شد"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "نوارِ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "נות",
+      "gloss": "چراگاه‌هایِ"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "چمنزار"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "برایِ چوپانان"
+    },
+    {
+      "surface": "וגדרות",
+      "gloss": "و قفس‌هایِ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "گله"
+    }
+  ],
+  "timestamp": "2026-08-13T22:34:09.339971255Z",
+  "model": "glm-5.2"
+}

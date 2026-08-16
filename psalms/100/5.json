@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 100,
+  "translation": "که نیکوست یاهوه، تا به‌ ابد محبتِ او، و تا نسل به نسل وفاداریِ او.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیکوست"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "تا به ابد"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "محبتِ او"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "דר",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "به نسل"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "وفاداریِ او"
+    }
+  ],
+  "timestamp": "2026-08-15T04:25:12.263323921Z",
+  "model": "glm-5.3"
+}

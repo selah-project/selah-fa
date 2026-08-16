@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 5:14",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و سخن گفت یاهوه با موشه، به گفتن:",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֥ר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "با"
+    },
+    {
+      "surface": "מֹשֶׁ֥ה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "לֵּאמֹֽר",
+      "gloss": "به گفتن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:22:54.661352040Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 1:11",
+  "book": "song-of-songs",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "رشته‌هایِ زر، برایِ تو خواهیم ساخت، با نقطه‌هایِ نقره.",
+  "tokens": [
+    {
+      "surface": "תּוֹרֵ֤י",
+      "gloss": "رشته‌هایِ"
+    },
+    {
+      "surface": "זָהָב֙",
+      "gloss": "زر"
+    },
+    {
+      "surface": "נַעֲשֶׂה",
+      "gloss": "خواهیم ساخت"
+    },
+    {
+      "surface": "לָּ֔ךְ",
+      "gloss": "برایِ تو"
+    },
+    {
+      "surface": "עִ֖ם",
+      "gloss": "با"
+    },
+    {
+      "surface": "נְקֻדּ֥וֹת",
+      "gloss": "نقطه‌هایِ"
+    },
+    {
+      "surface": "הַכָּֽסֶף",
+      "gloss": "نقره"
+    }
+  ],
+  "timestamp": "2026-08-13T23:15:10.415240629Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "زیرا خواهید بود مثل درختی که برگش پژمرده است، و مثل باغی که آبی برایش نیست.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "خواهید بود"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "مثل درختی"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "پژمرده"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "برگش"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "و مثل باغی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آبی"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "לה",
+      "gloss": "برایش"
+    }
+  ],
+  "timestamp": "2026-08-15T04:07:01.627501302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "بر شریران تورها، آتش و گوگرد و بادِ زبانه‌ها را می‌بارد — سهمِ جامِ آنان.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "می‌بارد"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شریران"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "تورها"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آتش"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "و گوگرد"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "و بادِ"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "زبانه‌ها"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "سهمِ"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "جامِ آنان"
+    }
+  ],
+  "timestamp": "2026-08-13T22:38:38.168523411Z",
+  "model": "glm-5.2"
+}

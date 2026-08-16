@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 21:24",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "متکبّرِ مغرور، لِتس نامِ اوست، ⟨کسی که⟩ در خشمِ غرور عمل می‌کند.",
+  "tokens": [
+    {
+      "surface": "זד",
+      "gloss": "متکبّرِ"
+    },
+    {
+      "surface": "יהיר",
+      "gloss": "مغرور"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "لتس"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "نامِ اوست"
+    },
+    {
+      "surface": "עושה",
+      "gloss": "عمل می‌کند"
+    },
+    {
+      "surface": "בעברת",
+      "gloss": "در خشمِ"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "غرور"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:32.992619688Z",
+  "model": "glm-5.2"
+}

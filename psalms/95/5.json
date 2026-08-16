@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 95:5",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 95,
+  "translation": "که دری از آنِ اوست، و او آن را ساخت، و خشکی را دست‌هایش برآرود",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לו",
+      "gloss": "از آنِ اوست"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دری"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "و او"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "آن را ساخت"
+    },
+    {
+      "surface": "ויבשת",
+      "gloss": "و خشکی را"
+    },
+    {
+      "surface": "ידיو",
+      "gloss": "دست‌هایش"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "برآرود"
+    }
+  ],
+  "timestamp": "2026-08-15T04:25:22.810945321Z",
+  "model": "glm-5.3"
+}

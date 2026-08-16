@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 115,
+  "translation": "نه به ما، یاهوه، نه به ما، بلکه به نامِ تو شکوه را بده، بر مهربانیِ تو، بر راستگوییِ تو.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "به ما"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "به ما"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلکه"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "به نامِ تو"
+    },
+    {
+      "surface": "תן",
+      "gloss": "بده"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شکوه را"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "مهربانیِ تو"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "راستگوییِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:54:16.970244078Z",
+  "model": "glm-5.2"
+}

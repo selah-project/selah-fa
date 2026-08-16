@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "تلفه و دریده را نخورد تا با آن نجس شود؛ من یاهوه هستم.",
+  "tokens": [
+    {
+      "surface": "נְבֵלָה",
+      "gloss": "تلفه"
+    },
+    {
+      "surface": "וּטְרֵפָה",
+      "gloss": "و دریده"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "نخورد"
+    },
+    {
+      "surface": "יֹאכַל",
+      "gloss": "بخورد"
+    },
+    {
+      "surface": "לְטָמְאָה",
+      "gloss": "تا نجس شدن"
+    },
+    {
+      "surface": "בָהּ",
+      "gloss": "با آن"
+    },
+    {
+      "surface": "אֲנִי",
+      "gloss": "من"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:27:53.849303703Z",
+  "model": "glm-5.2"
+}

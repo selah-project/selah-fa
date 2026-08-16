@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "بی‌ارزی بر بسترِ خود می‌اندیشد، بر راهی که نکو است می‌ایستد، بدی را نمی‌داند.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "بی‌ارزی"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "می‌اندیشد"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "بسترِ"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "می‌ایستد"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راهی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نکو"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بدی را"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "می‌داند"
+    }
+  ],
+  "timestamp": "2026-08-13T22:41:50.664781882Z",
+  "model": "glm-5.2"
+}

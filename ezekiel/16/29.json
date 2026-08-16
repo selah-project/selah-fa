@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 16:29",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "و ⟨את⟩ زنایِ تو را به سرزمینِ کنعان، کَلدِیه فزونی دادی، و حتی با این نیز سیر نشدی.",
+  "tokens": [
+    {
+      "surface": "ותרבי",
+      "gloss": "و فزونی دادی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زنایِ تو"
+    },
+    {
+      "surface": "תזנותך",
+      "gloss": "زنایِ تو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "سرزمینِ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    },
+    {
+      "surface": "כשדימה",
+      "gloss": "کَلدِیه"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "و حتی"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "با این"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "سیر شدی"
+    }
+  ],
+  "timestamp": "2026-08-13T22:14:54.168945944Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 52:6",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 52,
+  "translation": "در ماهِ چهارم، در نهمِ ماه، گرسنگی در شهر نیرومند شد، و نانی برای مردمِ زمین نبود.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "در ماه"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "چهارم"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "در نهم"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ماه"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "و نیرومند شد"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "گرسنگی"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "در شهر"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "برای مردم"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T22:11:34.371030718Z",
+  "model": "glm-5.2"
+}

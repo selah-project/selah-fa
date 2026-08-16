@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 26:24",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "لِیاشوو، تیرهٔ هَیاشوبی؛ لِشیمرون، تیرهٔ هَشیمرونی.",
+  "tokens": [
+    {
+      "surface": "לישוב",
+      "gloss": "لِیاشوو"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "تیرهٔ"
+    },
+    {
+      "surface": "הישובי",
+      "gloss": "هَیاشوبی"
+    },
+    {
+      "surface": "לשמרן",
+      "gloss": "لِشیمرون"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "تیرهٔ"
+    },
+    {
+      "surface": "השמרני",
+      "gloss": "هَشیمرونی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:38:57.737773673Z",
+  "model": "glm-5.2"
+}

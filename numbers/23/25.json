@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "و بالاق به بیلعام گفت: اگر نافرمانی مکن، او را نفرین کنی؛ و اگر برکت، او را برکت نکنی.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بیلعام"
+    },
+    {
+      "surface": "גם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "קב",
+      "gloss": "نفرین کنی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مکن"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "او را نفرین"
+    },
+    {
+      "surface": "גם",
+      "gloss": "و"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "برکت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مکن"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "او را برکت نکنی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:38:59.317402577Z",
+  "model": "glm-5.2"
+}

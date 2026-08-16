@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 35:16",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "⟨את⟩ مذبحِ سوختنی و ⟨את⟩ توریِ مسی که برای اوست ⟨את⟩ میله‌هایش و ⟨את⟩ تمام ظروفش ⟨את⟩ لگن و ⟨את⟩ پایه‌اش را،",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مذبح"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "سوختنی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "توری"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "توری"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "مسی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برای اوست"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میله‌هایش"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "میله‌هایش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "تمام"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ظروفش"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لگن"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "لگن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "پایه‌اش"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "پایه‌اش"
+    }
+  ],
+  "timestamp": "2026-08-13T20:20:14.190436821Z",
+  "model": "glm-5.2"
+}

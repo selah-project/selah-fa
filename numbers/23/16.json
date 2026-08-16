@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 23:16",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "و برخورد یاهوه به بلعام، و نهاد سخنی در دهانِ او، و گفت: بازگرد به بَلَق، و این‌چنین سخن بگو.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "و برخورد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بلعام"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "و نهاد"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخنی"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "در دهانِ او"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "بازگرد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بَلَق"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "و این‌چنین"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "سخن بگو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:38:56.584743271Z",
+  "model": "glm-5.2"
+}

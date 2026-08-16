@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و گفت داوود به جوان، به خبرآورِ به او: چگونه دانستی که مُد شائول و یِهوناتان پسرش ⟨هستند⟩؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "جوان"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "خبرآورِ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "איך",
+      "gloss": "چگونه"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "دانستی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مُد"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "و یِهوناتان"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    }
+  ],
+  "timestamp": "2026-08-13T21:16:24.493978447Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "چنین گفت اَدونای یاهوه: بدیِ یک، بدی؛ اینک می‌آید.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "באה",
+      "gloss": "می‌آید"
+    }
+  ],
+  "timestamp": "2026-08-13T22:12:45.858599269Z",
+  "model": "glm-5.2"
+}

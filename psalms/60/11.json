@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 60,
+  "translation": "چه کسی مرا به شهرِ دژ می‌برد؟ چه کسی مرا تا اَدوم راهنمایی می‌کند؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "چه کسی"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "مرا می‌برد"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شهرِ"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "دژ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "چه کسی"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "مرا راهنمایی می‌کند"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اَدوم"
+    }
+  ],
+  "timestamp": "2026-08-13T22:45:34.235837220Z",
+  "model": "glm-5.2"
+}

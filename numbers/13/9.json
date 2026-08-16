@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 13:9",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "برای سبطِ بِنیامین، پَلْتی پسرِ رافو.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "برای سبطِ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بِنیامین"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "پَلْتی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "רפוא",
+      "gloss": "رافو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:34:28.904727503Z",
+  "model": "glm-5.2"
+}

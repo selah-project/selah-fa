@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "ثروتمند و فقیر ⟨با هم⟩ برخوردند؛ سازندهٔ همهٔ آن‌ها یاهوه ⟨است⟩.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "ثروتمند"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "و فقیر"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "برخوردند"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "سازندهٔ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "همهٔ آن‌ها"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:03.720428638Z",
+  "model": "glm-5.2"
+}

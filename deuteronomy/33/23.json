@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 33:23",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "و دربارهٔ نفتالی گفت: ای نفتالی، سیرِ خواست، و پر از برکتِ یاهوه، دریا و جنوب را تصرّف کن.",
+  "tokens": [
+    {
+      "surface": "ולנפתלי",
+      "gloss": "و دربارهٔ نفتالی"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالی"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سیرِ"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "خواست"
+    },
+    {
+      "surface": "ומלא",
+      "gloss": "و پر"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "از برکتِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "ודרום",
+      "gloss": "و جنوب"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "تصرّف کن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:52:34.719909077Z",
+  "model": "glm-5.2"
+}

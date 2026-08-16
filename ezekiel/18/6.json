@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 18:6",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و بر کوه‌ها نخورد و چشمانش را به سوی بت‌های خانهٔ یسرائیل برندارد و ⟨את⟩ زنِ همنشینش را نجنسازد و به زنِ ندا نزدیک نشود —",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "کوه‌ها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "خورد"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "و چشمانش"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "برندارد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "גלולי",
+      "gloss": "بت‌های"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانهٔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "زنِ همنشینش"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زنِ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "همنشینش"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجنسازد"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و به"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زنِ"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "ندا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "نزدیک شود"
+    }
+  ],
+  "timestamp": "2026-08-13T22:15:52.452932241Z",
+  "model": "glm-5.2"
+}

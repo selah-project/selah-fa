@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "obadiah 1:2",
+  "book": "obadiah",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "این‌که، کوچک‌ات کرده‌ام در میانِ ملت‌ها؛ به‌شدّت خوار شده‌ای.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "این‌که (آگاه باش)"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "کوچک"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "کرده‌ام‌ات"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "در میانِ ملت‌ها"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "خوار شده"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "به‌شدّت"
+    }
+  ],
+  "timestamp": "2026-08-15T04:20:14.299611033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 29:16",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "زیرا چنین گفت یاهوه به پادشاهِ نشسته بر تختِ داوید و به تمامِ مردمِ نشینه در این شهر، برادرانِ شما كه نرفتند ⟨את⟩ شما با در تبعید،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "כה",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "نشسته"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تختِ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوید"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و به"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "مردمِ"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "نشینه"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "در"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "این شهر"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "برادرانِ شما"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نرفتند"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "بیرون رفتند"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "شما"
+    },
+    {
+      "surface": "בגולה",
+      "gloss": "در تبعید"
+    }
+  ],
+  "timestamp": "2026-08-13T22:05:07.187958776Z",
+  "model": "glm-5.2"
+}

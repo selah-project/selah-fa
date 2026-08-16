@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezekiel 48:34",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 48,
+  "translation": "سمتِ دریا پانصد و چهار هزار، دروازه‌هایشان سه‌تاست: دروازهٔ گاد یکی، دروازهٔ آشر یکی، دروازهٔ نفتالی یکی.",
+  "tokens": [
+    {
+      "surface": "פאת",
+      "gloss": "سمتِ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پانصد"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "و چهار"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "שעריהם",
+      "gloss": "دروازه‌هایشان"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سه"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازهٔ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازهٔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آشر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازهٔ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکی"
+    }
+  ],
+  "timestamp": "2026-08-13T22:25:36.798807596Z",
+  "model": "glm-5.2"
+}

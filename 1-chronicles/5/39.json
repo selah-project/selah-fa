@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و شالوم ⟨את⟩ حیلقیاه را زاد، و حیلقیاه ⟨את⟩ عزریاه را زاد.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "و شالوم"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حیلقیاه"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "حیلقیاه"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "و حیلقیاه"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عزریاه"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عزریاه"
+    }
+  ],
+  "timestamp": "2026-08-15T04:33:37.014121646Z",
+  "model": "glm-5.3"
+}

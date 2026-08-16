@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 31:25",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "که جانِ خسته را سیراب کردم، و هر جانِ دل‌تنگ را پر کردم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "הרויתי",
+      "gloss": "سیراب کردم"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "خسته"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "دل‌تنگ"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "پر کردم"
+    }
+  ],
+  "timestamp": "2026-08-13T22:03:59.638553259Z",
+  "model": "glm-5.2"
+}

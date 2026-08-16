@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 29:2",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و آنچه راست است در چشم‌های یاهوه کرد، بر اساسِ همهٔ آنچه داوود، پدرش، کرده بود.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و‌کرد"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "آنچه راست است"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "در چشم‌های"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "بر اساسِ همهٔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنچه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرده بود"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پدرش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:50:14.716246590Z",
+  "model": "glm-5.2"
+}

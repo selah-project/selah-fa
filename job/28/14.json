@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "job 28:14",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "تهی‌دریا گفت: در من نیست؛ و دریا گفت: با من نیست.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "تهی‌دریا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בי",
+      "gloss": "در من"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اوست"
+    },
+    {
+      "surface": "וים",
+      "gloss": "و دریا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "با من"
+    }
+  ],
+  "timestamp": "2026-08-15T04:28:55.261170499Z",
+  "model": "glm-5.3"
+}

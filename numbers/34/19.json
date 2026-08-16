@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 34:19",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 34,
+  "translation": "و این‌ها نام‌های مردانند: برای سبزِ یهودا، کالِو بن یَفُنّه.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "و این‌ها"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "نام‌های"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "مردانند"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "برای سبزِ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالِو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "یَفُنّه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:42:27.576857174Z",
+  "model": "glm-5.2"
+}

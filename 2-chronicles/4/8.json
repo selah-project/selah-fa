@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 4:8",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و ده سفره ساخت، و در هیکل گذاشت — پنج از سمتِ راست و پنج از سمتِ چپ؛ و صد جامِ زرین ساخت.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و ساخت"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "سفره‌ها"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ده"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "و گذاشت"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "در هیکل"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "از سمتِ راست"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "و پنج"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "از سمتِ چپ"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "و ساخت"
+    },
+    {
+      "surface": "מזרקי",
+      "gloss": "جام‌های"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زرین"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "صد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:43:53.042379917Z",
+  "model": "glm-5.2"
+}

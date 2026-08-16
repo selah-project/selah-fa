@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 29:24",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "شراکت‌کننده با دزد، جانِ خود را دشمن دارد؛ نفرین را می‌شنود و آن را باز نمی‌گوید.",
+  "tokens": [
+    {
+      "surface": "חולק",
+      "gloss": "شراکت‌کننده"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "دزد،"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "دشمن دارد"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "جانِ خود را"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "نفرین را"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "می‌شنود"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "باز نمی‌گوید"
+    }
+  ],
+  "timestamp": "2026-08-14T00:14:57.474488644Z",
+  "model": "glm-5.2"
+}

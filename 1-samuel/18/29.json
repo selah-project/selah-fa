@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-samuel 18:29",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "وَشائول بِرِِ افزود از برابرِ داوود بگذرد، و شائول دشمنِ ⟨את⟩ داوود بود همهٔ روزها.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "و افزود"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "לרא",
+      "gloss": "بهراسیدن"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "از برابرِ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بیشتر"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "איב",
+      "gloss": "دشمنِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داوود"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "روزها"
+    }
+  ],
+  "timestamp": "2026-08-13T21:12:30.787142588Z",
+  "model": "glm-5.2"
+}

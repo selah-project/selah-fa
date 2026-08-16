@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 20:8",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و در آن ساکن شدند، و برای تو در آن مَقدِسی برای نامِ خود بنا کردند، به گفتنِ:",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "و ساکن شدند"
+    },
+    {
+      "surface": "בה",
+      "gloss": "در آن"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "و بنا کردند"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برای تو"
+    },
+    {
+      "surface": "בה",
+      "gloss": "در آن"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "مَقدِسی"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "برای نامِ خود"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به گفتنِ"
+    }
+  ],
+  "timestamp": "2026-08-13T23:47:55.851772853Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "ref": "1-chronicles 6:49",
+  "lang": "fa",
+  "book": "1-chronicles",
+  "chapter": 6,
+  "verse": 49,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:47:37Z",
+  "translation": "و فرزندانِ یِسرائیل ⟨את⟩ شهرها و ⟨את⟩ چراگاه‌هایشان را به لاویان دادند.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "و دادند"
+    },
+    {
+      "surface": "בני",
+      "gloss": "فرزندانِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "به لاویان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شهرها"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "شهرها"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "چراگاه‌هایشان"
+    },
+    {
+      "surface": "מגרשיהם",
+      "gloss": "چراگاه‌هایشان"
+    }
+  ]
+}

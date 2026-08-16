@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 29,
+  "ref": "numbers 33:29",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "و از میتقه کوچ کردند و در حشمونه اردو زدند.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "کوچ کردند"
+    },
+    {
+      "surface": "ממתקה",
+      "gloss": "از میتقه"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "اردو زدند"
+    },
+    {
+      "surface": "בחשمנה",
+      "gloss": "در حشمونه"
+    }
+  ],
+  "timestamp": "2026-08-15T03:53:45.951596426Z",
+  "model": "glm-5.3"
+}

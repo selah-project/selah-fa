@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و تو، ای پسر آدم، بر صور سوگ‌سرودانه‌ای را بر افشار،",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "و تو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "שא",
+      "gloss": "بر افشار"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "צר",
+      "gloss": "صور"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "سوگ‌سرودانه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:19:06.768158398Z",
+  "model": "glm-5.2"
+}

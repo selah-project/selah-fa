@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 2:36",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "کوهنان: پسرانِ یَدَعیا، برایِ خانهِ یِشوع، نهصد و هفتاد و سه.",
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "کوهنان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "یَدَعیا"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "برایِ خانهِ"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "یِشوع"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "هفتاد"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "و سه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:28:08.119426244Z",
+  "model": "glm-5.2"
+}

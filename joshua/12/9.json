@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "پادشاهِ یِریحو، یک؛ پادشاهِ ها-عای، که کنارِ بیت-اِل است، یک؛",
+  "tokens": [
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "יְרִיח֖וֹ",
+      "gloss": "یِریحو"
+    },
+    {
+      "surface": "אֶחָ֑ד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "מֶ֧לֶךְ",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "הָעַ֛י",
+      "gloss": "ها-عای"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "که"
+    },
+    {
+      "surface": "מִצַּ֥ד",
+      "gloss": "کنارِ"
+    },
+    {
+      "surface": "בֵּֽית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אֵ֖ל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "אֶחָֽד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-08-13T20:56:37.341660797Z",
+  "model": "glm-5.2"
+}

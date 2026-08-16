@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "اینان از پسرانِ گَد، سرانِ لشکرند؛ یکی ⟨برای⟩ صد، کوچک، و بزرگ ⟨برای⟩ هزار.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اینان"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "از پسرانِ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گَد"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سرانِ"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "برای صد"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "کوچک"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "و بزرگ"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "برای هزار"
+    }
+  ],
+  "timestamp": "2026-08-13T23:39:24.340985695Z",
+  "model": "glm-5.2"
+}

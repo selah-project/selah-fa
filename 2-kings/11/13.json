@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "وَ عَتَلیَه شنید ⟨את⟩ صدای دوندگان و قوم را، و آمد به سوی قوم، به بیت یاهوه.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "و شنید"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "عَتَلیَه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صدا"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صدای"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "دوندگان"
+    },
+    {
+      "surface": "העם",
+      "gloss": "و قوم"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "و آمد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "בית",
+      "gloss": "به بیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T21:36:17.227410724Z",
+  "model": "glm-5.2"
+}

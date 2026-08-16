@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "genesis 6:5",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و یاهوه دید که بدیِ انسان در زمین بسیار شده است، و هر پندارِ طرح‌های دلش تنها بد است تمامِ روز.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "و دید"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "بدیِ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "در زمین"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "پندار"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "طرح‌های"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دلش"
+    },
+    {
+      "surface": "רק",
+      "gloss": "تنها"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روز"
+    }
+  ],
+  "timestamp": "2026-08-15T20:52:46.256100083Z",
+  "model": "glm-5.3"
+}

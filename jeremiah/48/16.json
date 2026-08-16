@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 48:16",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 48,
+  "translation": "نزدیک است بلا موآب به آمدن، و بدیِ او شتاب می‌کند بسی.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "نزدیک است"
+    },
+    {
+      "surface": "איד",
+      "gloss": "بلا"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "به آمدن"
+    },
+    {
+      "surface": "ורעתו",
+      "gloss": "و بدیِ او"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "شتاب می‌کند"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بسی"
+    }
+  ],
+  "timestamp": "2026-08-13T22:09:06.877562474Z",
+  "model": "glm-5.2"
+}

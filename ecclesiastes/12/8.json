@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "هَبَلِ هَبَلیم، گفت قوهِلِت، همه هَبَل است.",
+  "tokens": [
+    {
+      "surface": "הֲבֵ֧ל",
+      "gloss": "هَبَل"
+    },
+    {
+      "surface": "הֲבָלִ֛ים",
+      "gloss": "هَبَلیم"
+    },
+    {
+      "surface": "אָמַ֥ר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "הַקּוֹהֶ֖לֶת",
+      "gloss": "قوهِلِت"
+    },
+    {
+      "surface": "הַכֹּ֥ל",
+      "gloss": "همه"
+    },
+    {
+      "surface": "הָֽבֶל",
+      "gloss": "هَبَل"
+    }
+  ],
+  "timestamp": "2026-08-14T00:16:18.907104332Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 7:4",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و یاهوه به موشه گفت، به سخن گفتن:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به سخن گفتن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:32:31.221388350Z",
+  "model": "glm-5.2"
+}

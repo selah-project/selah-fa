@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 8:10",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "بگیرید مُوثارِ من را و نه نقره، و دانش را بیش از زرِ برگزیده.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "بگیرید"
+    },
+    {
+      "surface": "מוסרי",
+      "gloss": "مُوثارِ من"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "نقره"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "و دانش"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "بیش از زرِ"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "برگزیده"
+    }
+  ],
+  "timestamp": "2026-08-13T23:00:44.401200692Z",
+  "model": "glm-5.2"
+}

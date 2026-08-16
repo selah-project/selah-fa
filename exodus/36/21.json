@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "ده اَمّه درازای تخته، و یک اَمّه و نیم اَمّه پهنای آن تختهٔ یک.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ده"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "اَمّه"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "درازای"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "تخته"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "و یک اَمّه"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "و نیم"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "اَمّه"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "پهنای"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "تختهٔ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-08-15T03:49:13.015033306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 7:14",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "در روزِ خوبی، در خوبی باش، و در روزِ بدی ببین؛ همچنین ⟨את⟩ این را در برابرِ این ساخته الوهیم، به سببِ اینکه آدمی پس از ⟨את⟩ او چیزی نیابد، هیچ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "خوبی"
+    },
+    {
+      "surface": "היה",
+      "gloss": "باش"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "در خوبی"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "و در روزِ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ببین"
+    },
+    {
+      "surface": "גם",
+      "gloss": "همچنین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "این را"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "در برابرِ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ساخته"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "על",
+      "gloss": "به سببِ"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "که"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "بیابد"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "پس از او"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "هیچ"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:51.415193282Z",
+  "model": "glm-5.2"
+}

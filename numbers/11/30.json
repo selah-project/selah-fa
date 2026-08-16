@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و گرد آمد موشه به اردوگاه، او و زنانِ یِسرائیل.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "و گرد آمد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "اردوگاه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "و زنانِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-13T20:35:12.196783686Z",
+  "model": "glm-5.2"
+}

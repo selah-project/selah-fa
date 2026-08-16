@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 15:19",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "راهِ تنبل، مانِندِ دیوارِ خار است؛ و توشهٔ راست‌گردان، راهزنی است.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "راهِ"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "تنبل"
+    },
+    {
+      "surface": "כמשכת",
+      "gloss": "مانِندِ"
+    },
+    {
+      "surface": "חדק",
+      "gloss": "دیوارِ خار"
+    },
+    {
+      "surface": "וארח",
+      "gloss": "و توشهٔ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "راست‌گردان"
+    },
+    {
+      "surface": "סללה",
+      "gloss": "راهزنی است"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:38.768116858Z",
+  "model": "glm-5.2"
+}

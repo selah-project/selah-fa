@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و ⟨את⟩ هولوکاست را نزدیک آورد، و آن را برپا داشت مانندِ حکم.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "و نزدیک آورد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هولوکاست"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "هولوکاست"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "و برپا داشت"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "مانند حکم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:23:46.655108442Z",
+  "model": "glm-5.2"
+}

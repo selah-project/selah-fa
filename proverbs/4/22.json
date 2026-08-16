@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 4:22",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "که آن‌ها زندگی‌اند برای یابندگانِشان، و برای تمامِِ گوشتِ او درمان.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگی"
+    },
+    {
+      "surface": "הם",
+      "gloss": "آن‌ها"
+    },
+    {
+      "surface": "למצאיהם",
+      "gloss": "برای یابندگانِشان"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "و برای تمامِ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "گوشتِ او"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "درمان"
+    }
+  ],
+  "timestamp": "2026-08-13T22:59:51.706970060Z",
+  "model": "glm-5.2"
+}

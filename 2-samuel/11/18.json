@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و یوآب فرستاد و به داوود خبر داد ⟨את⟩ همهٔ سخنانِ جنگ را.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "و فرستاد"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "و خبر داد"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "به داوود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همهٔ سخنانِ جنگ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "سخنانِ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "جنگ"
+    }
+  ],
+  "timestamp": "2026-08-13T21:19:18.825095477Z",
+  "model": "glm-5.2"
+}

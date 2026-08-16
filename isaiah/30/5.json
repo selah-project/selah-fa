@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 30:5",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "همه بر مردمِ ⟨بی‌فایده⟩ بی‌آبرو شدند؛ نه برای یاری و نه برای سودی، که برای خجلت و نیز برای ننگ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "همه"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "بی‌آبرو شدند"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مردمِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "⟨بی‌فایده⟩"
+    },
+    {
+      "surface": "למו",
+      "gloss": "به ایشان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "برای یاری"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "להועיל",
+      "gloss": "برای سودی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "برای خجلت"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "و نیز"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "برای ننگ"
+    }
+  ],
+  "timestamp": "2026-08-13T21:47:21.362723835Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "گناهِ قومِ من را می‌خورند، وبه گناهشان جانِ خود برمی‌دارند.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "گناهِ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "قومِ من"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "را می‌خورند"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وبه"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "گناهشان"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "برمی‌دارند"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "جانِ خود"
+    }
+  ],
+  "timestamp": "2026-08-13T22:25:19.147639495Z",
+  "model": "glm-5.2"
+}

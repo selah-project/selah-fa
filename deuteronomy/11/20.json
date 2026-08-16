@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "وبنویسید ⟨آن‌ها را⟩ بر قابِ خانهٔ خود و بر دروازه‌های خود.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "وبنویسید"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "قابِ در"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "خانهٔ تو"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "ودر دروازه‌های تو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:46:00.307539343Z",
+  "model": "glm-5.2"
+}

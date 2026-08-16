@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 66:21",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 66,
+  "translation": "و نیز از ایشان خواهم گرفت برای کاهنان، برای لاوی‌ها، گفت یاهوه.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "و نیز"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "از ایشان"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "خواهم گرفت"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "برای کاهنان"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "برای لاوی‌ها"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T21:55:46.191638005Z",
+  "model": "glm-5.2"
+}

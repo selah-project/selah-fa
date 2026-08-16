@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و ⟨את⟩ خوک — زیرا سم شکافته است او، اما جودانه بالا نمی‌آورد — نجس است او برای شما؛ از گوشتشان نخورید و لاشه‌شان را لمس نکنید.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "خوک"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "خوکِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "شکافندهٔ"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "سم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نـ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "جودانه"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "برای شما"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "از گوشتشان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نـ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "خورید"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "و لاشه‌شان را"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نـ"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "لمس کنید"
+    }
+  ],
+  "timestamp": "2026-08-13T20:47:22.600975228Z",
+  "model": "glm-5.2"
+}

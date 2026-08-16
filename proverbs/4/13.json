@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 4:13",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "در مُسار محکم بگیر، رها نکن؛ او را نگاه دار، زیرا او زندگیِ تو⟨است⟩.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "محکم بگیر"
+    },
+    {
+      "surface": "במוסר",
+      "gloss": "در مُسار"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "رها کن"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "او را نگاه دار"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "היא",
+      "gloss": "او"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "زندگیِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:59:43.524256371Z",
+  "model": "glm-5.2"
+}

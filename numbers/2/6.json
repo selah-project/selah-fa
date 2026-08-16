@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و لشکرِ او و شمرده‌شدگانِ او، چهار و پنجاه هزار و چهار صد.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "و لشکرِ او"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "و شمرده‌شدگانِ او"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "و پنجاه"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "و چهار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:31:03.757572377Z",
+  "model": "glm-5.2"
+}

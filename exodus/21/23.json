@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و اگر آسیبی باشد، جان در برابرِ جان بدهی.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "آسیبی"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "باشد"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "بدهی"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "در برابرِ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:15:51.150179443Z",
+  "model": "glm-5.2"
+}

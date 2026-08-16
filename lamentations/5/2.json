@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 5:2",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "میراثِ ما به بیگانگان دگرگون شد، خانه‌هایمان به غریبه‌ها.",
+  "tokens": [
+    {
+      "surface": "נחלתנו",
+      "gloss": "میراثِ ما"
+    },
+    {
+      "surface": "נהפכה",
+      "gloss": "دگرگون شد"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "به بیگانگان"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "خانه‌هایمان"
+    },
+    {
+      "surface": "לנכרים",
+      "gloss": "به غریبه‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T23:19:39.706067421Z",
+  "model": "glm-5.2"
+}

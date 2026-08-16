@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 12:26",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و ⟨بود⟩ چون بگویند به شما فرزندان شما: «این خدمت چه است برای شما؟»",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و ⟨بود⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "بگویند"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "به شما"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "فرزندان شما"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "خدمت"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "برای شما"
+    }
+  ],
+  "timestamp": "2026-08-13T20:13:49.698390628Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 97,
+  "translation": "آذرخش‌هایش جهان را روشن کردند؛ زمین دید و به‌لرزید.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "روشن کردند"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "آذرخش‌هایش"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "جهان را"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "دید"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "و به‌لرزید"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T22:51:27.126155300Z",
+  "model": "glm-5.2"
+}

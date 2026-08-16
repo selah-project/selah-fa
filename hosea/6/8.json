@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 6:8",
+  "book": "hosea",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "گیلعاد، شهرِ کارکنانِ باطل، لغزنده از خون است.",
+  "tokens": [
+    {
+      "surface": "גלעד",
+      "gloss": "گیلعاد"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "شهرِ"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "کارکنانِ"
+    },
+    {
+      "surface": "און",
+      "gloss": "باطل"
+    },
+    {
+      "surface": "עקבה",
+      "gloss": "لغزنده"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "از خون"
+    }
+  ],
+  "timestamp": "2026-08-13T22:25:25.127225851Z",
+  "model": "glm-5.2"
+}

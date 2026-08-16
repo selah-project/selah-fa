@@ -1,0 +1,33 @@
+{
+  "tier": "hand",
+  "verse": 45,
+  "ref": "lamentations 3:45",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "خاشاک و مردود ما را ساختی در میانِ قوم‌ها.",
+  "tokens": [
+    {
+      "surface": "סחי",
+      "gloss": "خاشاک"
+    },
+    {
+      "surface": "ומאוס",
+      "gloss": "و مردود"
+    },
+    {
+      "surface": "תשימנו",
+      "gloss": "ما را ساختی"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "در میانِ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قوم‌ها"
+    }
+  ],
+  "timestamp": "2026-08-14T17:46:57Z",
+  "model": "claude-fable-5/hand"
+}

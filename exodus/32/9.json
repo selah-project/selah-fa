@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "و یاهوه به موشه گفت: من ⟨את⟩ این قوم را دیدم، و اینک قومی سختِ گردن است ⟨او⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "دیدم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "این قوم را"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قومی"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "سخت"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "گردن"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:19:17.352413607Z",
+  "model": "glm-5.2"
+}

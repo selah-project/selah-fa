@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 40,
+  "translation": "و ⟨את⟩ لگن را نهاد میان خیمهٔ موعد و میان مذبح، و آن‌جا آب نهاد برای شستشو.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "و نهاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لگن"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "لگن"
+    },
+    {
+      "surface": "בין",
+      "gloss": "میان"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمهٔ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "موعد"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "و میان"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "و نهاد"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "آن‌جا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آب"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "برای شستشو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:21:42.330534521Z",
+  "model": "glm-5.2"
+}

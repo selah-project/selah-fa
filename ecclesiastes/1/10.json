@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "آیا چیزِ هست که گفته شود: «ببین، این تازه است»؟ مدت‌ها پیش، برای دوران‌هایی که پیش از ما بوده است.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "آیا هست"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چیز"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "که گفته شود"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ببین"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "تازه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "است"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "مدت‌ها"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "برای دوران‌ها"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوده"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "پیش از ما"
+    }
+  ],
+  "timestamp": "2026-08-13T23:19:29.837766635Z",
+  "model": "glm-5.2"
+}

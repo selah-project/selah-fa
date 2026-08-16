@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و چهل اَمّه بود خانه؛ او ⟨است⟩ هِیخالِ پیشین.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "و چهل"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "در اَمّه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "خانه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "هِیخال"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشین"
+    }
+  ],
+  "timestamp": "2026-08-13T21:25:54.249240389Z",
+  "model": "glm-5.2"
+}

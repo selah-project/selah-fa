@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "دوست‌دارِ پاکیِ دل، هنِ شفاهنش، رهِ او پادشاه است.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "دوست‌دار"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاکی"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "חן",
+      "gloss": "هن"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "شفاهنش"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "رهِ او"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:51.133393845Z",
+  "model": "glm-5.2"
+}

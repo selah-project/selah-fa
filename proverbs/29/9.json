@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "مردِ خردمند — اگر با مردِ نادان داوری کند، چه به خشم آید چه بخندد، آسودی نیست.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "مردِ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "خردمند"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "داوری کند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مردِ نادان"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردِ"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "و به خشم آید"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "و بخندد"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نیست"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "آسودی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:05:13.080844510Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 41:8",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 41,
+  "translation": "و تو، ای یسرائیل، بنده من، یاعکوو که برگزیدمت، نسلِ اَوراهام، محبوبِ من.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "و تو"
+    },
+    {
+      "surface": "י ש ר א ל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "بنده من"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعکوو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "برگزیدمت"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراهام"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "محبوبِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T21:49:49.812865650Z",
+  "model": "glm-5.2"
+}

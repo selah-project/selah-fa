@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 1:17",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "چون بی‌دلیل پرتاب می‌شود تور در چشمِ همهٔ صاحبِ بال،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بی‌دلیل"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "پرتاب می‌شود"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "تور"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "در چشمِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "صاحبِ"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "بال"
+    }
+  ],
+  "timestamp": "2026-08-13T22:59:02.874480317Z",
+  "model": "glm-5.2"
+}

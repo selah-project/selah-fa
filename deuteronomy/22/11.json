@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "نه بپوشی شَعَط‌نِز، پشم و کتان با هم.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תִלְבַּשׁ",
+      "gloss": "بپوشی"
+    },
+    {
+      "surface": "שַׁעַטְנֵז",
+      "gloss": "شَعَط‌نِز"
+    },
+    {
+      "surface": "צֶמֶר",
+      "gloss": "پشم"
+    },
+    {
+      "surface": "וּפִשְׁתִּים",
+      "gloss": "و کتان"
+    },
+    {
+      "surface": "יַחְדָּו",
+      "gloss": "با هم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:48:57.785339316Z",
+  "model": "glm-5.2"
+}

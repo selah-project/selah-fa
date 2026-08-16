@@ -1,0 +1,57 @@
+{
+  "ref": "judges 9:46",
+  "lang": "fa",
+  "book": "judges",
+  "chapter": 9,
+  "verse": 46,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:46:46Z",
+  "translation": "و همه‌ی صاحبانِ بُرجِ شَخِم شنیدند و به دژِ خانه‌ی اِل‌بِریت آمدند.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "و شنیدند"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همه‌ی"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "صاحبانِ"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "بُرجِ"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شَخِم"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "و آمدند"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "צריח",
+      "gloss": "دژِ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانه‌ی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "بِریت"
+    }
+  ]
+}

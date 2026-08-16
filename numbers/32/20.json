@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 32:20",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "و موشه به ایشان گفت: اگر بکنید ⟨את⟩ این سخ را، اگر پیشاپیشِ یاهوه برای جنگ تجهیز شوید،",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "به ایشان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "بکنید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "این سخ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "سخ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "תחלצו",
+      "gloss": "تجهیز شوید"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشاپیشِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "برای جنگ"
+    }
+  ],
+  "timestamp": "2026-08-13T20:41:14.276430924Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 42,
+  "translation": "و‌پایین رفتند ده برادر یوسف، برای خریدن غله از مِتصْراییم.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "و‌پایین رفتند"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برادر"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ده"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "برای خریدن"
+    },
+    {
+      "surface": "בר",
+      "gloss": "غله"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "از مِتصْراییم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:07:41.118730134Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "و اهارون گفت: خشمگین نشود اَدونایِ من؛ خودِ تو این ⟨את⟩ قوم را می‌شناسی، که به بدی گرایش دارد.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "بگدازد (خشمگین شود)"
+    },
+    {
+      "surface": "אף",
+      "gloss": "خشم (بینی)"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "می‌شناسی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "در بدی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    }
+  ],
+  "timestamp": "2026-08-15T03:49:15.389452151Z",
+  "model": "glm-5.3"
+}

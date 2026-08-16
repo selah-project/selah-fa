@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 34,
+  "translation": "بیایید، ای فرزندان، بشنوید مرا؛ ترسِ یاهوه را به شما می‌آموزم.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "بیایید"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ای فرزندان"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "بشنوید"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مرا"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ترسِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "به شما می‌آموزم"
+    }
+  ],
+  "timestamp": "2026-08-13T22:41:26.660521333Z",
+  "model": "glm-5.2"
+}

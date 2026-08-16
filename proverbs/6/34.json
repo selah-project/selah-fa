@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 6:34",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "که غیرت، خشمِ مرد است، و در روزِ کینه‌توزی درگذر نخواهد کرد.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "که"
+    },
+    {
+      "surface": "קִנְאָ֥ה",
+      "gloss": "غيرت"
+    },
+    {
+      "surface": "חֲמַת",
+      "gloss": "خشمِ"
+    },
+    {
+      "surface": "גָּ֑בֶר",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "יַ֝חְמ֗וֹל",
+      "gloss": "درگذر خواهد کرد"
+    },
+    {
+      "surface": "בְּי֣וֹם",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "נָקָֽם",
+      "gloss": "کینه‌توزی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:00:19.448768002Z",
+  "model": "glm-5.2"
+}

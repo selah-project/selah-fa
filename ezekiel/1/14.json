@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 1:14",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و جانوران دویدن و بازگشت ⟨می‌کردند⟩ چون دیدِ لمعه.",
+  "tokens": [
+    {
+      "surface": "והחיות",
+      "gloss": "و جانوران"
+    },
+    {
+      "surface": "רצוא",
+      "gloss": "دویدن"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "و بازگشت"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "چون دیدِ"
+    },
+    {
+      "surface": "הבזק",
+      "gloss": "لمعه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:11:53.548802534Z",
+  "model": "glm-5.2"
+}

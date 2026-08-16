@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "و برادرانش در او غبطه ورزیدند، و پدرش ⟨את⟩ سخن را نگاه داشت.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "و غبطه ورزیدند"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در او"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برادرانش"
+    },
+    {
+      "surface": "ואبיו",
+      "gloss": "و پدرش"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "نگه داشت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سخن را"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "سخن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:05:20.883681430Z",
+  "model": "glm-5.2"
+}

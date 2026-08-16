@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و مرد یوسف و همهٔ برادرانش و همهٔ آن نسل.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و همهٔ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برادرانش"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و همهٔ"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "آن نسل"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:09:22.984344996Z",
+  "model": "glm-5.2"
+}

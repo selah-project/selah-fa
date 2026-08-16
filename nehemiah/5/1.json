@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 5:1",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و ⟨بود⟩ فریادِ مردم و زنانِشان بزرگ، نزد برادرانِشان یهودیان.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "فریادِ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "و زنانِشان"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نزد"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "برادرانِشان"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "یهودیان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:32:01.956241912Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 15:42",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "لِبْنه، و عِتِر، و عاشان.",
+  "tokens": [
+    {
+      "surface": "לִבְנָ֥ה",
+      "gloss": "لِبْنه"
+    },
+    {
+      "surface": "וָעֶ֖תֶר",
+      "gloss": "و عِتِر"
+    },
+    {
+      "surface": "וְעָשָֽׁן",
+      "gloss": "و عاشان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:57:57.781278728Z",
+  "model": "glm-5.2"
+}

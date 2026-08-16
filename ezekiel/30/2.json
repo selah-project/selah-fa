@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 30:2",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "پسرِ آدم، نبوّت کن و بگو: این‌گونه گفت اَدونای یاهوه: زاری کنید! آه! برای روزِ",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "نبوّت کن"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "و بگو"
+    },
+    {
+      "surface": "כה",
+      "gloss": "این‌گونه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "زاری کنید"
+    },
+    {
+      "surface": "הה",
+      "gloss": "آه"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "برای روز"
+    }
+  ],
+  "timestamp": "2026-08-13T22:19:36.312260224Z",
+  "model": "glm-5.2"
+}

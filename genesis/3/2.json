@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و زن به مار گفت: از میوهٔ درختان باغ می‌خوریم.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "زن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "مار"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "از میوهٔ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "درختان"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "باغ"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "می‌خوریم"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:35.360210772Z",
+  "model": "glm-5.2"
+}

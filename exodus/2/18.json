@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 2:18",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "وآمدن نزد رَعوئیل پدرشان، وگفت: چرا امروز زودتر آمدید؟",
+  "tokens": [
+    {
+      "surface": "ותבאנה",
+      "gloss": "وآمدن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نزد"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رَعوئیل"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "پدرشان"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وگفت"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "מהרתן",
+      "gloss": "زودتر کردید"
+    },
+    {
+      "surface": "בא",
+      "gloss": "در آمدن"
+    },
+    {
+      "surface": "היום",
+      "gloss": "امروز"
+    }
+  ],
+  "timestamp": "2026-08-13T23:54:07.097632170Z",
+  "model": "glm-5.2"
+}

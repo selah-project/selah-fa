@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 29,
+  "ref": "job 30:29",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "برادرِ شغال‌ها شدم، و همراهِ دخترانِ شترمرغ.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "برادر"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "شدم"
+    },
+    {
+      "surface": "לתנים",
+      "gloss": "شغال‌ها"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "و همراه"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "دخترانِ"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "شترمرغ"
+    }
+  ],
+  "timestamp": "2026-08-15T04:29:02.300498124Z",
+  "model": "glm-5.3"
+}

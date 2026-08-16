@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 2:26",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و نوجوان شموئیل می‌رفت و بزرگ می‌شد و نیکو ⟨بود⟩، هم با یاهوه و هم با مردم.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "و نوجوان"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئیل"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "می‌رفت"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "و بزرگ می‌شد"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "و نیکو"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "و هم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "مردم"
+    }
+  ],
+  "timestamp": "2026-08-13T21:08:19.021415096Z",
+  "model": "glm-5.2"
+}

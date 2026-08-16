@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و نیل‌رنگ، و ارغوان، و کرمدی، و کتان، و موی بزها،",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "و نیل‌رنگ"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "و ارغوان"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "و کرمِ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "کرمدی"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "و کتان"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "و بزها"
+    }
+  ],
+  "timestamp": "2026-08-13T20:17:09.143018131Z",
+  "model": "glm-5.2"
+}

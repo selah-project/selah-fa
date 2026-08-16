@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 34:1",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 34,
+  "translation": "و موشه از دشت‌های موآب به کوهِ نووو، سرِ هَپِسگه که روبروی یریحو است، رفت و یاهوه ⟨את⟩ همهٔ زمین را تا دان به او نشان داد — ⟨את⟩ گیلعاد را تا دان.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "و رفت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "מערבת",
+      "gloss": "از دشت‌های"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کوهِ"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "نووو"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سرِ"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "هَپِسگه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "על",
+      "gloss": "روبروی"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رویِ"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "یریحو"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "و نشان داد او را"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همهٔ زمین"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گیلعاد"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "گیلعاد"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:53:22.149773889Z",
+  "model": "glm-5.2"
+}

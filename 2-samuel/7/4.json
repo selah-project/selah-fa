@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 7:4",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و بود در آن شب، و بود کلامِ یاهوه به ناتن، به این مضمون:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "در شب"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلامِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به این مضمون"
+    }
+  ],
+  "timestamp": "2026-08-13T21:18:07.813179018Z",
+  "model": "glm-5.2"
+}

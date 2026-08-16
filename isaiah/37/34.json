@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "isaiah 37:34",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "توسط راهی که آمد، توسط همان بازگردد، و به این شهر نیاید، سخنِ یاهوه.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "توسط راهی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آمد"
+    },
+    {
+      "surface": "בה",
+      "gloss": "توسط همان"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "بازگردد"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و به"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "این شهر"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "بیاید"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "سخنِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-14T00:05:31.353548210Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "اگر روحِ فرمانروا بر تو بالا آید، جایگاهت را رها نکن، که درمان، خطاهای بزرگ را آرام می‌کند.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روحِ"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "فرمانروا"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "بالا آید"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "بر تو"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "جایگاهت را"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "رها کن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "درمان"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "آرام می‌کند"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "خطاهای"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "بزرگ را"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:12.948327835Z",
+  "model": "glm-5.2"
+}

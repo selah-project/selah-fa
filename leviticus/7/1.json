@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و این توراتِ اَشام است؛ اقداسِ مقدّسات است.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "و این"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "توراتِ"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "اَشام"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "اقداسِ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "مقدّسات"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "است"
+    }
+  ],
+  "timestamp": "2026-08-13T20:23:21.586182538Z",
+  "model": "glm-5.2"
+}

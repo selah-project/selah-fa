@@ -1,0 +1,45 @@
+{
+  "ref": "job 19:16",
+  "lang": "fa",
+  "book": "job",
+  "chapter": 19,
+  "verse": 16,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:46:46Z",
+  "translation": "بنده‌ام را خواندم و پاسخ نمی‌دهد؛ با دهانم به او التماس می‌کنم.",
+  "tokens": [
+    {
+      "surface": "לעבדי",
+      "gloss": "بنده‌ام را"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "خواندم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "پاسخ می‌دهد"
+    },
+    {
+      "surface": "במו",
+      "gloss": "با"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دهانم"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "التماس می‌کنم"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    }
+  ]
+}

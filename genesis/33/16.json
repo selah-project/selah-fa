@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "و بازگشت، در آن روز، عیسو به راهِ خود، سعیرا.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "و بازگشت"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "به راهِ خود"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "سعیرا"
+    }
+  ],
+  "timestamp": "2026-08-13T20:03:56.430622953Z",
+  "model": "glm-5.2"
+}

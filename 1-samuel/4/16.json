@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 4:16",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "وَآنگاه مرد به اَلی گفت: من هستم ⟨آنکه⟩ از صف آمد، و من امروز از صف گریختم. و گفت: چه شد ⟨آن⟩ امر، پسرِ من؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "اَلی"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "آمده"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "صف"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "و من"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "صف"
+    },
+    {
+      "surface": "נסתי",
+      "gloss": "گریختم"
+    },
+    {
+      "surface": "היום",
+      "gloss": "امروز"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "شده"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "امر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرِ من"
+    }
+  ],
+  "timestamp": "2026-08-14T00:00:03.611759318Z",
+  "model": "glm-5.2"
+}

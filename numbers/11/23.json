@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 11:23",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و گفت یاهوه به موشه: آیا دستِ یاهوه کوتاه شده؟ اکنون خواهی دید آیا سخنِ من به تو می‌رسد یا نه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "היד",
+      "gloss": "دستِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "کوتاه شده"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "اکنون"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "خواهی دید"
+    },
+    {
+      "surface": "היקרך",
+      "gloss": "آیا به تو می‌رسد"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "سخنِ من"
+    },
+    {
+      "surface": "אם",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:34:41.427601313Z",
+  "model": "glm-5.2"
+}

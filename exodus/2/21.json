@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 2:21",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و موشی رضایت داد که نزد ⟨את⟩ آن مرد بنشیند، و ⟨את⟩ تسیپوراه دخترش را به موشی داد.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "و رضایت داد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشی"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "که بنشیند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آن مرد"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "آن مرد"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "و داد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تسیپوراه"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "تسیپوراه"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "دخترش"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "به موشی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:10:17.716874306Z",
+  "model": "glm-5.2"
+}

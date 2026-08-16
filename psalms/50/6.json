@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 50,
+  "translation": "و اعلام کردند آسمان‌ها عدالتِ ⟨او⟩ را، زیرا الوهیم داور است او. سلا.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "و اعلام کردند"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمان‌ها"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "عدالتِ او"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "داور"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلا"
+    }
+  ],
+  "timestamp": "2026-08-13T22:43:55.472083678Z",
+  "model": "glm-5.2"
+}

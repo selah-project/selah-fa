@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 40:35",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 40,
+  "translation": "و نتوانست موشه در آمدن به درونِ خیمهٔ موعد، زیرا که ساکن شد بر آن ابر، و جلالِ یاهوه پر کرد ⟨את⟩ مسکن را.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "توانست"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "درآمدن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمهٔ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "موعد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا که"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ساکن شد"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر آن"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ابر"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "و جلالِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "پر کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مسکن"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:21:43.039781517Z",
+  "model": "glm-5.2"
+}

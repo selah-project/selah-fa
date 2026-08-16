@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 16:1",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "و شیمشون به عزّه رفت، و آنجا زنی زناکار دید، و به نزدِ او درآمد.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "و رفت"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "شیمشون"
+    },
+    {
+      "surface": "עזתה",
+      "gloss": "به عزّه"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "و دید"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آنجا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زنی"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "زناکار"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "و درآمد"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "به نزدِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T21:06:42.647411313Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 22:16",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "طلا و نقره و مس و آهن — شماره‌ای نیست. برخیز و بکن، و یاهوه با تو باشد.",
+  "tokens": [
+    {
+      "surface": "לזהב",
+      "gloss": "طلا"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "و نقره"
+    },
+    {
+      "surface": "ולנחשת",
+      "gloss": "و مس"
+    },
+    {
+      "surface": "ולברזל",
+      "gloss": "و آهن"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "شماره‌ای"
+    },
+    {
+      "surface": "قوم",
+      "gloss": "برخیز"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "و بکن"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و باشد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "با تو"
+    }
+  ],
+  "timestamp": "2026-08-13T23:42:06.531262751Z",
+  "model": "glm-5.2"
+}

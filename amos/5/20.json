@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "amos 5:20",
+  "book": "amos",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "آیا روزِ یاهوه تاریکی نیست و نه روشنایی، و تیرگی، و نه درخششی برای آن؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "آیا… نیست"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "تاریکی"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "אור",
+      "gloss": "روشنايی"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "و تیرگی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "درخشش"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برای آن"
+    }
+  ],
+  "timestamp": "2026-08-15T04:19:43.621376754Z",
+  "model": "glm-5.3"
+}

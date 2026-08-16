@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 13:7",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "و اکنون این زمین را ⟨את⟩ به میراث برای نه قبیله و نیمیِ قبیلهٔ مَنَسّه بخش.»",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و اکنون"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "بخش"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "این زمین را"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "به میراث"
+    },
+    {
+      "surface": "לתשעת",
+      "gloss": "برای نه"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "قبیله"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "و نیمیِ"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "قبیلهٔ"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "مَنَسّه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:57:22.649136314Z",
+  "model": "glm-5.2"
+}

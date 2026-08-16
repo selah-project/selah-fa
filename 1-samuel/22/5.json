@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 22:5",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "و گفت گاد نبی به داوود: در دژ ننشین؛ برو و بیا برای خود به سرزمین یهودا. و داوود رفت و به جنگلِ حارت آمد.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "بنشین"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "در دژ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برو"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "و بیا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برای خود"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "سرزمینِ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "و رفت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "و آمد"
+    },
+    {
+      "surface": "יער",
+      "gloss": "جنگلِ"
+    },
+    {
+      "surface": "חרת",
+      "gloss": "حارت"
+    }
+  ],
+  "timestamp": "2026-08-13T21:14:21.124228311Z",
+  "model": "glm-5.2"
+}

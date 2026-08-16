@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "که من یاهوه هستم، تغییر نکردم، و شما پسران یاعکوو، نابود نشدید.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "تغییر کردم"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "و شما"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعکوو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "نابود شدید"
+    }
+  ],
+  "timestamp": "2026-08-13T22:37:28.813420043Z",
+  "model": "glm-5.2"
+}

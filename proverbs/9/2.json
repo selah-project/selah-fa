@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "سلاخی خود را کشت؛ شرابش را آمیخت؛ حتی سفره‌اش را آراست.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "کشت"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "سلاخی خود"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "آمیخت"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "شرابش"
+    },
+    {
+      "surface": "אף",
+      "gloss": "حتی"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "آراست"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "سفره‌اش"
+    }
+  ],
+  "timestamp": "2026-08-15T04:27:09.269752155Z",
+  "model": "glm-5.3"
+}

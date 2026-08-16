@@ -1,0 +1,53 @@
+{
+  "tier": "hand",
+  "verse": 31,
+  "ref": "ezekiel 40:31",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 40,
+  "translation": "و ایوانش به سویِ صحنِ بیرونی ⟨بود⟩، و نخل‌ها بر ستون‌هایش؛ و هشت پلّه فرازِ آن ⟨بود⟩.",
+  "tokens": [
+    {
+      "surface": "ואלמו",
+      "gloss": "و ایوانش"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سویِ"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "صحنِ"
+    },
+    {
+      "surface": "החצונה",
+      "gloss": "بیرونی"
+    },
+    {
+      "surface": "ותמרים",
+      "gloss": "و نخل‌ها"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "אילו",
+      "gloss": "ستون‌هایش"
+    },
+    {
+      "surface": "ומעלות",
+      "gloss": "و پلّه‌ها"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "هشت"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "فرازِ آن"
+    }
+  ],
+  "timestamp": "2026-08-14T17:47:39Z",
+  "model": "claude-fable-5/hand"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "1-samuel 16:9",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "وَیِشای شَمّه را عبور داد، و گفت: در این نیز یاهوه برنگزیده است.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "عبور داد"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "یِشای"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "شَمّه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "نیز"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "در این"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "برگزیده است"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-15T04:01:18.085754605Z",
+  "model": "glm-5.3"
+}

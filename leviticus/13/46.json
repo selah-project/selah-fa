@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 13:46",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "همهٔ روزهایی که آفت در اوست، ناپاک باشد؛ ناپاک اوست؛ تنها بنشیند؛ بیرون از اردوگاه قرارگاهِ او باشد.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روزهای"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "آفت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در اوست"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ناپاک باشد"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوست"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "تنها"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "بنشیند"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "بیرون"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "از اردوگاه"
+    },
+    {
+      "surface": "מושבו",
+      "gloss": "قرارگاهِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:24:55.922399837Z",
+  "model": "glm-5.2"
+}

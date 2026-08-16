@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 8:34",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و پسرِ یِهوناتان مَریو‌بَعَل بود؛ و مَریو‌بَعَل پدرِ ⟨את⟩ میکا بود.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "و پسرِ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یِهوناتان"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "مَریو"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بَعَل"
+    },
+    {
+      "surface": "ומריב",
+      "gloss": "و مَریو"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بَعَل"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پدرِ ... بود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میکا"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "میکا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:49.201141503Z",
+  "model": "glm-5.2"
+}

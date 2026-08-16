@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "پسرِ من، اگر سخنانِ مرا بگیری و فرمان‌های مرا با ⟨את⟩ خود پنهان کنی،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرِ من"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "بگیری"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "سخنانِ مرا"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "و فرمان‌های مرا"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "پنهان کنی"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "خود"
+    }
+  ],
+  "timestamp": "2026-08-13T23:00:03.912438614Z",
+  "model": "glm-5.2"
+}

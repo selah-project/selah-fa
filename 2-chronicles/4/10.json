@@ -1,0 +1,46 @@
+{
+  "tier": "4.6",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و ⟨את⟩ دریا در سویِ راست، مشرق‌جهت، روبروی جنوب گذاشت.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "دریا"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "گذاشت"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "در سویِ"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "راست"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "مشرق‌جهت"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "روبروی"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "جنوب"
+    }
+  ],
+  "timestamp": "2026-08-15T04:42:18.584715766Z",
+  "model": "glm-4.6"
+}

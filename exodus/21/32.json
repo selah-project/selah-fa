@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 21:32",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "اگر گاو بندهای را بزند، یا کنیزِ -سی، سی شکل نقره بدهد به آقای او، و گاو سنگسار شود.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "بندهای"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "بزند"
+    },
+    {
+      "surface": "השור",
+      "gloss": "گاو"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "کنیز"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "نقره"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "شِکَل"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "بدهد"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "به آقای او"
+    },
+    {
+      "surface": "והשור",
+      "gloss": "و گاو"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "سنگسار شود"
+    }
+  ],
+  "timestamp": "2026-08-13T20:16:30.070378049Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "بگذارد دهان خود را در خاک — شاید امیدی باشد.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "بگذارد"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "در خاک"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "دهانِ او"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "شاید"
+    },
+    {
+      "surface": "יש",
+      "gloss": "هست"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "امید"
+    }
+  ],
+  "timestamp": "2026-08-13T23:17:55.368152062Z",
+  "model": "glm-5.2"
+}

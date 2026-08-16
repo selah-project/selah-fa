@@ -1,0 +1,37 @@
+{
+  "tier": "hand",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "و یاعکوو از بِئِر-شِوَع بیرون رفت، و به سویِ حاران روانه شد.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "و بیرون رفت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعکوو"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "از بِئِر-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شِوَع"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "و روانه شد"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "به سویِ حاران"
+    }
+  ],
+  "timestamp": "2026-08-14T17:47:39Z",
+  "model": "claude-fable-5/hand"
+}

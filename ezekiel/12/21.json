@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 12:21",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و بود کلام یاهوه به من، به گفتار:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به گفتار"
+    }
+  ],
+  "timestamp": "2026-08-13T22:13:59.880579904Z",
+  "model": "glm-5.2"
+}

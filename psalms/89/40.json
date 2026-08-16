@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 89,
+  "translation": "بر انداختی پیمانِ بنده‌ات، به زمین آلوده کردی تاجِ او را.",
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "بر انداختی"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "پیمانِ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "بنده‌ات"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "آلوده کردی"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "به زمین"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "تاجِ او را"
+    }
+  ],
+  "timestamp": "2026-08-13T22:50:12.954753251Z",
+  "model": "glm-5.2"
+}

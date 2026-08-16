@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 9:30",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و شلومه در یروشالَییم بر همهٔ ییسْرائیل پادشاهی کرد، چهل سال.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "و پادشاهی کرد"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومه"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "در یروشالَییم"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ییسْرائیل"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چهل"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-08-13T23:45:01.919518435Z",
+  "model": "glm-5.2"
+}

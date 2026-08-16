@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 13:38",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "و مردی یا زنی، چون باشد در پوستِ گوشتِ ایشان لکه‌هایی روشن، لکه‌های روشنِ سفید،",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "و مردی"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زنی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "باشد"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "در پوستِ"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "گوشتِ ایشان"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "لکه‌های روشن"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "لکه‌های روشن"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "سفید"
+    }
+  ],
+  "timestamp": "2026-08-13T23:55:54.624265476Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "سخن بگو با بنی‌اسرائیل، به گفتن: تمامِ چربیِ گاو و گوسفند و بز را نخورید.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "سخن بگو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "با"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی‌"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به گفتن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "چربیِ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "گاو"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "و گوسفند"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "و بز"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "خورید"
+    }
+  ],
+  "timestamp": "2026-08-13T20:22:48.812499948Z",
+  "model": "glm-5.2"
+}

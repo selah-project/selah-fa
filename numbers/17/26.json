@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "و موشه کرد چنانکه یاهوه به او فرمان داد، так کرد.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و کرد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چنانکه"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فرمان داد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "او"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همین‌گونه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:36:49.754143295Z",
+  "model": "glm-5.2"
+}

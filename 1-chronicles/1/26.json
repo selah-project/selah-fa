@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 1:26",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "سْروگ، ناخور، تِراخ،",
+  "tokens": [
+    {
+      "surface": "שְׂר֥וּג",
+      "gloss": "سْروگ"
+    },
+    {
+      "surface": "נָח֖וֹר",
+      "gloss": "ناخور"
+    },
+    {
+      "surface": "תָּֽרַח",
+      "gloss": "تِراخ"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:50.342060111Z",
+  "model": "glm-5.2"
+}

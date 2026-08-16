@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 11:35",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "لُد و اُونو، درهٔ صنعتگران،",
+  "tokens": [
+    {
+      "surface": "לֹ֥ד",
+      "gloss": "لُد"
+    },
+    {
+      "surface": "וְאוֹנ֖וֹ",
+      "gloss": "و اُونو"
+    },
+    {
+      "surface": "גֵּ֥י",
+      "gloss": "درهٔ"
+    },
+    {
+      "surface": "הַחֲרָשִֽׁים",
+      "gloss": "صنعتگران"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:07.014084130Z",
+  "model": "glm-5.2"
+}

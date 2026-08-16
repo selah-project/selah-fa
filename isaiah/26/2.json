@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "بگشایید دروازه‌ها، و بیاید ملتی دادگر، نگاهدارِ وفاداری‌ها.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "بگشایید"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "دروازه‌ها"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "و بیاید"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ملتی"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "دادگر"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "نگهدارِ"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "وفاداری‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T21:46:02.999633641Z",
+  "model": "glm-5.2"
+}

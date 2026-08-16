@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "در روحِ خود شتاب مکن تا خشمگین شوی، که خشم در آغوشِ نادانان آرام می‌گیرد.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مکن"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "شتاب"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "در روحِ تو"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "به خشمگین شدن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "خشم"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "در آغوشِ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "نادانان"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "آرام می‌گیرد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:40.508922922Z",
+  "model": "glm-5.2"
+}

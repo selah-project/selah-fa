@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 7:8",
+  "book": "micah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "ای دشمنِ من، بر من شاد مباش که اگر افتادم، برخاستم؛ اگر در تاریکی نشینم، یاهوه نورِ من ⟨است⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשמחי",
+      "gloss": "شاد مباش"
+    },
+    {
+      "surface": "איבתי",
+      "gloss": "ای دشمنِ من"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "נפלתי",
+      "gloss": "افتادم"
+    },
+    {
+      "surface": "קמתי",
+      "gloss": "برخاستم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "نشینم"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "در تاریکی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אור",
+      "gloss": "نور"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برای من"
+    }
+  ],
+  "timestamp": "2026-08-13T22:32:38.909152209Z",
+  "model": "glm-5.2"
+}

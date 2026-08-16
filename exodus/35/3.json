@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "آتشی برافروزید نکنید در همه‌جاهایِ نشیمنِ خود، در روزِ شَبات.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "برافروزید"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آتشی"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "در همه‌"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "جاهایِ نشیمنِ شما"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "شَبات"
+    }
+  ],
+  "timestamp": "2026-08-13T20:20:07.402020732Z",
+  "model": "glm-5.2"
+}

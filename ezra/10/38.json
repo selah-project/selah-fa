@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 10:38",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و بَنی، و بِنوی، شِمْعی،",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و بَنی"
+    },
+    {
+      "surface": "ובנוי",
+      "gloss": "و بِنوی"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شِمْعی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:30:16.937681064Z",
+  "model": "glm-5.2"
+}

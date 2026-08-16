@@ -1,0 +1,41 @@
+{
+  "ref": "psalms 105:23",
+  "lang": "fa",
+  "book": "psalms",
+  "chapter": 105,
+  "verse": 23,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:47:12Z",
+  "translation": "و یِسرائیل به مِتسرایم آمد، و یاعکوو در سرزمینِ حام غربت گزید.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "و آمد"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "به مِتسرایم"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "و یاعکوو"
+    },
+    {
+      "surface": "גר",
+      "gloss": "غربت گزید"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "در سرزمینِ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    }
+  ]
+}

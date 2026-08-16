@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 27,
+  "ref": "psalms 44:27",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 44,
+  "translation": "برخیز، یاریِ ما، و ما را ببخشای به سببِ حُسنِ تو",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "برخیز"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "یاری"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ما"
+    },
+    {
+      "surface": "ופדנו",
+      "gloss": "و ما را ببخشای"
+    },
+    {
+      "surface": "למען",
+      "gloss": "به سببِ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "حُسنِ تو"
+    }
+  ],
+  "timestamp": "2026-08-15T04:22:54.065989615Z",
+  "model": "glm-5.3"
+}

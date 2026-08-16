@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و موشه با پسرانِ یِسرائیل سخن گفت تا پسح را بجا آورند",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "با"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "تا بجا آورند"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پسح"
+    }
+  ],
+  "timestamp": "2026-08-13T20:34:09.968798614Z",
+  "model": "glm-5.2"
+}

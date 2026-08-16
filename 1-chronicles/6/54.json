@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 6:54",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و ⟨את⟩ اَیالون و ⟨את⟩ مراتعش و ⟨את⟩ گَت-ریمون و ⟨את⟩ مراتعش را،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "اَیالون"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "ایالون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مراتعش"
+    },
+    {
+      "surface": "مגרשיה",
+      "gloss": "مراتعش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "گَت-ریمون"
+    },
+    {
+      "surface": "גת",
+      "gloss": "گت"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "ریمون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مراتعش"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "مراتعش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:11.574663042Z",
+  "model": "glm-5.2"
+}

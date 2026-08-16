@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 8:17",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و ⟨بود⟩ با دل داوود پدرم ساختن خانه‌ای برای نام یاهوه، الوهیمِ یِسرائیل.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پدرم"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ساختن"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانه‌ای"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "برای نام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوهیمِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-13T21:27:15.321511381Z",
+  "model": "glm-5.2"
+}

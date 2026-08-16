@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 118,
+  "translation": "بگویند نا بیتِ اَهَرون: که تا جهانِ باشی مهربانیِ اوست.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "بگویند"
+    },
+    {
+      "surface": "נא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیتِ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اَهَرون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "تا جهانِ باشی"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "مهربانیِ اوست"
+    }
+  ],
+  "timestamp": "2026-08-13T22:54:47.603721625Z",
+  "model": "glm-5.2"
+}

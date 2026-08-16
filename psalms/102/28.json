@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 102,
+  "translation": "و تو همان ⟨هستی⟩، و سال‌هایت به پایان نخواهند رسید.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "و تو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "همان"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "و سال‌هایت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "به پایان خواهند رسید"
+    }
+  ],
+  "timestamp": "2026-08-13T22:52:10.442706539Z",
+  "model": "glm-5.2"
+}

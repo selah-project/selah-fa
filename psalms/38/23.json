@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 38,
+  "translation": "بشتاب به یاریِ من، اَدونای، رستگاریِ من!",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "بشتاب"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "به یاریِ من"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "رستگاریِ من"
+    }
+  ],
+  "timestamp": "2026-08-14T00:11:18.936388470Z",
+  "model": "glm-5.2"
+}

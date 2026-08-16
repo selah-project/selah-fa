@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 8:11",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "چون فرمان بر کارِ بد دیری نمی‌رسد، به همین سبب دلِ پسرانِ انسان از آنان لبریز است تا بدی کنند.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "چون"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نـ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "می‌رسد"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "فرمان"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "بر کارِ"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "بد"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "دیری"
+    },
+    {
+      "surface": "על",
+      "gloss": "به"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همین سبب"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "لبریز است"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دلِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "از آنان"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "تا کنند"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بدی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:34.893669652Z",
+  "model": "glm-5.2"
+}

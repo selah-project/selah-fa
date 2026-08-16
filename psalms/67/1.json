@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 67,
+  "translation": "برای رهبر، با سازهای زهی. مزمور، سرودی.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "برای رهبر"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "با سازهای زهی"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "سرود"
+    }
+  ],
+  "timestamp": "2026-08-13T22:46:08.992346352Z",
+  "model": "glm-5.2"
+}

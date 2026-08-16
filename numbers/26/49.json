@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 49,
+  "ref": "numbers 26:49",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "لِیِئزِر، تیرهٔ یِئزری؛ لِشیلِم، تیرهٔ شیلِمی.",
+  "tokens": [
+    {
+      "surface": "ליצר",
+      "gloss": "لِیِئزِر"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "تیرهٔ"
+    },
+    {
+      "surface": "היצרי",
+      "gloss": "یِئزری"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "لِشیلِم"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "تیرهٔ"
+    },
+    {
+      "surface": "השלמי",
+      "gloss": "شیلِمی"
+    }
+  ],
+  "timestamp": "2026-08-15T03:53:01.571033435Z",
+  "model": "glm-5.3"
+}

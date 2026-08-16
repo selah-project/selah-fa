@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 2:52",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و شوبالِ پدرِ قِریَت یِعاریم پسرانی داشت: هَروْئه، نیمی از مَنوحوت.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پسران"
+    },
+    {
+      "surface": "לשובל",
+      "gloss": "به شوبال"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پدرِ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قِریَت"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "یِعاریم"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "هَروْئه"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "نیمی از"
+    },
+    {
+      "surface": "המנחות",
+      "gloss": "مَنوحوت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:14.687561200Z",
+  "model": "glm-5.2"
+}

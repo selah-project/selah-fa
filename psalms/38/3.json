@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 38,
+  "translation": "که پیکان‌هایت در من فرو رفتند، و دستت بر من فرود آوردی.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "که"
+    },
+    {
+      "surface": "חִצֶּיךָ",
+      "gloss": "پیکان‌هایت"
+    },
+    {
+      "surface": "נִחֲתוּ",
+      "gloss": "فرو رفتند"
+    },
+    {
+      "surface": "בִּי",
+      "gloss": "در من"
+    },
+    {
+      "surface": "וַתִּנְחַת",
+      "gloss": "و فرود آوردی"
+    },
+    {
+      "surface": "עָלַי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "יָדֶךָ",
+      "gloss": "دستت"
+    }
+  ],
+  "timestamp": "2026-08-13T22:42:41.314481721Z",
+  "model": "glm-5.2"
+}

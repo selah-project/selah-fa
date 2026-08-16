@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 52,
+  "translation": "برای رهبر، آموزش‌دهنده، از داوود.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "برای رهبر"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "آموزش‌دهنده"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "از داوود"
+    }
+  ],
+  "timestamp": "2026-08-13T22:44:54.593472961Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 34,
+  "translation": "خدایانِ ریخته‌گری برای خودت نسازی.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "خدایانِ"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ریخته‌گری"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "بسازی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برایِ خودت"
+    }
+  ],
+  "timestamp": "2026-08-13T20:19:13.839486437Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "نامِ تو را، یاهوه، از گودالِ زیرین خواندم.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "خواندم"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "نامِ تو را"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "از گودالِ"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "زیرین"
+    }
+  ],
+  "timestamp": "2026-08-13T23:18:17.647398230Z",
+  "model": "glm-5.2"
+}

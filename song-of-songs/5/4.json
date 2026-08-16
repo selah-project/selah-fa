@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "دودِ من دستِ خود را از سوراخ فرستاد، و احشایِ من برِ او به‌هم ریخت.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "دودِ من"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "فرستاد"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دستِ خود را"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "החר",
+      "gloss": "سوراخ"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "و احشایِ من"
+    },
+    {
+      "surface": "המו",
+      "gloss": "به‌هم ریخت"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "برِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:15:52.240664976Z",
+  "model": "glm-5.2"
+}

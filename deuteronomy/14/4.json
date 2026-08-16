@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "این ⟨است⟩ بهیمی که بخورید: گاو، برهٔ گوسفندان، و بزغالهٔ بزها.",
+  "tokens": [
+    {
+      "surface": "זֹ֥את",
+      "gloss": "این"
+    },
+    {
+      "surface": "הַבְּהֵמָ֖ה",
+      "gloss": "بهیمی"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "که"
+    },
+    {
+      "surface": "תֹּאכֵ֑לוּ",
+      "gloss": "بخورید"
+    },
+    {
+      "surface": "שׁ֕וֹר",
+      "gloss": "گاو"
+    },
+    {
+      "surface": "שֵׂ֥ה",
+      "gloss": "برهٔ"
+    },
+    {
+      "surface": "כְשָׂבִ֖ים",
+      "gloss": "گوسفندان"
+    },
+    {
+      "surface": "וְשֵׂ֥ה",
+      "gloss": "و بزغالهٔ"
+    },
+    {
+      "surface": "עִזִּֽים",
+      "gloss": "بزها"
+    }
+  ],
+  "timestamp": "2026-08-13T20:47:09.115287049Z",
+  "model": "glm-5.2"
+}

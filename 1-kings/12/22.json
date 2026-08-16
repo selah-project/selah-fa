@@ -1,0 +1,45 @@
+{
+  "ref": "1-kings 12:22",
+  "lang": "fa",
+  "book": "1-kings",
+  "chapter": 12,
+  "verse": 22,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:47:37Z",
+  "translation": "و سخنِ الوهیم به شِمَعیا، مردِ الوهیم، آمد، به گفتن:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و آمد"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخنِ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شِمَعیا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردِ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به گفتن"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 23:34",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "به پسرانِ یِسرائیل سخن بگو، به گفتن: در پانزدهمین روزِ ماهِ هفتمِ این، عیدِ سُکّوت، هفت روز، برای یاهوه ⟨است⟩.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "سخن بگو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به گفتن"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "در پنج"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ده"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روزِ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "از ماهِ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "هفتمِ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "חג",
+      "gloss": "عیدِ"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "سُکّوت"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "هفتِ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روز"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "برای یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:28:55.033489432Z",
+  "model": "glm-5.2"
+}

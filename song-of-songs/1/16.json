@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 1:16",
+  "book": "song-of-songs",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "اینک زیبایی، دوستِ من، بلکه دل‌انگیز؛ بله، خوابگاهِ ما سرزنده است.",
+  "tokens": [
+    {
+      "surface": "הִנְּךָ",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "יָפֶה",
+      "gloss": "زیبایی"
+    },
+    {
+      "surface": "דּוֹדִי",
+      "gloss": "دوستِ من"
+    },
+    {
+      "surface": "אַף",
+      "gloss": "بلکه"
+    },
+    {
+      "surface": "נָעִים",
+      "gloss": "دل‌انگیز"
+    },
+    {
+      "surface": "אַף",
+      "gloss": "بله"
+    },
+    {
+      "surface": "עַרְשֵׂנוּ",
+      "gloss": "خوابگاهِ ما"
+    },
+    {
+      "surface": "רַעֲנָנָה",
+      "gloss": "سرزنده"
+    }
+  ],
+  "timestamp": "2026-08-13T23:15:14.344814950Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و نیز در راه، چون نادان راه می‌رود، دلش فاقد ⟨است⟩، و ⟨به⟩ همه می‌گوید که نادان است.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "و نیز"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "در راه"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "چون نادان"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "راه می‌رود"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دلش"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "فاقد"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و می‌گوید"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "به همه"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:12.948161850Z",
+  "model": "glm-5.2"
+}

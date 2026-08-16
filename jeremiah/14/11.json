@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و گفت یاهوه به من: دعا نکن برای این قوم، به سود.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "دعا کن"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "برای"
+    },
+    {
+      "surface": "העם",
+      "gloss": "این قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "به سود"
+    }
+  ],
+  "timestamp": "2026-08-13T22:00:07.972032800Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "job 2:5",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "اما دستِ خود را بفرست، و به استخوانش و به گوشتش بزن؛ اگر نه، رو در رویِ تو لعنتت خواهد کرد.»",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "اما"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "بفرست"
+    },
+    {
+      "surface": "נא",
+      "gloss": ""
+    },
+    {
+      "surface": "ידך",
+      "gloss": "دستِ تو"
+    },
+    {
+      "surface": "וגע",
+      "gloss": "و بزن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "استخوانش"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و به"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "گوشتش"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "رو در رویِ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تو"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "لعنتت خواهد کرد"
+    }
+  ],
+  "timestamp": "2026-08-15T04:28:29.862085478Z",
+  "model": "glm-5.3"
+}

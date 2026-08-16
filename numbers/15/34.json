@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 15:34",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و گذاشتند ⟨את⟩ او را در نگاهداری، زیرا که روشن نشده بود چه باید کرد برایِ او.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "و گذاشتند"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "او را"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "در نگاهداری"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "روشن شده بود"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "باید کرد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برایِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:36:07.490788320Z",
+  "model": "glm-5.2"
+}

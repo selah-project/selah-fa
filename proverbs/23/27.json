@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 23:27",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "زیرا گودی ژرف است روسپی، و چاهی تنگ زنِ بیگانه.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "שׁוּחָ֣ה",
+      "gloss": "گودی"
+    },
+    {
+      "surface": "עֲמֻקָּ֣ה",
+      "gloss": "ژرف"
+    },
+    {
+      "surface": "זוֹנָ֑ה",
+      "gloss": "روسپی"
+    },
+    {
+      "surface": "וּבְאֵ֥ר",
+      "gloss": "و چاهی"
+    },
+    {
+      "surface": "צָ֝רָ֗ה",
+      "gloss": "تنگ"
+    },
+    {
+      "surface": "נָכְרִיָּֽה",
+      "gloss": "زنِ بیگانه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:14.416874523Z",
+  "model": "glm-5.2"
+}

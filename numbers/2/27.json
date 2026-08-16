@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 2:27",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و چادرزنانِ کنارِ او قبیلهٔ آشِر؛ و نسیبِ بنی‌آشِر پَگعی‌اِل پسرِ عُكران است.",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "و چادرزنانِ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "کنارِ او"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "قبیلهٔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آشِر"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "و نسیبِ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بنی‌"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آشِر"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "پَگعی‌اِل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "عُكران"
+    }
+  ],
+  "timestamp": "2026-08-13T20:31:22.197022571Z",
+  "model": "glm-5.2"
+}

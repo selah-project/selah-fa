@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 6:27",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "آیا مردی آتش را در بغلِ خود پنهان می‌کند، و لباس‌هایش سوخته نمی‌شوند؟",
+  "tokens": [
+    {
+      "surface": "היחתה",
+      "gloss": "آیا پنهان می‌کند"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آتش"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "در بغلِ او"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "و لباس‌هایش"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשרפנה",
+      "gloss": "سوخته می‌شوند"
+    }
+  ],
+  "timestamp": "2026-08-13T23:00:39.220512241Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 22:1",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "و داوود گفت: این است، خانهٔ یاهوه الوهیم، و این مذبحِ عربان برای یِسرائیل.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوست"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانهٔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "و این"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "عربان"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "برای یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:11.621336975Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 17:16",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "کوزهٔ آرد تمام نشد و صَفَحَهٔ روغن کم نشد، همچون سخنِ یاهوه که به دستِ اَلیاهو سخن گفت.",
+  "tokens": [
+    {
+      "surface": "כד",
+      "gloss": "کوزهٔ"
+    },
+    {
+      "surface": "הקמח",
+      "gloss": "آرد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "تمام شد"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "و صَفَحَهٔ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "روغن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "کم شد"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "همچون سخنِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخن گفت"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "به دستِ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "اَلیاهو"
+    }
+  ],
+  "timestamp": "2026-08-13T21:30:06.902895673Z",
+  "model": "glm-5.2"
+}

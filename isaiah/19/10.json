@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 19:10",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و بودند ستون‌های ⟨او⟩ خردشده؛ همهٔ مزدوران درجا ⟨از⟩ جان خسته.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "و بودند"
+    },
+    {
+      "surface": "שתתיה",
+      "gloss": "ستون‌های ⟨او⟩"
+    },
+    {
+      "surface": "מדכאים",
+      "gloss": "خردشده"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "کنندگانِ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "مزد"
+    },
+    {
+      "surface": "אגמי",
+      "gloss": "درجا"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    }
+  ],
+  "timestamp": "2026-08-13T21:44:25.007210168Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 12:4",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و یِشْمَعْیا هَگیبْعونی، گیبور در سی‌تَن، و بر فرازِ سی‌تَن.",
+  "tokens": [
+    {
+      "surface": "וישמעיה",
+      "gloss": "و یِشْمَعْیا"
+    },
+    {
+      "surface": "הגבעוני",
+      "gloss": "هَگیبْعونی"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "گیبور"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "در سی‌تَن"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر فرازِ"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "سی‌تَن"
+    }
+  ],
+  "timestamp": "2026-08-13T23:38:40.042952676Z",
+  "model": "glm-5.2"
+}

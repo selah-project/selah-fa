@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 30:12",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "و زایید کرد زِلپه کنیزِ لِیّا پسری دوم را برای یاعکوو.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "و زایید کرد"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "زِلپه"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "کنیزِ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لِیّا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسری"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دوم"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "برای یاعکوو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:02:08.884395385Z",
+  "model": "glm-5.2"
+}

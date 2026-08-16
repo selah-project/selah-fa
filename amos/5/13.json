@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 5:13",
+  "book": "amos",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "بنابراین دانا در آن زمان خاموش ⟨باشد⟩، زیرا زمانِ بدی آن است.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "بنابراین"
+    },
+    {
+      "surface": "המשכיל",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "در زمانِ"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "خاموش ⟨باشد⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "עת",
+      "gloss": "زمانِ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "היא",
+      "gloss": "آن است"
+    }
+  ],
+  "timestamp": "2026-08-13T22:30:05.204509730Z",
+  "model": "glm-5.2"
+}

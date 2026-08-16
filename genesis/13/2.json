@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "وابراهام بسیار سنگین بود در مَشیه، در نقره و در طلا.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "و ابراهام"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "سنگین"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "در مَشیه"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "در نقره"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "و در طلا"
+    }
+  ],
+  "timestamp": "2026-08-13T19:57:41.207207247Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 77,
+  "translation": "به رهبرِ سرود، بر یَدوتون، برای اَساف، مزمور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "به رهبرِ سرود"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "یَدوتون"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "برای اَساف"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    }
+  ],
+  "timestamp": "2026-08-13T22:48:01.443921474Z",
+  "model": "glm-5.2"
+}

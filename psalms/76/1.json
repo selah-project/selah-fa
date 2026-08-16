@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 76,
+  "translation": "به رهبرِ سرود، با سازهای زهی، مزموری برای اَساف، سرود.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "به رهبرِ سرود"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "با سازهای زهی"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "برای اَساف"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "سرود"
+    }
+  ],
+  "timestamp": "2026-08-13T22:47:45.019598878Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 42,
+  "ref": "jeremiah 48:42",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 48,
+  "translation": "وَ مُوآب بِه‌سوی مردم‌بودن نابود می‌شود، زیرا بر ضد یاهوه بزرگ‌کاری کرد.",
+  "tokens": [
+    {
+      "surface": "ונשמד",
+      "gloss": "و نابود می‌شود"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "از مردم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر ضد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "بزرگ‌کاری کرد"
+    }
+  ],
+  "timestamp": "2026-08-15T04:14:17.518316415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 118,
+  "translation": "از نزدِ یاهوه ⟨את⟩ این بود؛ ⟨او⟩ در چشمان ما شگفت‌انگیز است.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "این"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨او⟩"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "شگفت‌انگیز"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "در چشمان ما"
+    }
+  ],
+  "timestamp": "2026-08-13T22:54:40.397403595Z",
+  "model": "glm-5.2"
+}

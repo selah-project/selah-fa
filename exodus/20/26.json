@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 20:26",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و بر مَذبَحِ من با پلّه‌ها بالا نَروی، تا برهنه‌گیِ تو بر آن آشکار نگردد.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "بالا روی"
+    },
+    {
+      "surface": "במעלת",
+      "gloss": "با پلّه‌ها"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "مَذبَحِ من"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "تا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "آشکار گردد"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "برهنه‌گیِ تو"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر آن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:15:37.230710973Z",
+  "model": "glm-5.2"
+}

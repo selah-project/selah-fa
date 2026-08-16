@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و گفت به قومِ خود: اینک قوم، پسرانِ یِسرائیل، بیش از ما و نیرومندترند.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "قومِ او"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بیش"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "و نیرومندتر"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "از ما"
+    }
+  ],
+  "timestamp": "2026-08-13T20:09:36.185799796Z",
+  "model": "glm-5.2"
+}

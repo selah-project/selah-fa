@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 35:17",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "و اگر با سنگِ دست، که می‌توان با آن مرد، او را بزند و بمیرد، قاتلِ اوست؛ مرگ کشته شود، آن قاتل.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "با سنگِ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دست"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "می‌توان مرد"
+    },
+    {
+      "surface": "בה",
+      "gloss": "با آن"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "او را بزند"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و بمیرد"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "قاتلِ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوست"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرگ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "کشته شود"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "آن قاتل"
+    }
+  ],
+  "timestamp": "2026-08-13T20:42:33.366886579Z",
+  "model": "glm-5.2"
+}

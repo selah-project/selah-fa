@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 3:24",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "پس از او، بینوی پسرِ حِناداد، اندازه‌ای دوم را استوار ساخت: از بیتِ عَزَریه تا زاویه و تا گوشه.",
+  "tokens": [
+    {
+      "surface": "אחריו",
+      "gloss": "پس از او"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "استوار ساخت"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "بینوی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "חנדד",
+      "gloss": "حِناداد"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "اندازه‌ای"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "دوم"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "از بیتِ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عَزَریه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "המקצוע",
+      "gloss": "زاویه"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "گوشه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:31:39.868873182Z",
+  "model": "glm-5.2"
+}

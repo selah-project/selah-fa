@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 22:27",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "زیرا در صحرا او را یافت؛ دخترِ نامزدشده فریاد کشید، و نجات‌دهنده‌ای برای او نبود.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "در صحرا"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "یافت او را"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "فریاد کشید"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "دختر"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "نامزدشده"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نبود"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "نجات‌دهنده‌ای"
+    },
+    {
+      "surface": "לה",
+      "gloss": "برای او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:50:00.051404159Z",
+  "model": "glm-5.2"
+}

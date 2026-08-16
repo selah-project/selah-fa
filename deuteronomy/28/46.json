@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 28:46",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "و در تو خواهند بود برای نشانه و برای معجزه و در نژادِ تو تا همیشگی.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "و خواهند بود"
+    },
+    {
+      "surface": "בך",
+      "gloss": "در تو"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "برای نشانه"
+    },
+    {
+      "surface": "ולמופת",
+      "gloss": "و برای معجزه"
+    },
+    {
+      "surface": "ובזרעך",
+      "gloss": "و در نژادِ تو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "همیشگی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:51:42.608328281Z",
+  "model": "glm-5.2"
+}

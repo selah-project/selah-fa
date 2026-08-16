@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "2-chronicles 36:11",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "پسرِ بیست‌ویک‌ساله بود صدقیاهو در پادشاهیِ خود، و یازده سال در یروشالَییم پادشاهی کرد.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "و یک"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "صدقیاهو"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "در پادشاهیِ خود"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "و یک"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ده"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهی کرد"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "در یروشالَییم"
+    }
+  ],
+  "timestamp": "2026-08-15T04:35:07.218789492Z",
+  "model": "glm-5.3"
+}

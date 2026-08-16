@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 42,
+  "translation": "به رهبر، معلّمی از سوی پسرانِ قورَح.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "به رهبر"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "معلّمی"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "از سوی پسرانِ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورَح"
+    }
+  ],
+  "timestamp": "2026-08-13T22:43:04.129067786Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "ايميم پيش از اين در آن ساکن بودند—قومی بزرگ و بسيار و بلند، مثل عناقيم.",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "ايميم"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "پیش از این"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ساکن بودند"
+    },
+    {
+      "surface": "בה",
+      "gloss": "در آن"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قومی"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "و بسیار"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "و بلند"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "مثل عناقیم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:43:07.109057722Z",
+  "model": "glm-5.2"
+}

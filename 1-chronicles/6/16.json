@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 6:16",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و اینان ⟨اند⟩ که داوود آنان را بر دستِ سرودِ خانهٔ یاهوه مقرّر کرد، از زمانِ آرام‌گرفتنِ تابوت.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "و اینان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "העמיד",
+      "gloss": "مقرّر کرد"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "دستِ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "سرودِ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانهٔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ממנוח",
+      "gloss": "از زمانِ آرام‌گرفتنِ"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "تابوت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:54.021462492Z",
+  "model": "glm-5.2"
+}

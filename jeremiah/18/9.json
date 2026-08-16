@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 18:9",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و ⟨در⟩ لحظه‌ای بر گوی و بر مملکت سخن می‌گویم برای ساختن و برای کاشتن،",
+  "tokens": [
+    {
+      "surface": "ורגע",
+      "gloss": "و لحظه‌ای"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "من سخن می‌گویم"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "گوی"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "مملکت"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "برای ساختن"
+    },
+    {
+      "surface": "ולנטע",
+      "gloss": "و برای کاشتن"
+    }
+  ],
+  "timestamp": "2026-08-13T22:01:10.603473335Z",
+  "model": "glm-5.2"
+}

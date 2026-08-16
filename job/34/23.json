@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "job 34:23",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 34,
+  "translation": "زیرا بر انسانی بیش از این نمی‌نهد تا نزد اِل در داوت پیش رود.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "انسانی"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "می‌نهد"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بیش از این"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "تا پیش رود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نزد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "در داوت"
+    }
+  ],
+  "timestamp": "2026-08-15T04:29:14.536326392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 1:4",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و سخنِ یاهوه به من ⟨بود⟩، به این بیان:",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֥י",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "דְבַר",
+      "gloss": "سخنِ"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֵלַ֥י",
+      "gloss": "به من"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "به این بیان"
+    }
+  ],
+  "timestamp": "2026-08-13T21:55:48.459787753Z",
+  "model": "glm-5.2"
+}

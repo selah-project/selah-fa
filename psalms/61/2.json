@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 61,
+  "translation": "بشنوا، ای الوهیم، فریادِ مرا؛ گوش بسپار به دعایِ من.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "بشنوا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "فریادِ مرا"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "گوش بسپار"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "به دعایِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T22:45:47.987435422Z",
+  "model": "glm-5.2"
+}

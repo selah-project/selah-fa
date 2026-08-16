@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "joshua 15:49",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "وَ دَنّه، وَ قِریَت-سَنّه، همان دَبیر است.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "وَ دَنّه"
+    },
+    {
+      "surface": "וקרית",
+      "gloss": "وَ قِریَت"
+    },
+    {
+      "surface": "סנה",
+      "gloss": "سَنّه"
+    },
+    {
+      "surface": "היא",
+      "gloss": "همان"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دَبیر"
+    }
+  ],
+  "timestamp": "2026-08-13T20:57:57.572307559Z",
+  "model": "glm-5.2"
+}

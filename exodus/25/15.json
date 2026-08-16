@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "در حلقه‌های آرُن خواهند بود میله‌ها؛ برنداشته نشوند از آن.",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "در حلقه‌های"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "آرُن"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "خواهند بود"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "میله‌ها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "برنداشته شوند"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "از آن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:16:58.154703670Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و بر هیچ نَفَشِ مُرده‌ای نیاید؛ برای پدرِ خود و برای مادرِ خود نجس نشود.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هیچ"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "نَفَشِ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مُرده‌ای"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "یاید"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "برای پدرِ خود"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "و برای مادرِ خود"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "جس شود"
+    }
+  ],
+  "timestamp": "2026-08-13T20:27:52.264049942Z",
+  "model": "glm-5.2"
+}

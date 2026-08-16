@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و با ⟨את⟩ شما مردی، مردی برای قبیله باشد، مردی سرِ خانهٔ پدرانِ خود، او.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "و ⟨את⟩ با"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "باشد"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "برای قبیله"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سرِ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "خانهٔ"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "پدرانِ خود"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:30:55.305902627Z",
+  "model": "glm-5.2"
+}

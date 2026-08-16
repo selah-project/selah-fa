@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 15:21",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "آوَلتی شادی است برای فاقدِ دل، و مردِ فهیمته راهِ راست را پیشه می‌کند.",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "آوَلتی"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "شادی است"
+    },
+    {
+      "surface": "לחסר",
+      "gloss": "برای فاقدِ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "و مردِ"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "فهیمته"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "راهِ راست را پیشه می‌کند"
+    },
+    {
+      "surface": "לכת",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:22.331274225Z",
+  "model": "glm-5.2"
+}

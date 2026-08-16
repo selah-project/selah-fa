@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 29:14",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "زیرا ⟨את⟩ آنان که اینجا ⟨آنان⟩ با ما ایستاده‌اند امروز پیش روی یاهوه الوهیم ما، و ⟨את⟩ آنان که اینجا نیستند ⟨آنان⟩ با ما امروز",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آنان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "هستند"
+    },
+    {
+      "surface": "פה",
+      "gloss": "اینجا"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "با ما"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ایستاده‌اند"
+    },
+    {
+      "surface": "היום",
+      "gloss": "امروز"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیش روی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "الوهیم ما"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "آنان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نیستند"
+    },
+    {
+      "surface": "פה",
+      "gloss": "اینجا"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "با ما"
+    },
+    {
+      "surface": "היום",
+      "gloss": "امروز"
+    }
+  ],
+  "timestamp": "2026-08-13T20:51:57.369978686Z",
+  "model": "glm-5.2"
+}

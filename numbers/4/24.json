@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 4:24",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "این است خدمتِ خاندان‌های گِرشونی، برای خدمت و برای بارکشی",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "خدمتِ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان‌های"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "گِرشونی"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "برای خدمت"
+    },
+    {
+      "surface": "ולמשא",
+      "gloss": "و برای بارکشی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:31:54.490266526Z",
+  "model": "glm-5.2"
+}

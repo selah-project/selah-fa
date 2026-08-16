@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 65,
+  "translation": "شنوندهٔ دعا، تا تو همهٔ گوشت خواهد آمد.",
+  "tokens": [
+    {
+      "surface": "שֹׁמֵ֥עַ",
+      "gloss": "شنوندهٔ"
+    },
+    {
+      "surface": "תְּפִלָּ֑ה",
+      "gloss": "دعا"
+    },
+    {
+      "surface": "עָ֝דֶ֗יךָ",
+      "gloss": "تا تو"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "בָּשָׂ֥ר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "יָבֹֽאוּ",
+      "gloss": "خواهد آمد"
+    }
+  ],
+  "timestamp": "2026-08-14T00:12:13.550040789Z",
+  "model": "glm-5.2"
+}

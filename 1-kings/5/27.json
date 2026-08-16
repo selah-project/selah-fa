@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 5:27",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و پادشاه شُلومو از همهٔ یِسرائیل مَس برافراشت؛ و مَس سی هزار مرد بود.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "و برافراشت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شُلومو"
+    },
+    {
+      "surface": "מס",
+      "gloss": "مَس"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "از همهٔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "המס",
+      "gloss": "مَس"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    }
+  ],
+  "timestamp": "2026-08-13T21:26:18.416797800Z",
+  "model": "glm-5.2"
+}

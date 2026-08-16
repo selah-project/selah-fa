@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 8:14",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و ⟨את⟩ لَویان را از میانِ بنی یِسرائیل جدا کنی، و لَویان برای من باشند.",
+  "tokens": [
+    {
+      "surface": "והבדלת",
+      "gloss": "و جدا کنی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لَویان"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لَویان"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "از میانِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "י שראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "و باشند"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برای من"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لَویان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:33:47.588351014Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و ⟨את⟩ اَشَمْ او را برای یاهوه بیاورد، قوچی کامل از گله، به ارزیابی تو، برای اَشَم، نزد کاهن.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "اَشَمْ او"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "اَشَمْ او"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "بیاورد"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "برای یاهوه"
+    },
+    {
+      "surface": "איל",
+      "gloss": "قوچی"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "کامل"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "گله"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "به ارزیابی تو"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "برای اَشَم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نزد"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:22:11.143470172Z",
+  "model": "glm-5.2"
+}

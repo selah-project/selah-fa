@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "کَه آن نادان دستانش را در بغل می‌کشد و گوشت خود را می‌خورد.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "آن نادان"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "در بغل می‌کشد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دستانش"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "دستانش"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "و می‌خورد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گوشت خود"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "گوشت خود"
+    }
+  ],
+  "timestamp": "2026-08-15T04:30:46.600113391Z",
+  "model": "glm-5.3"
+}

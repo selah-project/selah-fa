@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و پادشاه شلومه پادشاه بر کل یِسرائِیل بود.",
+  "tokens": [
+    {
+      "surface": "וַֽיְהִי֙",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "הַמֶּ֣לֶךְ",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "שְׁלֹמֹ֔ה",
+      "gloss": "شلومه"
+    },
+    {
+      "surface": "מֶ֖לֶךְ",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "کل"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "یِسرائِیل"
+    }
+  ],
+  "timestamp": "2026-08-13T21:24:50.993229073Z",
+  "model": "glm-5.2"
+}

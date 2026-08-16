@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "اکنون برخیزم، می‌گوید یاهوه؛ اکنن بلند شوم؛ اکنن برافراشته شوم.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "اکنون"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "برخیزم"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "می‌گوید"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "اکنون"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "بلند شوم"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "اکنون"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "برافراشته شوم"
+    }
+  ],
+  "timestamp": "2026-08-13T21:47:11.477436712Z",
+  "model": "glm-5.2"
+}

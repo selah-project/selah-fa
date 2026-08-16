@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 21:19",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و گشود الوهیم ⟨את⟩ چشمانِ او را، و دید چاهی آب، و رفت و پر کرد ⟨את⟩ مشک را آب، و آب داد ⟨את⟩ پسر را.",
+  "tokens": [
+    {
+      "surface": "ויפקח",
+      "gloss": "و گشود"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چشمانِ او را"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "چشمانِ او"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "و دید"
+    },
+    {
+      "surface": "באר",
+      "gloss": "چاه"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آب"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "و رفت"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "و پر کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مشک را"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "مشک"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آب"
+    },
+    {
+      "surface": "ותשק",
+      "gloss": "و آب داد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پسر را"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "پسر"
+    }
+  ],
+  "timestamp": "2026-08-13T20:00:09.959813677Z",
+  "model": "glm-5.2"
+}

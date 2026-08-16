@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 12:9",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و بیش از آن، که قوهلت دانا بود، باز نیز دانش را به ⟨את⟩ قوم آموخت، و گوش داد، و جستجو کرد، تمشید مَثَل‌های بسیار را.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "و بیش از آن"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "که بود"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "قوهلت"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "باز نیز"
+    },
+    {
+      "surface": "למד",
+      "gloss": "آموخت"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "دانش"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ואזן",
+      "gloss": "و گوش داد"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "و جستجو کرد"
+    },
+    {
+      "surface": "תקן",
+      "gloss": "تمشید"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "مَثَل‌ها"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "بسیار"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:56.482820116Z",
+  "model": "glm-5.2"
+}

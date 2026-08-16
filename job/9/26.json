@@ -1,0 +1,45 @@
+{
+  "ref": "job 9:26",
+  "lang": "fa",
+  "book": "job",
+  "chapter": 9,
+  "verse": 26,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:46:46Z",
+  "translation": "گذشتند همراهِ کشتی‌های نی، مانند عقاب ⟨که⟩ بر شکار فرود می‌آید.",
+  "tokens": [
+    {
+      "surface": "חלפו",
+      "gloss": "گذشتند"
+    },
+    {
+      "surface": "עם",
+      "gloss": "همراهِ"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "کشتی‌های"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "نی"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "مانند عقاب"
+    },
+    {
+      "surface": "יטוש",
+      "gloss": "⟨که⟩ فرود می‌آید"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بر"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "شکار"
+    }
+  ]
+}

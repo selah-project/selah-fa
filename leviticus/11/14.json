@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و ⟨את⟩ باز سیاه، و ⟨את⟩ شاهین به گونهٔ خود،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "باز سیاه"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "باز سیاه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "شاهین"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "شاهین"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "به گونهٔ خود"
+    }
+  ],
+  "timestamp": "2026-08-13T20:23:49.877216058Z",
+  "model": "glm-5.2"
+}

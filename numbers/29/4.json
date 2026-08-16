@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 29:4",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و یک عِسرون برای برهِ واحد، برای هفتِ بره‌ها.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "و عِسرونِ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "برای برهِ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "واحد"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "برای هفتِ"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "بره‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T20:40:15.560307194Z",
+  "model": "glm-5.2"
+}

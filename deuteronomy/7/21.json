@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 7:21",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "از آنان نترس، زیرا یاهوه الوهیمِ تو در میانِ توست، اِلِ بزرگ و هولناک.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "بترس"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "از آنان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "الوهیمِ تو"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "در میانِ تو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "و هولناک"
+    }
+  ],
+  "timestamp": "2026-08-13T20:45:34.021783756Z",
+  "model": "glm-5.2"
+}

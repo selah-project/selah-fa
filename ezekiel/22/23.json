@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 22:23",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "و شد کلامِ یاهوه به سوی من، به این گفتار:",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֥י",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "דְבַר",
+      "gloss": "کلامِ"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֵלַ֥י",
+      "gloss": "به سوی من"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "به این گفتار"
+    }
+  ],
+  "timestamp": "2026-08-13T22:17:24.272454274Z",
+  "model": "glm-5.2"
+}

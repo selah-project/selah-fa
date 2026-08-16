@@ -1,0 +1,57 @@
+{
+  "tier": "4.6",
+  "verse": 21,
+  "ref": "numbers 7:21",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "یک گاو نر یک پسر گله یک قوچ یک بره یک پسر سالش برای سوختنی",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "یک گاو نر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "گله"
+    },
+    {
+      "surface": "איל",
+      "gloss": "یک قوچ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "بره"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "سالش"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "برای سوختنی"
+    }
+  ],
+  "timestamp": "2026-08-15T03:57:17.114177646Z",
+  "model": "glm-4.6"
+}

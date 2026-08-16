@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و اکنون بازگرد و به صلح برو، و بدی نکن در چشم‌های سرانِ فلسطی‌ها.»",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و اکنون"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "بازگرد"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "و برو"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "به صلح"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کنی"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "در چشم‌های"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "سرانِ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلسطی‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T21:16:11.325125904Z",
+  "model": "glm-5.2"
+}

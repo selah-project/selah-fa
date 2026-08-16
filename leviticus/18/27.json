@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 18:27",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "زیرا ⟨את⟩ همهٔ مقابحاتِ این را کرده‌اند مردانِ زمینی که پیشِ شما بودند و زمین نجس شد.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همهٔ مقابحاتِ این را"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "مقابحاتِ"
+    },
+    {
+      "surface": "האל",
+      "gloss": "این"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کرده‌اند"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "مردانِ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "پیشِ شما"
+    },
+    {
+      "surface": "ותטמא",
+      "gloss": "و نجس شد"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T20:26:33.025863325Z",
+  "model": "glm-5.2"
+}

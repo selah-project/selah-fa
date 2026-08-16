@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 30:8",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "باطل و سخنِ دروغ را از من دور کن؛ فقر و ثروت را به من مده؛ روزیِ قَسمِ مرا به من برسان.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "باطل"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "و سخنِ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "دروغ"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "دور کن"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "از من"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "فقر"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "و ثروت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "م"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ده"
+    },
+    {
+      "surface": "לי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "הטריפני",
+      "gloss": "به من برسان"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روزیِ"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "قَسمِ مرا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:05:38.712705275Z",
+  "model": "glm-5.2"
+}

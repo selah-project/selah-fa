@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و زمین در حضورِ الوهیم فاسد شد، و زمین از خشونت پر شد.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "و فاسد شد"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "در حضورِ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "و پر شد"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "از خشونت"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:05.311322045Z",
+  "model": "glm-5.2"
+}

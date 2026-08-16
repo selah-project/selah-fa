@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "وَ داد به او ⟨את⟩ بِلْهاه، کنیزِ خود را، به همسری، وَ آمد یَعْقوو به سویِ او.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "وَ داد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بِلْهاه"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "بِلْهاه"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "کنیزِ خود را"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "به همسری"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "وَ آمد"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "به سویِ او"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یَعْقوو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:03:11.798603786Z",
+  "model": "glm-5.2"
+}

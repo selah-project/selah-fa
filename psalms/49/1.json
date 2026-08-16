@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 49,
+  "translation": "به رهبرِ موسیقی، برای پسرانِ قورَح، مزمور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "به رهبرِ موسیقی"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "برای پسرانِ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورَح"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    }
+  ],
+  "timestamp": "2026-08-13T22:44:07.577130600Z",
+  "model": "glm-5.2"
+}

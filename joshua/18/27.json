@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 18:27",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و رِقِم، و ییرپئیل، و تَرْعَلَه،",
+  "tokens": [
+    {
+      "surface": "וְרֶ֥קֶם",
+      "gloss": "و رِقِم"
+    },
+    {
+      "surface": "וְיִרְפְּאֵ֖ל",
+      "gloss": "و ییرپئیل"
+    },
+    {
+      "surface": "וְתַרְאֲלָֽה",
+      "gloss": "و تَرْعَلَه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:58:39.550777610Z",
+  "model": "glm-5.2"
+}

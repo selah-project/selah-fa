@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 8:5",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "اگر تو به اِل بجویی و به سوی شدّای تضرع کنی،",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "אַ֭תָּה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "תְּשַׁחֵ֣ר",
+      "gloss": "بجویی"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "אֵ֑ל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "و به سوی"
+    },
+    {
+      "surface": "שַּׁ֝דַּ֗י",
+      "gloss": "شدّای"
+    },
+    {
+      "surface": "תִּתְחַנָּֽן",
+      "gloss": "تضرع کنی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:07:53.917797091Z",
+  "model": "glm-5.2"
+}

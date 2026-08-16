@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 7:1",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و یاهوه به نُوح گفت: تو و تمام خاندانت به درون ⟨את⟩ تابوت بیا، زیرا تو را پیشِ خود در این نسل صالح دیده‌ام.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "به نُوح"
+    },
+    {
+      "surface": "בא",
+      "gloss": "بیا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و تمام"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "خاندانت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به درون"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "تابوت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "تو را"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "دیده‌ام"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صالح"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشِ"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "در نسل"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:49.400629090Z",
+  "model": "glm-5.2"
+}

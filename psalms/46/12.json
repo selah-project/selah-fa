@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 46,
+  "translation": "یاهوه صبایوت با ماست، دژِ ما الوهیمِ یاعکوو، سلا.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صبایوت"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "با ماست"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "دژِ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ما"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوهیمِ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعکوو"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلا"
+    }
+  ],
+  "timestamp": "2026-08-13T22:43:33.969619135Z",
+  "model": "glm-5.2"
+}

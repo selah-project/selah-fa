@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 75,
+  "translation": "بهِ دیوانگان گفتم: نادانی مکنید، و بهِ بدکاران: شاخ بر مدارید.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "گفتم"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "بهِ دیوانگان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "دیوانگی مکنید"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "و بهِ بدکاران"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "بر مدارید"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "شاخ"
+    }
+  ],
+  "timestamp": "2026-08-13T22:48:01.236852393Z",
+  "model": "glm-5.2"
+}

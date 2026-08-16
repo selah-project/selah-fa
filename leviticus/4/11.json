@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و ⟨את⟩ پوستِ گاو و ⟨את⟩ همهٔ گوشتِ او، بر سرِ او و بر پاهایِ او، و درون‌ریشه‌اش و سرگینش،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "پوستِ گاو"
+    },
+    {
+      "surface": "עור",
+      "gloss": "پوستِ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "گاو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "همهٔ گوشتِ او"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "گوشتِ او"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "سرِ او"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "پاهایِ او"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "و درون‌ریشه‌اش"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "و سرگینش"
+    }
+  ],
+  "timestamp": "2026-08-13T20:22:29.738274726Z",
+  "model": "glm-5.2"
+}

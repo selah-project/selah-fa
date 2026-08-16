@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 31:34",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و الاغ‌ها شصت و یک هزار.",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "و الاغ‌ها"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یك"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "و شصت"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    }
+  ],
+  "timestamp": "2026-08-13T20:41:03.712571744Z",
+  "model": "glm-5.2"
+}

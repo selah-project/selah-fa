@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 42,
+  "translation": "و به او گفتند: نه، آقای ما، بلکه بندگانِ تو برای خریدِ آذوقه آمده‌اند.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "و گفتند"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "آقای من"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "و بندگانِ تو"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آمده‌اند"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "برای خریدِ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "آذوقه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:07:03.603316012Z",
+  "model": "glm-5.2"
+}

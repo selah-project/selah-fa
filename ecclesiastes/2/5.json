@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "برای خود ساختم باغ‌ها و پارک‌ها، و کاشتم در آن‌ها درخت هر میوه را.",
+  "tokens": [
+    {
+      "surface": "עָשִׂ֣יתִי",
+      "gloss": "ساختم"
+    },
+    {
+      "surface": "לִ֔י",
+      "gloss": "برای خود"
+    },
+    {
+      "surface": "גַּנּ֖וֹת",
+      "gloss": "باغ‌ها"
+    },
+    {
+      "surface": "וּפַרְדֵּסִ֑ים",
+      "gloss": "و پارک‌ها"
+    },
+    {
+      "surface": "וְנָטַ֥עְתִּי",
+      "gloss": "و کاشتم"
+    },
+    {
+      "surface": "בָהֶ֖ם",
+      "gloss": "در آن‌ها"
+    },
+    {
+      "surface": "עֵ֥ץ",
+      "gloss": "درخت"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "פֶּֽרִי",
+      "gloss": "میوه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:06.673062235Z",
+  "model": "glm-5.2"
+}

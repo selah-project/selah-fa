@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 39,
+  "ref": "1-chronicles 11:39",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "تْسِلِک، اَمّونی؛ نَحْرای، هَبِروتی، برندهٔ سلاح‌های یوآو پسر تْسِرویاه.",
+  "tokens": [
+    {
+      "surface": "צלק",
+      "gloss": "تْسِلِک"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "اَمّونی"
+    },
+    {
+      "surface": "נחרי",
+      "gloss": "نَحْرای"
+    },
+    {
+      "surface": "הברתי",
+      "gloss": "هَبِروتی"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "برندهٔ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "سلاح‌های"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "تْسِرویاه"
+    }
+  ],
+  "timestamp": "2026-08-15T04:33:50.927441996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "از آن زمین بیرون رفت اَشّور و ⟨את⟩ نینِوه و ⟨את⟩ رِحُوووتِ عیر و ⟨את⟩ کَلَح را بنا کرد.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "آن زمینِ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "بیرون رفت"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اَشّور"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "و بنا کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نینِوه"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "نینِوه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "رِحُوووتِ عیر"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "رِحُوووتِ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "عیر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "کَلَح"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "کَلَح"
+    }
+  ],
+  "timestamp": "2026-08-13T19:57:10.065670007Z",
+  "model": "glm-5.2"
+}

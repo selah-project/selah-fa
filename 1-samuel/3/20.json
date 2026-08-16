@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 3:20",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و دانست تمام یسرائیل، از دان و تا بئر شَبع، که استوار شد شَمول به نبی برای یاهوه.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "و دانست"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسُرائیل"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "از دَن"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بئر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شَبَع"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "استوار شد"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شَمول"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "به نبی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "برای یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T21:08:37.422310598Z",
+  "model": "glm-5.2"
+}

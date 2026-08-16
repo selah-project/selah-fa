@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 5:14",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و شدند همهٔ روزهایِ قِینان ده سال‌ها و نه‌صد سال، و بمرد.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "و شدند"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روزهایِ"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "قِینان"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ده"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال‌ها"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و بمرد"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:39.297123800Z",
+  "model": "glm-5.2"
+}

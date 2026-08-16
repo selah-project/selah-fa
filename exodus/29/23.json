@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 29:23",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و یک نانِ گرد و یک نانِ نازکِ روغنی و یک ویفر، از سبدِ نان‌های فطیر که پیش روی یاهوه است.",
+  "tokens": [
+    {
+      "surface": "וככר",
+      "gloss": "و نانِ گرد"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "וחלת",
+      "gloss": "و نانِ نازک"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "روغنی"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "ורקיק",
+      "gloss": "و ویفر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "מסל",
+      "gloss": "از سبدِ"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "نان‌های فطیر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیش روی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:18:50.280435275Z",
+  "model": "glm-5.2"
+}

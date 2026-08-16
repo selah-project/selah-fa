@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "⟨את⟩ شبات‌های مرا نگاه دارید، و از قدسگاه من بترسید؛ من یاهوه هستم.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شبات‌های مرا"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "شبات‌های مرا"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "نگه دارید"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "و از قدسگاه من"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "بترسید"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:27:29.907019837Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 35:32",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "و برای طراحیِ طرح‌ها، تا در طلا و در نقره و در مس کار کنند.",
+  "tokens": [
+    {
+      "surface": "ולחשב",
+      "gloss": "و برای طراحیِ"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "طرح‌ها"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "تا کار کنند"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "در طلا"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "و در نقره"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "و در مس"
+    }
+  ],
+  "timestamp": "2026-08-13T20:20:27.866106021Z",
+  "model": "glm-5.2"
+}

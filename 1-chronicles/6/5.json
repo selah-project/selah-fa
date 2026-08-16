@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 6:5",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "برایِ گِرشُم: لِونی پسرِ او، یَحَت پسرِ او، زیمّه پسرِ او.",
+  "tokens": [
+    {
+      "surface": "לגרשום",
+      "gloss": "برایِ گِرشُم"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لِونی"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرِ او"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "یَحَت"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرِ او"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "زیمّه"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:38.637675455Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 1:1",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "مَثَل‌هایْ شِلوموه، پِسَرِ داوود، مَلِکْ ییسْرائیل:",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "مَثَل‌هایْ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شِلوموه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پِسَرِ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مَلِکْ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ییسْرائیل"
+    }
+  ],
+  "timestamp": "2026-08-13T22:59:04.143097292Z",
+  "model": "glm-5.2"
+}

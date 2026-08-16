@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 10:3",
+  "book": "daniel",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "نانِ پسندیده نخوردم، و گوشت و شراب به دهانِ من درنیامد، و روغن نمالیدم، تا کامل شدنِ سه هفته روزها.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "חמدות",
+      "gloss": "پسندیده"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "אכלتי",
+      "gloss": "خوردم"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "و گوشت"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "و شراب"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "ن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "درنیامد"
+    },
+    {
+      "surface": "בא",
+      "gloss": "به"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دهانِ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "من"
+    },
+    {
+      "surface": "וסוך",
+      "gloss": "و روغن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "סכתי",
+      "gloss": "مالیدم"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "کامل شدنِ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "سه"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "هفته"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روزها"
+    }
+  ],
+  "timestamp": "2026-08-13T23:27:26.357855738Z",
+  "model": "glm-5.2"
+}

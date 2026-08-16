@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 40,
+  "translation": "تسلی دهید، تسلی دهید قومِ مرا، می‌گوید الوهیمِ شما.",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "تسلی دهید"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "تسلی دهید"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "قومِ من"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "می‌گوید"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "الوهیمِ شما"
+    }
+  ],
+  "timestamp": "2026-08-13T21:50:00.229064501Z",
+  "model": "glm-5.2"
+}

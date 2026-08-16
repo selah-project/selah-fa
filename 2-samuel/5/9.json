@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 5:9",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و داوود در دژ نشست و آن را «شهرِ داوود» خواند، و داوود به گرداگرد از مَلّو و به درون ساخت.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "و نشست"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "במצדה",
+      "gloss": "در دژ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "و خواند"
+    },
+    {
+      "surface": "לה",
+      "gloss": "آن را"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شهرِ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "و ساخت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "به گرداگرد"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "مَلّو"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "و به درون"
+    }
+  ],
+  "timestamp": "2026-08-13T21:17:34.835231762Z",
+  "model": "glm-5.2"
+}

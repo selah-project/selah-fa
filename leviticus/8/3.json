@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و ⟨את⟩ همهٔ جامعه را به درِ خیمهٔ ملاقات فراخوان.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "همهٔ جامعه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "جامعه"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "فراخوان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "درِ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمهٔ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات"
+    }
+  ],
+  "timestamp": "2026-08-13T20:23:25.357447493Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "leviticus 3:17",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "فرضِ همیشگی برای نسل‌های شما، در همهٔ اقامتگاه‌هایتان: هر چربی و هر خون را نخورید.",
+  "tokens": [
+    {
+      "surface": "חקת",
+      "gloss": "فرضِ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "همیشگی"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "برای نسل‌های شما"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "در همهٔ"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "اقامتگاه‌هایتان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "چربی"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نـ..."
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "خورید"
+    }
+  ],
+  "timestamp": "2026-08-15T03:49:07.622208503Z",
+  "model": "glm-5.3"
+}

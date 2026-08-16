@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 18:2",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "نخواهد کند نادان در فهم، بلکه در آنکه آشکار گردد دلِ ⟨او⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نخواهد کرد"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "نخواهد کرد"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "در فهم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلکه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "در آنکه"
+    },
+    {
+      "surface": "בהתגלות",
+      "gloss": "آشکار گردد"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دلِ ⟨او⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:00.178844622Z",
+  "model": "glm-5.2"
+}

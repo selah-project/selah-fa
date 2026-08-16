@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 6:11",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "اِلْقَنه پسرش، اِلْقَنه، صوفای پسرش، و نَحَت پسرش.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "اِلْقَنه"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "اِلْقَنه"
+    },
+    {
+      "surface": "צופי",
+      "gloss": "صوفای"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "و نَحَت"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:35.528724142Z",
+  "model": "glm-5.2"
+}

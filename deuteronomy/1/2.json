@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "یازده روز از حورِب، راهِ کوهِ سِعیر، تا قادِش بَرنِع.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "یازده"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ـ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "از حورِب"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راهِ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کوهِ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سِعیر"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قادِش"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "بَرنِع"
+    }
+  ],
+  "timestamp": "2026-08-13T20:43:38.143892496Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و ⟨את⟩ این چوبدستی را در دستِ خود بگیر، که با آن ⟨את⟩ نشانه‌ها را انجام دهی.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "این چوبدستی"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "این چوبدستی"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "بگیری"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "در دستِ تو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "انجام دهی"
+    },
+    {
+      "surface": "בו",
+      "gloss": "با آن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نشانه‌ها"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "نشانه‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T20:10:58.728627847Z",
+  "model": "glm-5.2"
+}

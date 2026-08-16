@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "و عمر، یک‌دهمِ ایفه است.",
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "و عمر"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "یک‌دهمِ"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ایفه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨است⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T20:14:24.926076918Z",
+  "model": "glm-5.2"
+}

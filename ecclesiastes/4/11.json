@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "هم اگر دو نفر بخوابند، برای آنان گرمی ⟨است⟩؛ و برای یکی، چگونه گرم شود؟",
+  "tokens": [
+    {
+      "surface": "גַּ֛ם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יִשְׁכְּב֥וּ",
+      "gloss": "بخوابند"
+    },
+    {
+      "surface": "שְׁנַ֖יִם",
+      "gloss": "دو نفر"
+    },
+    {
+      "surface": "וְחַ֣ם",
+      "gloss": "و گرمی"
+    },
+    {
+      "surface": "לָהֶ֑ם",
+      "gloss": "برای آنان"
+    },
+    {
+      "surface": "וּלְאֶחָ֖ד",
+      "gloss": "و برای یکی"
+    },
+    {
+      "surface": "אֵ֥יךְ",
+      "gloss": "چگونه"
+    },
+    {
+      "surface": "יֵחָֽם",
+      "gloss": "گرم شود"
+    }
+  ],
+  "timestamp": "2026-08-14T00:16:19.613642300Z",
+  "model": "glm-5.2"
+}

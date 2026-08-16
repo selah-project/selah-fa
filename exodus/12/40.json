@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 12:40",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و اقامتِ بنی-یِسرائیل که در مِسراییم ساکن بودند، سی سال و چهارصد سال ⟨بود⟩.",
+  "tokens": [
+    {
+      "surface": "ומושב",
+      "gloss": "و اقامتِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ساکن بودند"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "در مِسراییم"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "و چهار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-08-13T20:13:10.778598626Z",
+  "model": "glm-5.2"
+}

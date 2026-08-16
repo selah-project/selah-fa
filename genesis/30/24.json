@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "و نام او را یوسف نهاد، به‌قولِ: «یافه بر من پسرِ دیگری بیافزاید.»",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "و نام نهاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نام او"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "نامِ او"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به‌قولِ"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "بیافزاید"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسری"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دیگری"
+    }
+  ],
+  "timestamp": "2026-08-13T20:02:09.951198640Z",
+  "model": "glm-5.2"
+}

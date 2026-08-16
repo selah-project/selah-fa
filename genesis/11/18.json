@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و زیست پَلِگ سی سال، و ⟨את⟩ رَعو را زاد.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "و زیست"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "پَلِگ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رَعو"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "رَعو"
+    }
+  ],
+  "timestamp": "2026-08-13T19:57:33.818228731Z",
+  "model": "glm-5.2"
+}

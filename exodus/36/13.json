@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 36:13",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "وَ پنجاه گیرهٔ زرین ساخت و ⟨את⟩ پرده‌ها را یکی به دیگری با گیره‌ها پیوند داد، و مسکن یک شد.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "وَ ساخت"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاه"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "گیره‌های"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زر"
+    },
+    {
+      "surface": "ויחבר",
+      "gloss": "وَ پیوند داد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پرده‌ها"
+    },
+    {
+      "surface": "הירעת",
+      "gloss": "پرده‌ها"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "با گیره‌ها"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "وَ بود"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-08-13T20:20:58.398511344Z",
+  "model": "glm-5.2"
+}

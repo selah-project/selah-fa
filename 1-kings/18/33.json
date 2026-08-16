@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و ⟨את⟩ هیزم‌ها را آراست، و ⟨את⟩ گاو را تکه‌تکه کرد، و بر هیزم‌ها نهاد.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "وآراست"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هیزم‌ها"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "هیزم‌ها"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "وتکه‌تکه‌کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گاو"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "گاو"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ونهاد"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "هیزم‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T21:30:59.497251705Z",
+  "model": "glm-5.2"
+}

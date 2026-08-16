@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "خشم، بهتر از خنده است، که در غمِ چهره، دلِ نیکو می‌گردد.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بهتر"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "خشم"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "از خنده"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "در غمِ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "چهره"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "نیکو می‌گردد"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:56.518421102Z",
+  "model": "glm-5.2"
+}

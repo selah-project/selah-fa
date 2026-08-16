@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 54,
+  "translation": "اینک الوهیم یاورِ من است؛ اَدونای در میانِ نگهدارانِ جانِ من ⟨است⟩.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "یاور"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ِ من"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "در میانِ نگهدارانِ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "جانِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T22:44:27.017409938Z",
+  "model": "glm-5.2"
+}

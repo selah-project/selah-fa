@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "زیرا او نمی‌داند چه خواهد شد؛ زیرا چون بشود، چه‌کس به او خبر خواهد داد؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "او نمی‌داند"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "می‌داند"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "خواهد شد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چون"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بشود"
+    },
+    {
+      "surface": "מי",
+      "gloss": "چه‌کس"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "خبر خواهد داد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:16.380623790Z",
+  "model": "glm-5.2"
+}

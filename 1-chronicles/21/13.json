@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 21:13",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و گفت داوود به گاد: تنگ ⟨است⟩ بر من بسیار. بگذار بیفتم، اکنون، به دستِ یاهوه، که بسیارند رحمت‌های او، و به دستِ انسان نیفتم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "צר",
+      "gloss": "تنگ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "بگذار بیفتم"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اکنون"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "به دستِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "بسیارند"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "رحمت‌های او"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "و به دستِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "بیفتم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:14.593762412Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "ref": "psalms 51:8",
+  "lang": "fa",
+  "book": "psalms",
+  "chapter": 51,
+  "verse": 8,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:47:12Z",
+  "translation": "هان، راستی را در اندرون خواسته‌ای، و در نهان حکمت به من می‌آموزی.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "هان"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "خواسته‌ای"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "در اندرون"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "و در نهان"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "به من می‌آموزی"
+    }
+  ]
+}

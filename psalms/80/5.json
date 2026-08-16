@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 80:5",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 80,
+  "translation": "یاهوه، الوهیمِ صَبائوت، تا کی در دعای قومِ تو دود می‌کردی؟",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صَبائوت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "עשנת",
+      "gloss": "دود می‌کردی"
+    },
+    {
+      "surface": "בתפלת",
+      "gloss": "در دعای"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "قومِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:49:10.031102153Z",
+  "model": "glm-5.2"
+}

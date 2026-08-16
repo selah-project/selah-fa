@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "تنها ⟨את⟩ خونش را نخور؛ بر زمین بریزش چون آب.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "تنها"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خونش"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "خونش"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "خور"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "بریزش"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "چون آب"
+    }
+  ],
+  "timestamp": "2026-08-13T20:46:49.348704815Z",
+  "model": "glm-5.2"
+}

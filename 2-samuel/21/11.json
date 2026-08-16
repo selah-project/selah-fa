@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و به داوود گزارش داده شد ⟨את⟩ آنچه رِصْفه دخترِ آیِه، کنیزِ شائول، کرده بود.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "و گزارش داده شد"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "به داوود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آنچه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "کرده بود"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "رِصْفه"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دخترِ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "آیِه"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "کنیزِ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    }
+  ],
+  "timestamp": "2026-08-13T21:22:38.166254398Z",
+  "model": "glm-5.2"
+}

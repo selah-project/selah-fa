@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 17:14",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "و داوود او کوچک‌ترین بود، و سه نفرِ بزرگ‌تر پیِ شائول رفتند.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "و داوود"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "کوچک‌ترین"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "و سه"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "بزرگ‌تر"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "رفتند"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پیِ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    }
+  ],
+  "timestamp": "2026-08-13T21:12:13.031119948Z",
+  "model": "glm-5.2"
+}

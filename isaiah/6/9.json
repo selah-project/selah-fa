@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و ⟨او⟩ گفت: برو و به این قوم بگو: بشنویدِ شنیدن، و نفهمید؛ و ببینیدِ دیدن، و ندانید.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برو"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "و بگو"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "به قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "بشنوید"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "شنیدن"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "بفهمید"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "و ببینید"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "دیدن"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "بدانید"
+    }
+  ],
+  "timestamp": "2026-08-13T21:42:15.877156335Z",
+  "model": "glm-5.2"
+}

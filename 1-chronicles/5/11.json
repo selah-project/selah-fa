@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 5:11",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و پسرانِ گَد، در برابرِ آنها ساکن شدند، در زمینِ هَباشان تا سَلخه.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گَد"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "در برابرِ آنها"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ساکن شدند"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "در زمینِ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "هَباشان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "سَلخه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:17.213825676Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 48,
+  "translation": "و یِسْرائیل ⟨את⟩ پسرانِ یوسف را دید و گفت: اینان چه‌کسانند؟",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "و دید"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسْرائیل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پسرانِ یوسف"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "מי",
+      "gloss": "چه"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اینان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:09:07.382199605Z",
+  "model": "glm-5.2"
+}

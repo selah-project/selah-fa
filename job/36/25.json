@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 36:25",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "هر اَدَم ⟨او را⟩ دیده است، اِنوش از دور می‌نگرد.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "اَدَم"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "دیده است"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨او را⟩"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "اِنوش"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "می‌نگرد"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "از دور"
+    }
+  ],
+  "timestamp": "2026-08-13T23:13:29.462832788Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و اما از درختِ دانایی، خوب و بد، نباید بخوری از آن؛ زیرا در روزِ خوردنِ تو از آن، به مرگ بمیری.»",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "و از درختِ"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "دانایی"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خوب"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "و بد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "بخوری"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "از آن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "خوردنِ تو"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "از آن"
+    },
+    {
+      "surface": "מות",
+      "gloss": "به مرگ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "بمیری"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:01.090402543Z",
+  "model": "glm-5.2"
+}

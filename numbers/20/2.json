@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و نبود آبی برای اده، و گرد آمدند علیه موشه و علیه اهرون.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نبود"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨بود⟩"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آبی"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "برای اده"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "و گرد آمدند"
+    },
+    {
+      "surface": "על",
+      "gloss": "علیه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و علیه"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهرون"
+    }
+  ],
+  "timestamp": "2026-08-13T20:37:35.130501136Z",
+  "model": "glm-5.2"
+}

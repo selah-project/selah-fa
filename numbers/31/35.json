@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 31:35",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و نفس‌های انسان از زنانانی که خوابگاه مرد نشناخته بودند، تمام نفس‌ها دو و سی هزار.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "و نفس‌های"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "زنانانی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "شناخته بودند"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "خوابگاه"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس‌ها"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "و سی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    }
+  ],
+  "timestamp": "2026-08-13T20:41:03.712728040Z",
+  "model": "glm-5.2"
+}

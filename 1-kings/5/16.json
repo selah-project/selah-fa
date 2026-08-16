@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 5:16",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و شِلومه به نزدِ حیرام فرستاد، به قولِ:",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "و فرستاد"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شِلومه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به نزدِ"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "حیرام"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به قولِ"
+    }
+  ],
+  "timestamp": "2026-08-13T21:25:34.288831396Z",
+  "model": "glm-5.2"
+}

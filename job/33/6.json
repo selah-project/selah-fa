@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 33:6",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "اینک من همچون تو پیشِ اِل هستم؛ از گِل برشته‌ام، من نیز.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "همچون تو"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "پیشِ اِل"
+    },
+    {
+      "surface": "מחמר",
+      "gloss": "از گِل"
+    },
+    {
+      "surface": "קרצתי",
+      "gloss": "برشته‌ام"
+    },
+    {
+      "surface": "גם",
+      "gloss": "نیز"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    }
+  ],
+  "timestamp": "2026-08-13T23:13:03.316975479Z",
+  "model": "glm-5.2"
+}

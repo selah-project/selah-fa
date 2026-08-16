@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 18:1",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و بیلدادِ شوحی پاسخ داد و گفت:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "و پاسخ داد"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "بیلداد"
+    },
+    {
+      "surface": "השחי",
+      "gloss": "شوحی"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:10:05.425674964Z",
+  "model": "glm-5.2"
+}

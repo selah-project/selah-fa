@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 50:22",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 50,
+  "translation": "و یوسف در مِسراییم ساکن شد، ⟨او⟩ و خاندانِ پدرش؛ و یوسف ۱۱۰ سال زیست.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "و ساکن شد"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "در مِسراییم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "و خاندانِ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پدرش"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "و زیست"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "صد"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "و ده"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-08-13T20:09:59.671154631Z",
+  "model": "glm-5.2"
+}

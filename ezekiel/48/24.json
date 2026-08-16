@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 48:24",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 48,
+  "translation": "وبر مرزِ بنیامین از سمتِ شرقی تا سمتِ دریا، شیمعون یک.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "وبر"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "مرزِ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنیامین"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "از سمتِ"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "شرقی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "سمتِ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شیمعون"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-08-13T22:25:21.976529326Z",
+  "model": "glm-5.2"
+}

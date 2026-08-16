@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 1:24",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "شم، اَرپَخشَد، شِلَح،",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "شم"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "اَرپَخشَد"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "شِلَح"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:47.011744163Z",
+  "model": "glm-5.2"
+}

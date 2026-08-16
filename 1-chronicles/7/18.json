@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و خواهرِ او هامولِخَت، ⟨את⟩ ایشهود و ⟨את⟩ اَویعِزِر و ⟨את⟩ مَحلا را زایید.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "و خواهرِ او"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "هامولِخَت"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "زایید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایشهود"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "ایشهود"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "اَویعِزِر"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "اَویعِزِر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مَحلا"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "مَحلا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:16.296604725Z",
+  "model": "glm-5.2"
+}

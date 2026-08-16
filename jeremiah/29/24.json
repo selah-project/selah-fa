@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 29:24",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و به شِمَعْیاهو نَحَلامی بگو، به این گفتار:",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "و به"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "شِمَعْیاهو"
+    },
+    {
+      "surface": "הנחלמי",
+      "gloss": "نَحَلامی"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "بگو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به این گفتار"
+    }
+  ],
+  "timestamp": "2026-08-13T22:04:59.128176744Z",
+  "model": "glm-5.2"
+}

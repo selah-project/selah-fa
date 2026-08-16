@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 11:33",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و هر ظرفِ سفال که از آن‌ها درونِ آن بیفتد — هر چه در درونِ آن باشد نجس خواهد شد، و ⟨את⟩ آن را بشکنید.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ظرف"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "سفال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "بیفتد"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "از آن‌ها"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بدرونِ"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "آن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر چه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "در درونِ آن"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "نجس خواهد شد"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "آن را"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "بشکنید"
+    }
+  ],
+  "timestamp": "2026-08-13T20:24:22.864927992Z",
+  "model": "glm-5.2"
+}

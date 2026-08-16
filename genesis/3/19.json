@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 3:19",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "در عرقِ رویِ تو نان خواهی خورد، تا بازگشتِ تو به زمین، که از آن گرفته شدی؛ که خاکِ تو هستی و به خاک باز خواهی گشت.",
+  "tokens": [
+    {
+      "surface": "בזעת",
+      "gloss": "در عرقِ"
+    },
+    {
+      "surface": "אפיך",
+      "gloss": "رویِ تو"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "خواهی خورد"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "שובך",
+      "gloss": "بازگشتِ تو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "از آن"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "گرفته شدی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "خاک"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو هستی"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و به"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "خاک"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "باز خواهی گشت"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:39.948077798Z",
+  "model": "glm-5.2"
+}

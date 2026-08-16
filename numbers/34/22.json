@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 34:22",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 34,
+  "translation": "و برای سبطِ پسرانِ دان، رئیس، بوکی پسرِ یوگلی.",
+  "tokens": [
+    {
+      "surface": "וּלְמַטֵּה",
+      "gloss": "و برای سبطِ"
+    },
+    {
+      "surface": "בְנֵי",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "דָּן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "נָשִׂיא",
+      "gloss": "رئیس"
+    },
+    {
+      "surface": "בֻּקִּי",
+      "gloss": "بوکی"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "יָגְלִי",
+      "gloss": "یوگلی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:42:07.329772420Z",
+  "model": "glm-5.2"
+}

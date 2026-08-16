@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 38:2",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 38,
+  "translation": "چه کسی ⟨است⟩ این که مشورت را با سخنان بی‌دانش تاریک می‌کند؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "چه کسی"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "מחשיך",
+      "gloss": "تاریک می‌کند"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "مشورت"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "با سخنان"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بی‌"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "دانش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:14:53.844039226Z",
+  "model": "glm-5.2"
+}

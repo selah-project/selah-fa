@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 2:17",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و یاهوه با من سخن گفت، به این نیت:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "با من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به این نیت"
+    }
+  ],
+  "timestamp": "2026-08-13T20:43:08.429555571Z",
+  "model": "glm-5.2"
+}

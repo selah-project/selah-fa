@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 23:38",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "عیرا هَیِتْری، گارِو هَیِتْری،",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "عیرا"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "هَیِتْری"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "گارِو"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "هَیِتْری"
+    }
+  ],
+  "timestamp": "2026-08-13T21:23:12.518453253Z",
+  "model": "glm-5.2"
+}

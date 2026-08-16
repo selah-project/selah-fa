@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 3:2",
+  "book": "zephaniah",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "نشنید در صدا، نپذیرید تربیت، در یاهوه اعتماد نکرد، به الوهیمِ خود نزدیک نشد.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "شنید"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "در صدا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "پذیرفت"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تربیت"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "در یاهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בטחה",
+      "gloss": "اعتماد کرد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "الوهیمِ او"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "نزدیک شد"
+    }
+  ],
+  "timestamp": "2026-08-13T22:33:59.352887357Z",
+  "model": "glm-5.2"
+}

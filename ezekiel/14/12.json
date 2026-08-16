@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 14:12",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و سخن یاهوه به من شد، به این بیان:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به این بیان"
+    }
+  ],
+  "timestamp": "2026-08-13T22:14:47.056763430Z",
+  "model": "glm-5.2"
+}

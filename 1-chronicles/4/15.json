@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و پسرانِ کالِو، پسرِ یِفُنّه: عیرو، اِیله و نَعَم؛ و پسرانِ اِیله: و قِناز.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالِو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "یِفُنّه"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "عیرو"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اِیله"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "و نَعَم"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اِیله"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "و قِناز"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:26.925386335Z",
+  "model": "glm-5.2"
+}

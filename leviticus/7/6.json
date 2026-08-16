@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "هر نَر در کاهنان آن را بخورد؛ در مکانِ قدوس خورده شود؛ قدسِ مقدس‌ها ⟨او⟩ است.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر\/همه"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نَر"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "در کاهنان"
+    },
+    {
+      "surface": "יֹאכְלֶנּוּ",
+      "gloss": "او را بخورد"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "در مکان"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "قدوس"
+    },
+    {
+      "surface": "יֵאָכֵל",
+      "gloss": "خورده شود"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قدس"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "مقدس‌ها"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:22:57.502239749Z",
+  "model": "glm-5.2"
+}

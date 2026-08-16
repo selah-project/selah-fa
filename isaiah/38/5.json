@@ -1,0 +1,107 @@
+{
+  "tier": "hand",
+  "verse": 5,
+  "ref": "isaiah 38:5",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 38,
+  "translation": "برو و به حزقیاهو بگو: چنین می‌گوید یاهوه، الوهیمِ داوود پدرت: ⟨את⟩ دعایت را شنیدم، ⟨את⟩ اشک‌هایت را دیدم؛ اینک من بر روزهایت پانزده سال می‌افزایم.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "برو"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "و بگو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حزقیاهو"
+    },
+    {
+      "surface": "כה",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "می‌گوید"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوهیمِ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "پدرت"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "شنیدم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دعایت"
+    },
+    {
+      "surface": "תפלתך",
+      "gloss": "دعایت"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "دیدم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اشک‌هایت"
+    },
+    {
+      "surface": "דמעתך",
+      "gloss": "اشک‌هایت"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "اینک من"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "می‌افزایم"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "روزهایت"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ده"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-08-14T17:47:39Z",
+  "model": "claude-fable-5/hand"
+}

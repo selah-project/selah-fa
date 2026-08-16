@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 4:23",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "بیش از هرِ پاسداری، دلِ خود را نگاه دار، که از آن بیرون‌آیندهایِ زندگی‌اند.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "بیش از هرِ"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "پاسداری"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "نگه دار"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "دلِ خود را"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "از آن"
+    },
+    {
+      "surface": "תוצאות",
+      "gloss": "بیرون‌آیندهایِ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگی"
+    }
+  ],
+  "timestamp": "2026-08-13T22:59:51.707109683Z",
+  "model": "glm-5.2"
+}

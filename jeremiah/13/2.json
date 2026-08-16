@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "و خریدم ⟨את⟩ کمری، چونانِ سخنِ یاهوه، و بر کمرِ خود گذاشتم.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "وخریدم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کمری"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "کمری"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "چونانِ-سخنِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "وگذاشتم"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "کمرِ-خود"
+    }
+  ],
+  "timestamp": "2026-08-13T22:00:07.919699352Z",
+  "model": "glm-5.2"
+}

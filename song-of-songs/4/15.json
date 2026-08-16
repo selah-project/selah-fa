@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 4:15",
+  "book": "song-of-songs",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "چشمهٔ باغ‌ها، چاه آب‌های زنده، و جاری‌شدن‌ها از لْوانون.",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "چشمه"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "باغ‌ها"
+    },
+    {
+      "surface": "באר",
+      "gloss": "چاه"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آب‌های"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زنده"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "و جاری‌شدن‌ها"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "لْوانون"
+    }
+  ],
+  "timestamp": "2026-08-14T00:16:08.059077841Z",
+  "model": "glm-5.2"
+}

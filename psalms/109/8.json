@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 109,
+  "translation": "باشند روزهایش اندک، پَکوداتو را بگیرد دیگری.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "باشند"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "روزهایش"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "اندک"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "پَکوداتو"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "بگیرد"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دیگری"
+    }
+  ],
+  "timestamp": "2026-08-13T22:53:41.413619373Z",
+  "model": "glm-5.2"
+}

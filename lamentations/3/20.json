@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "یادِ کن، یادِ خواهی کرد، و خم خواهد شد بر فرازِ من نفسِ من.",
+  "tokens": [
+    {
+      "surface": "זָכוֹר",
+      "gloss": "یادِ کن"
+    },
+    {
+      "surface": "תִּזְכּוֹר",
+      "gloss": "یادِ خواهی کرد"
+    },
+    {
+      "surface": "וְתָשִׁיחַ",
+      "gloss": "و خم خواهد شد"
+    },
+    {
+      "surface": "עָלַי",
+      "gloss": "بر فرازِ من"
+    },
+    {
+      "surface": "נַפְשִׁי",
+      "gloss": "نفسِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T23:18:13.800318620Z",
+  "model": "glm-5.2"
+}

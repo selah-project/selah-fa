@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "بگُریز از بدی، و نیکو بکن، و ساکن باش برای همیشه.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "بگُریز"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "از بدی"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "و بکن"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیکو"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "و ساکن باش"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "برای همیشه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:42:25.600412530Z",
+  "model": "glm-5.2"
+}

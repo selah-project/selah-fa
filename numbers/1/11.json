@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 1:11",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "برای بَنیامین، اَویدان پسرِ گِدعونی.",
+  "tokens": [
+    {
+      "surface": "לְבִ֨נְיָמִ֔ן",
+      "gloss": "برای بَنیامین"
+    },
+    {
+      "surface": "אֲבִידָ֖ן",
+      "gloss": "اَویدان"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "גִּדְעֹנִֽי",
+      "gloss": "گِدعونی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:30:19.228796977Z",
+  "model": "glm-5.2"
+}

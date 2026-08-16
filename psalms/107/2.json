@@ -1,0 +1,41 @@
+{
+  "tier": "4.6",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 107,
+  "translation": "بگویندِ رستگانِ یاهوه، کسانِ را‌که آگاهید از دستِ دشمن،",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "بگویند"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "رستگانِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کسانِ را‌که"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "آگاهید"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "از دستِ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "دشمن"
+    }
+  ],
+  "timestamp": "2026-08-15T04:28:12.726525254Z",
+  "model": "glm-4.6"
+}

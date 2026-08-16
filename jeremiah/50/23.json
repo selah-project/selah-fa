@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 50:23",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 50,
+  "translation": "چگونه قطع شد و شکستِ چکشِ تمامِ زمین! چگونه بابِل برای ویرانی در میانِ امّت‌ها شد!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "چگونه"
+    },
+    {
+      "surface": "נגדע",
+      "gloss": "قطع شد"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "و شکستِ"
+    },
+    {
+      "surface": "פטיש",
+      "gloss": "چکشِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "איך",
+      "gloss": "چگونه"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "شد"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "برای ویرانی"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابِل"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "در میانِ امّت‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T22:09:46.964374126Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 40,
+  "translation": "و بگذاری ⟨את⟩ مذبحِ سوختنی را پیش از درِ مسکنِ خیمهٔ موعد.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "و بگذاری"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مذبح"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "سوختنی"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیش از"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "درِ"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "مسکنِ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمهٔ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "موعد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:21:36.913211522Z",
+  "model": "glm-5.2"
+}

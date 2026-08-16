@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 7:29",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و برای قربانیِ شَلامیم، دو گاو، پنج قوچ، پنج بزِ نر، پنج برّهٔ یک‌ساله؛ این هدیهٔ اَلی‌اَو، پسر خِلون است.",
+  "tokens": [
+    {
+      "surface": "ולזבח",
+      "gloss": "و برای قربانی"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "شَلامیم"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "گاو"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "قوچ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "עתדים",
+      "gloss": "بزِ نر"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "برّه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "هدیه"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "اَلی‌اَو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "خِلون"
+    }
+  ],
+  "timestamp": "2026-08-13T20:32:57.137905744Z",
+  "model": "glm-5.2"
+}

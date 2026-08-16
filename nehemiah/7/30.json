@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 7:30",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "مردانِ هارامه و گبع، ششصد و بیست و یک.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "مردانِ"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "هارامه"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "و گبع"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "و یک"
+    }
+  ],
+  "timestamp": "2026-08-14T00:17:07.028457867Z",
+  "model": "glm-5.2"
+}

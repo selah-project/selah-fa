@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 34:20",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 34,
+  "translation": "و حَمور و شِخم پسرش به دروازهٔ شهرِشان آمدند، و با مردانِ شهرِشان سخن گفتند، به گفتن:",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "و آمد"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "حَمور"
+    },
+    {
+      "surface": "ושכם",
+      "gloss": "و شِخم"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازهٔ"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "شهرِشان"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "و سخن گفتند"
+    },
+    {
+      "surface": "אל",
+      "gloss": "با"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "مردانِ"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "شهرِشان"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به گفتن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:04:56.882764919Z",
+  "model": "glm-5.2"
+}

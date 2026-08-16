@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 14:6",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و نُگَه، و نِفِگ، و یافِیع",
+  "tokens": [
+    {
+      "surface": "וְנֹ֥גַהּ",
+      "gloss": "و نُگَه"
+    },
+    {
+      "surface": "וְנֶ֖פֶג",
+      "gloss": "و نِفِگ"
+    },
+    {
+      "surface": "וְיָפִֽיעַ",
+      "gloss": "و یافِیع"
+    }
+  ],
+  "timestamp": "2026-08-13T23:39:03.868962268Z",
+  "model": "glm-5.2"
+}

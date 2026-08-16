@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 17:17",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "برای من به ویرانی مگرد، تو پناهگاهِ منی در روزِ بدی.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "باش"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برای من"
+    },
+    {
+      "surface": "למחתה",
+      "gloss": "به ویرانی"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "پناهگاهِ من"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدی"
+    }
+  ],
+  "timestamp": "2026-08-13T22:00:57.378137367Z",
+  "model": "glm-5.2"
+}

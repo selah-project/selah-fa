@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "leviticus 17:12",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "به این سبب به بنی‌یسرائل گفتم: هر جان از شما خون نخورد، و گرِ ساکن در میانِ شما خون نخورد.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "به"
+    },
+    {
+      "surface": "כן",
+      "gloss": "این سبب"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "گفتم"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "به بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "از شما"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "خورد"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "و گر"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ساکن"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "در میانِ شما"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "خورد"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خون"
+    }
+  ],
+  "timestamp": "2026-08-15T03:51:15.925526165Z",
+  "model": "glm-5.3"
+}

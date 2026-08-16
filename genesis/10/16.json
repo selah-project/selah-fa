@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و⟨את⟩ یَووسی و⟨את⟩ اَموری و⟨את⟩ گِرگَشی را.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "یَووسی"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "یَووسی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "اَموری"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "اَموری"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "گِرگَشی"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "گِرگَشی"
+    }
+  ],
+  "timestamp": "2026-08-13T19:57:02.445010279Z",
+  "model": "glm-5.2"
+}

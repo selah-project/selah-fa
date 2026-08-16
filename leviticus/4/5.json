@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و کاهنِ ماشیح از خونِ گاو را بردارد و آن را به خیمهٔ موعد بیاورد.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "و بردارد"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهنِ"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "ماشیح"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "از خونِ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "گاو"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "و بیاورد"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ او",
+      "marks": "او (خون)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمهٔ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "موعد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:22:47.743807416Z",
+  "model": "glm-5.2"
+}

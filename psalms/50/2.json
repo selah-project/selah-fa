@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 50,
+  "translation": "از تسیون، کمالِ زیبایی، الوهیم درخشید.",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "از تسیون"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "کمالِ"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "زیبایی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "درخشید"
+    }
+  ],
+  "timestamp": "2026-08-14T00:11:47.516877908Z",
+  "model": "glm-5.2"
+}

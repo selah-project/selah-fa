@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 14:8",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "اگر پیر شود در زمین ریشهٔ ⟨او⟩، و در خاک بمیرد تنهٔ ⟨او⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "پیر شود"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "در زمین"
+    },
+    {
+      "surface": "שרשו",
+      "gloss": "ریشهٔ او"
+    },
+    {
+      "surface": "ובעפר",
+      "gloss": "و در خاک"
+    },
+    {
+      "surface": "יות",
+      "gloss": "بمیرد"
+    },
+    {
+      "surface": "גזעו",
+      "gloss": "تنهٔ او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:09:06.045676551Z",
+  "model": "glm-5.2"
+}

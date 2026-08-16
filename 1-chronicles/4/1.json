@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "پسرانِ یهودا: پَرِص، حِصرون، وکَرمی، وحور، وشووال.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پَرِص"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "حِصرون"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "وکَرمی"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "وحور"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "وشووال"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:34.293582633Z",
+  "model": "glm-5.2"
+}

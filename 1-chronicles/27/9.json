@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 27:9",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "ششمین برای ماهِ ششم، عیرا بنِ عِقِّش، تَکوئی، و بر بخشِ او بیست‌وچهار هزار.",
+  "tokens": [
+    {
+      "surface": "הששי",
+      "gloss": "ششمین"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "برای ماه"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ششم"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "عیرا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بنِ"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "عِقِّش"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "تَکوئی"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "بخشِ او"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "و چهار"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    }
+  ],
+  "timestamp": "2026-08-13T23:42:27.561575436Z",
+  "model": "glm-5.2"
+}

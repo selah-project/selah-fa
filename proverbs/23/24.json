@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 23:24",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "بسیار شاد بود پدرِ فردِ دادگر، تولدِ خردمند او و او ⟨از او⟩ شاد می‌شود.",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "بسیار شاد بود"
+    },
+    {
+      "surface": "יגול",
+      "gloss": "شاد بود"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پدرِ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "فردِ دادگر"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "تولدِ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "خردمند"
+    },
+    {
+      "surface": "וישמח",
+      "gloss": "و شاد می‌شود"
+    },
+    {
+      "surface": "בו",
+      "gloss": "او ⟨از او⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:17.945083513Z",
+  "model": "glm-5.2"
+}

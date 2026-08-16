@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 37:5",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "بر یاهوه بغلتان راهت را و بر او توکل کن و او ⟨آن را⟩ به انجام خواهد رساند.",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "بغلتان"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "راهت"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "و توکل کن"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر او"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "و او"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "خواهد کرد"
+    }
+  ],
+  "timestamp": "2026-08-13T22:42:05.961981920Z",
+  "model": "glm-5.2"
+}

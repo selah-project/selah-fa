@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 9:24",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "تنها دخترِ فرعون بالا رفت از شهرِ داوود به خانهٔ خود، که برایش ساخته بود؛ آنگاه ساخت ⟨את⟩ میلو.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "تنها"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دخترِ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "بالا رفت"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "از شهرِ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوید"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "خانهٔ خود"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ساخت"
+    },
+    {
+      "surface": "לה",
+      "gloss": "برایش"
+    },
+    {
+      "surface": "אז",
+      "gloss": "آنگاه"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ساخت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میلو"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "میلو"
+    }
+  ],
+  "timestamp": "2026-08-13T21:26:56.509281437Z",
+  "model": "glm-5.2"
+}

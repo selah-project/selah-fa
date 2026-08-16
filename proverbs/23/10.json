@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "مرزِ ازل را تغییر نده و در مزرعه‌هایِ یتیمان وارد مشو،",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תַּ֭סֵּג",
+      "gloss": "تغییر بده"
+    },
+    {
+      "surface": "גְּב֣וּל",
+      "gloss": "مرزِ"
+    },
+    {
+      "surface": "עוֹלָ֑ם",
+      "gloss": "ازل"
+    },
+    {
+      "surface": "וּבִשְׂדֵ֥י",
+      "gloss": "و در مزرعه‌هایِ"
+    },
+    {
+      "surface": "יְ֝תוֹמִ֗ים",
+      "gloss": "یتیمان"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תָּבֹֽא",
+      "gloss": "وارد شو"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:17.901731669Z",
+  "model": "glm-5.2"
+}

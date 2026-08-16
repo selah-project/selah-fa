@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 7:19",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و گُل‌هایی که بر سرِ ستون‌ها هستند، ساختِ سوسن، در ایوان: چهار اَماه.",
+  "tokens": [
+    {
+      "surface": "וכתרת",
+      "gloss": "و گُل‌هایی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سرِ"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ستون‌ها"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ساختِ"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "سوسن"
+    },
+    {
+      "surface": "באולם",
+      "gloss": "در ایوان"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "اَماه"
+    }
+  ],
+  "timestamp": "2026-08-13T21:26:17.424227245Z",
+  "model": "glm-5.2"
+}

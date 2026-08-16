@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 11:29",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و در عین ریمون، و در صُرعه، و در یَرموت",
+  "tokens": [
+    {
+      "surface": "וּבְעֵ֥ין",
+      "gloss": "و در عین"
+    },
+    {
+      "surface": "רִמּ֛וֹן",
+      "gloss": "ریمون"
+    },
+    {
+      "surface": "וּבְצָרְעָ֖ה",
+      "gloss": "و در صُرعه"
+    },
+    {
+      "surface": "וּבְיַרְמֽוּת",
+      "gloss": "و در یَرموت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:21.325412053Z",
+  "model": "glm-5.2"
+}

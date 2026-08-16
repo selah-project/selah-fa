@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 6:35",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و این‌ها پسرانِ اَهارون هستند: اَلعازار پسرش، پینهاس پسرش، اَویشوع پسرش.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "و این‌ها"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اَهارون"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "اَلعازار"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "پینهاس"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "اَویشوع"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:15.686082152Z",
+  "model": "glm-5.2"
+}

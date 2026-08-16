@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "مکار دید بدی را و پنهان شد، و ساده‌لوحان عبور کردند و مجازات شدند.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "مکار"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "دید"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدی را"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "و پنهان شد"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "و ساده‌لوحان"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "عبور کردند"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "و مجازات شدند"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:03.720603490Z",
+  "model": "glm-5.2"
+}

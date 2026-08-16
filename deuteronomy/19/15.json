@@ -1,0 +1,109 @@
+{
+  "tier": "4.6",
+  "verse": 15,
+  "ref": "deuteronomy 19:15",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "نخواهد ایستاد شاهد یک ⟨در⟩ مرد برای هر گناه و برای هر خطا، در هر گناهی که او خطا کند؛ بر دهان دو شاهد یا بر دهان سه شاهد ⟨خواهد⟩ ایستاد سخن.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نخواهد"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ایستاد"
+    },
+    {
+      "surface": "עד",
+      "gloss": "شاهد"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "⟨در⟩ مرد"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "برای هر"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گناه"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "و برای هر"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "خطا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "در هر"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گناهی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "او خطا کند"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دهان"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "شاهد"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دهان"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سه"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "شاهد"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "⟨خواهد⟩ ایستاد"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخن"
+    }
+  ],
+  "timestamp": "2026-08-15T04:00:06.929287033Z",
+  "model": "glm-4.6"
+}

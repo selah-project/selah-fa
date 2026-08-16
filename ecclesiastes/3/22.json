@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "ecclesiastes 3:22",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و دیدم که نیکی نیست جز آن‌که انسان در کردارِ خویش شاد باشد، که آن سهمِ اوست؛ که مَی خواهد او را ببیند آنچه پس از او خواهد بود؟",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "و دیدم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیکی"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "جز آن‌که"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "شاد باشد"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "در کردارِ خویش"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "سهمِ اوست"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مَی"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "خواهد او را"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ببیند"
+    },
+    {
+      "surface": "במה",
+      "gloss": "آنچه"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "خواهد بود"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "پس از او"
+    }
+  ],
+  "timestamp": "2026-08-15T04:30:38.086007831Z",
+  "model": "glm-5.3"
+}

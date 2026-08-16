@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 31:20",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و هر جامه و هر ظرفِ چرمی و هر ساختهٔ پشمِ بز و هر ظرفِ چوبی را پاک کنید.»",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "جامه"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ظرف"
+    },
+    {
+      "surface": "עור",
+      "gloss": "چرمی"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ساختهٔ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بز"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ظرف"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "چوبی"
+    },
+    {
+      "surface": "תתחטאו",
+      "gloss": "پاک کنید"
+    }
+  ],
+  "timestamp": "2026-08-13T20:41:22.369874248Z",
+  "model": "glm-5.2"
+}

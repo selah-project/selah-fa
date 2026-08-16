@@ -1,0 +1,49 @@
+{
+  "tier": "4.6",
+  "verse": 13,
+  "ref": "genesis 26:13",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "و مرد ⟨آن⟩ بزرگ شد و رفت رفتن و بزرگ شد تا آنکه بزرگ شد بسیار",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "و ⟨بزرگ⟩ شد"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "و رفت"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "رفتن"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "و بزرگ شد"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "آنکه"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "بزرگ شد"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بسیار"
+    }
+  ],
+  "timestamp": "2026-08-15T03:40:41.954074117Z",
+  "model": "glm-4.6"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 34,
+  "translation": "بترسید ⟨את⟩ یاهوه را، ای قدسیانش، که نیست کمبودی برای ترسندگانِ او.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "بترسید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "قدسیانش"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "کمبودی"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "برای ترسندگانِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T22:41:26.660263499Z",
+  "model": "glm-5.2"
+}

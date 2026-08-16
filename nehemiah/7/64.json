@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "nehemiah 7:64",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "اینان نوشتهٔ نسب‌نامه‌شان را جستند، و یافت نشاد؛ و از کاهُنّوت طرد شدند.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اینان"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "جستند"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "نوشتهٔشان"
+    },
+    {
+      "surface": "המתיחשים",
+      "gloss": "نسب‌نامه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "یافت شد"
+    },
+    {
+      "surface": "ויגאלו",
+      "gloss": "و طرد شدند"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הכהנה",
+      "gloss": "کاهُنّوت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:33:15.224968828Z",
+  "model": "glm-5.2"
+}

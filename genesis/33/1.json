@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 33:1",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "و یاعکوو چشمانش را بالا برد و دید و اینک عیسو می‌آید و با او چهارصد مرد ⟨است⟩، و کودکان را میان لِئه و راحِل و دو کنیز تقسیم کرد.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "و بالا برد"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعکوو"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "چشمانش"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "و دید"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "בא",
+      "gloss": "می‌آید"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "و با او"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "و تقسیم کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کودکان"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "کودکان"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لِئه"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحِل"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "کنیزان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:04:23.409534020Z",
+  "model": "glm-5.2"
+}

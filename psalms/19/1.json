@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "به ⟨برای⟩ رهبرِ موسیقی، مزموری از داوود.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "به ⟨برای⟩ رهبرِ موسیقی"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "از داوود"
+    }
+  ],
+  "timestamp": "2026-08-13T22:40:06.504426432Z",
+  "model": "glm-5.2"
+}

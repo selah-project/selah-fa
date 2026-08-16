@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 148,
+  "translation": "جوانان و نیز باکره‌ها، پیران با نوجوانان،",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "جوانان"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "و نیز"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "باکره‌ها"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "پیران"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "نوجوانان"
+    }
+  ],
+  "timestamp": "2026-08-13T22:58:26.623428675Z",
+  "model": "glm-5.2"
+}

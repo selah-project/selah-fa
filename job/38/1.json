@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 38,
+  "translation": "و یاهوه ⟨את⟩ ایّوو را از توفان پاسخ داد و گفت:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "و پاسخ داد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایّوو"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ایّوو"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "از"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "توفان"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    }
+  ],
+  "timestamp": "2026-08-15T04:29:23.344938748Z",
+  "model": "glm-5.3"
+}

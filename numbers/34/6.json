@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "numbers 34:6",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 34,
+  "translation": "و مرزِ دریا، و ⟨این⟩ برای شما خواهد بود: دریای بزرگ و مرز؛ این برای شما مرزِ دریا خواهد بود.",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "و مرز"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "و خواهد بود"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "برای شما"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دریای"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "و مرز"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "خواهد بود"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "برای شما"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "مرز"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دریا"
+    }
+  ],
+  "timestamp": "2026-08-15T03:54:00.343994222Z",
+  "model": "glm-5.3"
+}

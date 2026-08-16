@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 7:33",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و پسرانِ یَفْلِت: پاسَخ، و بِمْهال، و عَشْوات. این‌ها پسرانِ یَفْلِت بودند.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "یَفْلِت"
+    },
+    {
+      "surface": "פסך",
+      "gloss": "پاسَخ"
+    },
+    {
+      "surface": "ובמהל",
+      "gloss": "و بِمْهال"
+    },
+    {
+      "surface": "ועשות",
+      "gloss": "و عَشْوات"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "یَفْلِت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:57.544425204Z",
+  "model": "glm-5.2"
+}

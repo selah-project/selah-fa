@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و اَرام دید که شکست خورده در پیشگاهِ یِسرائیل، و یکجا جمع شدند.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "و دید"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "اَرام"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "شکست خورده"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "در پیشگاهِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "و جمع شدند"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "یکجا"
+    }
+  ],
+  "timestamp": "2026-08-13T21:19:03.168477420Z",
+  "model": "glm-5.2"
+}

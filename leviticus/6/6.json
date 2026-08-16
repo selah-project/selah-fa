@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "آتشِ پیوسته بر مذبح بسوزد، خاموش نگردد.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "آتش"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "پیوسته"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "بسوزد"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نـ"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "خاموش گردد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:22:40.954382052Z",
+  "model": "glm-5.2"
+}

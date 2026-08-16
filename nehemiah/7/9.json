@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 7:9",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "پسرانِ شفتایا، سه‌صد هفتاد و دو.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "شفتایا"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "هفتاد"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "و دو"
+    }
+  ],
+  "timestamp": "2026-08-13T23:32:32.955093641Z",
+  "model": "glm-5.2"
+}

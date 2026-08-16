@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "همهٔ نهرها به سوی دریا می‌روند و دریا پُر نمی‌شود؛ به جایی که نهرها به سویش می‌روند، همان‌جا برمی‌گردند تا بروند.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "نهرها"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "می‌روند"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "והים",
+      "gloss": "و دریا"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "پُر نمی‌شود"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "پُر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جای"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "که نهرها"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "می‌روند"
+    },
+    {
+      "surface": "שם",
+      "gloss": "همان‌جا"
+    },
+    {
+      "surface": "הם",
+      "gloss": "آنان"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "برمی‌گردند"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "تا بروند"
+    }
+  ],
+  "timestamp": "2026-08-15T04:30:11.046132951Z",
+  "model": "glm-5.3"
+}

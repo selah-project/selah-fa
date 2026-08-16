@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "وای بر ⟨آنکه⟩ شهری با خون‌ها می‌سازد، و دژ را با بی‌عدالتی برپا می‌کند!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "وای"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "می‌سازد"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شهری"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "با خون‌ها"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "و برپا می‌کند"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "دژ را"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "با بی‌عدالتی"
+    }
+  ],
+  "timestamp": "2026-08-13T22:32:09.668982695Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "خدایانی دیگر برای تو نباشد بر رویِ من.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "باشد"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برای تو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "خدایانی"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "دیگر"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رویِ من"
+    }
+  ],
+  "timestamp": "2026-08-15T03:54:59.032265170Z",
+  "model": "glm-5.3"
+}

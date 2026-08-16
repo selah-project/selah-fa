@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و خواهم کرد در تو ⟨את⟩ آن‌چه که نه کردم و ⟨את⟩ آن‌چه که نه خواهم کرد مانند آن دیگر، به سببِ همهٔ مقروحاتت.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "و خواهم کرد"
+    },
+    {
+      "surface": "בך",
+      "gloss": "در تو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آن‌چه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "کردم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "آن‌چه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "خواهم کرد"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "مانند آن"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "باز \/ دیگر"
+    },
+    {
+      "surface": "יען",
+      "gloss": "به سببِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "مقروحاتت"
+    }
+  ],
+  "timestamp": "2026-08-13T22:12:49.224260033Z",
+  "model": "glm-5.2"
+}

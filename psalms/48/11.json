@@ -1,0 +1,53 @@
+{
+  "ref": "psalms 48:11",
+  "lang": "fa",
+  "book": "psalms",
+  "chapter": 48,
+  "verse": 11,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:47:12Z",
+  "translation": "همچون نامت، ای الوهیم، چنین است ستایشِ تو تا کرانه‌هایِ زمین؛ عدالت دستِ راستِ تو را آکنده است.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "همچون نامت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ای الوهیم"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ستایشِ تو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تا"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "کرانه‌هایِ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "عدالت"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "آکنده است"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "دستِ راستِ تو"
+    }
+  ]
+}

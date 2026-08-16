@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و دانی‌ئیل بود تا سالِ یکمِ کورُش، پادشاه.",
+  "tokens": [
+    {
+      "surface": "וַֽיְהִי֙",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "דָּֽנִיֵּ֔אל",
+      "gloss": "دانی‌ئیل"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "שְׁנַ֥ת",
+      "gloss": "سالِ"
+    },
+    {
+      "surface": "אַחַ֖ת",
+      "gloss": "یکم"
+    },
+    {
+      "surface": "לְכ֥וֹרֶשׁ",
+      "gloss": "کورُش"
+    },
+    {
+      "surface": "הַמֶּֽלֶךְ",
+      "gloss": "پادشاه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:23:10.386012325Z",
+  "model": "glm-5.2"
+}

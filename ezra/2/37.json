@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 2:37",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "پسرانِ ایمِر، هزار و پنجاه و دو.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ایمِر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاه"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "و دو"
+    }
+  ],
+  "timestamp": "2026-08-13T23:28:20.645033949Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 25:4",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "ببر ناخالصی‌ها را از نقره، تا برای پالاینده ظرفی بیرون آید.",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "ببر"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "ناخالصی‌ها را"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "از نقره"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "و بیرون آید"
+    },
+    {
+      "surface": "לצרף",
+      "gloss": "برای پالاینده"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ظرفی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:52.774695140Z",
+  "model": "glm-5.2"
+}

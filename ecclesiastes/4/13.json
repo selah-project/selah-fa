@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "بهتر است کودکِ نیازمند و خردمند از پادشاهِ پیر و نادان که نمی‌داند هشدار بگیرد دیگر.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بهتر است"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "کودک"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "نیازمند"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "و خردمند"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "از پادشاه"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "پیر"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "و نادان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "می‌داند"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "هشدار بگیرد"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیگر"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:05.108728190Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "و عیساو در کوهِ سَعیر ساکن شد؛ عیساو، اوست اَدوم.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "و ساکن شد"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیساو"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "در کوهِ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سَعیر"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیساو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوست"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اَدوم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:05:06.270382899Z",
+  "model": "glm-5.2"
+}

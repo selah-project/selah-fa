@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 6:33",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و برادرانشان، لاویان، گماشته ⟨بودند⟩ برای تمامی کارِ مسکنِ بیتِ الوهیم.",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "و برادرانشان"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاویان"
+    },
+    {
+      "surface": "נתונים",
+      "gloss": "گماشته"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "برای تمامی"
+    },
+    {
+      "surface": "עבודת",
+      "gloss": "کارِ"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "مسکنِ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیتِ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:15.685569760Z",
+  "model": "glm-5.2"
+}

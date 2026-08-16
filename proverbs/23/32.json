@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 23:32",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "آخرتِ آن همچون مار گزند، و همچون افعی زهر می‌پراکَند!",
+  "tokens": [
+    {
+      "surface": "אחריתו",
+      "gloss": "آخرتِ آن"
+    },
+    {
+      "surface": "כנחש",
+      "gloss": "همچون مار"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "گزند"
+    },
+    {
+      "surface": "וכצפעני",
+      "gloss": "و همچون افعی"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "زهر می‌پراکَند"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:35.006901200Z",
+  "model": "glm-5.2"
+}

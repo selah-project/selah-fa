@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و یاهوه ⟨את⟩ یُونّه را به بلعیدن مأمور کرد، و یونّه سه روز و سه شب در احشای ماهی بود.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "و مأمور کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "דג",
+      "gloss": "ماهیِ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "به بلعیدنِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یونّه"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "یونّه"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "یونّه"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "در احشایِ"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "ماهی"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سه"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روز"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "و سه"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "شب"
+    }
+  ],
+  "timestamp": "2026-08-13T22:31:00.277982300Z",
+  "model": "glm-5.2"
+}

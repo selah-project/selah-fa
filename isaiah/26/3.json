@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "تصوّری تکیه‌یافته را نگاه می‌داری سلام، سلام، که در توست اعتمادِ او.",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "تصوّر"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "تکیه‌یافته"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "نگاه می‌داری"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلام"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلام"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "בך",
+      "gloss": "در توست"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "اعتمادِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T21:46:02.999807992Z",
+  "model": "glm-5.2"
+}

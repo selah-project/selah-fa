@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 2:19",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "وَ عَزوبه مُرد، وَ کالِب برایِ خود ⟨את⟩ اِفْرات را بَر گرفت، وَ برایِ او ⟨את⟩ حور زایید.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "وَ مُرد"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "عَزوبه"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "وَ بَر گرفت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برایِ خود"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالِب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِفْرات"
+    },
+    {
+      "surface": "אפרת",
+      "gloss": "اِفْرات"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "وَ زایید"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برایِ او"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حور"
+    },
+    {
+      "surface": "חור",
+      "gloss": "حور"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:29.557976426Z",
+  "model": "glm-5.2"
+}

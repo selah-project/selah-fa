@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 4:19",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و پسرانِ همسرِ هودیَه، خواهرِ نَحام: ابیِ قَعیله گَرمی، و اَشتِموع مَعَخاتی.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "همسرِ"
+    },
+    {
+      "surface": "הודיה",
+      "gloss": "هودیَه"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "خواهرِ"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "نَحام"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ابیِ"
+    },
+    {
+      "surface": "قעילה",
+      "gloss": "قَعیله"
+    },
+    {
+      "surface": "הגרמי",
+      "gloss": "گَرمی"
+    },
+    {
+      "surface": "ואשתמע",
+      "gloss": "و اَشتِموع"
+    },
+    {
+      "surface": "המעכתי",
+      "gloss": "مَعَخاتی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:41.044921196Z",
+  "model": "glm-5.2"
+}

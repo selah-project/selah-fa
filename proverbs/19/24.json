@@ -1,0 +1,52 @@
+{
+  "tier": "hand",
+  "verse": 24,
+  "ref": "proverbs 19:24",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "کاهل دستش را در کاسه فرو می‌برد؛ حتی به دهانش آن را باز نمی‌گرداند.",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "فرو می‌برد"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "کاهل"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دستش را",
+      "marks": "دست"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "در کاسه",
+      "marks": "کاسه"
+    },
+    {
+      "surface": "גם",
+      "gloss": "حتی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "دهانش",
+      "marks": "دهان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "آن را باز گرداند"
+    }
+  ],
+  "timestamp": "2026-08-14T17:46:57Z",
+  "model": "claude-fable-5/hand"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 16:5",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "مکروهِ یاهوه ⟨است⟩ هر دلِ بلند؛ دست به دست، ⟨او⟩ بی‌گزیر نخواهد ماند.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "مکروه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "بلند"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دست"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "به دست"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "بی‌گزیر خواهد ماند"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:17.876287490Z",
+  "model": "glm-5.2"
+}

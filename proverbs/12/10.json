@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "می‌داند صالح جانِ بهیمهٔ خود را، و رحمت‌های شریران بی‌رحم‌اند.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "می‌داند"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صالح"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جانِ"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "بهیمهٔ خود"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "و رحمت‌های"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شریران"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "بی‌رحم‌اند"
+    }
+  ],
+  "timestamp": "2026-08-13T23:01:23.845287475Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 148,
+  "translation": "پادشاهانِ زمین و تمام قوم‌ها، شاهزادگان و تمام داورانِ زمین،",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "پادشاهانِ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و تمام"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "قوم‌ها"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "شاهزادگان"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و تمام"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "داورانِ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T22:58:26.623311035Z",
+  "model": "glm-5.2"
+}

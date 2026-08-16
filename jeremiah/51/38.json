@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 51:38",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 51,
+  "translation": "با هم چون شیرهای جوان غرش کنند، ناله کنند چون بچه‌های شیر.",
+  "tokens": [
+    {
+      "surface": "יחדו",
+      "gloss": "با هم"
+    },
+    {
+      "surface": "ככפרים",
+      "gloss": "چون شیرهای جوان"
+    },
+    {
+      "surface": "ישאגו",
+      "gloss": "غرش کنند"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "ناله کنند"
+    },
+    {
+      "surface": "כגורי",
+      "gloss": "چون بچه‌های"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "شیر"
+    }
+  ],
+  "timestamp": "2026-08-13T22:10:56.222562294Z",
+  "model": "glm-5.2"
+}

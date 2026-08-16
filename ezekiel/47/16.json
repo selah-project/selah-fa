@@ -1,0 +1,77 @@
+{
+  "tier": "hand",
+  "verse": 16,
+  "ref": "ezekiel 47:16",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 47,
+  "translation": "حَمات، ⟨و⟩ بِروتا، ⟨و⟩ سیورَییم، ⟨که⟩ میانِ مرزِ دَمَشَق و میانِ مرزِ حَمات، حاتسَر-هَتیکون، ⟨که⟩ به سویِ مرزِ حَوران.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "حَمات"
+    },
+    {
+      "surface": "ברותה",
+      "gloss": "⟨و⟩ بِروتا"
+    },
+    {
+      "surface": "סברים",
+      "gloss": "⟨و⟩ سیورَییم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨که⟩"
+    },
+    {
+      "surface": "בין",
+      "gloss": "میانِ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "مرزِ"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "دَمَشَق"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "و میانِ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "مرزِ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حَمات"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "حاتسَر"
+    },
+    {
+      "surface": "התיכון",
+      "gloss": "هَتیکون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨که⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سویِ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "مرزِ"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "حَوران"
+    }
+  ],
+  "timestamp": "2026-08-14T17:47:39Z",
+  "model": "claude-fable-5/hand"
+}

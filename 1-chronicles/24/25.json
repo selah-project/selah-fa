@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 24:25",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "برادرِ میخا، ییشیاه؛ برای پسرانِ ییشیاه، زخریاهو.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "برادرِ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "میخا"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "ییشیاه"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "برای پسرانِ"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "ییشیاه"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "زخریاهو"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:20.956593796Z",
+  "model": "glm-5.2"
+}

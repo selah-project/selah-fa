@@ -1,0 +1,41 @@
+{
+  "tier": "4.6",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "او ⟨به⟩ او نیکی می‌کند و ⟨نه⟩ بدی، تمام ⟨روزهای⟩ زندگیِ او",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "او ⟨به⟩ او نیکی می‌کند"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیکی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و ⟨نه⟩"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "⟨روزهای⟩"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "زندگیِ او"
+    }
+  ],
+  "timestamp": "2026-08-15T04:28:57.857036437Z",
+  "model": "glm-4.6"
+}

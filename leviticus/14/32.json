@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 14:32",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "این توراتِ آن است که در او ضربِ برص است، که دستِ او به پاکی‌اش نمی‌رسد، در پاکی‌شدنِ او.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "توراتِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در او"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ضربِ"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "برص"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "می‌رسد"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دستِ او"
+    },
+    {
+      "surface": "בטהרתו",
+      "gloss": "به پاکیِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:25:17.458804812Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "4.6",
+  "verse": 20,
+  "ref": "genesis 35:20",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "و یاعقوو ⟨את⟩ ستون را برافراشت بر گورش که ⟨هست⟩ ستونِ گورِ راخیل تا امروز",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "و یاعقوو ... برافراشت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعقوو"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "⟨את⟩ ستون"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "קברתה",
+      "gloss": "گورش"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "که ⟨هست⟩"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "ستونِ"
+    },
+    {
+      "surface": "קברת",
+      "gloss": "گورِ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راخیل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "امروز"
+    }
+  ],
+  "timestamp": "2026-08-15T03:41:02.481270548Z",
+  "model": "glm-4.6"
+}

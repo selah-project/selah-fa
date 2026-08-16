@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "⟨את⟩ دریا، یک؛ و ⟨את⟩ گاو‌ها، دوازده، زیرِ آن.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دریا"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "گاو‌ها"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "گاو‌ها"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ده"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "زیرِ آن"
+    }
+  ],
+  "timestamp": "2026-08-14T00:18:35.931551760Z",
+  "model": "glm-5.2"
+}

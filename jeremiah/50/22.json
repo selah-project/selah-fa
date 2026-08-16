@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 50,
+  "translation": "صدای جنگ در زمین، و شکستِ بزرگ.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "صدای"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "در زمین"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "و شکستِ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "بزرگ"
+    }
+  ],
+  "timestamp": "2026-08-13T22:09:46.964237849Z",
+  "model": "glm-5.2"
+}

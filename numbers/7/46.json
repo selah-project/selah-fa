@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 46,
+  "ref": "numbers 7:46",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "یک بزِ نر، برای حَطّه (قربانی گناه).",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "بزِ نر"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "از بزها"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "برای حَطّه (قربانی گناه)"
+    }
+  ],
+  "timestamp": "2026-08-15T03:52:37.334263757Z",
+  "model": "glm-5.3"
+}

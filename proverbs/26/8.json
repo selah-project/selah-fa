@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 26:8",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "مانندِ بستنِ سنگی در قلاب‌سنگ، так даяنِ افتخار به نادان است.",
+  "tokens": [
+    {
+      "surface": "כצרור",
+      "gloss": "مانندِ بستنِ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "سنگی"
+    },
+    {
+      "surface": "במרגמה",
+      "gloss": "در قلاب‌سنگ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همین‌گونه"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "داده می‌شود"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "به نادان"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "افتخار"
+    }
+  ],
+  "timestamp": "2026-08-13T23:05:02.310227369Z",
+  "model": "glm-5.2"
+}

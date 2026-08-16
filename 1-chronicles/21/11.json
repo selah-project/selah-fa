@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 21:11",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و گاد نزد داوود آمد و به او گفت: چنین گفت یاهوه: بپذیر برای خود،",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "و آمد"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نزد"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "כה",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "بپذیر"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برای خود"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:02.113995861Z",
+  "model": "glm-5.2"
+}

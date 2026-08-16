@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 66,
+  "translation": "به سوی او دهانِ من خواند، و بُلندی زیرِ زبانِ من.",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "به سوی او"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دهانِ من"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "خواند"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "و بُلندی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "زیرِ"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "زبانِ من"
+    }
+  ],
+  "timestamp": "2026-08-14T00:12:17.147246828Z",
+  "model": "glm-5.2"
+}

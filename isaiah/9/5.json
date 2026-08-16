@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 9:5",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "زیرا کودکی به ما زاده شد، پسری به ما داده شد، و حکومت بر شانهٔ او شد، و نام او خوانده شد: پَلِع یوعِتس، اِل گِبّور، ابیعَد، شَر شالوم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "کودکی"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "زاده شد"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "به ما"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسری"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "داده شد"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "به ما"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "המשרה",
+      "gloss": "حکومت"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "شانهٔ او"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "و خوانده شد"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "نام او"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "پَلِع"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "یوعِتس"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "گِبّور"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ابی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "عَد"
+    },
+    {
+      "surface": "שר",
+      "gloss": "شَر"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    }
+  ],
+  "timestamp": "2026-08-13T21:43:33.163417599Z",
+  "model": "glm-5.2"
+}

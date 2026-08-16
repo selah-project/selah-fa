@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "بر مِنورای پاک، چراغ‌ها را بچیند، پیشِ رویِ یاهوه، پیوسته.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "مِنورای"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "بچیند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چراغ‌ها"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "چراغ‌ها را"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشِ رویِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "پیوسته"
+    }
+  ],
+  "timestamp": "2026-08-13T20:29:09.160335775Z",
+  "model": "glm-5.2"
+}

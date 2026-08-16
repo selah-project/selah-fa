@@ -1,0 +1,38 @@
+{
+  "ref": "psalms 105:24",
+  "lang": "fa",
+  "book": "psalms",
+  "chapter": 105,
+  "verse": 24,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:47:12Z",
+  "translation": "و ⟨את⟩ قومِ خود را بسیار بارور ساخت، و او را از دشمنانش نیرومندتر ساخت.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "و بارور ساخت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قومِ خود"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "قومِ خود را"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "و او را نیرومندتر ساخت"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "از دشمنانش"
+    }
+  ]
+}

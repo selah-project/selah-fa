@@ -1,0 +1,54 @@
+{
+  "tier": "4.6",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "⟨את⟩ نقرهٔ خود را به او بهره ندهی و به زیاده‌خواهی ⟨את⟩ خوراک خود را ندهی",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نقرهٔ خود را"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "نقرهٔ خود"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ننهی"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دهی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "بهره"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "و به زیاده‌خواهی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ننهی"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دهی"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "خوراک خود"
+    }
+  ],
+  "timestamp": "2026-08-15T03:54:19.448900459Z",
+  "model": "glm-4.6"
+}

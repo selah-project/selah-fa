@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 35:6",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "و نیلِرنگ، و ارغوانی، و کرمِ ابریشمی، و کتانِ نرم، و موی بزها،",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "و نیلِرنگ"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "و ارغوانی"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "و کرم"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ابریشمی"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "و کتانِ نرم"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "و بزها"
+    }
+  ],
+  "timestamp": "2026-08-13T20:19:31.779573534Z",
+  "model": "glm-5.2"
+}

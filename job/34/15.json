@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 34:15",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 34,
+  "translation": "همهٔ گوشت با هم جان می‌سپارد، و آدم به خاک بازمی‌گردد.",
+  "tokens": [
+    {
+      "surface": "יגוע",
+      "gloss": "جان می‌سپارد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "با هم"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "و آدم"
+    },
+    {
+      "surface": "על",
+      "gloss": "به"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "خاک"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "بازمی‌گردد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:13:41.815114922Z",
+  "model": "glm-5.2"
+}

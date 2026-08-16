@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 13:8",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "وکاهن ببیند، واینک، شوره در پوست گسترش یافته است، وکاهن او را نجس کند؛ برص است.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "وببیند"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "واینک"
+    },
+    {
+      "surface": "פשתה",
+      "gloss": "گسترش یافته است"
+    },
+    {
+      "surface": "המספחת",
+      "gloss": "شوره"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "در پوست"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "ونجس کند او را"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "برص"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوست"
+    }
+  ],
+  "timestamp": "2026-08-13T20:25:02.752782704Z",
+  "model": "glm-5.2"
+}

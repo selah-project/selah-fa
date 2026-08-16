@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "jeremiah 23:26",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "تا کی؟ آیا در دلِ انبیاست، انبیایِ دروغ، و انبیایِ فریبِ دلِ خودشان؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "היש",
+      "gloss": "آیا هست"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "در دل"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "انبیا"
+    },
+    {
+      "surface": "נבאי",
+      "gloss": "انبیای"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "دروغ"
+    },
+    {
+      "surface": "ונביאי",
+      "gloss": "و انبیای"
+    },
+    {
+      "surface": "תרמת",
+      "gloss": "فریب"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "دلِ خودشان"
+    }
+  ],
+  "timestamp": "2026-08-15T04:12:31.154976410Z",
+  "model": "glm-5.3"
+}

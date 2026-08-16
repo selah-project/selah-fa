@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 32:14",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "و آن شب آنجا بماند، و از آنچه به دستِ او می‌آمد هدیه‌ای برای عیسو، برادرِ خود، برگرفت.",
+  "tokens": [
+    {
+      "surface": "וילן",
+      "gloss": "و بماند"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آنجا"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "در شب"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "و برگرفت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "آنچه می‌آمد"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "به دستِ او"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "هدیه"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "برای عیسو"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برادرِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:03:48.784378221Z",
+  "model": "glm-5.2"
+}

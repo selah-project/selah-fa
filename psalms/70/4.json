@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 70,
+  "translation": "بازگردند به‌سببِ شرمِ خویش، گویندگانِ: هآ! هآ!",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "بازگردند"
+    },
+    {
+      "surface": "על",
+      "gloss": "به‌سببِ"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "پاداشِ"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "شرمِ خویش"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "گویندگانِ"
+    },
+    {
+      "surface": "האח",
+      "gloss": "هآ!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "هآ!"
+    }
+  ],
+  "timestamp": "2026-08-14T00:12:31.427816972Z",
+  "model": "glm-5.2"
+}

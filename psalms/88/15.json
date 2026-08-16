@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 88,
+  "translation": "چرا، ای یاهوه، نفسِ مرا طرد می‌کنی، رویت را از من پنهان می‌سازی؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ای یاهوه"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "طرد می‌کنی"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نفسِ مرا"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "پنهان می‌سازی"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "رویت را"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "از من"
+    }
+  ],
+  "timestamp": "2026-08-13T22:50:11.707646244Z",
+  "model": "glm-5.2"
+}

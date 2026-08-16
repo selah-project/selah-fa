@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و فریادکرد قوم به‌سوی موشه، و دعاکرد موشه به‌سوی یاهوه، و فرونشست آتش.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "و فریادکرد"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به‌سوی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "و دعاکرد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به‌سوی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "و فرونشست"
+    },
+    {
+      "surface": "האש",
+      "gloss": "آتش"
+    }
+  ],
+  "timestamp": "2026-08-13T20:34:28.504361727Z",
+  "model": "glm-5.2"
+}

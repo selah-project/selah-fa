@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 23:27",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "اَوی‌عِزِر هَعَنتوتی، مِوُنّای هَحوشاتی،",
+  "tokens": [
+    {
+      "surface": "אביעזר",
+      "gloss": "اَوی‌عِزِر"
+    },
+    {
+      "surface": "הענתתי",
+      "gloss": "هَعَنتوتی"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "مِوُنّای"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "هَحوشاتی"
+    }
+  ],
+  "timestamp": "2026-08-13T21:23:14.088127733Z",
+  "model": "glm-5.2"
+}

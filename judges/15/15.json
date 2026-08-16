@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 15:15",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و فکیِ الاغِ تازه یافت، و دستش را دراز کرد و آن را گرفت، و با آن هزار مرد زد.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "ویافت"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "فکی"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "الاغِ"
+    },
+    {
+      "surface": "טריה",
+      "gloss": "تازه"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ودرحان کرد"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دستش"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "وگرفت آن را"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "وزد"
+    },
+    {
+      "surface": "בה",
+      "gloss": "با آن"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    }
+  ],
+  "timestamp": "2026-08-13T21:05:04.978423271Z",
+  "model": "glm-5.2"
+}

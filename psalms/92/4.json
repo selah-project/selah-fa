@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 92,
+  "translation": "بر ده‌تار، و بر نِوِل، بر هِگایون، با کِنور.",
+  "tokens": [
+    {
+      "surface": "עֲֽלֵי",
+      "gloss": "بر"
+    },
+    {
+      "surface": "עָ֭שׂוֹר",
+      "gloss": "ده‌تار"
+    },
+    {
+      "surface": "וַעֲלֵי",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "נָ֑בֶל",
+      "gloss": "نِوِل"
+    },
+    {
+      "surface": "עֲלֵ֖י",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הִגָּי֣וֹן",
+      "gloss": "هِگایون"
+    },
+    {
+      "surface": "בְּכִנּֽוֹר",
+      "gloss": "با کِنور"
+    }
+  ],
+  "timestamp": "2026-08-13T22:51:11.539047644Z",
+  "model": "glm-5.2"
+}

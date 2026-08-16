@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و شدند همهٔ روزهای اَدَم که زیست، نُه‌صد سال و سی سال، و ⟨او⟩ مُرد.",
+  "tokens": [
+    {
+      "surface": "וַיִּֽהְי֞וּ",
+      "gloss": "و شدند"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "יְמֵ֤י",
+      "gloss": "روزهای"
+    },
+    {
+      "surface": "אָדָם֙",
+      "gloss": "اَدَم"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "که"
+    },
+    {
+      "surface": "חַ֔י",
+      "gloss": "زیست"
+    },
+    {
+      "surface": "תְּשַׁ֤ע",
+      "gloss": "نُه"
+    },
+    {
+      "surface": "מֵאוֹת֙",
+      "gloss": "صد"
+    },
+    {
+      "surface": "שָׁנָ֔ה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וּשְׁלֹשִׁ֖ים",
+      "gloss": "و سی"
+    },
+    {
+      "surface": "שָׁנָ֑ה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וַיָּמֹֽת",
+      "gloss": "و مُرد"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:54.266316836Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و داوود به یَهوناتان گفت: چه کسی به من خبر خواهد داد؟ یا اگر پدرت به سختی پاسخت دهد، چه؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یَهوناتان"
+    },
+    {
+      "surface": "מי",
+      "gloss": "چه کسی"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "خبر خواهد داد"
+    },
+    {
+      "surface": "לי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "اگر پاسخت دهد"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "پدرت"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "به سختی"
+    }
+  ],
+  "timestamp": "2026-08-13T21:12:49.927262208Z",
+  "model": "glm-5.2"
+}

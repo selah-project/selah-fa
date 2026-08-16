@@ -1,0 +1,29 @@
+{
+  "tier": "4.6",
+  "verse": 70,
+  "ref": "numbers 7:70",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "بزغاله‌ای نر از بزها برای گناه‌برداری:",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "بزغاله‌ای نر"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "از بزها"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "برای گناه‌برداری"
+    }
+  ],
+  "timestamp": "2026-08-15T03:57:22.133989504Z",
+  "model": "glm-4.6"
+}

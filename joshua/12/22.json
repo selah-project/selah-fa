@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "پادشاهِ قِدِش، یکی؛ پادشاهِ یُقْنِعام به کرمل، یکی؛",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قِدِش"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "یُقْنِعام"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "به کرمل"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:56:38.942371673Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 50,
+  "translation": "اگر دزدی را دیدی و با او دویدی، و با زناکاران سهمِ توست.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "دیدی"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "دزدی را"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "و دویدی"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "با او"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "و با"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "زناکاران"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "سهمِ توست"
+    }
+  ],
+  "timestamp": "2026-08-15T04:23:07.656355212Z",
+  "model": "glm-5.3"
+}

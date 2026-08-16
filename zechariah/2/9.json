@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 2:9",
+  "book": "zechariah",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و من خواهم شد برای او — نئوم یاهوه — به دیوار آتشِ گرداگرد، و برای شکوه در میانِ او خواهم شد.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "و من"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "خواهم شد"
+    },
+    {
+      "surface": "לה",
+      "gloss": "برای او"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نئوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "دیوار"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آتش"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "گرداگرد"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "و برای شکوه"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "خواهم شد"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "در میانِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T22:34:41.080757300Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 24:8",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و پادشاه گفت، و صندوقیِ یگانه ساختند، و آن را در دروازهٔ خانهٔ یاهوه، بیرون، نهادند.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "و ساختند"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوقی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یگانه"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "و آن را نهادند"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "در دروازهٔ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانهٔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "بیرون"
+    }
+  ],
+  "timestamp": "2026-08-13T23:48:26.009499376Z",
+  "model": "glm-5.2"
+}

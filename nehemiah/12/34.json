@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 12:34",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "یهودا و بنیامین و شمعیا و یرمیا",
+  "tokens": [
+    {
+      "surface": "יְהוּדָה֙",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "וּבִנְיָמִ֔ן",
+      "gloss": "و بنیامین"
+    },
+    {
+      "surface": "וּֽשְׁמַֽעְיָ֖ה",
+      "gloss": "و شمعیا"
+    },
+    {
+      "surface": "וְיִרְמְיָֽה",
+      "gloss": "و یرمیا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:19.294155345Z",
+  "model": "glm-5.2"
+}

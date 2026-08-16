@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 46:3",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 46,
+  "translation": "صفّ کنید سپرِ کوچک و سپرِ بزرگ را، و نزدیک شوید به جنگ.",
+  "tokens": [
+    {
+      "surface": "ערכו",
+      "gloss": "صفّ کنید"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "سپرِ کوچک"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "و سپرِ بزرگ"
+    },
+    {
+      "surface": "וגשו",
+      "gloss": "و نزدیک شوید"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "به جنگ"
+    }
+  ],
+  "timestamp": "2026-08-14T00:06:59.664785378Z",
+  "model": "glm-5.2"
+}

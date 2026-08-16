@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 43,
+  "ref": "jeremiah 48:43",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 48,
+  "translation": "ترس و گودال و دام بر توست، ای ساکنِ مُوآب، نُعامِ یاهوه.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "ترس"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "و گودال"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "و دام"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "بر توست"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ای ساکنِ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نعُام (گفتارِ)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-15T04:14:17.518578307Z",
+  "model": "glm-5.3"
+}

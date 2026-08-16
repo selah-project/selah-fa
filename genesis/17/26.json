@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 17:26",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "در استخوانِ روزِ این ختنه شد اَوراهام، و ییشماعیل پسرش،",
+  "tokens": [
+    {
+      "surface": "בעצם",
+      "gloss": "در استخوانِ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روزِ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "נמול",
+      "gloss": "ختنه شد"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراهام"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "و ییشماعیل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T19:58:29.363137661Z",
+  "model": "glm-5.2"
+}

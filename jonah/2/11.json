@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و یاهوه به ماهی فرمود، و ⟨את⟩ یوناه را بر زمینِ خشک بالا آورد.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فرمود"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "به ماهی"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "و بالا آورد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوناه"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "یوناه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "زمینِ خشک"
+    }
+  ],
+  "timestamp": "2026-08-14T00:09:29.327651508Z",
+  "model": "glm-5.2"
+}

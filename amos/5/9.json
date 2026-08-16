@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 5:9",
+  "book": "amos",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "⟨که⟩ ویرانی را بر توانا می‌درخشاند، و ویرانی بر دژ می‌آید.",
+  "tokens": [
+    {
+      "surface": "המבליג",
+      "gloss": "می‌درخشاند"
+    },
+    {
+      "surface": "שד",
+      "gloss": "ویرانی"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "עז",
+      "gloss": "توانا"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "و ویرانی"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "دژ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "می‌آید"
+    }
+  ],
+  "timestamp": "2026-08-13T22:29:31.895553246Z",
+  "model": "glm-5.2"
+}

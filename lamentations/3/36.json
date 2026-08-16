@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "lamentations 3:36",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "برای تحریفِ آدم را در دعوایِ او — اَدونای ندید؟",
+  "tokens": [
+    {
+      "surface": "לְעַוֵּ֥ת",
+      "gloss": "برای تحریفِ"
+    },
+    {
+      "surface": "אָדָ֝֗ם",
+      "gloss": "آدمِ"
+    },
+    {
+      "surface": "בְּרִיבֽוֹ",
+      "gloss": "در دعوایِ او"
+    },
+    {
+      "surface": "אֲדֹנָ֗י",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "نه"
+    },
+    {
+      "surface": "רָאָֽה",
+      "gloss": "دید"
+    }
+  ],
+  "timestamp": "2026-08-13T23:18:02.340180403Z",
+  "model": "glm-5.2"
+}

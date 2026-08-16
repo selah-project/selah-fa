@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "deuteronomy 3:16",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و به رئوبنی‌ها و به گادی‌ها از گیلعاد تا نَحَلِ آرنون، میانِ نَحَل و مرز، و تا یبّوق — نَحَلی که مرزِ بنی‌عَمّون است — دادم.",
+  "tokens": [
+    {
+      "surface": "ולראובני",
+      "gloss": "و به رئوبنی‌ها"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "و به گادی‌ها"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "دادم"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "گیلعاد"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "نَحَل"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "آرنون"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "میانِ"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "نَحَل"
+    },
+    {
+      "surface": "וגבל",
+      "gloss": "و مرز"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "یبّوق"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "نَحَل"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "مرزِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی‌"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عَمّون"
+    }
+  ],
+  "timestamp": "2026-08-15T03:54:20.235759372Z",
+  "model": "glm-5.3"
+}

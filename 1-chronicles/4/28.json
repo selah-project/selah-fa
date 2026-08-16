@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 4:28",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و در بئر شِبع و مولاده و حَصَر شوعَل ساکن شدند.",
+  "tokens": [
+    {
+      "surface": "וַיֵּֽשְׁב֛וּ",
+      "gloss": "و ساکن شدند"
+    },
+    {
+      "surface": "בִּבְאֵֽר",
+      "gloss": "در بئر"
+    },
+    {
+      "surface": "שֶׁ֥בַע",
+      "gloss": "شِبع"
+    },
+    {
+      "surface": "וּמוֹלָדָ֖ה",
+      "gloss": "و مولاده"
+    },
+    {
+      "surface": "וַחֲצַ֥ר",
+      "gloss": "و حَصَر"
+    },
+    {
+      "surface": "שׁוּעָֽל",
+      "gloss": "شوعَل"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:24.894778176Z",
+  "model": "glm-5.2"
+}

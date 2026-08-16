@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و ⟨את⟩ کاهنان و ⟨את⟩ لاویان را آورد، و آن‌ها را در میدانِ شرقی گرد آورد.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "و‌آورد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کاهنان"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهنان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "لاویان"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاویان"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "و‌آن‌ها را گرد آورد"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "در میدانِ"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "شرقی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:50:14.716565514Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و ⟨את⟩ دَدان و ⟨את⟩ تِیما و ⟨את⟩ بوز و ⟨את⟩ همهٔ بریدگانِ گوشه،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "دَدان"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "دَدان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "تِیما"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "تِیما"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "بوز"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "بوز"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "همهٔ بریدگانِ گوشه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "بریدگانِ"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "گوشه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:02:23.753506375Z",
+  "model": "glm-5.2"
+}

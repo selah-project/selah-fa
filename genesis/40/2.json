@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 40:2",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 40,
+  "translation": "و پَرعو خشم گرفت بر دو خواجهٔ خود — بر سرور ساقیان و بر سرور نان‌پزان.",
+  "tokens": [
+    {
+      "surface": "ויקצף",
+      "gloss": "و خشم گرفت"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پَرعو"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "خواجهٔ خود"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سرور"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "ساقیان"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سرور"
+    },
+    {
+      "surface": "האופים",
+      "gloss": "نان‌پزان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:06:25.366066957Z",
+  "model": "glm-5.2"
+}

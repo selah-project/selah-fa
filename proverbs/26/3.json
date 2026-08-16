@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "شلاق برای اسب، مهار برای خر، و عصا برای پشتِ نادان‌ها.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "شلاق"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "برای اسب"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "مهار"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "برای خر"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "و عصا"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "برای پشتِ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "نادان‌ها"
+    }
+  ],
+  "timestamp": "2026-08-14T00:14:25.361033802Z",
+  "model": "glm-5.2"
+}

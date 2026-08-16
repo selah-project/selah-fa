@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 15:27",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و حَصَر گَدّاه، و حِشمون، و بیت پالِط",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "و حَصَر"
+    },
+    {
+      "surface": "גדה",
+      "gloss": "گَدّاه"
+    },
+    {
+      "surface": "וחשמון",
+      "gloss": "و حِشمون"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "و بیت"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "پالِط"
+    }
+  ],
+  "timestamp": "2026-08-13T20:58:05.472373191Z",
+  "model": "glm-5.2"
+}

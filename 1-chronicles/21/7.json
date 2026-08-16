@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و در چشمانِ الوهیم از این امر بد بود، و او ⟨את⟩ یِسرائیل را زد.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "و بد بود"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "در چشمانِ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "על",
+      "gloss": "از"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "امر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "و او زد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرائیل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:34.426116554Z",
+  "model": "glm-5.2"
+}

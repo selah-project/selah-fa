@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و یِهوشُع ⟨את⟩ سرانِ قوم را فرمان داد، به‌گفتنِ:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "و فرمان داد"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یِهوشُع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سرانِ قوم"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "سران"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به‌گفتنِ"
+    }
+  ],
+  "timestamp": "2026-08-15T03:57:06.545053576Z",
+  "model": "glm-5.3"
+}

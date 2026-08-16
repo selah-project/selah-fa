@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 6:13",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و پسرانِ شموئیل: اول‌زاده، وَشنی، و اَویَیا.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئیل"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "اول‌زاده"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "وَشنی"
+    },
+    {
+      "surface": "ואביה",
+      "gloss": "و اَویَیا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:54.021023134Z",
+  "model": "glm-5.2"
+}

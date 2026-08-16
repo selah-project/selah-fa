@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "isaiah 62:7",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 62,
+  "translation": "و سکوتی به او ندهید، تا برپا سازد و تا بگذارد ⟨את⟩ یروشالَییم را ستایشی در زمین.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "و مَ"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ندهید"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "سکوتی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "יכונן",
+      "gloss": "برپا سازد"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "بگذارد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یروشالَییم"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشالَییم"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ستایشی"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "در زمین"
+    }
+  ],
+  "timestamp": "2026-08-15T04:10:49.210311456Z",
+  "model": "glm-5.3"
+}

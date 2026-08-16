@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "که به سرزمینِ من و به زادگاهم بروی، و زنی برای پسرم، برای ییتسحاک، بگیری.»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "سرزمینِ من"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و به"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "زادگاهم"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "بروی"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "و بگیری"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زنی"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "برای پسرم"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "برای ییتسحاک"
+    }
+  ],
+  "timestamp": "2026-08-13T20:00:39.037189614Z",
+  "model": "glm-5.2"
+}

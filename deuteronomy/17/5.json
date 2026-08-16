@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 17:5",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "و بیرون آوری ⟨את⟩ آن مردِ آن یا ⟨את⟩ آن زنِ آن که آن کارِ بدِ این را کردند، به دروازه‌هایت، ⟨את⟩ آن مرد یا ⟨את⟩ آن زن را، و آن‌ها را با سنگ‌ها سنگسار کن و بمیرند.",
+  "tokens": [
+    {
+      "surface": "והוצאת",
+      "gloss": "و بیرون آوری"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آن مرد"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "آن مرد"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آن زن"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "آن زن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کردند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آن کار"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "آن کار"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "دروازه‌هایت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آن مرد"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "آن مرد"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آن زن"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "آن زن"
+    },
+    {
+      "surface": "וסקלתם",
+      "gloss": "و سنگسارشان کن"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "با سنگ‌ها"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "و بمیرند"
+    }
+  ],
+  "timestamp": "2026-08-13T20:49:28.126506110Z",
+  "model": "glm-5.2"
+}

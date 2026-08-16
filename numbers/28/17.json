@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 28:17",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "و در پانزدهمین روز از این ماه، عید ⟨است⟩؛ هفت روز، نان‌های فطیر خورده ⟨خواهند شد⟩.",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "و در پانزده"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "پانزده"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "از ماه"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "חג",
+      "gloss": "عید"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روز"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "نان‌های فطیر"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "خورده خواهد شد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:40:34.611688883Z",
+  "model": "glm-5.2"
+}

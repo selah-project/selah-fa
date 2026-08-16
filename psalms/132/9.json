@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 132,
+  "translation": "کاهنانِ تو راستی بپوشند و خاصانِ تو سرود سرایند.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "کاهنانِ تو"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "بپوشند"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "و خاصانِ تو"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "سرود سرایند"
+    }
+  ],
+  "timestamp": "2026-08-13T22:56:42.173686420Z",
+  "model": "glm-5.2"
+}

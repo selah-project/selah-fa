@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "1-kings 4:11",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "پسرِ اَویناداو — تمامیِ نافاتِ دور؛ طافات، دخترِ شلومو، به همسریِ او بود.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "اَویناداو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامیِ"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "نافاتِ"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "دور"
+    },
+    {
+      "surface": "טפת",
+      "gloss": "طافات"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دخترِ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "به همسری"
+    }
+  ],
+  "timestamp": "2026-08-15T04:02:40.943684441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 6:23",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و به میکال، دخترِ شائول، تا روزِ مرگِ او، فرزندی نبود.",
+  "tokens": [
+    {
+      "surface": "וּלְמִיכַל֙",
+      "gloss": "و به میکال"
+    },
+    {
+      "surface": "בַּת",
+      "gloss": "دخترِ"
+    },
+    {
+      "surface": "שָׁא֔וּל",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "הָ֥יָה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "לָ֖הּ",
+      "gloss": "به او"
+    },
+    {
+      "surface": "יָ֑לֶד",
+      "gloss": "فرزندی"
+    },
+    {
+      "surface": "עַ֖ד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "י֥וֹם",
+      "gloss": "روزِ"
+    },
+    {
+      "surface": "מוֹתָֽהּ",
+      "gloss": "مرگِ او"
+    }
+  ],
+  "timestamp": "2026-08-14T00:00:57.742227782Z",
+  "model": "glm-5.2"
+}

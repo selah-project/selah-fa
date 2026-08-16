@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "صیغه‌یِ کالِو مَعَخه، شِبِر و ⟨את⟩ تِرحَنَه را زایید.",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "صیغه‌یِ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالِو"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "مَعَخه"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "زایید"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "شِبِر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "تِرحَنَه"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "تِرحَنَه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:18.006009249Z",
+  "model": "glm-5.2"
+}

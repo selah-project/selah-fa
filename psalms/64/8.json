@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 64,
+  "translation": "و الوهیم تیری ناگهان بر ⟨آنها⟩ بی‌گزاند؛ و زخم‌هایشان شدند.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "و بی‌گزاند"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "تیری"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "ناگهان"
+    },
+    {
+      "surface": "היו",
+      "gloss": "شدند"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "زخم‌هایشان"
+    }
+  ],
+  "timestamp": "2026-08-13T22:45:54.406954208Z",
+  "model": "glm-5.2"
+}

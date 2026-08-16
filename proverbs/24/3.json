@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "با حکمت خانه‌ای ساخته می‌شود، و با تببین ثابت می‌گردد.",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "با حکمت"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ساخته می‌شود"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانه‌ای"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "و با تببین"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "ثابت می‌گردد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:49.803389155Z",
+  "model": "glm-5.2"
+}

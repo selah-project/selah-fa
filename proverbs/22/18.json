@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 22:18",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "که دلپذیرند، ⟨اگر⟩ ⟨تو⟩ آن‌ها را در درونت نگاه داری، آماده گردند با هم بر لبت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "دلپذیرند"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨اگر⟩"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "نگه داری"
+    },
+    {
+      "surface": "בבטנך",
+      "gloss": "در درونت"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "آماده گردند"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "با هم"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "لبت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:56.391692662Z",
+  "model": "glm-5.2"
+}

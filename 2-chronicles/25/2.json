@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "2-chronicles 25:2",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "وآنچه راست بود در دیدگانِ یاهوه انجام داد، تنها نه با دلِ تمام.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "انجام داد"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "آنچه راست بود"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "در دیدگانِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "רק",
+      "gloss": "تنها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "با دلِ"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "تمام"
+    }
+  ],
+  "timestamp": "2026-08-15T04:34:55.789700660Z",
+  "model": "glm-5.3"
+}

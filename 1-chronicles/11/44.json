@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 11:44",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "عُزیّا هَعَشتَراتی، شَمَع و یِعوئیل، پسرانِ حوتام هَعَرعری،",
+  "tokens": [
+    {
+      "surface": "עזיא",
+      "gloss": "عُزیّا"
+    },
+    {
+      "surface": "העשתרתי",
+      "gloss": "هَعَشتَراتی"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "شَمَع"
+    },
+    {
+      "surface": "ויעואל",
+      "gloss": "و یِعوئیل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "حوتام"
+    },
+    {
+      "surface": "הערערי",
+      "gloss": "هَعَرعری"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:43.413392928Z",
+  "model": "glm-5.2"
+}

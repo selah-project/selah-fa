@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و یهوشوع پسرِ نون، بندهٔ یاهوه، در سنِ پسرِ صد و ده سالگی درگذشت.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "و درگذشت"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یهوشوع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نون"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "بندهٔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "صد"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "و ده"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-08-13T21:00:15.641765575Z",
+  "model": "glm-5.2"
+}

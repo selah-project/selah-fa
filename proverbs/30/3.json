@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "و حکمت نیاموخته‌ام، و شناختِ قدوسیان ⟨را⟩ خواهم دانست.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "نیاموخته‌ام"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "و شناختِ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "قدوسیان"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "خواهم دانست"
+    }
+  ],
+  "timestamp": "2026-08-13T23:06:08.006913587Z",
+  "model": "glm-5.2"
+}

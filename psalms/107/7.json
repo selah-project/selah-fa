@@ -1,0 +1,44 @@
+{
+  "ref": "psalms 107:7",
+  "lang": "fa",
+  "book": "psalms",
+  "chapter": 107,
+  "verse": 7,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:47:12Z",
+  "translation": "و آنان را در راهِ راست روانه ساخت، تا به سویِ شهرِ سکونت بروند.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "و آنان را روانه ساخت"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "در راهِ",
+      "marks": "راه"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "راست",
+      "marks": "راست"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "تا بروند"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سویِ",
+      "marks": "شهرِ سکونت"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شهرِ"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "سکونت"
+    }
+  ]
+}

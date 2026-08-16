@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "numbers 7:78",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "در روزِ دوازدهم، نَسی برای بنی نفتالی، اَحیرَع بن عِینان.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "در روز"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ده"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "نَسی"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "برای بنی"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالی"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "اَحیرَع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "عِینان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:33:25.646399568Z",
+  "model": "glm-5.2"
+}

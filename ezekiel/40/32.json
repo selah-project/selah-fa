@@ -1,0 +1,58 @@
+{
+  "tier": "hand",
+  "verse": 32,
+  "ref": "ezekiel 40:32",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 40,
+  "translation": "و مرا به صحنِ درونی از راهِ مشرق آورد، و ⟨את⟩ دروازه را بر حسبِ این اندازه‌ها پیمود.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "و مرا آورد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "صحنِ"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "درونی"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "از راهِ"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "مشرق"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "و پیمود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دروازه"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دروازه"
+    },
+    {
+      "surface": "כמדות",
+      "gloss": "بر حسبِ اندازه‌ها"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "این"
+    }
+  ],
+  "timestamp": "2026-08-14T17:47:39Z",
+  "model": "claude-fable-5/hand"
+}

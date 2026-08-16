@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 38,
+  "translation": "همهٔ پرده‌های حیاط، به اطراف، کتانِ نازکِ تابیده",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "پرده‌های"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "حیاط"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "به اطراف"
+    },
+    {
+      "surface": "שש",
+      "gloss": "کتانِ نازک"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "تابیده"
+    }
+  ],
+  "timestamp": "2026-08-13T20:20:50.688195435Z",
+  "model": "glm-5.2"
+}

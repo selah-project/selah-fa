@@ -1,0 +1,110 @@
+{
+  "ref": "ezekiel 2:3",
+  "lang": "fa",
+  "book": "ezekiel",
+  "chapter": 2,
+  "verse": 3,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:55:53Z",
+  "translation": "و به من گفت: «پسرِ آدم، من ⟨את⟩ تو را به پسرانِ یِسرائیل می‌فرستم — به امّت‌های سرکش که بر من سرکشی کرده‌اند؛ ایشان و پدرانشان تا خودِ این روز بر من عصیان ورزیده‌اند.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "שולח",
+      "gloss": "می‌فرستم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ تو را",
+      "marks": "تو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "امّت‌ها"
+    },
+    {
+      "surface": "המורדים",
+      "gloss": "سرکش"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "سرکشی کرده‌اند"
+    },
+    {
+      "surface": "בי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ایشان"
+    },
+    {
+      "surface": "ואבותם",
+      "gloss": "و پدرانشان"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "عصیان ورزیده‌اند"
+    },
+    {
+      "surface": "בי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "خودِ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    }
+  ]
+}

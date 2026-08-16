@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 25:12",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "گیره‌ای زرین و گردن‌بندی از زرِ خالص، موعظه‌گرِ حکیم بر گوشی شنونده است.",
+  "tokens": [
+    {
+      "surface": "נזם",
+      "gloss": "گیره"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زرین"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "و گردنبندی"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "از زرِ خالص"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "موعظه‌گرِ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حکیم"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "گوشی"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "شنونده"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:23.921130841Z",
+  "model": "glm-5.2"
+}

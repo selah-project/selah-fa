@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "بَعَنا، پسرِ حوشای، در اَشِر و در بَعالوت.",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "بَعَنا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "حوشای"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "در اَشِر"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "و در بَعالوت"
+    }
+  ],
+  "timestamp": "2026-08-15T04:03:26.267787615Z",
+  "model": "glm-5.3"
+}

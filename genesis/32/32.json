@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "و خورشید برای او طلوع کرد چون از ⟨את⟩ پنو‌اِل عبور می‌کرد، و او بر رانِ خویش می‌لنگید.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "و طلوع کرد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برای او"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "خورشید"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چون"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عبور می‌کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنو‌اِل"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "پنو‌اِل"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "و او"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "می‌لنگید"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "رانِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:03:53.133996412Z",
+  "model": "glm-5.2"
+}

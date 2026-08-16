@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 22:13",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "چون مردی زنی بگیرد و نزد او درآید و ⟨او را⟩ دشمن بدارد،",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "יִקַּ֥ח",
+      "gloss": "بگیرد"
+    },
+    {
+      "surface": "אִ֖ישׁ",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "אִשָּׁ֑ה",
+      "gloss": "زنی"
+    },
+    {
+      "surface": "וּבָ֥א",
+      "gloss": "و درآید"
+    },
+    {
+      "surface": "אֵלֶ֖יהָ",
+      "gloss": "نزد او"
+    },
+    {
+      "surface": "וּשְׂנֵאָֽהּ",
+      "gloss": "و دشمن بدارد ⟨او را⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T20:49:52.268322348Z",
+  "model": "glm-5.2"
+}

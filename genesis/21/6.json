@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 21:6",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و گفت ساره: خنده برایم ساخت الوهیم؛ هر کس که می‌شنود، برایِ من خواهد خندید.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ساره"
+    },
+    {
+      "surface": "צחק",
+      "gloss": "خنده"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ساخت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برایم"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر کسِ"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "که می‌شنود"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "خواهد خندید"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برایِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T19:59:50.320693197Z",
+  "model": "glm-5.2"
+}

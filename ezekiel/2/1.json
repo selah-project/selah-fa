@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و ⟨او⟩ به من گفت: پسرِ انسان، بر پاهایت بایست و من با تو سخن خواهم گفت ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "بایست"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "پاهایت"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "و من خواهم گفت"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "تو"
+    }
+  ],
+  "timestamp": "2026-08-14T00:06:57.130309427Z",
+  "model": "glm-5.2"
+}

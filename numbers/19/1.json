@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 19:1",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و یاهوه به موشه و به اَهارون سخن گفت، به گفتن:",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֣ר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "به"
+    },
+    {
+      "surface": "מֹשֶׁ֥ה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "וְאֶֽל",
+      "gloss": "و به"
+    },
+    {
+      "surface": "אַהֲרֹ֖ן",
+      "gloss": "اَهارون"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "به گفتن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:38:04.320351286Z",
+  "model": "glm-5.2"
+}

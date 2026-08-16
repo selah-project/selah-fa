@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 21:13",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و ⟨او⟩ زنی را در باکره‌گیِ او بگیرد",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "و ⟨او⟩"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زنی"
+    },
+    {
+      "surface": "בבתוליה",
+      "gloss": "در باکره‌گیِ او"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "بگیرد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:27:35.355617822Z",
+  "model": "glm-5.2"
+}

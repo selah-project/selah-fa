@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 6:18",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "دلی که نقش‌های تباه می‌تراشد، پاهایی که برای دویدن به‌سوی بدی می‌شتابند،",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "تراشنده"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "اندیشه‌ها"
+    },
+    {
+      "surface": "און",
+      "gloss": "تباهی"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "پاها"
+    },
+    {
+      "surface": "ממהרות",
+      "gloss": "شتابان"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "برای دویدن"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "به‌سوی بدی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:00:18.454143101Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 10:14",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و وزنِ طلا آنکه به شلومه آمد در یک سال، ششصد شصت و شش تالان طلا بود.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "وزنِ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "طلا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنکه"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آمد"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "به شلومه"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "در سالِ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "شصت"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "و شش"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "تالان"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "طلا"
+    }
+  ],
+  "timestamp": "2026-08-13T21:27:17.707155751Z",
+  "model": "glm-5.2"
+}

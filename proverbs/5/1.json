@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 5:1",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "پسرِ من، به حکمتِ من گوشِ هوشیار بسپار، به بینشِ من گوشت بگردان.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرِ من"
+    },
+    {
+      "surface": "לחכמתי",
+      "gloss": "به حکمتِ من"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "گوشِ هوشیار بسپار"
+    },
+    {
+      "surface": "לתבונתי",
+      "gloss": "به بینشِ من"
+    },
+    {
+      "surface": "הט",
+      "gloss": "بگردان"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "گوشت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:00:05.257169194Z",
+  "model": "glm-5.2"
+}

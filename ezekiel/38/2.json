@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 38:2",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 38,
+  "translation": "ای پسرِ آدم، روِ خود را بسوی گوگ، زمینِ ماگوگ، رهبرِ سرِ مَشِک و توبال بگذار، و بر او نبوت گوی.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "שים",
+      "gloss": "بگذار"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "روِ خود را"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بسوی"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "گوگ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینِ"
+    },
+    {
+      "surface": "המגוג",
+      "gloss": "ماگوگ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "رهبرِ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سرِ"
+    },
+    {
+      "surface": "משך",
+      "gloss": "مَشِک"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "و توبال"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "و نبوت گوی"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر او"
+    }
+  ],
+  "timestamp": "2026-08-13T22:22:05.315515151Z",
+  "model": "glm-5.2"
+}

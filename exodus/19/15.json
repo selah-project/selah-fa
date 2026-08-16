@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و گفت به مردم: «آماده باشید برای سه روز، نزدیک نشوید زنی را.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "העם",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "היו",
+      "gloss": "باشید"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "آماده"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "برای سه"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روز"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "نزدیک شوید"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:15:00.961181447Z",
+  "model": "glm-5.2"
+}

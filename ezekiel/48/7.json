@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 48:7",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 48,
+  "translation": "و بر مرزِ رئووبِن، از سمتِ خاور تا سمتِ دریا، یِهودا، یک.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "مرزِ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئووبِن"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "از سمتِ"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "خاور"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "سمتِ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یِهودا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-08-13T22:24:57.820313969Z",
+  "model": "glm-5.2"
+}

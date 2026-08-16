@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 51:14",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 51,
+  "translation": "به‌شتابِان رمیده، رها گردد، و نمیرد به گودال، و کم نیافت نانِ او.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "به‌شتابِان"
+    },
+    {
+      "surface": "צעה",
+      "gloss": "رمیده"
+    },
+    {
+      "surface": "להפתח",
+      "gloss": "رها گردد"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "بمیرد"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "به گودال"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "کم نیافت"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "نانِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T21:52:32.456799821Z",
+  "model": "glm-5.2"
+}

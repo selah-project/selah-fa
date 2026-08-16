@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 18:22",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "همهٔ عصیان‌هایش که کرده، به یادش نخواهند آورد؛ در عدالتی که کرده، زندگی خواهد یافت.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "פשעיו",
+      "gloss": "عصیان‌هایش"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرده"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "یاد خواهند آورد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "בצדקתו",
+      "gloss": "در عدالتش"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرده"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "خواهد یافت"
+    }
+  ],
+  "timestamp": "2026-08-13T22:16:34.562266696Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "چنان‌که یاهوه به موشه فرمان داد، ⟨את⟩ موشه، چنین کردند دختران تسلُفحاد.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "چنان‌که"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فرمان داد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کردند"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "دختران"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "تلصفحاد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:42:51.778107932Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 36:36",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "و هَدَد مرد و سَمْله از مَشْرِقه به‌جایِ او پادشاه شد.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "هَدَد"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "و پادشاه شد"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "به‌جایِ او"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "سَمْله"
+    },
+    {
+      "surface": "ממשרקה",
+      "gloss": "از مَشْرِقه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:05:07.853787842Z",
+  "model": "glm-5.2"
+}

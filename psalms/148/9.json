@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 148,
+  "translation": "کوه‌ها و تمام تلّه‌ها، درختِ میوه و تمام سدرها،",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "کوه‌ها"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و تمام"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "تلّه‌ها"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "درخت"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "میوه"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و تمام"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "سدرها"
+    }
+  ],
+  "timestamp": "2026-08-13T22:58:26.622935780Z",
+  "model": "glm-5.2"
+}

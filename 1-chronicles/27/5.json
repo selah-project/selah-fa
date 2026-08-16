@@ -1,0 +1,73 @@
+{
+  "tier": "4.6",
+  "verse": 5,
+  "ref": "1-chronicles 27:5",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "سرِ لشکرِ سوم برای ماهِ سوم بَنایاهو پسر یَهویَداع کاهنِ رئیس و ⟨برای⟩ بخشِ او بیست و چهار هزار.",
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "سر"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "لشکرِ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "سوم"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "برای ماهِ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "سوم"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "بَنایاهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "یَهویَداع"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهنِ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "رئیس"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و ⟨برای⟩"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "بخشِ او"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "و چهار"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    }
+  ],
+  "timestamp": "2026-08-15T04:35:14.214730357Z",
+  "model": "glm-4.6"
+}

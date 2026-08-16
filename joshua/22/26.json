@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "joshua 22:26",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "و گفتیم: بگذارید ⟨برای⟩ خود بسازیم ⟨את⟩ مذبح را — نه برای عولاه و نه برای ذَباح.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "و گفتیم"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "بسازیم"
+    },
+    {
+      "surface": "נא",
+      "gloss": "بگذارید"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "برای خود"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "بسازیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مذبح"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "לעולה",
+      "gloss": "برای عولاه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "برای ذَباح"
+    }
+  ],
+  "timestamp": "2026-08-15T17:36:39.251741748Z",
+  "model": "glm-5.3"
+}

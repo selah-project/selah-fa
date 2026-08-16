@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و دیگر نتوانست ⟨את⟩ اَونِر سخنی پاسخ دهد، از ترسِ خودش ⟨את⟩ از او.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نتوانست"
+    },
+    {
+      "surface": "יכל",
+      "gloss": ""
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیگر"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "پاسخ دهد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَونِر"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "اَونِر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخنی"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "از ترسِ خودش"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ از او"
+    }
+  ],
+  "timestamp": "2026-08-13T21:16:54.096571537Z",
+  "model": "glm-5.2"
+}

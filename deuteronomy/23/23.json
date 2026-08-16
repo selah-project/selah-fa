@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "و چون از نذر کردن بازداری، گناهی در تو نخواهد بود.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "و چون"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "بازداری"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "از نذر کردن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "خواهد بود"
+    },
+    {
+      "surface": "בך",
+      "gloss": "در تو"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گناهی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:50:12.110623537Z",
+  "model": "glm-5.2"
+}

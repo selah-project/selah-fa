@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 14:29",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "آرام‌خوییِ فراوانِ فهم است، و کوتاه‌رویِ ⟨او⟩ بی‌خردی را برمی‌افزاید.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "آرام‌خو"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "خشم"
+    },
+    {
+      "surface": "רב",
+      "gloss": "فراوان"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "فهم"
+    },
+    {
+      "surface": "וקצר",
+      "gloss": "و کوتاه"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "برمی‌افزاید"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "بی‌خردی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:17.448022611Z",
+  "model": "glm-5.2"
+}

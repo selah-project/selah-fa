@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "و ⟨את⟩ عطاروت-شوفان، و ⟨את⟩ یعزیر، و یگبهاه را.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "عطاروت-شوفان"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "عطاروت"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "شوفان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "یعزیر"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "یعزیر"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "و یگبهاه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:41:12.412798046Z",
+  "model": "glm-5.2"
+}

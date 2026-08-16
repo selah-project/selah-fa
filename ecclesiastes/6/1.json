@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "بدی هست که زیرِ خورشید دیدم، و ⟨آن⟩ بزرگ است بر انسان.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "هست"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "دیدم"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "زیرِ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "خورشید"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "و بزرگ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "او"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:30.573405245Z",
+  "model": "glm-5.2"
+}

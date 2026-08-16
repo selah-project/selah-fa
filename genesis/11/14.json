@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و شَلَح سی سال زیست، و ⟨את⟩ عِوِر را زایید.",
+  "tokens": [
+    {
+      "surface": "וְשֶׁ֥לַח",
+      "gloss": "و شَلَح"
+    },
+    {
+      "surface": "חַ֖י",
+      "gloss": "زیست"
+    },
+    {
+      "surface": "שְׁלֹשִׁ֣ים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "שָׁנָ֑ה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וַיּ֖וֹלֶד",
+      "gloss": "و زایید"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "عِوِر"
+    },
+    {
+      "surface": "עֵֽבֶר",
+      "gloss": "عِوِر"
+    }
+  ],
+  "timestamp": "2026-08-13T19:57:35.578235536Z",
+  "model": "glm-5.2"
+}

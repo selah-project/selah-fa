@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "برهنگیِ عروسِ خود را برملا نکنی؛ او زنِ پسرِ تو ⟨است⟩؛ برهنگیِ او را برملا نکنی.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "برهنگیِ"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "عروسِ خود"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "کنی برملا"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زنِ"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "پسرِ تو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او ⟨است⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "کنی برملا"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "برهنگیِ او را"
+    }
+  ],
+  "timestamp": "2026-08-13T20:26:28.406565574Z",
+  "model": "glm-5.2"
+}

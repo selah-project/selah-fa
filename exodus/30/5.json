@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "و ⟨את⟩ میله‌ها را بسازی از چوبِ شطیم، و ⟨את⟩ آنها را با طلا بپوشانی.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "و بسازی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میله‌ها"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "میله‌ها"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "چوبِ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شطیم"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "و بپوشانی"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ آنها",
+      "marks": "آنها (میله‌ها)"
+    },
+    {
+      "surface": "זהاب",
+      "gloss": "طلا"
+    }
+  ],
+  "timestamp": "2026-08-15T03:48:36.915994111Z",
+  "model": "glm-5.3"
+}

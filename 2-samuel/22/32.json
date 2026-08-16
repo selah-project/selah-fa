@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 22:32",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "که چه کسی اِل است جز یاهوه؟ و چه کسی صخری است جز الوهیمِ ما؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "מי",
+      "gloss": "چه کسی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "جز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "و چه کسی"
+    },
+    {
+      "surface": "צור",
+      "gloss": "صخر"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "جز"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "الوهیمِ ما"
+    }
+  ],
+  "timestamp": "2026-08-13T21:23:03.022198776Z",
+  "model": "glm-5.2"
+}

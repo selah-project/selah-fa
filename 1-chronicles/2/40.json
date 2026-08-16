@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و اِلعاسا ⟨את⟩ سِسمای را زاد، و سِسمای ⟨את⟩ شَلّوم را زاد.",
+  "tokens": [
+    {
+      "surface": "וְאֶלְעָשָׂה֙",
+      "gloss": "و اِلعاسا"
+    },
+    {
+      "surface": "הֹלִ֣יד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "سِسمای"
+    },
+    {
+      "surface": "סִֽסְמָ֔י",
+      "gloss": "سِسمای"
+    },
+    {
+      "surface": "וְסִסְמַ֖י",
+      "gloss": "و سِسمای"
+    },
+    {
+      "surface": "הֹלִ֥יד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "شَلّوم"
+    },
+    {
+      "surface": "שַׁלּֽוּם",
+      "gloss": "شَلّوم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:05.589945899Z",
+  "model": "glm-5.2"
+}

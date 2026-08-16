@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 6:6",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "همهٔ روزهای نذری‌اش برای یاهوه، نزد جانِ مرده نیاید.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روزهای"
+    },
+    {
+      "surface": "הזירו",
+      "gloss": "نذریِ او"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "برای یاهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "نزدِ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جانِ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مرده"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "بیاید"
+    }
+  ],
+  "timestamp": "2026-08-13T20:32:18.895183220Z",
+  "model": "glm-5.2"
+}

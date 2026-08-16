@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 18:18",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و داوود به شائول گفت: کیستم من، و زندگیِ من چیست، ⟨یا⟩ خاندانِ پدرم در یسرائیل، که همسرِ پادشاه شوم؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "و چه"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "زندگیِ من"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندانِ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پدرم"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "در یسرائیل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "باشم"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "همسرِ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "پادشاه"
+    }
+  ],
+  "timestamp": "2026-08-13T21:13:22.969591703Z",
+  "model": "glm-5.2"
+}

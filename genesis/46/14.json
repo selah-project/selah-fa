@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 46:14",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 46,
+  "translation": "و پسرانِ زِوولون: سِرِد و اِیلون و یَحْلَااِل.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زِوولون"
+    },
+    {
+      "surface": "סרד",
+      "gloss": "سِرِد"
+    },
+    {
+      "surface": "ואלון",
+      "gloss": "و اِیلون"
+    },
+    {
+      "surface": "ויחלאל",
+      "gloss": "و یَحْلَااِل"
+    }
+  ],
+  "timestamp": "2026-08-13T20:08:06.754247134Z",
+  "model": "glm-5.2"
+}

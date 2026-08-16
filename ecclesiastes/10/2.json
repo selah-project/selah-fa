@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "قلبِ حکیم به راستِ او ⟨است⟩، و دلِ نادان به چپِ او ⟨است⟩.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "قلبِ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حکیم"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "به راستِ او"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "و دلِ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "به چپِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:12.948017728Z",
+  "model": "glm-5.2"
+}

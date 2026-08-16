@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 6:14",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و گردشیدند ⟨את⟩ شهر را در روزِ دوم یک بار، و بازگشتند اردوگاه را؛ چنین کردند شش روز را.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "و گردشیدند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شهر را"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوم"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "بار"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "و بازگشتند"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "اردوگاه"
+    },
+    {
+      "surface": "כה",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کردند"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "ششِ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روز"
+    }
+  ],
+  "timestamp": "2026-08-13T20:54:54.677263664Z",
+  "model": "glm-5.2"
+}

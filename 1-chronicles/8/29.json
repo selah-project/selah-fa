@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 8:29",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و در گیبعون نشیند پدرِ گیبعون، و نامِ زنِ او مَعَخه.",
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "و در گیبعون"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "نشیند"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پدرِ"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "گیبعون"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "و نامِ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "زنِ او"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "مَعَخه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:36.791558091Z",
+  "model": "glm-5.2"
+}

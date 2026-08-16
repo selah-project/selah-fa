@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "به مزرعه بیرون مرو و در راه راه مرو، زیرا شمشیری برای دشمن، هراسِ گرداگرد است.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "بیرون مرو"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "به مزرعه"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "و در راه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "راه مرو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "شمشیر"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "برای دشمن"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "هراس"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "گرداگرد"
+    }
+  ],
+  "timestamp": "2026-08-15T04:10:46.976428450Z",
+  "model": "glm-5.3"
+}

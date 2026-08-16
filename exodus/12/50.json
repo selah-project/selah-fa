@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و کرد تمامیِ پسرانِ یِسرائیل چنانکه فرمود یاهوه ⟨את⟩ موشه و ⟨את⟩ اهارون، چنین کردند.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "و کردند"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامیِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چنانکه"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فرمود"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "اهارون"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کردند"
+    }
+  ],
+  "timestamp": "2026-08-13T20:12:50.863820090Z",
+  "model": "glm-5.2"
+}

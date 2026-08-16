@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و روزهایِ تِراخ پنج سالِ و دویست سال بودند، و تِراخ در هاران مُرد.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "و بودند"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روزهایِ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تِراخ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سالِ"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "و دویست"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و مُرد"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تِراخ"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "در هاران"
+    }
+  ],
+  "timestamp": "2026-08-13T19:58:08.914744134Z",
+  "model": "glm-5.2"
+}

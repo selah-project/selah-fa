@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "و ⟨את⟩ چربیِ گناه را بر مذبح دود خواهد کرد.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "چربی"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "چربی"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "گناه"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "دود خواهد کرد"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "بر مذبح"
+    }
+  ],
+  "timestamp": "2026-08-13T20:27:05.892317587Z",
+  "model": "glm-5.2"
+}

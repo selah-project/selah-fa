@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 20:13",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "خواب را دوست مدار، مباد ورشکسته شوی؛ چشمانت را بگشای، از نان سیر شو.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאהב",
+      "gloss": "دوست مدار"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "خواب"
+    },
+    {
+      "surface": "פן",
+      "gloss": "مباد"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "ورشکسته شوی"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "بگشای"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "چشمانت"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سیر شو"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "از نان"
+    }
+  ],
+  "timestamp": "2026-08-14T00:14:15.838186118Z",
+  "model": "glm-5.2"
+}

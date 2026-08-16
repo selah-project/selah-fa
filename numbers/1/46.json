@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 1:46",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و شدند کلِ شمرده‌شدگان ششصد هزار و سه‌هزار و پانصد و پنجاه.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "و شدند"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کلِ"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "شمرده‌شدگان"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "و سه"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "و پانصد"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "و پنجاه."
+    }
+  ],
+  "timestamp": "2026-08-13T20:30:28.475922612Z",
+  "model": "glm-5.2"
+}

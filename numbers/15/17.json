@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 15:17",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و یاهوه به موشه سخن گفت، به بیان:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به بیان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:36:14.719189745Z",
+  "model": "glm-5.2"
+}

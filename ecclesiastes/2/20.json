@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و من روی برگرداندم تا دل خود را ⟨את⟩ به ناامیدی وا دارم، بر تمام زحمتی که زیر خورشید زحمت کشیدم.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "و روی برگرداندم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "تا به ناامیدی وا دارم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دل خود را"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دلِ خود"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "زحمتی که"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "زحمت کشیدم"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "زیر"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "خورشید"
+    }
+  ],
+  "timestamp": "2026-08-14T00:15:54.725603936Z",
+  "model": "glm-5.2"
+}

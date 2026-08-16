@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 5:27",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "پسرانِ لِوی: گِرِشون، قِهات، و مِراری.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لِوی"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "گِرِشون"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قِهات"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "و مِراری"
+    }
+  ],
+  "timestamp": "2026-08-14T00:17:47.424140082Z",
+  "model": "glm-5.2"
+}

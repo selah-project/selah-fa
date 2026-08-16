@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 9:37",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "وگَدور و اَخیو و زَخَریاه و میکلوث.",
+  "tokens": [
+    {
+      "surface": "וּגְד֣וֹר",
+      "gloss": "وگَدور"
+    },
+    {
+      "surface": "וְאַחְי֔וֹ",
+      "gloss": "و اَخیو"
+    },
+    {
+      "surface": "וּזְכַרְיָ֖ה",
+      "gloss": "و زَخَریاه"
+    },
+    {
+      "surface": "וּמִקְלֽוֹת",
+      "gloss": "و میکلوث"
+    }
+  ],
+  "timestamp": "2026-08-13T23:38:12.075096431Z",
+  "model": "glm-5.2"
+}

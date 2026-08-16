@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 33:31",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "و حرکت کردند از مُوسِروت، و اردو زدند در بِنِی-یَعقان.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "و حرکت کردند"
+    },
+    {
+      "surface": "ממסרות",
+      "gloss": "از مُوسِروت"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "و اردو زدند"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "در پسرانِ"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "یَعقان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:41:53.682172551Z",
+  "model": "glm-5.2"
+}

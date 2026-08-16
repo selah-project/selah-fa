@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 2:8",
+  "book": "song-of-songs",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "صدایِ دلبرِ من! اینک او می‌آید، می‌جهد بر کوه‌ها، می‌پرد بر تپّه‌ها.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "صدایِ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "دلبرِ من"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "זה",
+      "gloss": "او"
+    },
+    {
+      "surface": "בא",
+      "gloss": "می‌آید"
+    },
+    {
+      "surface": "מדלג",
+      "gloss": "می‌جهد"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "کوه‌ها"
+    },
+    {
+      "surface": "מקפץ",
+      "gloss": "می‌پرد"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "تپّه‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T23:15:50.390080023Z",
+  "model": "glm-5.2"
+}

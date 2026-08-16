@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "و ⟨את⟩ همهٔ سران یسرائیل و کوهنان و لاویان را گرد آورد.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "و گرد آورد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همهٔ سران یسرائیل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سران"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "و کوهنان"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "و لاویان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:35.259863332Z",
+  "model": "glm-5.2"
+}

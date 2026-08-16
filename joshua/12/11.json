@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 12:11",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "پادشاهِ یَرموت، یک؛ پادشاهِ لاکیش، یک؛",
+  "tokens": [
+    {
+      "surface": "מֶ֤לֶךְ",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "יַרְמוּת֙",
+      "gloss": "یَرموت"
+    },
+    {
+      "surface": "אֶחָ֔ד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "לָכִ֖ישׁ",
+      "gloss": "لاکیش"
+    },
+    {
+      "surface": "אֶחָֽד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-08-13T20:56:37.342069927Z",
+  "model": "glm-5.2"
+}

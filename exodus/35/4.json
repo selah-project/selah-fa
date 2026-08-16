@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "exodus 35:4",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "و موشه به تمام جماعتِ بنی‌یِسرایل گفت، گفتن: این است سخنی که یاهوه فرمان داد، گفتن:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "جماعتِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی‌"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "گفتن"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "سخن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فرمان داد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "گفتن"
+    }
+  ],
+  "timestamp": "2026-08-15T20:52:49.360829048Z",
+  "model": "glm-5.3+hand"
+}

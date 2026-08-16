@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ecclesiastes 7:27",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "ببین، این را یافتم، گفت قوهلت، یکی پس از دیگری، برای یافتن حساب: ",
+  "tokens": [
+    {
+      "surface": "רְאֵה֙",
+      "gloss": "ببین"
+    },
+    {
+      "surface": "זֶ֣ה",
+      "gloss": "این"
+    },
+    {
+      "surface": "מָצָ֔אתִי",
+      "gloss": "یافتم"
+    },
+    {
+      "surface": "אָמְרָ֖ה",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "קֹהֶ֑לֶת",
+      "gloss": "قوهلت"
+    },
+    {
+      "surface": "אַחַ֥ת",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "לְאַחַ֖ת",
+      "gloss": "پس از دیگری"
+    },
+    {
+      "surface": "לִמְצֹ֥א",
+      "gloss": "برای یافتن"
+    },
+    {
+      "surface": "חֶשְׁבּֽוֹן",
+      "gloss": "حساب"
+    }
+  ],
+  "timestamp": "2026-08-14T00:16:21.664006583Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 5:11",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "شیرین است خوابِ کارگر، چه اندک بخورد چه بسیار؛ اما سیریِ ثروتمند، به او نمی‌گذارد بخوابد.",
+  "tokens": [
+    {
+      "surface": "מתוקה",
+      "gloss": "شیرین است"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "خوابِ"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "کارگر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "چه"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "اندک"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "چه"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "بخورد"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "اما سیریِ"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "ثروتمند"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "می‌گذارد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "לישון",
+      "gloss": "بخوابد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:02.868653920Z",
+  "model": "glm-5.2"
+}

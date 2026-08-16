@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "leviticus 6:14",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "بر تابه، در روغن ساخته شود؛ آغشته، بیاورش؛ فتّه‌های مِنحه را به یاهوه پیش آور، بویِ خوشایند.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "تابه"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "در روغن"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ساخته شود"
+    },
+    {
+      "surface": "מרבכת",
+      "gloss": "آغشته"
+    },
+    {
+      "surface": "תביאנה",
+      "gloss": "بیاورش"
+    },
+    {
+      "surface": "תפיני",
+      "gloss": "فتّه‌های"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "مِنحهٔ"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "فتّه"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "پیش آور"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "بویِ"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "خوشایند"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "به یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-15T03:50:39.063669103Z",
+  "model": "glm-5.3"
+}

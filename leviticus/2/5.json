@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و اگر قربانیِ تو هدیه‌ای بر تابه باشد، آردِ نرمِ مخلوط‌شده در روغن، نانِ فطیر باشد.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "هدیه"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "تابه"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "قربانیِ تو"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "آردِ نرم"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "مخلوط‌شده"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "در روغن"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "فطیر"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "باشد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:21:50.284882928Z",
+  "model": "glm-5.2"
+}

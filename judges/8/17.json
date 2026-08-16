@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و ⟨את⟩ برجِ پنوءیل را ویران کرد، و ⟨את⟩ مردمانِ شهر را کشت.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "برجِ پنوءیل"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "برجِ"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "پنوءیل"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "ویران کرد"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "و کشت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مردمانِ شهر"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "مردمانِ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    }
+  ],
+  "timestamp": "2026-08-13T21:03:52.502001454Z",
+  "model": "glm-5.2"
+}

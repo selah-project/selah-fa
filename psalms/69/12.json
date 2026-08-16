@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 69,
+  "translation": "و پوشاکم را گون‌سای گردانیدم، و برایشان به مَثَلی شدم.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "و گردانیدم"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "پوشاکم را"
+    },
+    {
+      "surface": "שק",
+      "gloss": "گون‌سای"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "و شدم"
+    },
+    {
+      "surface": "להם",
+      "gloss": "برایشان"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "به مَثَلی"
+    }
+  ],
+  "timestamp": "2026-08-13T22:46:36.083078223Z",
+  "model": "glm-5.2"
+}

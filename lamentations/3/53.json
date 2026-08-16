@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "lamentations 3:53",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "زندگیِ مرا در گودال از میان بریدند و سنگی بر من افکندند.",
+  "tokens": [
+    {
+      "surface": "צמתו",
+      "gloss": "از میان بریدند"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "در گودال"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "زندگیِ مرا"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "و افکندند"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "سنگی"
+    },
+    {
+      "surface": "בי",
+      "gloss": "بر من"
+    }
+  ],
+  "timestamp": "2026-08-13T23:18:17.647105607Z",
+  "model": "glm-5.2"
+}

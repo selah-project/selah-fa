@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 3:17",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و پسرانِ یِخَنْیَه اَسیر: شَأَلْتی‌اِل پسرِ او.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "یِخَنْیَه"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "اَسیر"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "شَأَلْتی‌اِل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:13.036948820Z",
+  "model": "glm-5.2"
+}

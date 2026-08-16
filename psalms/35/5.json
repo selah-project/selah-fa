@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "بادند چون کاه پیشِ باد، و فرشتهٔ یاهوه ⟨او را⟩ بیرون می‌راند.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "بادند"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "چون کاه"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشِ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "باد"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "و فرشتهٔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "بیرون می‌راند"
+    }
+  ],
+  "timestamp": "2026-08-13T22:41:47.563217152Z",
+  "model": "glm-5.2"
+}

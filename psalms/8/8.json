@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "گله و گاو‌ها، همگی، و همچنین چهارپایانِ صحرا،",
+  "tokens": [
+    {
+      "surface": "צֹנֶ֣ה",
+      "gloss": "گلهٔ"
+    },
+    {
+      "surface": "וַאֲלָפִ֣ים",
+      "gloss": "و گاو‌ها"
+    },
+    {
+      "surface": "כֻלָּ֑ם",
+      "gloss": "همگی"
+    },
+    {
+      "surface": "וְ֝גַ֗ם",
+      "gloss": "و همچنین"
+    },
+    {
+      "surface": "בַּהֲמ֥וֹת",
+      "gloss": "چهارپایانِ"
+    },
+    {
+      "surface": "שָׂדָֽי",
+      "gloss": "صحرا"
+    }
+  ],
+  "timestamp": "2026-08-13T22:38:24.513490221Z",
+  "model": "glm-5.2"
+}

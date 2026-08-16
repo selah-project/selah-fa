@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "jeremiah 19:2",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و بیرون برو به درهٔ بن-هینوم که در دهانهٔ دروازهٔ حارسوت است، و آنجا ⟨את⟩ سخنان را که با تو خواهم گفت، اعلام کن.",
+  "tokens": [
+    {
+      "surface": "ויצאת",
+      "gloss": "و بیرون برو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "درهٔ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بنِ"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "هینوم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دهانهٔ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازهٔ"
+    },
+    {
+      "surface": "החרסות",
+      "gloss": "حارسوت"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "و اعلام کن"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آنجا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سخنان"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "سخنان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "خواهم گفت"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "با تو"
+    }
+  ],
+  "timestamp": "2026-08-15T04:12:29.537228650Z",
+  "model": "glm-5.3"
+}

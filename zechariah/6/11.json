@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 6:11",
+  "book": "zechariah",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و نقره و زر بگیر، و تاج‌ها بساز، و بر سر یِهوشُعع پسر یِهوتْساداق، کاهنِ بزرگ، بگذار.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "و بگیر"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "نقره"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "و زر"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "و بساز"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "تاج‌ها"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "و بگذار"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "بر سر"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یِهوشُعع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "یِهوتْساداق"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهنِ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "بزرگ"
+    }
+  ],
+  "timestamp": "2026-08-13T22:35:04.219079741Z",
+  "model": "glm-5.2"
+}

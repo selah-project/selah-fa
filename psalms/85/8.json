@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 85,
+  "translation": "به ما بنمایان، ای یاهوه، چنسِ تو را و رستگاری‌ات را به ما بده.",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "به ما بنمایان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ای یاهوه"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "چنسِ تو را"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "و رستگاری‌ات را"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "بده"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "به ما"
+    }
+  ],
+  "timestamp": "2026-08-15T04:24:38.466948588Z",
+  "model": "glm-5.3"
+}

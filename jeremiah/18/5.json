@@ -1,0 +1,33 @@
+{
+  "ref": "jeremiah 18:5",
+  "lang": "fa",
+  "book": "jeremiah",
+  "chapter": 18,
+  "verse": 5,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:46:46Z",
+  "translation": "و کلامِ یاهوه به من شد، به گفتن:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلامِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "به گفتن:"
+    }
+  ]
+}

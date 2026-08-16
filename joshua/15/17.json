@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "joshua 15:17",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و اُتنِیئِل بن کِناز، برادر کالِو، آن را گرفت؛ و او ⟨את⟩ عکسا، دخترش را، به او به زنی داد.",
+  "tokens": [
+    {
+      "surface": "וילכדה",
+      "gloss": "و آن را گرفت"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "اُتنِیئِل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "کِناز"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برادر"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالِو"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "و داد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عکسا"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "عکسا"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "دخترش"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "به زنی"
+    }
+  ],
+  "timestamp": "2026-08-15T20:49:22.648484563Z",
+  "model": "glm-5.3"
+}

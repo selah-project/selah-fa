@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و شلومه به حَمَت-صووا رفت و بر آن چیره شد.",
+  "tokens": [
+    {
+      "surface": "וַיֵּ֤לֶךְ",
+      "gloss": "و رفت"
+    },
+    {
+      "surface": "שְׁלֹמֹה֙",
+      "gloss": "شلومه"
+    },
+    {
+      "surface": "חֲמָ֣ת",
+      "gloss": "حَمَت"
+    },
+    {
+      "surface": "צוֹבָ֔ה",
+      "gloss": "صووا"
+    },
+    {
+      "surface": "וַיֶּחֱזַ֖ק",
+      "gloss": "و چیره شد"
+    },
+    {
+      "surface": "עָלֶֽיהָ",
+      "gloss": "بر آن"
+    }
+  ],
+  "timestamp": "2026-08-14T00:18:29.773755490Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 109,
+  "translation": "در داوری شدنِ او بیرون آید راشَع، و دعایش شود برای گناه.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "در داوری شدنِ او"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "بیرون آید"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "راشَع"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "و دعایش"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "شود"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "برای گناه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:53:41.413482635Z",
+  "model": "glm-5.2"
+}

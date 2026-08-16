@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 49:32",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 49,
+  "translation": "خریدِ آن صحرا و آن غاری که در آن است، از نزدِ ⟨את⟩ پسرانِ حِتّ بود.»",
+  "tokens": [
+    {
+      "surface": "מקנה",
+      "gloss": "خریدِ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "آن صحرا"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "و آن غار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در آن"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "از نزدِ ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "حِتّ"
+    }
+  ],
+  "timestamp": "2026-08-13T20:09:45.418398324Z",
+  "model": "glm-5.2"
+}

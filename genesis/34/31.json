@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 34,
+  "translation": "و گفتند: آیا مانندِ روسپی با ⟨את⟩ خواهرمان رفتار کند؟",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "و گفتند"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "آیا مانندِ روسپی"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "رفتار کند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خواهرمان"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "خواهرمان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:04:39.372656898Z",
+  "model": "glm-5.2"
+}

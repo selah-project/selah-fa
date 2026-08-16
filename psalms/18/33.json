@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 18:33",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "اِل که مرا با توان می‌بندد، و راه مرا بی‌نقص می‌سازد.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "המאזרני",
+      "gloss": "که مرا می‌بندد"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "با توان"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "و می‌سازد"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "بی‌نقص"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "راه مرا"
+    }
+  ],
+  "timestamp": "2026-08-13T22:39:24.006740856Z",
+  "model": "glm-5.2"
+}

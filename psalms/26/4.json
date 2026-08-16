@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "مرده‌گانِ فروغ‌نشانه با من ننشسته‌ام، و با ناپيداگويان نخواهم آمد.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יָשַׁבְתִּי",
+      "gloss": "نشسته‌ام"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "مرده‌گانِ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "فروغ‌نشانه"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "و با"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "ناپيداگويان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "خواهم آمد"
+    }
+  ],
+  "timestamp": "2026-08-13T22:41:06.558833127Z",
+  "model": "glm-5.2"
+}

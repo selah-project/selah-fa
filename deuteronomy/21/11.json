@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 21:11",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و در میانِ اسیران زنی زیباىِ قامت ببینی، و به او مایل شوی، و او را برایِ خود به همسری بگیری،",
+  "tokens": [
+    {
+      "surface": "וראית",
+      "gloss": "و ببینی"
+    },
+    {
+      "surface": "בשביה",
+      "gloss": "در میانِ اسیران"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زنی"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "زیباىِ"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "قامت"
+    },
+    {
+      "surface": "וחשקת",
+      "gloss": "و مایل شوی"
+    },
+    {
+      "surface": "בה",
+      "gloss": "به او"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "و بگیری"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برایِ خود"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "به همسری"
+    }
+  ],
+  "timestamp": "2026-08-13T20:49:15.941462155Z",
+  "model": "glm-5.2"
+}

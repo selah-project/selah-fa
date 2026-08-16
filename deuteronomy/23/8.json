@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "نبیزار اَدومی‌ای را، زیرا که او برادرِ تو ⟨است⟩؛ نبیزار میصرایی را، زیرا که غریب بودی در زمینِ او.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نـ"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "بیزار"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "اَدومی‌ای را"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا که"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "برادرِ تو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نـ"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "بیزار"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "میصرایی را"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا که"
+    },
+    {
+      "surface": "גר",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "היית",
+      "gloss": "بودی"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "در زمینِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:49:59.577942019Z",
+  "model": "glm-5.2"
+}

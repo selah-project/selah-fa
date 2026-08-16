@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 5:16",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و اِلیشَمع، و اِلیاداع، و اِلیفَلِت.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "و اِلیشَمع"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "و اِلیاداع"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "و اِلیفَلِت"
+    }
+  ],
+  "timestamp": "2026-08-13T21:17:30.874295791Z",
+  "model": "glm-5.2"
+}

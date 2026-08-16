@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "جست‌وجو کرد قوهلت تا بیابد سخنانِ خوشایند، و نوشته شدِ راست، سخنانِ راستی.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "جست‌وجو کرد"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "قوهلت"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "تا بیابد"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "سخنانِ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "خوشایند"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "و نوشته شد"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "راست"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "سخنانِ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "راستی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:56.483045568Z",
+  "model": "glm-5.2"
+}

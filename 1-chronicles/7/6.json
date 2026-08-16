@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 7:6",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "بِنیامین: بِلَع، و بِخِر، و یِدیعائِل — سه.",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "بِنیامین"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "بِلَع"
+    },
+    {
+      "surface": "ובכר",
+      "gloss": "و بِخِر"
+    },
+    {
+      "surface": "וידיעאל",
+      "gloss": "و یِدیعائِل"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:21.802291680Z",
+  "model": "glm-5.2"
+}

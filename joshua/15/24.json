@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 15:24",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "زیف و تِلِم و بَعَلوت.",
+  "tokens": [
+    {
+      "surface": "זִ֥יף",
+      "gloss": "زیف"
+    },
+    {
+      "surface": "וָטֶ֖לֶם",
+      "gloss": "و تِلِم"
+    },
+    {
+      "surface": "וּבְעָלֽוֹת",
+      "gloss": "و بَعَلوت"
+    }
+  ],
+  "timestamp": "2026-08-13T20:57:59.886321030Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 36:26",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "و چهل پایهٔ نقره‌ایِ آنها: دو پایه زیر تختهٔ یک و دو پایه زیر تختهٔ یک.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "و چهل"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "پایه‌های"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "نقره"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "پایه"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "زیر"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "تختهٔ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "و دو"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "پایه"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "زیر"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "تختهٔ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-08-13T20:20:23.694278343Z",
+  "model": "glm-5.2"
+}

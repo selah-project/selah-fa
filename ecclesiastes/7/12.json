@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "که در سایهٔ حکمت، در سایهٔ نقره، و برتریِ شناختِ حکمت، صاحبانِ آن را زنده می‌دارد.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "در سایهٔ"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "در سایهٔ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "نقره"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "و برتریِ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "شناختِ"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "زنده می‌دارد"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "صاحبانِ آن"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:40.509407610Z",
+  "model": "glm-5.2"
+}

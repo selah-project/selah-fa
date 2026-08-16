@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و غلام ⟨את⟩ همه‌ی چیزها را به ییتسحاق بازگو کرد که کرده بود.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "و بازگو کرد"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "به ییتسحاق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همه‌ی چیزها"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همه‌ی"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "چیزها"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرده بود"
+    }
+  ],
+  "timestamp": "2026-08-13T20:00:59.001479607Z",
+  "model": "glm-5.2"
+}

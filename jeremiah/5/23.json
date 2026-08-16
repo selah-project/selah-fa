@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 5:23",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و برای این قوم بود دلِ سرکش و عاصی، برگشتند و رفتند.",
+  "tokens": [
+    {
+      "surface": "וְלָעָ֤ם",
+      "gloss": "و برای قوم"
+    },
+    {
+      "surface": "הַזֶּה֙",
+      "gloss": "این"
+    },
+    {
+      "surface": "הָיָ֔ה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "לֵ֖ב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "סוֹרֵ֣ר",
+      "gloss": "سرکش"
+    },
+    {
+      "surface": "וּמוֹרֶ֑ה",
+      "gloss": "و عاصی"
+    },
+    {
+      "surface": "סָ֖רוּ",
+      "gloss": "برگشتند"
+    },
+    {
+      "surface": "וַיֵּלֵֽכוּ",
+      "gloss": "و رفتند"
+    }
+  ],
+  "timestamp": "2026-08-13T21:57:17.551447494Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 29:23",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و تمامِ امّت‌ها بگویند: بر چه یاهوه چنین کرد با این سرزمین؟ چه ⟨بلاست⟩ سوزِ خشمِ بزرگِ این؟",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "و بگویند"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "امّت‌ها"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "با سرزمینِ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "سوزِ"
+    },
+    {
+      "surface": "האף",
+      "gloss": "خشمِ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "بزرگِ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    }
+  ],
+  "timestamp": "2026-08-13T20:52:07.418150527Z",
+  "model": "glm-5.2"
+}

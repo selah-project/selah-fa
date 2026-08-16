@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 2:19",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "پسرانِ حاشوم، دویستِ و بیستِ و سه.",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "חָשֻׁ֔ם",
+      "gloss": "حاشوم"
+    },
+    {
+      "surface": "מָאתַ֖יִם",
+      "gloss": "دویستِ"
+    },
+    {
+      "surface": "עֶשְׂרִ֥ים",
+      "gloss": "بیستِ"
+    },
+    {
+      "surface": "וּשְׁלֹשָֽׁה",
+      "gloss": "و سه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:28:14.964420993Z",
+  "model": "glm-5.2"
+}

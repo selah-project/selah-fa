@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 128,
+  "translation": "رنجِ دست‌هایت را می‌خوری، خوشا بر تو، و ⟨خیر⟩ برای تو.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "رنج"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "دست‌هایت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "را"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "می‌خوری"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "خوشا بر تو"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "و خیر"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برای تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:56:27.856425232Z",
+  "model": "glm-5.2"
+}

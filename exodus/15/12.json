@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 15:12",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "دراز کردی دستِ راستِ خودت را، فرو بردشان زمین.",
+  "tokens": [
+    {
+      "surface": "נטית",
+      "gloss": "دراز کردی"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "دستِ راستِ تو"
+    },
+    {
+      "surface": "תבלעמו",
+      "gloss": "فرو خواهد برد"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T20:12:56.414718367Z",
+  "model": "glm-5.2"
+}

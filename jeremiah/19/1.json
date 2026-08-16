@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "jeremiah 19:1",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "چنین گفت یاهوه: برو و مشکِ سفالیِ کوزه‌گر بخر، و ⟨با⟩ بزرگانِ قوم و بزرگانِ کاهنان.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "برو"
+    },
+    {
+      "surface": "וקנית",
+      "gloss": "و بخر"
+    },
+    {
+      "surface": "בקבק",
+      "gloss": "مشک"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "کوزه‌گر"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "سفالی"
+    },
+    {
+      "surface": "ומזקני",
+      "gloss": "و بزرگانِ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ומזקני",
+      "gloss": "و بزرگانِ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهنان"
+    }
+  ],
+  "timestamp": "2026-08-15T04:12:29.536915908Z",
+  "model": "glm-5.3"
+}

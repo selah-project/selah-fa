@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 15:11",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "کنین به‌این‌گونه انجام شود برای گاو یک، یا برای قوچ یک، یا برای بره از گوسفندان یا از بزها.",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "به‌این‌گونه"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "انجام شود"
+    },
+    {
+      "surface": "לשור",
+      "gloss": "برای گاو"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "برای قوچ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "לשה",
+      "gloss": "برای بره"
+    },
+    {
+      "surface": "בכבשים",
+      "gloss": "از گوسفندان"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בעזים",
+      "gloss": "از بزها"
+    }
+  ],
+  "timestamp": "2026-08-13T20:36:02.784027882Z",
+  "model": "glm-5.2"
+}

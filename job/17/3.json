@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 17:3",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "بگذار، اکنون، گروِ مرا با خودت؛ چه کسی ⟨هو⟩ است که با من دست می‌زند؟",
+  "tokens": [
+    {
+      "surface": "שימה",
+      "gloss": "بگذار"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اکنون"
+    },
+    {
+      "surface": "ערבני",
+      "gloss": "گروِ مرا"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "با خودت"
+    },
+    {
+      "surface": "מי",
+      "gloss": "چه کسی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨او⟩"
+    },
+    {
+      "surface": "לידי",
+      "gloss": "با من"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "دست می‌زند"
+    }
+  ],
+  "timestamp": "2026-08-13T23:09:57.713473464Z",
+  "model": "glm-5.2"
+}

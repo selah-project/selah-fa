@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 29:14",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و لابان به او گفت: «البته استخوانِ من و گوشتِ من تویی.» و ⟨او⟩ نزدِ او یک ماه روزها ماند.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "אך",
+      "gloss": "البته"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "استخوانِ من"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "و گوشتِ من"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تویی"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "و ماند"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "نزدِ او"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "یک ماه"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روزها"
+    }
+  ],
+  "timestamp": "2026-08-13T20:02:21.386820860Z",
+  "model": "glm-5.2"
+}

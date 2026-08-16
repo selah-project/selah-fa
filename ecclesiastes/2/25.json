@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "که چه کسی بخورد و چه کسی بشتابد، بیرون از من؟",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "که"
+    },
+    {
+      "surface": "מִ֥י",
+      "gloss": "چه کسی"
+    },
+    {
+      "surface": "יֹאכַ֛ל",
+      "gloss": "بخورد"
+    },
+    {
+      "surface": "וּמִ֥י",
+      "gloss": "و چه کسی"
+    },
+    {
+      "surface": "יָח֖וּשׁ",
+      "gloss": "بشتابد"
+    },
+    {
+      "surface": "ח֥וּץ",
+      "gloss": "بیرون"
+    },
+    {
+      "surface": "מִמֶּֽנִּי",
+      "gloss": "از من"
+    }
+  ],
+  "timestamp": "2026-08-13T23:19:40.098138187Z",
+  "model": "glm-5.2"
+}

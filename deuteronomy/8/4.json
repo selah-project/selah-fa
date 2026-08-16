@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "جامه‌ات بر تنِ تو کهنه نشد و پای‌ت ورم نکرد، این چهل سال.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "جامه‌ات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "کهنه شد"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "بر تنِ تو"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "و پای‌ت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "ورم کرد"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چهل"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-08-13T20:46:17.640639822Z",
+  "model": "glm-5.2"
+}

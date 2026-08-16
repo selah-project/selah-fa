@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "که در فراوانیِ حکمت، فراوان است خشم، و هر که دانش را بیفزاید، رنج را می‌افزاید.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "که"
+    },
+    {
+      "surface": "בְּרֹב",
+      "gloss": "در فراوانیِ"
+    },
+    {
+      "surface": "חָכְמָה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "רָב",
+      "gloss": "فراوان است"
+    },
+    {
+      "surface": "כָּעַס",
+      "gloss": "خشم"
+    },
+    {
+      "surface": "וְיוֹסִיף",
+      "gloss": "و بیفزاید"
+    },
+    {
+      "surface": "דַּעַת",
+      "gloss": "دانش را"
+    },
+    {
+      "surface": "יוֹסִיף",
+      "gloss": "می‌افزاید"
+    },
+    {
+      "surface": "מַכְאוֹב",
+      "gloss": "رنج را"
+    }
+  ],
+  "timestamp": "2026-08-13T23:19:25.756313579Z",
+  "model": "glm-5.2"
+}

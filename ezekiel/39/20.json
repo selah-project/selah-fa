@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 39:20",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 39,
+  "translation": "و از سفرهٔ من سیر خواهید شد، با اسب و ارابه، قهرمان و هر مردِ جنگ — خروشِ اَدونای یاهوه.",
+  "tokens": [
+    {
+      "surface": "ושבעתם",
+      "gloss": "و سیر خواهید شد"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر \/ از"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "سفرهٔ من"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "اسب"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "و ارابه"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "قهرمان"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردِ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "خروشِ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:22:25.974814778Z",
+  "model": "glm-5.2"
+}

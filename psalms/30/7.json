@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "و من، در آرامیشِ من گفتم: «هرگز نخواهم لرزید.»",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "و من،"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "گفتم"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "در آرامیشِ من"
+    },
+    {
+      "surface": "בל",
+      "gloss": "هرگز"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "نخواهم لرزید"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "."
+    }
+  ],
+  "timestamp": "2026-08-13T22:41:07.126292713Z",
+  "model": "glm-5.2"
+}

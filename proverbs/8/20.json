@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "در راهِ صداقت راه می‌برم، در میانهٔ کوره‌راه‌های داوری.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "در راهِ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "صداقت"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "راه می‌برم"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "در میانهٔ"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "کوره‌راه‌های"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "داوری"
+    }
+  ],
+  "timestamp": "2026-08-15T04:26:42.476174417Z",
+  "model": "glm-5.3"
+}

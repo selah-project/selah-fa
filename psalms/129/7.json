@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 129,
+  "translation": "که کفِ دروگر را پُر نکرد، و آغوشِ خوشه‌بند را.",
+  "tokens": [
+    {
+      "surface": "שֶׁ",
+      "gloss": "که"
+    },
+    {
+      "surface": "לֹ֤א",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מִלֵּ֖א",
+      "gloss": "پُر کرد"
+    },
+    {
+      "surface": "כַפּ֥וֹ",
+      "gloss": "کفِ"
+    },
+    {
+      "surface": "קוֹצֵ֗ר",
+      "gloss": "دروگر"
+    },
+    {
+      "surface": "וְ",
+      "gloss": "و"
+    },
+    {
+      "surface": "חִצְנ֥וֹ",
+      "gloss": "آغوشِ"
+    },
+    {
+      "surface": "מְעַמֵּֽר",
+      "gloss": "خوشه‌بند"
+    }
+  ],
+  "timestamp": "2026-08-13T22:56:57.806504808Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 25:37",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و ساکت شدند چراگاه‌هایِ ⟨ال⟩سلام، از رویِ سوزانندگیِ خشمِ یاهوه.",
+  "tokens": [
+    {
+      "surface": "ונדמו",
+      "gloss": "و ساکت شدند"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "چراگاه‌هایِ"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "⟨ال⟩سلام"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "از رویِ"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "سوزانندگیِ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "خشمِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:02:21.466186Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 1:14",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و داوود به او گفت: چگونه نترسیدی که دستت را دراز کنی تا هلاک کنی ⟨את⟩ مَشیهِ یاهوه را؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "איך",
+      "gloss": "چگونه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ترسیدی"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "که دراز کنی"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "دستت را"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "تا هلاک کنی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مَشیه"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "مَشیهِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T21:16:29.724475560Z",
+  "model": "glm-5.2"
+}

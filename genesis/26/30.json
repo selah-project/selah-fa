@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "و ⟨او⟩ برایشان ضیافتی برپا کرد، و خوردند و نوشیدند.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و برپا کرد"
+    },
+    {
+      "surface": "להם",
+      "gloss": "برایشان"
+    },
+    {
+      "surface": "משתه",
+      "gloss": "ضیافتی"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "و خوردند"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "و نوشیدند"
+    }
+  ],
+  "timestamp": "2026-08-13T20:01:50.107270665Z",
+  "model": "glm-5.2"
+}

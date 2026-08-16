@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "کیست این، پادشاهِ کبوذ؟ یاهوه، نیرومند و دلیر، یاهوه، دلیرِ ⟨در⟩ جنگ.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کیست"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "کبوذ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "نیرومند"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "و دلیر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "دلیرِ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    }
+  ],
+  "timestamp": "2026-08-15T04:22:29.578556216Z",
+  "model": "glm-5.3"
+}

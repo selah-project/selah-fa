@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 23:19",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "اجرتِ روسپی و مزدِ سگ را به خانهٔ یاهوه الوهیمِ تو برای هیچ نذری داخل نکنی، که هر دو، حتی، مکروهِ یاهوه الوهیمِ تو هستند.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "داخل نکنی"
+    },
+    {
+      "surface": "אתנן",
+      "gloss": "اجرتِ"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "روسپی"
+    },
+    {
+      "surface": "ומחיר",
+      "gloss": "و مزدِ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "سگ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "به خانهٔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "الوهیمِ تو"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "برای هیچ"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "نذری"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "مکروهِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "الوهیمِ تو"
+    },
+    {
+      "surface": "גם",
+      "gloss": "حتی"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "هر دو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:50:22.509388107Z",
+  "model": "glm-5.2"
+}

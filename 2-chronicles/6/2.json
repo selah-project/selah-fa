@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 6:2",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و من خانه‌ای شکوهمند برای تو ساخته‌ام، و مکانِ نشیمنِ تو برای همیشه‌ها.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "و من"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ساخته‌ام"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانه‌ای"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "شکوهمند"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برای تو"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "و مکانِ نشیمنِ"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "تو"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "برای همیشه‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T23:44:10.422460221Z",
+  "model": "glm-5.2"
+}

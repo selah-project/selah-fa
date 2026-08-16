@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "daniel 8:20",
+  "book": "daniel",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "قوچِ ⟨که⟩ دیدی — صاحبِ شاخ‌ها — پادشاهانِ مادای و پارس ⟨هستند⟩.",
+  "tokens": [
+    {
+      "surface": "האיל",
+      "gloss": "قوچ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨که⟩"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "دیدی"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "صاحبِ"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "شاخ‌ها"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "پادشاهانِ"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "مادای"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "و پارس"
+    }
+  ],
+  "timestamp": "2026-08-15T04:31:41.249481645Z",
+  "model": "glm-5.3"
+}

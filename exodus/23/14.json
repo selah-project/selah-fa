@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "سه بار در سال برای من جشن بگیر.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "سه"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "بار"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "جشن بگیر"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برای من"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "در سال"
+    }
+  ],
+  "timestamp": "2026-08-13T20:16:11.051686982Z",
+  "model": "glm-5.2"
+}

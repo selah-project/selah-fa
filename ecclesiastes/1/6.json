@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "می‌رود به‌سوی جنوب ومی‌چرخد به‌سوی شمال؛ می‌چرخد، می‌چرخد، می‌رود باد، وبر گرداگردِ خود بازمی‌گردد باد.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "می‌رود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به‌سوی"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "جنوب"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "ومی‌چرخد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به‌سوی"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "شمال"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "می‌چرخد"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "می‌چرخد"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "می‌رود"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "باد"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وبر"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "گرداگردِ خود"
+    },
+    {
+      "surface": "שב",
+      "gloss": "بازمی‌گردد"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "باد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:22.242308114Z",
+  "model": "glm-5.2"
+}

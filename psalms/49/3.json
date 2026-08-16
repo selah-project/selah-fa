@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 49,
+  "translation": "هم پسرانِ آدم، هم پسرانِ ایش، با هم، دارا و نیازمند.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ایش"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "با هم"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "دارا"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "و نیازمند"
+    }
+  ],
+  "timestamp": "2026-08-13T22:44:07.577447590Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 10:5",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "وای بر اَشّور، چوبِدستِ خشمِ من، و عصایی است که در دستِ آنان، خشمِ من است.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "وای"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اَشّور"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "چوب‌دست"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "خشمِ من"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "و عصا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨او⟩"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "در دستِ آنان"
+    },
+    {
+      "surface": "זעמי",
+      "gloss": "خشمِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T21:42:52.591075348Z",
+  "model": "glm-5.2"
+}

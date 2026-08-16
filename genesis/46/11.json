@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 46:11",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 46,
+  "translation": "و پسرانِ لِوی: گِرِشون، قِهات و مِراری.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لِوی"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "گِرِشون"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قِهات"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "و مِراری"
+    }
+  ],
+  "timestamp": "2026-08-13T20:07:59.742235355Z",
+  "model": "glm-5.2"
+}

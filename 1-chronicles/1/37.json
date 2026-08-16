@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 1:37",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "پسرانِ رَعوئیل: ناحات، زِرَح، شَمّه و میزّه.",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֖י",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "רְעוּאֵ֑ל",
+      "gloss": "رَعوئیل"
+    },
+    {
+      "surface": "נַ֥חַת",
+      "gloss": "ناحات"
+    },
+    {
+      "surface": "זֶ֖רַח",
+      "gloss": "زِرَح"
+    },
+    {
+      "surface": "שַׁמָּ֥ה",
+      "gloss": "شَمّه"
+    },
+    {
+      "surface": "וּמִזָּֽה",
+      "gloss": "و میزّه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:53.709235732Z",
+  "model": "glm-5.2"
+}

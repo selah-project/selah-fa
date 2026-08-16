@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 10:7",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "دانی‌یِئل، گینِتون، باروک",
+  "tokens": [
+    {
+      "surface": "דָּנִיֵּ֥אל",
+      "gloss": "دانی‌یِئل"
+    },
+    {
+      "surface": "גִּנְּת֖וֹן",
+      "gloss": "گینِتون"
+    },
+    {
+      "surface": "בָּרֽוּךְ",
+      "gloss": "باروک"
+    }
+  ],
+  "timestamp": "2026-08-13T23:33:05.045924110Z",
+  "model": "glm-5.2"
+}

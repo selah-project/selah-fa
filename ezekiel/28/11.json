@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 28:11",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "و شد فرمانِ یاهوه به سوی من، به‌اینکه: «بگو ...»",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֥י",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "דְבַר",
+      "gloss": "فرمانِ"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֵלַ֥י",
+      "gloss": "به سوی من"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "به‌اینکه: «بگو ...»"
+    }
+  ],
+  "timestamp": "2026-08-13T22:18:55.481327279Z",
+  "model": "glm-5.2"
+}

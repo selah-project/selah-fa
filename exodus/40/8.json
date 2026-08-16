@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 40,
+  "translation": "و برپایی ⟨את⟩ حصار را پیرامون، و بگذاری ⟨את⟩ پردهٔ دروازهٔ حصار را.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "و برپایی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حصار"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "حصار"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "پیرامون"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "و بگذاری"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پرده"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "پرده"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازهٔ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "حصار"
+    }
+  ],
+  "timestamp": "2026-08-13T20:21:36.913516169Z",
+  "model": "glm-5.2"
+}

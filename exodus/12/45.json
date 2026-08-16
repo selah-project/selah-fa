@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "ساکنِ مقیم و مزدور از آن نخورند.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "ساکنِ مقیم"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "و مزدور"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "خورند"
+    },
+    {
+      "surface": "בו",
+      "gloss": "از آن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:13:08.240416011Z",
+  "model": "glm-5.2"
+}

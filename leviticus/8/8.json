@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و بر او نهاد ⟨את⟩ سینه‌بند را، و در سینه‌بند نهاد ⟨את⟩ اوریم و ⟨את⟩ تومیم را.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "و نهاد"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر او"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سینه‌بند"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "سینه‌بند"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "و نهاد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "در"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "سینه‌بند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوریم"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "اوریم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "تومیم"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "تومیم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:23:48.796226198Z",
+  "model": "glm-5.2"
+}

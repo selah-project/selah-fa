@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "هر پرندهٔ پاک را بخورید.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "پرندهٔ"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "بخورید"
+    }
+  ],
+  "timestamp": "2026-08-13T20:46:51.295852246Z",
+  "model": "glm-5.2"
+}

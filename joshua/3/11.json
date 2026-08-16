@@ -1,0 +1,49 @@
+{
+  "ref": "joshua 3:11",
+  "lang": "fa",
+  "book": "joshua",
+  "chapter": 3,
+  "verse": 11,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:46:46Z",
+  "translation": "اینک تابوتِ پیمان، اَدونایِ همه‌ی زمین — پیشاپیشِ شما به یَردُن می‌گذرد.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "تابوتِ"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "پیمان"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همه‌ی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "می‌گذرد"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "پیشاپیشِ شما"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "به یَردُن"
+    }
+  ]
+}

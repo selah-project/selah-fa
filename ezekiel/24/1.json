@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "ezekiel 24:1",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و شدّ کلام یاهوه به من، در سالِ نهم، در ماهِ دهم، در روزِ دهمِ ماه، به گفتن:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و شدّ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "در سال"
+    },
+    {
+      "surface": "התשיעית",
+      "gloss": "نهم"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "در ماه"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "دهم"
+    },
+    {
+      "surface": "בעשור",
+      "gloss": "در روزِ دهم"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "از ماه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به گفتن"
+    }
+  ],
+  "timestamp": "2026-08-15T04:15:32.135195120Z",
+  "model": "glm-5.3"
+}

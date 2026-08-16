@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "وَ اکنون، پسرِ من، بشنو به آوازِ من، به آنچه من فرمان می‌دهم ⟨את⟩ تو را.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "وَ اکنون"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرِ من"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "بشنو"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "به آوازِ من"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "به آنچه"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "فرمان می‌دهم"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "تو را"
+    }
+  ],
+  "timestamp": "2026-08-13T20:01:52.373497988Z",
+  "model": "glm-5.2"
+}

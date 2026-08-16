@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "nehemiah 7:40",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "پسرانِ ایمِر، هزار و پنجاه و دو.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ایمِر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاه"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "و دو"
+    }
+  ],
+  "timestamp": "2026-08-13T23:33:08.637384099Z",
+  "model": "glm-5.2"
+}

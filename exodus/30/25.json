@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "وَ از آن بسازی ⟨את⟩ او را روغنِ مسحهٔ قدوس، عطری مُرَکّب، کارِ عطّاری؛ روغنِ مسحهٔ قدوس باشد.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "وَ بسازی"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "او"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "روغن"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "مسحهٔ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قدوس"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "عطری"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "مُرَکّب"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کارِ"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "عطّاری"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "روغن"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "مسحهٔ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قدوس"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "باشد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:18:29.101364801Z",
+  "model": "glm-5.2"
+}

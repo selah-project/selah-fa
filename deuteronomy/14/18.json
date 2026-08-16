@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 14:18",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و لک‌لک و حواصیل به نوعِ خود و هدهد و خفاش،",
+  "tokens": [
+    {
+      "surface": "והחסידה",
+      "gloss": "و لک‌لک"
+    },
+    {
+      "surface": "وהאנפה",
+      "gloss": "و حواصیل"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "به نوعِ خود"
+    },
+    {
+      "surface": "והדוכיפת",
+      "gloss": "و هدهد"
+    },
+    {
+      "surface": "והעטלף",
+      "gloss": "و خفاش"
+    }
+  ],
+  "timestamp": "2026-08-13T20:46:59.241830184Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "فقط استوار باش، تا نخوری خون را، زیرا خون، او ⟨است⟩ نفس، و نفس را نخوری با گوشت.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "فقط"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "استوار باش"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "تا نه"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "خوردن"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "خوری"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:57:31.658512294Z",
+  "model": "glm-5.2"
+}

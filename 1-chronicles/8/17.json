@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 8:17",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و زَبَدْیاه، و مِشُلّام، و حِزْقی، و حابِر.",
+  "tokens": [
+    {
+      "surface": "וּזְבַדְיָ֥ה",
+      "gloss": "و زَبَدْیاه"
+    },
+    {
+      "surface": "וּמְשֻׁלָּ֖ם",
+      "gloss": "و مِشُلّام"
+    },
+    {
+      "surface": "וְחִזְקִ֥י",
+      "gloss": "و حِزْقی"
+    },
+    {
+      "surface": "וָחָֽבֶר",
+      "gloss": "و حابِر"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:24.693893088Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "راهِ فردی کج‌رو و بیگانه است، اما راهِ پاک، کردارِ راست است.",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "کج‌رو"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راهِ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "فردی"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "و بیگانه"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "اما پاک"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "راست"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "کردارِ"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:19.983960618Z",
+  "model": "glm-5.2"
+}

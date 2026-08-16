@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "پسرم، اگر گناهکاران تو را بفریبند، مگرای.",
+  "tokens": [
+    {
+      "surface": "בְּנִ֡י",
+      "gloss": "پسرم"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יְפַתּ֥וּךָ",
+      "gloss": "تو را بفریبند"
+    },
+    {
+      "surface": "חַ֝טָּאִ֗ים",
+      "gloss": "گناهکاران"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "مگر"
+    },
+    {
+      "surface": "תֹּבֵֽא",
+      "gloss": "ای"
+    }
+  ],
+  "timestamp": "2026-08-13T22:58:48.453398668Z",
+  "model": "glm-5.2"
+}

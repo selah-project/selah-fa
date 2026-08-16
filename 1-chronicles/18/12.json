@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و اَویشای پسرِ تِسرویَه ⟨את⟩ اَدوم را در درهٔ نمک زد: هژده هزار.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "و اَویشای"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "تِسرویَه"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "زد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَدوم"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اَدوم"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "در درهٔ"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "نمک"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "هژده"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "אלף",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:36.049839840Z",
+  "model": "glm-5.2"
+}

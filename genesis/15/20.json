@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 15:20",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و ⟨את⟩ حِتی، و ⟨את⟩ پْریزی، و ⟨את⟩ رْفائیم را،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "حِتی"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "حِتی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "پْریزی"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "پْریزی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "رْفائیم"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "رْفائیم"
+    }
+  ],
+  "timestamp": "2026-08-13T19:58:26.303789794Z",
+  "model": "glm-5.2"
+}

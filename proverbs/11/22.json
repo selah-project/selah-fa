@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 11:22",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "حلقهٔ زرین در پوز خوک، ⟨مانند⟩ زنی زیبا اما فاقدِ تمییز است.",
+  "tokens": [
+    {
+      "surface": "נֶ֣זֶם",
+      "gloss": "حلقه"
+    },
+    {
+      "surface": "זָ֭הָב",
+      "gloss": "زرین"
+    },
+    {
+      "surface": "בְּאַ֣ף",
+      "gloss": "در پوز"
+    },
+    {
+      "surface": "חֲזִ֑יר",
+      "gloss": "خوک"
+    },
+    {
+      "surface": "אִשָּׁ֥ה",
+      "gloss": "زن"
+    },
+    {
+      "surface": "יָ֝פָ֗ה",
+      "gloss": "زیبا"
+    },
+    {
+      "surface": "וְסָ֣רַת",
+      "gloss": "اما فاقدِ"
+    },
+    {
+      "surface": "טָֽעַם",
+      "gloss": "تمییز"
+    }
+  ],
+  "timestamp": "2026-08-13T23:01:22.518524143Z",
+  "model": "glm-5.2"
+}

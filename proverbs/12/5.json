@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "اندیشه‌های صادقان داد است، تدبیرهای بدکاران فریب.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "اندیشه‌های"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "صادقان"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "داد"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "تدبیرهای"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکاران"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "فریب"
+    }
+  ],
+  "timestamp": "2026-08-13T23:01:30.515914526Z",
+  "model": "glm-5.2"
+}

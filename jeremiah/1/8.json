@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "jeremiah 1:8",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "از چهره‌شان مترس، زیرا من ⟨את⟩ با توام تا تو را برهانم، فرمودهٔ یاهوه.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مترس (نه)"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "نترس"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "از چهره‌شان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ با تو",
+      "marks": "با-تو (همراهی)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "להצלך",
+      "gloss": "تا تو را برهانم"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فرمودهٔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-15T04:10:59.748379288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "4.6",
+  "verse": 15,
+  "ref": "2-chronicles 8:15",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و برنگشتند از فرمان شاه بر ⟨کاهنان⟩ و لاویان برای هر ماده و برای خزانه‌ها",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "برنگشتند"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "فرمان"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاه"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "⟨کاهنان⟩"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "و لاویان"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "برای هر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ماده"
+    },
+    {
+      "surface": "ולאצרות",
+      "gloss": "و برای خزانه‌ها"
+    }
+  ],
+  "timestamp": "2026-08-15T04:38:39.501396360Z",
+  "model": "glm-4.6"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "proverbs 11:19",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "چنان است عدالت برای زندگی، و پیروِ بدی برای مرگِ خود.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "چنان است"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "عدالت"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "برای زندگی"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "و پیروِ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "למותו",
+      "gloss": "برای مرگِ خود"
+    }
+  ],
+  "timestamp": "2026-08-15T04:27:42.066123767Z",
+  "model": "glm-5.3"
+}

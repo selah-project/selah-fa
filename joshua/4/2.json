@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "برگیرید برایِ خود از میانِ قوم دوازده مرد، یک مرد یک مرد از قبیله:",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "برگیرید"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "برایِ خود"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ازده"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یک مرد"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یک مرد"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "از قبیله"
+    }
+  ],
+  "timestamp": "2026-08-13T20:55:01.085710087Z",
+  "model": "glm-5.2"
+}

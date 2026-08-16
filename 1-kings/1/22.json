@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 1:22",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و اینک، وی هنوز با پادشاه سخن می‌گفت، و ناتانِ نبی آمد.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "עודנה",
+      "gloss": "هنوز"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "سخن می‌گفت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "و ناتان"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آمد"
+    }
+  ],
+  "timestamp": "2026-08-13T21:23:57.320476178Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 32:22",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "و هدیه از پیشِ چهرهٔ او عبور کرد، و او در آن شب در اردو بیتوت نمود.",
+  "tokens": [
+    {
+      "surface": "ותעבר",
+      "gloss": "و عبور کرد"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "هدیه"
+    },
+    {
+      "surface": "על",
+      "gloss": "از پیشِ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "چهرهٔ او"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "و او"
+    },
+    {
+      "surface": "לן",
+      "gloss": "بیتوت نمود"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "در شب"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "در اردو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:03:19.411924629Z",
+  "model": "glm-5.2"
+}

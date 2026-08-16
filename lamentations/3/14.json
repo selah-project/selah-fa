@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "شدم ⟨من⟩ خنده‌ای برای همهٔ قومم، سرودِ ایشان همهٔ روز.",
+  "tokens": [
+    {
+      "surface": "הָיִ֤יתִי",
+      "gloss": "شدم"
+    },
+    {
+      "surface": "שְּׂחֹק֙",
+      "gloss": "خنده‌ای"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "برایِ همهٔ"
+    },
+    {
+      "surface": "עַמִּ֔י",
+      "gloss": "قومم"
+    },
+    {
+      "surface": "נְגִינָתָ֖ם",
+      "gloss": "سرودِ ایشان"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "הַיּֽוֹם",
+      "gloss": "روز"
+    }
+  ],
+  "timestamp": "2026-08-13T23:18:07.046968040Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "بهتر است پرِ یک کفِ آرامش، از پرِ دو مشت زحمت و رنجِ روح.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بهتر است"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "پرِ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "کفِ"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "آرامش"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "از پرِ"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "دو مشت"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "زحمت"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "و رنجِ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    }
+  ],
+  "timestamp": "2026-08-15T04:30:46.600358347Z",
+  "model": "glm-5.3"
+}

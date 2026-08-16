@@ -1,0 +1,82 @@
+{
+  "tier": "4.6",
+  "verse": 11,
+  "ref": "genesis 33:11",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "بگیر نا ⟨את⟩ برکت من که آورده شده است برایت زیرا بخشید مرا الوهیم و زیرا هست برای من همه و اصرار کرد بر او و گرفت",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "بگیر"
+    },
+    {
+      "surface": "נא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "برکت من"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "برکت من"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "آورده شده است"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برایت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "بخشید مرا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "و زیرا"
+    },
+    {
+      "surface": "יש",
+      "gloss": "هست"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برای من"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همه"
+    },
+    {
+      "surface": "ויפצר",
+      "gloss": "و اصرار کرد"
+    },
+    {
+      "surface": "בו",
+      "gloss": "بر او"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "و گرفت"
+    }
+  ],
+  "timestamp": "2026-08-15T03:41:07.556551059Z",
+  "model": "glm-4.6"
+}

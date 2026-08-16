@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 18:3",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و نگهبانیِ تو را نگه دارند، و نگهبانیِ کلِ چادر را، اما به اسبابِ مقدس و به مذبح نزدیک نشوند، و نمرند، هم آنان هم شما.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "و نگه دارند"
+    },
+    {
+      "surface": "משמרתך",
+      "gloss": "نگهبانیِ تو"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "و نگهبانیِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کلِ"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "چادر"
+    },
+    {
+      "surface": "אך",
+      "gloss": "اما"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "اسبابِ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و به"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יקרבו",
+      "gloss": "نزدیک شوند"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "بمیرند"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "הם",
+      "gloss": "آنان"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "شما"
+    }
+  ],
+  "timestamp": "2026-08-13T20:37:11.585976344Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 31:39",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و الاغان سی هزار و پانصد، و مَکْسِ ایشان برای یاهوه یکی و شصت.",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "و الاغان"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "و پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "و مَکْسِ ایشان"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "برای یاهوه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "و شصت"
+    }
+  ],
+  "timestamp": "2026-08-13T20:40:57.723875848Z",
+  "model": "glm-5.2"
+}

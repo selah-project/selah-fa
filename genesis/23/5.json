@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "و پاسخ دادند پسرانِ حِت ⟨את⟩ اَوراهام، به او گفتن:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "و پاسخ دادند"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "حِت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَوراهام"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراهام"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به گفتن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:00:23.231935977Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "nehemiah 7:50",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "پسرانِ رَعایا، پسرانِ رَصین، پسرانِ نِقودا،",
+  "tokens": [
+    {
+      "surface": "בְּנֵי",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "רְאָיָ֥ה",
+      "gloss": "رَعایا"
+    },
+    {
+      "surface": "בְנֵי",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "רְצִ֖ין",
+      "gloss": "رَصین"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "נְקוֹדָֽא",
+      "gloss": "نِقودا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:32:58.540249635Z",
+  "model": "glm-5.2"
+}

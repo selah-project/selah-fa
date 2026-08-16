@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و از سبطِ اَشِر ⟨את⟩ مِیشال و ⟨את⟩ مراتعش، ⟨את⟩ عَودون و ⟨את⟩ مراتعش را،",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "و از سبطِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اَشِر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مِیشال"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "مِیشال"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مراتعش"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "مراتعش"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عَودون"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "عَودون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مراتعش"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "مراتعش"
+    }
+  ],
+  "timestamp": "2026-08-13T20:59:22.035967575Z",
+  "model": "glm-5.2"
+}

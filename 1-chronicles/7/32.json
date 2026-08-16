@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و حِبِر ⟨את⟩ یَفلِت را زاد، و ⟨את⟩ شومِر، و ⟨את⟩ حوتام، و ⟨את⟩ شوعا، خواهرِ آنان.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "و حِبِر"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یَفلِت"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "یَفلِت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "شومِر"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "شومِر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "حوتام"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "حوتام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "شوعا"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "شوعا"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "خواهرِ آنان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:29.762401430Z",
+  "model": "glm-5.2"
+}

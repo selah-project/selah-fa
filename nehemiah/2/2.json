@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 2:2",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و پادشاه به من گفت: چرا رویِ تو بد است و تو بیمار نیستی؟ این نیست مگر ₹رنجِ دل₹. و من بسیار بسیار ترسیدم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "رویِ تو"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "بد است"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "و تو"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "نبودی؟"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "بیمار"
+    },
+    {
+      "surface": "אין",
+      "gloss": "این نیست"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אם",
+      "gloss": "مگر"
+    },
+    {
+      "surface": "רע",
+      "gloss": "رنجِ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "و من ترسیدم"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بسیار"
+    }
+  ],
+  "timestamp": "2026-08-13T23:31:32.120074006Z",
+  "model": "glm-5.2"
+}

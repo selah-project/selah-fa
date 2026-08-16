@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 21:31",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "اسب برای روزِ جنگ آماده می‌شود، و رستگاری از آنِ یاهوه است.",
+  "tokens": [
+    {
+      "surface": "סוס",
+      "gloss": "اسب"
+    },
+    {
+      "surface": "מוכן",
+      "gloss": "آماده می‌شود"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "برای روزِ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "و از آنِ یاهوه"
+    },
+    {
+      "surface": "התשועה",
+      "gloss": "رستگاری است"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:48.830248140Z",
+  "model": "glm-5.2"
+}

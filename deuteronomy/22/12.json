@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 22:12",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "گُل‌ها بسازی برای خود بر چهار بالِ پوششِت که با آن می‌پوشانی.",
+  "tokens": [
+    {
+      "surface": "גְּדִלִים",
+      "gloss": "گُل‌ها"
+    },
+    {
+      "surface": "תַּעֲשֶׂה",
+      "gloss": "بسازی"
+    },
+    {
+      "surface": "לָּךְ",
+      "gloss": "برایِ تو"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "אַרְבַּע",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "כַּנְפ֥וֹת",
+      "gloss": "بالِ"
+    },
+    {
+      "surface": "כְּסוּתְךָ֖",
+      "gloss": "پوششِ تو"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "که"
+    },
+    {
+      "surface": "תְּכַסֶּ֖ה",
+      "gloss": "می‌پوشانی"
+    },
+    {
+      "surface": "בָּֽהּ",
+      "gloss": "با آن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:48:57.785511142Z",
+  "model": "glm-5.2"
+}

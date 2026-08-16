@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "که ویرانی می‌پژوید دلِ ایشان، و رنج، لبانِ ایشان خواهند گفت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "שד",
+      "gloss": "ویرانی"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "می‌پژوید"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "دلِ ایشان"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "و رنج"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "لبانِ ایشان"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "خواهند گفت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:49.803279821Z",
+  "model": "glm-5.2"
+}

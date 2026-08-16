@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 92:13",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 92,
+  "translation": "صدیق چون نخل شکوفا شود، چون سِدر در لِوانون بلند گردد.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "صدیق"
+    },
+    {
+      "surface": "כתמר",
+      "gloss": "چون نخل"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "شکوفا شود"
+    },
+    {
+      "surface": "כארז",
+      "gloss": "چون سِدر"
+    },
+    {
+      "surface": "בלבנון",
+      "gloss": "در لِوانون"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "بلند گردد"
+    }
+  ],
+  "timestamp": "2026-08-13T22:50:57.216162542Z",
+  "model": "glm-5.2"
+}

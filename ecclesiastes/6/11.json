@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "که سخنانِ بسیار هستند که هَبَل را می‌فزایند؛ چه مازاد برای آدم است؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "יש",
+      "gloss": "هستند"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "سخنانِ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "که می‌فزایند"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هَبَل را"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "مازاد"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "برای آدم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:13.771164842Z",
+  "model": "glm-5.2"
+}

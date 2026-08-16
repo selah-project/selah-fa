@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "برای رهبر، بر آهوی سپیده‌دم، مزموری برای داوود.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "برای رهبر"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "آهوی"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "سپیده‌دم"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزموری"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "برای داوود"
+    }
+  ],
+  "timestamp": "2026-08-13T22:40:04.006106372Z",
+  "model": "glm-5.2"
+}

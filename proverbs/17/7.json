@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "نه، برازنده‌ است به نابال، لبتِ برتری؛ همچنین، که به ندیو، لبتِ دروغ.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נָאוָ֣ה",
+      "gloss": "برازنده است"
+    },
+    {
+      "surface": "לְנָבָ֣ל",
+      "gloss": "به نابال"
+    },
+    {
+      "surface": "שְׂפַת",
+      "gloss": "لبتِ"
+    },
+    {
+      "surface": "יֶ֑תֶר",
+      "gloss": "برتری"
+    },
+    {
+      "surface": "אַ֝֗ף",
+      "gloss": "همچنین"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "که"
+    },
+    {
+      "surface": "לְנָדִ֥יב",
+      "gloss": "به ندیو"
+    },
+    {
+      "surface": "שְׂפַת",
+      "gloss": "لبتِ"
+    },
+    {
+      "surface": "שָֽׁקֶר",
+      "gloss": "دروغ"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:57.882086016Z",
+  "model": "glm-5.2"
+}

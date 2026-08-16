@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 16:14",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "از این سبب نام بر چاه نهادند: چاهِ حیِّ بینای من؛ اینک ⟨او⟩ میان قادِش و میان بَرَد ⟨است⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "این"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "نام نهادند"
+    },
+    {
+      "surface": "לבאר",
+      "gloss": "بر چاه"
+    },
+    {
+      "surface": "באר",
+      "gloss": "چاه"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "حیِّ"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "بینای من"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "בין",
+      "gloss": "میان"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قادِش"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "و میان"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "بَرَد"
+    }
+  ],
+  "timestamp": "2026-08-13T19:58:29.588899291Z",
+  "model": "glm-5.2"
+}

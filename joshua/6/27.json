@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و یاهوه ⟨את⟩ یهوشوع بود، و آوازهٔ او در همهٔ زمین بود.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یهوشوع"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یهوشوع"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "آوازهٔ او"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "در همهٔ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-15T20:53:28.169165510Z",
+  "model": "glm-5.3+hand"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 17:3",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "کورهٔ ذوب برای نقره و کورهٔ ذوب برای طلا، و یاهوه آزمایشگرِ دل‌هاست.",
+  "tokens": [
+    {
+      "surface": "מצרף",
+      "gloss": "کورهٔ ذوب"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "برای نقره"
+    },
+    {
+      "surface": "וכור",
+      "gloss": "و کورهٔ ذوب"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "برای طلا"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "و آزمایشگرِ"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "دل‌هاست"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:55.455946207Z",
+  "model": "glm-5.2"
+}

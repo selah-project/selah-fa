@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "پایانی آمده، آمده است پایان؛ بیدار شده است بر تو؛ اینک آمده است!",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "پایانی"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آمده"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آمده است"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "پایان"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "بیدار شده است"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "بر تو"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "באה",
+      "gloss": "آمده است"
+    }
+  ],
+  "timestamp": "2026-08-15T17:39:18.110377134Z",
+  "model": "glm-5.3"
+}

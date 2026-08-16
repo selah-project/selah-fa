@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 26:36",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "وَ این‌ها پسرانِ شوتِلَح: به‌عِیران، خانوادهٔ عِیرانی.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "وَ این‌ها"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "שותלח",
+      "gloss": "شوتِلَح"
+    },
+    {
+      "surface": "לערן",
+      "gloss": "به‌عِیران"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خانوادهٔ"
+    },
+    {
+      "surface": "הערני",
+      "gloss": "عِیرانی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:39:42.270229700Z",
+  "model": "glm-5.2"
+}

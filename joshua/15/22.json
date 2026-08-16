@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 15:22",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و قِینه و دِیمونه و عَدْعَده.",
+  "tokens": [
+    {
+      "surface": "וְקִינָ֥ה",
+      "gloss": "و قِینه"
+    },
+    {
+      "surface": "וְדִֽימוֹנָ֖ה",
+      "gloss": "و دِیمونه"
+    },
+    {
+      "surface": "וְעַדְעָדָֽה",
+      "gloss": "و عَدْعَده"
+    }
+  ],
+  "timestamp": "2026-08-13T20:57:59.886081041Z",
+  "model": "glm-5.2"
+}

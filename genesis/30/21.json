@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "و بعدْ زایید دختری، و نام او را دینه نهاد.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "و بعدْ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "زایید"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دختری"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "و نام نهاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نام او"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "نامِ او"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "دینه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:02:09.950408906Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "proverbs 28:11",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "مردِ ثروتمند در چشمِ خودش حکیم است، و فقیرِ فهمیدن او را می‌کاود.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "حکیم است"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "در چشمِ خودش"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ثروتمند"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "و فقیر"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "فهمیدن"
+    },
+    {
+      "surface": "יחקרנו",
+      "gloss": "او را می‌کاود"
+    }
+  ],
+  "timestamp": "2026-08-15T04:28:17.795750334Z",
+  "model": "glm-5.3"
+}

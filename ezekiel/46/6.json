@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 46:6",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 46,
+  "translation": "و در روزِ ماهِ نو، گاوی پسرِ گاو، بی‌نقص، و شش بره و قوچ بی‌نقص باشند.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "و در روزِ"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ماهِ نو"
+    },
+    {
+      "surface": "פר",
+      "gloss": "گاوی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "گاو"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "بی‌نقص"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "و شش"
+    },
+    {
+      "surface": "כבשם",
+      "gloss": "بره"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "و قوچ"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "بی‌نقص"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "باشند"
+    }
+  ],
+  "timestamp": "2026-08-13T22:24:00.146891469Z",
+  "model": "glm-5.2"
+}

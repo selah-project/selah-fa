@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 3:29",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و زدند ⟨את⟩ موآب در آن هنگام، نزدیک ده‌هزار مرد، تمامِ چاق و تمام مردِ دلاور، و نگریخت هیچ‌مرد.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "و زدند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موآب"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "در هنگامِ"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "نزدیک ده‌تا"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "چاق"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و تمامِ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردِ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "دلاور"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "گریخت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هیچ‌مرد"
+    }
+  ],
+  "timestamp": "2026-08-13T21:01:35.744070392Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "تنها گوشت با نَفَشِ خود، خونِ آن را نخورید.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "تنها"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "با نَفَشِ خود"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "خونِ آن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "بخورید"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:44.535029463Z",
+  "model": "glm-5.2"
+}

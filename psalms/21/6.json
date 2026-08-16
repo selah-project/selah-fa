@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "بزرگ ⟨است⟩ جلالِ او در نجاتِ تو؛ شوکت و شکوه بر او می‌نهی.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "جلالِ او"
+    },
+    {
+      "surface": "بישועתך",
+      "gloss": "در نجاتِ تو"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "شوکت"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "و شکوه"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "می‌نهی"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر او"
+    }
+  ],
+  "timestamp": "2026-08-15T04:22:39.567502478Z",
+  "model": "glm-5.3"
+}

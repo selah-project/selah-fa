@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 22:22",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "کور یا شکسته یا بریده یا دُمَلی یا گَرَو یا خارش‌دار، این‌ها را به یاهوه نزدیک نیاورید، و ایشه‌ای از آن‌ها را بر مذبح به یاهوه ندهید.",
+  "tokens": [
+    {
+      "surface": "עורת",
+      "gloss": "کور"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "שבור",
+      "gloss": "شکسته"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "بریده"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "יבלת",
+      "gloss": "دُمَلی"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "گَرَو"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "ילפת",
+      "gloss": "خارش‌دار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "نزدیک بیاورید"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها را"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "به یاهوه"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "و ایشه‌ای"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "بدهید"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "از آن‌ها"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "به یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:28:24.025824607Z",
+  "model": "glm-5.2"
+}

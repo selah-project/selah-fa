@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 13:36",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "وکاهن او ببیند، واینک پسیده نَتِق در پوست، نبیند کاهن موی زرد را، نجوس اوست.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "وببیند او را"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "واینک"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "پسیده"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "نَتِق"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "در پوست"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבקר",
+      "gloss": "ببیند"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "به موی"
+    },
+    {
+      "surface": "הצהב",
+      "gloss": "زرد"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجوس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوست"
+    }
+  ],
+  "timestamp": "2026-08-13T20:25:08.098403825Z",
+  "model": "glm-5.2"
+}

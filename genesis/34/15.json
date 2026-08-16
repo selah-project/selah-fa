@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 34:15",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 34,
+  "translation": "تنها در این موافقت می‌کنیم با شما: اگر چون ما باشید، ختنه‌شدنِ برای شما هر نَر را.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "تنها"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "در این"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "موافقت می‌کنیم"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "با شما"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "باشید"
+    },
+    {
+      "surface": "כמנו",
+      "gloss": "چون ما"
+    },
+    {
+      "surface": "להמל",
+      "gloss": "ختنه‌شدنِ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "برای شما"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نَر"
+    }
+  ],
+  "timestamp": "2026-08-13T20:05:18.867765248Z",
+  "model": "glm-5.2"
+}

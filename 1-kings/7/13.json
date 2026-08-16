@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و پادشاه شلومه فرستاد و ⟨את⟩ حیرام را از صفورد گرفت.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "وفرستاد"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومه"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "وگرفت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حیرام را"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "حیرام"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "ازصور"
+    }
+  ],
+  "timestamp": "2026-08-13T21:26:30.339435149Z",
+  "model": "glm-5.2"
+}

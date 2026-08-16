@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 119,
+  "translation": "زمین از رحمتِ تو پُر است، ای یاهوه؛ احکامِ تو را به من بیاموز.",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "رحمتِ تو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ای یاهوه"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "پُر است"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "احکامِ تو"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "به من بیاموز"
+    }
+  ],
+  "timestamp": "2026-08-15T17:40:25.741362429Z",
+  "model": "glm-5.3"
+}

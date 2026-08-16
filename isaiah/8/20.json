@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 8:20",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "به تورا و به گواهی! اگر نه، بگویند چون این سخن که برای او سپیده‌دمی نیست.",
+  "tokens": [
+    {
+      "surface": "לתורה",
+      "gloss": "به تورا"
+    },
+    {
+      "surface": "ולתעודה",
+      "gloss": "و به گواهی"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "بگویند"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "چونِ سخنِ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برای او"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "سپیده‌دمی"
+    }
+  ],
+  "timestamp": "2026-08-13T21:42:24.029440025Z",
+  "model": "glm-5.2"
+}

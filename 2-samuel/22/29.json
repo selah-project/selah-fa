@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 22:29",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "که تو چراغِ من هستی، ای یاهوه، و یاهوه تاریکیِ مرا روشن می‌کند.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "נירי",
+      "gloss": "چراغِ من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "و یاهوه"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "روشن می‌کند"
+    },
+    {
+      "surface": "חשכי",
+      "gloss": "تاریکیِ مرا"
+    }
+  ],
+  "timestamp": "2026-08-13T21:23:03.021739155Z",
+  "model": "glm-5.2"
+}

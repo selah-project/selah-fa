@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "و او را با روحِ الوهیم پر کرد، در حکمت، در فهم، و در دانش، و در تمامِ کار.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "و پر کرد"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "او را"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "با روحِ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "در حکمت"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "در فهم"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "و در دانش"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "و در تمامِ"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "کار"
+    }
+  ],
+  "timestamp": "2026-08-13T20:20:27.865945246Z",
+  "model": "glm-5.2"
+}

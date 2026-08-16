@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 3:18",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و گفتم: هلاک شد پایداریِ من، و امیدِم از نزد یاهوه.",
+  "tokens": [
+    {
+      "surface": "וָאֹמַר",
+      "gloss": "و گفتم"
+    },
+    {
+      "surface": "אָבַד",
+      "gloss": "هلاک شد"
+    },
+    {
+      "surface": "נִצְחִי",
+      "gloss": "پایداریِ من"
+    },
+    {
+      "surface": "וְתוֹחַלְתִּי",
+      "gloss": "و امیدِم"
+    },
+    {
+      "surface": "מֵיְהוָה",
+      "gloss": "از نزد یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:18:13.800058201Z",
+  "model": "glm-5.2"
+}

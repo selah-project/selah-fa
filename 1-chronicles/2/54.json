@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 54,
+  "ref": "1-chronicles 2:54",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "پسرانِ سَلما: بیت‌لِحِم، و نطوفاتی، عطاروت بیت‌یوآو، و نیمی از مَنَحتی، صُرعی.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "سَلما"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لِحِم"
+    },
+    {
+      "surface": "ונטופתי",
+      "gloss": "و نطوفاتی"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "عطاروت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآو"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "و نیمی از"
+    },
+    {
+      "surface": "המנחתי",
+      "gloss": "مَنَحتی"
+    },
+    {
+      "surface": "הצרעי",
+      "gloss": "صُرعی"
+    }
+  ],
+  "timestamp": "2026-08-15T04:33:31.061726879Z",
+  "model": "glm-5.3"
+}

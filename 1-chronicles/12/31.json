@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 12:31",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و از پسرانِ اِفرایم، بیست هزار و هشتصد، جنگجویانِ توان، مردانِ نام‌دار به خانهٔ پدرانشان.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "و از"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اِفرایم"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "و هشت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "جنگجویانِ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "توان"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "مردانِ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "نام‌دار"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "به خانهٔ"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "پدرانشان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:39:05.449078517Z",
+  "model": "glm-5.2"
+}

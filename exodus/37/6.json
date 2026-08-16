@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 37:6",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "و ساخت کاپورتِ زِ خالص، دو اَمّه و نیم درازای آن، و یک اَمّه و نیم پهنای آن.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و ساخت"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "کاپورت"
+    },
+    {
+      "surface": "זהب",
+      "gloss": "زِ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "خالص"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "دو اَمّه"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "و نیم"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "درازای آن"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "و اَمّه‌ای"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "و نیم"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "پهنای آن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:20:30.040426802Z",
+  "model": "glm-5.2"
+}

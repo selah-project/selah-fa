@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و ⟨את⟩ صحرای شهر و ⟨את⟩ حیاط‌هایش را به کالِو پسر یِفونّه دادند.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "صحرای شهر"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "صحرا"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "حیاط‌هایش"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "حیاط‌هایش"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "دادند"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "به کالِو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "یِفونّه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:55.781844123Z",
+  "model": "glm-5.2"
+}

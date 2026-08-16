@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "به‌امیدِ شَلوم، و نیست نیکی؛ برای زمانِ درمان، و اینک بَعاته!",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "به‌امیدِ"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "شَلوم"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نیست"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیکی"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "برای زمانِ"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "درمان"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "بَعاته"
+    }
+  ],
+  "timestamp": "2026-08-14T00:05:54.748579738Z",
+  "model": "glm-5.2"
+}

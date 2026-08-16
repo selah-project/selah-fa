@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 35:20",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "و اگر از روی کینه او را براند، یا چیزی بر او بیفکند به‌قصدِ کمین، و بمیرد،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "בשנאה",
+      "gloss": "از روی کینه"
+    },
+    {
+      "surface": "יהדפנו",
+      "gloss": "او را براند"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "השליך",
+      "gloss": "بیفکند"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر او"
+    },
+    {
+      "surface": "בצדיה",
+      "gloss": "به‌قصدِ کمین"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و بمیرد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:42:33.367352029Z",
+  "model": "glm-5.2"
+}

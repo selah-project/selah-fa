@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "و بگیری ⟨את⟩ دو سنگِ شُهَم را، و کنی حکاری بر آن‌ها نام‌های پسرانِ یِسرائیل را،",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "و بگیری"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دو"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "سنگِ"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "شُهَم"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "و کنی حکاری"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "بر آن‌ها"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "نام‌های"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-13T20:17:02.207006515Z",
+  "model": "glm-5.2"
+}

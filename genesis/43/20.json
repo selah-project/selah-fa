@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 43:20",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 43,
+  "translation": "و گفتند: بی‌گمان، اَدونایِ من، فرود آمدیم در آغاز برای خریدِ غذا.",
+  "tokens": [
+    {
+      "surface": "ויאمרו",
+      "gloss": "و گفتند"
+    },
+    {
+      "surface": "בי",
+      "gloss": "بی‌گمان"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونایِ من"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "فرود آمد"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "فرود آمدیم"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "در آغاز"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "برای خریدِ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "غذا"
+    }
+  ],
+  "timestamp": "2026-08-13T20:07:20.910962941Z",
+  "model": "glm-5.2"
+}

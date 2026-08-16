@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "انسانِ ستمکار در خونِ نَفَش تا گودال می‌گریزد؛ او را یاری نکنند.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "ستمکار"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "در خونِ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفَش"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "בור",
+      "gloss": "گودال"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "می‌گریزد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نـ"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "یاری کنند"
+    },
+    {
+      "surface": "בו",
+      "gloss": "او را"
+    }
+  ],
+  "timestamp": "2026-08-13T23:05:53.055040532Z",
+  "model": "glm-5.2"
+}

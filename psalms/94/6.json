@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 94,
+  "translation": "بیوه و زائر را می‌کُشند، و یتیمان را به‌قتل می‌رسانند.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "بیوه"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "و زائر"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "می‌کُشند"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "و یتیمان"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "به‌قتل می‌رسانند"
+    }
+  ],
+  "timestamp": "2026-08-13T22:50:45.494152111Z",
+  "model": "glm-5.2"
+}

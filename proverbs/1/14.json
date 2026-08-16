@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 1:14",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "قرعهٔ خود را در میان ما بینداز، کیسه‌ای یک ⟨خواهد بود⟩ برای همهٔ ما.",
+  "tokens": [
+    {
+      "surface": "גורלך",
+      "gloss": "قرعهٔ خود را"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "بینداز"
+    },
+    {
+      "surface": "בתוכנו",
+      "gloss": "در میان ما"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "کیسه‌ای"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨خواهد بود⟩"
+    },
+    {
+      "surface": "לכלנו",
+      "gloss": "برای همهٔ ما"
+    }
+  ],
+  "timestamp": "2026-08-13T22:59:05.978450086Z",
+  "model": "glm-5.2"
+}

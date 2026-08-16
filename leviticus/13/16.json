@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "یا هنگامی که گوشتِ زده بازگردد وبه سپیدی برگردد، نزدِ کاهن بیاید.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "هنگامی که"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "بازگردد"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشتِ"
+    },
+    {
+      "surface": "החי",
+      "gloss": "زنده"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "وبه"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "سپیدی برگردد"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "بیاید"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نزدِ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:25:05.538748047Z",
+  "model": "glm-5.2"
+}

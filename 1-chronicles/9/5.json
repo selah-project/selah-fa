@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 9:5",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و از ⟨ال⟩ شیلونی‌ها: عسایه ⟨ال⟩ اول‌زاده و پسرانش.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "و از"
+    },
+    {
+      "surface": "השילוני",
+      "gloss": "⟨ال⟩ شیلونی‌ها"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "عسایه"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "⟨ال⟩ اول‌زاده"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "و پسرانش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:38:13.262247441Z",
+  "model": "glm-5.2"
+}

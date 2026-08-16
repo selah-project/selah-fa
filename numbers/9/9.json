@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 9:9",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و یاهوه با موسه سخن گفت، به بیانِ این:",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֥ר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "با"
+    },
+    {
+      "surface": "מֹשֶׁ֥ה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "לֵּאמֹֽר",
+      "gloss": "به بیانِ این:"
+    }
+  ],
+  "timestamp": "2026-08-13T20:34:01.908113075Z",
+  "model": "glm-5.2"
+}

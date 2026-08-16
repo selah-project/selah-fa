@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 17:4",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "برو و به داوود بندهٔ من بگو: اینک یاهوه می‌گوید: تو برای من خانه‌ای نسازی برای سکونت.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "برو"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "و بگو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "بندهٔ من"
+    },
+    {
+      "surface": "כה",
+      "gloss": "این‌گونه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "خواهی ساخت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برای من"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "خانه را"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "برای سکونت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:28.827660326Z",
+  "model": "glm-5.2"
+}

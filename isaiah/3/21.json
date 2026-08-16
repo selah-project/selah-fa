@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 3:21",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "انگشترها و حلقه‌های بینی،",
+  "tokens": [
+    {
+      "surface": "הַטַּבָּע֖וֹת",
+      "gloss": "انگشترها"
+    },
+    {
+      "surface": "וְנִזְמֵ֥י",
+      "gloss": "و حلقه‌های"
+    },
+    {
+      "surface": "הָאָֽף",
+      "gloss": "بینی"
+    }
+  ],
+  "timestamp": "2026-08-13T21:41:32.132030969Z",
+  "model": "glm-5.2"
+}

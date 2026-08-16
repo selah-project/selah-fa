@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 15:37",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "تسنان، و حداشه، و مِگدال-گاد،",
+  "tokens": [
+    {
+      "surface": "צְנָ֥ן",
+      "gloss": "تسنان"
+    },
+    {
+      "surface": "וַחֲדָשָׁ֖ה",
+      "gloss": "و حداشه"
+    },
+    {
+      "surface": "וּמִגְדַּל",
+      "gloss": "و مِگدال-"
+    },
+    {
+      "surface": "גָּֽד",
+      "gloss": "گاد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:57:57.667110744Z",
+  "model": "glm-5.2"
+}

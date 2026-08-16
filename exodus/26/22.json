@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 26:22",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "و برای انتهای مسکن به سوی دری، شش تخته بساز.",
+  "tokens": [
+    {
+      "surface": "ולירכתי",
+      "gloss": "وبرایِانتهایِ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکنِ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "به‌سویِدری"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "بساز"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "شش"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "تخته"
+    }
+  ],
+  "timestamp": "2026-08-13T20:16:46.940814943Z",
+  "model": "glm-5.2"
+}

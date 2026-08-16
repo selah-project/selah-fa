@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 2:11",
+  "book": "zechariah",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "هوی، صهیون! بگریز، ای ساکنِ ⟨پسر⟩ بابل.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "هوی"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهیون"
+    },
+    {
+      "surface": "המלטי",
+      "gloss": "بگریز"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "ای ساکن"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دختر\/پسر"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    }
+  ],
+  "timestamp": "2026-08-13T22:34:41.081195706Z",
+  "model": "glm-5.2"
+}

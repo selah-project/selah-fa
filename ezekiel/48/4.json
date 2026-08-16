@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 48:4",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 48,
+  "translation": "و بر مرزِ نَفتالی، از طرفِ شرق تا طرفِ دریا — مَنَسّه، یکی.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "مرزِ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نَفتالی"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "از طرفِ"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "شرق"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "طرفِ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مَنَسّه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکی"
+    }
+  ],
+  "timestamp": "2026-08-13T22:25:02.557273087Z",
+  "model": "glm-5.2"
+}

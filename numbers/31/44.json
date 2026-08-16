@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 31:44",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و شکار شش و سی هزار،",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "و شکار"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "شش"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "و سی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    }
+  ],
+  "timestamp": "2026-08-13T20:40:44.567452344Z",
+  "model": "glm-5.2"
+}

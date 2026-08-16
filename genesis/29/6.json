@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 29:6",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و ⟨او⟩ به آنان گفت: آیا برای او سلامت است؟ و آنان گفتند: سلامت، و اینک راحل دخترِ او با گله می‌آید.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "به آنان"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "آیا سلامت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برای او"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "و گفتند"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامت"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحل"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "دخترِ او"
+    },
+    {
+      "surface": "באה",
+      "gloss": "می‌آید"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "گله"
+    }
+  ],
+  "timestamp": "2026-08-13T20:02:10.154181598Z",
+  "model": "glm-5.2"
+}

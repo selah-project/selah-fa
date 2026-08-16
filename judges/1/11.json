@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 1:11",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و رفت از آنجا به سوی ساکنانِ دَبیر — و نامِ دَبیر پیش‌تر قریة سِفْر بود.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "و رفت"
+    },
+    {
+      "surface": "משם",
+      "gloss": "از آنجا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ساکنانِ"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "دَبیر"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "و نامِ"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "دَبیر"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "پیش‌تر"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قریةِ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "سِفْر"
+    }
+  ],
+  "timestamp": "2026-08-13T21:00:11.147149588Z",
+  "model": "glm-5.2"
+}

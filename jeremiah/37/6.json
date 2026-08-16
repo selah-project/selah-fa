@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 37:6",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "و بود کلامِ یاهوه به یِرْمِیاهو، نبی، به گفتن:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرْمِیاهو"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به گفتن"
+    }
+  ],
+  "timestamp": "2026-08-13T22:06:46.301077700Z",
+  "model": "glm-5.2"
+}

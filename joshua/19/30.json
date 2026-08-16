@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 19:30",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و عوما و آفِک و رَحوب؛ شهرها بیست و دو، و водоاری‌شان.",
+  "tokens": [
+    {
+      "surface": "ועמה",
+      "gloss": "و عوما"
+    },
+    {
+      "surface": "ואפק",
+      "gloss": "و آفِک"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "و رَحوب"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شهرها"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "و دو"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "و водоاری‌شان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:59:02.580506231Z",
+  "model": "glm-5.2"
+}

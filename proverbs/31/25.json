@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "proverbs 31:25",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "نیرو و شکوه جامهٔ اوست، و ⟨او⟩ بر روزِ واپسین می‌خندد.",
+  "tokens": [
+    {
+      "surface": "עז",
+      "gloss": "نیرو"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "و شکوه"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "جامهٔ اوست"
+    },
+    {
+      "surface": "ותשחק",
+      "gloss": "و می‌خندد"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "بر روز"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "واپسین"
+    }
+  ],
+  "timestamp": "2026-08-15T20:54:00.923874560Z",
+  "model": "glm-5.3"
+}

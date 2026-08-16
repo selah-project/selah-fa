@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 48:25",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 48,
+  "translation": "و بر کنارِ شیمئون، از سویِ خاور تا سویِ دریا، یِساسخار، یکی ⟨بخش⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "کنارِ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شیمئون"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "از سویِ"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "خاور"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "سویِ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "یِساسخار"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکی"
+    }
+  ],
+  "timestamp": "2026-08-13T22:25:29.068938341Z",
+  "model": "glm-5.2"
+}

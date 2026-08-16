@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 27:9",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "روغن و عود، دل را شاد می‌کنند، و شیرینیِ دوستش از مشورتی است از جانِ نفس.",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "روغن"
+    },
+    {
+      "surface": "וקטרת",
+      "gloss": "و عود"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "شاد می‌کند"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل را"
+    },
+    {
+      "surface": "ומתק",
+      "gloss": "و شیرینیِ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "دوستش"
+    },
+    {
+      "surface": "מעצת",
+      "gloss": "از مشورتی"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "از جانِ نفس"
+    }
+  ],
+  "timestamp": "2026-08-13T23:05:42.859922432Z",
+  "model": "glm-5.2"
+}

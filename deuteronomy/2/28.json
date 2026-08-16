@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 2:28",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "خوراک به نقره به من بفروشی و بخورم، و آب به نقره به من دهی و بنوشم؛ تنها بگذرانم بر پای‌هایم.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "خوراک"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "به نقره"
+    },
+    {
+      "surface": "תשברני",
+      "gloss": "به من بفروشی"
+    },
+    {
+      "surface": "ואכלתי",
+      "gloss": "و بخورم"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "و آب"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "به نقره"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دهی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "و بنوشم"
+    },
+    {
+      "surface": "רק",
+      "gloss": "تنها"
+    },
+    {
+      "surface": "אעברה",
+      "gloss": "بگذرانم"
+    },
+    {
+      "surface": "ברגלי",
+      "gloss": "بر پای‌هایم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:43:26.819928135Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 18:14",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "برهنگیِ برادرِ پدرت را برملا نکنی؛ به زنِ او نزدیک نشوی؛ او عمهٔ تو ⟨است⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "برهنگیِ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برادرِ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "پدرت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "کنی برملا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "زنِ او"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "شوی نزدیک"
+    },
+    {
+      "surface": "דדתך",
+      "gloss": "عمهٔ تو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او ⟨است⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T20:26:28.406452212Z",
+  "model": "glm-5.2"
+}

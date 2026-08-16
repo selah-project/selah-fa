@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 48:23",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 48,
+  "translation": "وبقیه‌یِ سبط‌ها از سمتِ شرقی تا سمتِ دریا، بنیامین یک.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "وبقیه‌یِ"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "سبط‌ها"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "از سمتِ"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "شرقی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "سمتِ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنیامین"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-08-13T22:25:21.976390736Z",
+  "model": "glm-5.2"
+}

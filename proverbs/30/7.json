@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "دو چیز از نزد ⟨את⟩ تو خواسته‌ام؛ از من دریغ مکن، پیش از آنکه بمیرم.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "دو چیز"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "خواسته‌ام"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ از نزد تو",
+      "marks": "تو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مکن (نفی)"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "دریغ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "از من"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "پیش از آنکه"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "بمیرم"
+    }
+  ],
+  "timestamp": "2026-08-15T04:27:48.057748395Z",
+  "model": "glm-5.3"
+}

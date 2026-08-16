@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و کشیشِ مشیح از خونِ گاوِ نر به درونِ خیمهٔ موعد بیاورد،",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "و بیاورد"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کشیشِ"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "مشیح"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "از خونِ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "گاوِ نر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به درونِ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمهٔ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "موعد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:22:41.391875314Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 18:11",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و ⟨او⟩ ⟨את⟩ همهٔ این‌ها را نکرد، که حتی بر کوه‌ها خورد و ⟨את⟩ زنِ همسایهٔ خود را نجّس کرد.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "و"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همهٔ این‌ها"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نکرد"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "גם",
+      "gloss": "حتی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "کوه‌ها"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "خورد"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "زنِ همسایهٔ خود"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زنِ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "همسایهٔ خود"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجّس کرد"
+    }
+  ],
+  "timestamp": "2026-08-14T00:07:49.925293134Z",
+  "model": "glm-5.2"
+}

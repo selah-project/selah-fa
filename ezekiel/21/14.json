@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 21:14",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "پسرِ آدم، نبوت کن و بگو: چنین گفت اَدونای: بگو: شمشیر، شمشیر، تیز شد و نیز صیقل یافت،",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "نبوت کن"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "و بگو"
+    },
+    {
+      "surface": "כה",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "بگو"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "شمشیر"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "شمشیر"
+    },
+    {
+      "surface": "הוחדה",
+      "gloss": "تیز شد"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "و نیز"
+    },
+    {
+      "surface": "מרוטה",
+      "gloss": "صیقل یافت"
+    }
+  ],
+  "timestamp": "2026-08-13T22:16:57.582148530Z",
+  "model": "glm-5.2"
+}

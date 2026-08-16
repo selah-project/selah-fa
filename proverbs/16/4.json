@@ -1,0 +1,45 @@
+{
+  "tier": "hand",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "هر کردهٔ یاهوه برای مقصودش ⟨است⟩، و نیز شریر برای روزِ بلا.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "کردهٔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "برای مقصودش"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "و نیز"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شریر"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "برای روزِ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بلا"
+    }
+  ],
+  "timestamp": "2026-08-14T17:46:57Z",
+  "model": "claude-fable-5/hand"
+}

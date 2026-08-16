@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و نوح ساخت؛ بر اساسِ همهٔ آنچه الوهیم به او دستور داده بود ⟨את⟩، همین‌طور کرد.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و ساخت"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "بر اساسِ همهٔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنچه"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "دستور داده بود"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "او"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همین‌طور"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرد"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:50.157338706Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 15:21",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و چون در آن عیبی باشد، لنگ یا کور، هر عیبِ بد، آن را برای یاهوه الوهیمِ خود ذبح نکنی.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "و چون"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "باشد"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در آن"
+    },
+    {
+      "surface": "מום",
+      "gloss": "عیبی"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "لنگ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "עור",
+      "gloss": "کور"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "מום",
+      "gloss": "عیب"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תזבחנו",
+      "gloss": "ذبحش کنی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "برای یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "الوهیمِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:46:49.348266919Z",
+  "model": "glm-5.2"
+}

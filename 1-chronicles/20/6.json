@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 20:6",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و بودی دیگر جنگی در گَت، و بود مردی ⟨از⟩ قامت، و انگشتانش شش و شش بیست و چهار، و همچنین او ⟨او⟩ زاده‌شد به هَرافا.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "و بودی"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیگر"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگی"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "در گَت"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "⟨از⟩ قامت"
+    },
+    {
+      "surface": "ואצבעתיו",
+      "gloss": "و انگشتانش"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شش"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "و شش"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "و چهار"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "و همچنین"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "زاده‌شد"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "به هَرافا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:50.398784720Z",
+  "model": "glm-5.2"
+}

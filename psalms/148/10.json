@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 148,
+  "translation": "حیوانِ وحشی و تمام بهیمه‌ها، خزندگان و پرندهٔ بال‌دار،",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "حیوانِ وحشی"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و تمام"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "بهیمه‌ها"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "خزندگان"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "و پرنده"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "بال‌دار"
+    }
+  ],
+  "timestamp": "2026-08-13T22:58:26.623189988Z",
+  "model": "glm-5.2"
+}

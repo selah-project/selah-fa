@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "هوی! شهرِ خون‌ها، تمامِ ⟨او⟩ دروغ‌ و غارت، لبریز — طعمه برنمی‌خیزد.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "هوی!"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شهرِ"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "خون‌ها"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "تمامِ ⟨او⟩"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "دروغِ"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "و غارت"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "لبریز"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نـ"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "ـمی‌خیزد"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "طعمه بر"
+    }
+  ],
+  "timestamp": "2026-08-13T22:32:42.362804619Z",
+  "model": "glm-5.2"
+}

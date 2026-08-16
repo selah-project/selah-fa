@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 2:8",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و ⟨آنها⟩ پیش از آنکه بخوابند، و ⟨او⟩ نزدِ آنان بر بام بالا رفت.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "و ⟨آنها⟩"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "پیش ازِ"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "آنکه بخوابند"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "و ⟨او⟩"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "بالا رفت"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "نزدِ آنان"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "بام"
+    }
+  ],
+  "timestamp": "2026-08-13T20:54:01.143135283Z",
+  "model": "glm-5.2"
+}

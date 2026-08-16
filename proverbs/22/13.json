@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "گفت ⟨او⟩ تنبل: «شیری ⟨او⟩ در بیرون است؛ در میان میدان‌ها کشته شوم.»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "تنبل"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "در بیرون"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "در میان"
+    },
+    {
+      "surface": "רחבות",
+      "gloss": "میدان‌ها"
+    },
+    {
+      "surface": "ארצח",
+      "gloss": "کشته شوم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:59.714979784Z",
+  "model": "glm-5.2"
+}

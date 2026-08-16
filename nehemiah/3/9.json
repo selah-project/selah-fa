@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 3:9",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و در کنارِ دستِ ایشان محکم گرفت رپایاه پسرِ حور، سرِ نیمه‌ی ناحیه‌ی یروشالَییم.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و در کنارِ"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "دستِ ایشان"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "محکم گرفت"
+    },
+    {
+      "surface": "רפיה",
+      "gloss": "رپایاه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "חור",
+      "gloss": "حور"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سرِ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "نیمه‌ی"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "ناحیه‌ی"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشالَییم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:31:47.101437395Z",
+  "model": "glm-5.2"
+}

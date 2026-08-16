@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 15:10",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و جمع شدند در یوروشَلایِم در ماهِ سوم، در سالِ پانزدهم، برای پادشاهی آسا.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "و جمع شدند"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "در یوروشَلایِم"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "در ماهِ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "سوم"
+    },
+    {
+      "surface": "לשנת",
+      "gloss": "در سالِ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پانزده"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "برای پادشاهی"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "آسا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:46:23.129235631Z",
+  "model": "glm-5.2"
+}

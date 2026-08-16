@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و با او بی‌گناه بودم، و خود را از گناهِ خویش نگاه داشتم.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "و بودم"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "بی‌گناه"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "با او"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "و خود را نگاه داشتم"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "از گناهِ خویش"
+    }
+  ],
+  "timestamp": "2026-08-13T22:39:16.843169748Z",
+  "model": "glm-5.2"
+}

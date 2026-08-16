@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و یاهوه ⟨את⟩ آدم را دور کند، و رهاشدگان بسیار شوند در میانِ زمین.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "و دور کند"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آدم"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "و بسیار شوند"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "رهاشدگان"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "در میانِ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T21:42:15.877800066Z",
+  "model": "glm-5.2"
+}

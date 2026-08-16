@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 28:2",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "آهن از خاک گرفته می‌شود، و سنگ، مسِ گداخته ⟨است⟩.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "آهن"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "از خاک"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "گرفته می‌شود"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "و سنگ"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "گداخته"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "مس"
+    }
+  ],
+  "timestamp": "2026-08-13T23:11:53.118157043Z",
+  "model": "glm-5.2"
+}

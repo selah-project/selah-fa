@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 21:14",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و داد یاهوه طاعونی در یسرائیل، و افتاد از یسرائیل هفتاد هزار نفر.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "و داد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "طاعون"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "در یسرائیل"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "و افتاد"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "از یسرائیل"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "هفتاد"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "نفر"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:14.594017090Z",
+  "model": "glm-5.2"
+}

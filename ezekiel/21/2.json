@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 21:2",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "پسرِ انسان، رو پَسَرْ خود را به سوی تِیمان بگذار و به سوی داروم بچکان، و به جنگلِ صحرا، نِگِب، نبوت بگو:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "שים",
+      "gloss": "بگذار"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "پَسَرْ خود"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "تِیمان"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "و بچکان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "داروم"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "و نبوت بگو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "יער",
+      "gloss": "جنگلِ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "صحرا"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "نِگِب"
+    }
+  ],
+  "timestamp": "2026-08-13T22:17:08.856482299Z",
+  "model": "glm-5.2"
+}

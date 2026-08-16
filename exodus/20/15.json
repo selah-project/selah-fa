@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 20:15",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "نقرزدری.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "نقرزدری"
+    },
+    {
+      "surface": "תִּגְנֹב",
+      "gloss": "نقرزدری"
+    }
+  ],
+  "timestamp": "2026-08-13T23:54:54.263005237Z",
+  "model": "glm-5.2"
+}

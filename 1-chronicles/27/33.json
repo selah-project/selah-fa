@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 27:33",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "وَ اَخیتُفَل مَشیرِ پادشاه بود، و حوشایِ هارخی رَفیقِ پادشاه.",
+  "tokens": [
+    {
+      "surface": "ואחיתפל",
+      "gloss": "وَ اَخیتُفَل"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "مَشیر"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ِ پادشاه"
+    },
+    {
+      "surface": "וחושי",
+      "gloss": "و حوشای"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "ِ هارخی"
+    },
+    {
+      "surface": "רע",
+      "gloss": "رفیق"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ِ پادشاه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:42:21.255214422Z",
+  "model": "glm-5.2"
+}

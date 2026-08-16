@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "وَ نوح پسرِ ششصد سال ⟨بود⟩، وَ طوفان ⟨بود⟩ آب‌ها بر زمین.",
+  "tokens": [
+    {
+      "surface": "וְנֹ֕חַ",
+      "gloss": "وَ نوح"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "שֵׁ֥שׁ",
+      "gloss": "شش"
+    },
+    {
+      "surface": "מֵא֖וֹת",
+      "gloss": "صد"
+    },
+    {
+      "surface": "שָׁנָ֑ה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וְהַמַּבּ֣וּל",
+      "gloss": "وَ طوفان"
+    },
+    {
+      "surface": "הָיָ֔ה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "מַ֖יִם",
+      "gloss": "آب‌ها"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:15.661047752Z",
+  "model": "glm-5.2"
+}

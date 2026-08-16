@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 27:7",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و اگر از پسرِ شصت سال و بالاتر باشد، اگر نر، آن‌گاه برآوردِ تو پانزده شکل و برای ماده ده شکل باشد.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "از پسرِ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "شصت"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "و بالاتر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "و باشد"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "برآوردِ تو"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-َساله\/ده"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "شکل"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "و برای ماده"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ده"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "شکل"
+    }
+  ],
+  "timestamp": "2026-08-13T20:30:47.243732088Z",
+  "model": "glm-5.2"
+}

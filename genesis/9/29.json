@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 9:29",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و شدند همهٔ روزهای نوح نهصد سال و پنجاه سال، و ⟨او⟩ مُرد.",
+  "tokens": [
+    {
+      "surface": "וַיִּֽהְיוּ֙",
+      "gloss": "و شدند"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "יְמֵי",
+      "gloss": "روزهای"
+    },
+    {
+      "surface": "נֹ֔חַ",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "תְּשַׁ֤ע",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מֵאוֹת֙",
+      "gloss": "صد"
+    },
+    {
+      "surface": "שָׁנָ֔ה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וַחֲמִשִּׁ֖ים",
+      "gloss": "و پنجاه"
+    },
+    {
+      "surface": "שָׁנָ֑ה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וַיָּמֹֽת",
+      "gloss": "و مُرد"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:54.073069253Z",
+  "model": "glm-5.2"
+}

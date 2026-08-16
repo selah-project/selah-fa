@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "1-kings 4:14",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "اَخیناداو پسر عیدّو — در مَحَناییم.",
+  "tokens": [
+    {
+      "surface": "אחינדב",
+      "gloss": "اَخیناداو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "עדא",
+      "gloss": "عیدّو"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "در مَحَناییم"
+    }
+  ],
+  "timestamp": "2026-08-15T04:03:19.876071052Z",
+  "model": "glm-5.3"
+}

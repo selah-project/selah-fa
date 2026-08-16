@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 14:56",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و برای ورم، و برای سَفاخَت، و برای بَهَرَت،",
+  "tokens": [
+    {
+      "surface": "ולשאת",
+      "gloss": "و برای ورم"
+    },
+    {
+      "surface": "ולספחת",
+      "gloss": "و برای سَفاخَت"
+    },
+    {
+      "surface": "ולבהרת",
+      "gloss": "و برای بَهَرَت"
+    }
+  ],
+  "timestamp": "2026-08-13T20:25:14.542348671Z",
+  "model": "glm-5.2"
+}

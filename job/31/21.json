@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 31:21",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "اگر بر یتیم دست برافراشتم، چون ⟨در⟩ دروازه یاریِ خود را دیدم،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "הניפותי",
+      "gloss": "برافراشتم"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "یتیم"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "دست"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "دیدم"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "⟨در⟩ دروازه"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "یاریِ خود را"
+    }
+  ],
+  "timestamp": "2026-08-13T23:12:06.917700432Z",
+  "model": "glm-5.2"
+}

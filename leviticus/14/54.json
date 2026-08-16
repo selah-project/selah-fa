@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 14:54",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "این تورات است برای همهٔ ضربهٔ برص و برای نَتَک.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "برای همهٔ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ضربه"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "برص"
+    },
+    {
+      "surface": "ולנתק",
+      "gloss": "و برای نَتَک"
+    }
+  ],
+  "timestamp": "2026-08-13T20:25:14.542109292Z",
+  "model": "glm-5.2"
+}

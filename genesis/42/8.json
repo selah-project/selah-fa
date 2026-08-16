@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 42,
+  "translation": "و یوسف ⟨את⟩ برادرانِ خود را شناخت، و آنان او را نشناختند.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "و شناخت"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "برادرانِ خود را"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برادرانِ خود"
+    },
+    {
+      "surface": "והם",
+      "gloss": "و آنان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نشناختند"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "او را"
+    }
+  ],
+  "timestamp": "2026-08-13T20:07:19.957692915Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "ده اَمّه درازنای ⟨این⟩ تخته، وَ اَمّه‌ای وَ نیمِ اَمّه پهنای ⟨این⟩ تختهٔ یگانه.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ده"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "اَمّه"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "درازنا"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "تخته"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "وَ اَمّه‌ای"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "وَ نیمِ"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "اَمّه"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "پهنا"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "تختهٔ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یگانه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:17:28.676765978Z",
+  "model": "glm-5.2"
+}

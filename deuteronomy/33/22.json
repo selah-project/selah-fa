@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 33:22",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "و دربارهٔ دان گفت: دان بچهٔ شیری است، از هاباشان می‌جهد.",
+  "tokens": [
+    {
+      "surface": "ולדן",
+      "gloss": "و دربارهٔ دان"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "גור",
+      "gloss": "بچهٔ"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "יזנק",
+      "gloss": "می‌جهد"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "هاباشان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:52:34.719735227Z",
+  "model": "glm-5.2"
+}

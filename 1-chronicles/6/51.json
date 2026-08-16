@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 6:51",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و از خاندان‌های بنی‌قهات، و چنین شد شهرهای مرزِ ایشان از سبط اَفرایم.",
+  "tokens": [
+    {
+      "surface": "וממשפחות",
+      "gloss": "و از خاندان‌های"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی‌"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قهات"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و چنین شد"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شهرهای"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "مرزِ ایشان"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "از سبط"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اَفرایم"
+    }
+  ],
+  "timestamp": "2026-08-14T00:18:04.213474993Z",
+  "model": "glm-5.2"
+}

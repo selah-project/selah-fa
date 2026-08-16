@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 4:4",
+  "book": "zechariah",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و پاسخ دادم و گفتم به فرشتهٔ گوینده در من، به‌قولِ: این‌ها چه‌اند، اَدونای؟",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "و پاسخ دادم"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و گفتم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "فرشتهٔ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "گوینده"
+    },
+    {
+      "surface": "בי",
+      "gloss": "در من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به‌قولِ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    }
+  ],
+  "timestamp": "2026-08-13T22:35:02.805399580Z",
+  "model": "glm-5.2"
+}

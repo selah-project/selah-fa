@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 6:8",
+  "book": "song-of-songs",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "شصت آن‌ها ملکه‌اند و هشتاد کنیزک، و دخترانبکر شمار ندارند.",
+  "tokens": [
+    {
+      "surface": "ששים",
+      "gloss": "شصت"
+    },
+    {
+      "surface": "המה",
+      "gloss": "آن‌ها"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ملکه‌اند"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "و هشتاد"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "کنیزک"
+    },
+    {
+      "surface": "ועלמות",
+      "gloss": "و دخترانبکر"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ندارند"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "شماری"
+    }
+  ],
+  "timestamp": "2026-08-13T23:16:01.704038920Z",
+  "model": "glm-5.2"
+}

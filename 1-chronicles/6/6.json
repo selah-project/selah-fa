@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 6:6",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "یُوآح پسرِ او، عِدّو پسرِ او، زِرَح پسرِ او، یِعَتْرای پسرِ او.",
+  "tokens": [
+    {
+      "surface": "יואח",
+      "gloss": "یُوآح"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرِ او"
+    },
+    {
+      "surface": "עדו",
+      "gloss": "عِدّو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرِ او"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زِرَح"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرِ او"
+    },
+    {
+      "surface": "יאתרי",
+      "gloss": "یِعَتْرای"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:38.637956424Z",
+  "model": "glm-5.2"
+}

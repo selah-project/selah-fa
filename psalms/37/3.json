@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "بر یاهوه توکل کن و نیکو بکن؛ ساکن زمین شو و وفاداری را بچران.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "توکل کن"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "بر یاهوه"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "و بکن"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیکو"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ساکن شو"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "و بچران"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "وفاداری"
+    }
+  ],
+  "timestamp": "2026-08-13T22:42:08.288850721Z",
+  "model": "glm-5.2"
+}

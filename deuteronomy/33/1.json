@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "و این است برکتی که موشه، مردِ الوهیم، پیش از مرگ خود با آن ⟨את⟩ پسرانِ ییسْرائل را برکت داد.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "و این است"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "برکت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "برکت داد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردِ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پسرانِ ییسْرائل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ییسْرائل"
+    },
+    {
+      "surface": "لפני",
+      "gloss": "پیش از"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "مرگِ او"
+    }
+  ],
+  "timestamp": "2026-08-15T03:56:22.841455826Z",
+  "model": "glm-5.3"
+}

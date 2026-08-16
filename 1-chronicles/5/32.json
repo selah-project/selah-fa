@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و عوزی ⟨את⟩ زَرَحْیا را زاد، و زَرَحْیا ⟨את⟩ مِرایوت را زاد.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "و عوزی"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زَرَحْیا"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "زَرَحْیا"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "و زَرَحْیا"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مِرایوت"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "مِرایوت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:36.417987531Z",
+  "model": "glm-5.2"
+}

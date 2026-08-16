@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 52:23",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 52,
+  "translation": "و رُمان‌ها نود و شش به سوی باد بودند؛ همهٔ رُمان‌ها صد بر شبکه به دور.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "و بودند"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "رُمان‌ها"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "نود"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "و شش"
+    },
+    {
+      "surface": "רוחה",
+      "gloss": "به سوی باد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "הרמונים",
+      "gloss": "رُمان‌ها"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "صد"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "השבכה",
+      "gloss": "شبکه"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "به دور"
+    }
+  ],
+  "timestamp": "2026-08-13T22:11:28.195296764Z",
+  "model": "glm-5.2"
+}

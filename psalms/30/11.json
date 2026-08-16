@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "بشنو، یاهوه، و بر من فیض بده؛ یاهوه، یاورِ من باش.",
+  "tokens": [
+    {
+      "surface": "שְׁמַע",
+      "gloss": "بشنو"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "וְחָנֵּ֑נִי",
+      "gloss": "و بر من فیض بده"
+    },
+    {
+      "surface": "יְ֝הוָה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הֱֽיֵה",
+      "gloss": "باش"
+    },
+    {
+      "surface": "עֹזֵ֥ר",
+      "gloss": "یاور"
+    },
+    {
+      "surface": "לִֽי",
+      "gloss": "ِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T22:40:33.170796551Z",
+  "model": "glm-5.2"
+}

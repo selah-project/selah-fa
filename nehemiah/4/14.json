@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "nehemiah 4:14",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "در جایی که ⟨את⟩ صدای شوفار را بشنوید، آنجا نزد ما گرد آیید؛ الوهیمِ ما برای ما می‌جنگد.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "در جایی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "بشنوید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صدای شوفار"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صدای"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "شوفار"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "آنجا"
+    },
+    {
+      "surface": "תקבצו",
+      "gloss": "گرد آیید"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "نزد ما"
+    },
+    {
+      "surface": "אלהינو",
+      "gloss": "الوهیمِ ما"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "می‌جنگد"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "برای ما"
+    }
+  ],
+  "timestamp": "2026-08-15T04:32:51.971425015Z",
+  "model": "glm-5.3"
+}

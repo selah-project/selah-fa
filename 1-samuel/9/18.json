@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "وِ شائول نزدیک شد به ⟨את⟩ شموئیل در میانِ دروازه، و گفت: بگو حالا برای من، کجاست این — خانهٔ بینا؟",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "نزدیک شد"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شموئیل"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئیل"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "در میانِ"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دروازه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "بگو"
+    },
+    {
+      "surface": "נא",
+      "gloss": "حالا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برای من"
+    },
+    {
+      "surface": "אי",
+      "gloss": "کجاست"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانهٔ"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "بینا"
+    }
+  ],
+  "timestamp": "2026-08-15T20:53:55.366239158Z",
+  "model": "glm-5.3"
+}

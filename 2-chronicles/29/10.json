@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 29:10",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "اکنون با دلم است بریدنِ پیمان با یاهوه، الوهیمِ یسرائیل، تا برگردد از ما سوزشِ خشمِ او.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "اکنون"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "دلم"
+    },
+    {
+      "surface": "לכרות",
+      "gloss": "بریدنِ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "پیمان"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "با یاهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوهیمِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "و برگردد"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "از ما"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "سوزشِ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "خشمِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:50:15.108951769Z",
+  "model": "glm-5.2"
+}

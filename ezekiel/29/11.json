@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "ezekiel 29:11",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "پای انسان در آن گذر نخواهد کرد و پای بهیمه در آن گذر نخواهد کرد، و چهل سال مسکون نخواهد شد.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "گذر خواهد کرد"
+    },
+    {
+      "surface": "בה",
+      "gloss": "در آن"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پای"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "ורגל",
+      "gloss": "و پای"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "بهیمه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "گذر خواهد کرد"
+    },
+    {
+      "surface": "בה",
+      "gloss": "در آن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "مسکون خواهد شد"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چهل"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-08-15T04:16:32.371715040Z",
+  "model": "glm-5.3"
+}

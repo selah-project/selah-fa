@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 28:19",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "و ردیفِ سوم: لِشِم، شْبو و اَخْلامه.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "و ردیف"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "سوم"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "لِشِم"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "شْبو"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "و اَخْلامه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:17:15.035507060Z",
+  "model": "glm-5.2"
+}

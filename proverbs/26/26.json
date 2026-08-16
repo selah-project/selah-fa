@@ -1,0 +1,37 @@
+{
+  "tier": "hand",
+  "verse": 26,
+  "ref": "proverbs 26:26",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "نفرت با فریب پوشیده شود؛ شرارتِ او در جماعت آشکار خواهد شد.",
+  "tokens": [
+    {
+      "surface": "תכסה",
+      "gloss": "پوشیده شود"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "نفرت"
+    },
+    {
+      "surface": "במשאון",
+      "gloss": "با فریب"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "آشکار خواهد شد"
+    },
+    {
+      "surface": "רעתו",
+      "gloss": "شرارتِ او"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "در جماعت"
+    }
+  ],
+  "timestamp": "2026-08-14T17:46:57Z",
+  "model": "claude-fable-5/hand"
+}

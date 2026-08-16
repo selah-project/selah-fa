@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 34:27",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 34,
+  "translation": "که از این رو از پیِ او برگشتند، و همهٔ راه‌هایش را درنیافتند.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "این"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "بگشتند"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "از پیِ او"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و همهٔ"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "راه‌هایش"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "درنیافتند"
+    }
+  ],
+  "timestamp": "2026-08-13T23:13:34.684088410Z",
+  "model": "glm-5.2"
+}

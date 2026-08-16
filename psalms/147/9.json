@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 147,
+  "translation": "به بهیمه خوراکش را می‌دهد، به فرزندانِ کلاغ که فریاد می‌زنند.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "می‌دهد"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "به بهیمه"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "خوراکش"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "به فرزندانِ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "کلاغ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "فریاد می‌زنند"
+    }
+  ],
+  "timestamp": "2026-08-13T22:58:32.527027638Z",
+  "model": "glm-5.2"
+}

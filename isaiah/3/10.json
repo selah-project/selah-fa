@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "بگویید: عادل، که نیکوست، که میوهٔ کردارهایشان را خواهند خورد.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "بگویید"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "عادل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیکوست"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "میوهٔ"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "کردارهایشان را"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "خواهند خورد"
+    }
+  ],
+  "timestamp": "2026-08-13T21:40:38.133141815Z",
+  "model": "glm-5.2"
+}

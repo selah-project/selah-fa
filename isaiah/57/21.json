@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 57:21",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 57,
+  "translation": "سلام نیست، گفت الوهیمِ من، برای شرّاران.",
+  "tokens": [
+    {
+      "surface": "אֵ֣ין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "שָׁל֔וֹם",
+      "gloss": "سلام"
+    },
+    {
+      "surface": "אָמַ֥ר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "אֱלֹהַ֖י",
+      "gloss": "الوهیمِ من"
+    },
+    {
+      "surface": "לָרְשָׁעִֽים",
+      "gloss": "برای شرّاران"
+    }
+  ],
+  "timestamp": "2026-08-13T21:53:17.170001538Z",
+  "model": "glm-5.2"
+}

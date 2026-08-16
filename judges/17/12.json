@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 17:12",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "و میخا دستِ لاوی را پر کرد، و جوان برای او به کاهن شد، و در خانهٔ میخا بود.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "و پر کرد"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "میخا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دستِ لاوی"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دستِ"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "لاوی"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برای او"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "جوان"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "به کاهن"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "در خانهٔ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "میخا"
+    }
+  ],
+  "timestamp": "2026-08-13T21:06:01.808253363Z",
+  "model": "glm-5.2"
+}

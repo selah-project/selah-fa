@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "بنگه‌دار پسرم، فرمانِ پدرت را و رها نکن توراتِ مادرت را.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "نگه‌بان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرم"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "فرمان"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "پدرت"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "رها کنی"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "مادرت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:00:18.454407779Z",
+  "model": "glm-5.2"
+}

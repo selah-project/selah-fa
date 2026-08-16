@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 17:25",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "و ییشماعیل پسرش پسر سیزده ساله در ختنه‌شدنِ ⟨את⟩ گوشتِ پیش‌پوستیِ خود بود.",
+  "tokens": [
+    {
+      "surface": "וישמעאל",
+      "gloss": "و ییشماعیل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرِ او"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سه"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ده"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "در ختنه‌شدنِ او"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گوشت"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشتِ"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "پیش‌پوستیِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T19:58:29.362851391Z",
+  "model": "glm-5.2"
+}

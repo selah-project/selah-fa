@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 29:7",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و ⟨او⟩ گفت: اینک هنوز روز بزرگ است و وقتِ گردآوریِ گلّه نیست؛ گله را آب دهید و بروید، بچرانید.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "הן",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "هنوز"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "گردآوریِ"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "گلّه"
+    },
+    {
+      "surface": "השקו",
+      "gloss": "آب دهید"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "گله را"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "و بروید"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "بچرانید"
+    }
+  ],
+  "timestamp": "2026-08-13T20:02:10.154376880Z",
+  "model": "glm-5.2"
+}

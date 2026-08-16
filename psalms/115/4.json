@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 115,
+  "translation": "بت‌های ایشان نقره و طلا هستند، ساختِ دست‌های آدم.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "بت‌های ایشان"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "نقره"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "و طلا"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ساختِ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "دست‌های"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    }
+  ],
+  "timestamp": "2026-08-13T22:54:16.970949137Z",
+  "model": "glm-5.2"
+}

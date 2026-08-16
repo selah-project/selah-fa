@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 26:26",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "و تو میله‌هایی از چوب شطیم بسازی، پنج برای تخته‌های بغلِ مسکنِ یکی.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "و بسازی"
+    },
+    {
+      "surface": "בריחם",
+      "gloss": "میله‌ها"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "چوبِ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شطیم"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "לקרשי",
+      "gloss": "برای تخته‌های"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "بغلِ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکنِ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یکی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:16:55.286301088Z",
+  "model": "glm-5.2"
+}

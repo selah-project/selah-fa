@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "در سالِ مرگِ اَحازِ شاه، این بار ⟨بود⟩.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "در سالِ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرگِ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاه"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "اَحاز"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨بود⟩"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "این بار"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    }
+  ],
+  "timestamp": "2026-08-15T17:38:20.321059414Z",
+  "model": "glm-5.3"
+}

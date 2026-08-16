@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 14:8",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "حکمتِ زیرک فهمیدنِ راهِ خویش است، و ابلهیِ نادانان فریب است.",
+  "tokens": [
+    {
+      "surface": "חכמת",
+      "gloss": "حکمتِ"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "زیرک"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "فهمیدنِ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "راهِ خویش"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "و ابلهیِ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "نادانان"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "فریب"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:01.225704518Z",
+  "model": "glm-5.2"
+}

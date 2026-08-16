@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 3:22",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و ⟨بوده⟩ زندگی برای نفسِ تو، و فیض برای گلوگاهِ تو.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "و ⟨بوده⟩"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگی"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "برای نفسِ تو"
+    },
+    {
+      "surface": "וחן",
+      "gloss": "و فیض"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "برای گلوگاهِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:59:10.922374988Z",
+  "model": "glm-5.2"
+}

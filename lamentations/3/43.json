@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "lamentations 3:43",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "پوشاندی در خشم و ⟨ما⟩ را تعقیب کردی؛ کشتی، ⟨و⟩ رحم نکردی.",
+  "tokens": [
+    {
+      "surface": "סַכּוֹתָה",
+      "gloss": "پوشاندی"
+    },
+    {
+      "surface": "בָּאַף",
+      "gloss": "در خشم"
+    },
+    {
+      "surface": "וַתִּרְדְּפֵנוּ",
+      "gloss": "و ⟨ما⟩ را تعقیب کردی"
+    },
+    {
+      "surface": "הֲרַגְתָּ",
+      "gloss": "کشتی"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "חָמַלְתָּ",
+      "gloss": "رحم نکردی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:18:02.697575980Z",
+  "model": "glm-5.2"
+}

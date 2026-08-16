@@ -1,0 +1,67 @@
+{
+  "tier": "4.6",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 38,
+  "translation": "و این ⟨است⟩ برای تو ⟨یک⟩ نشانه ⟨את⟩ از ⟨את⟩ یاهوه که یاهوه ⟨خواهد⟩ کرد ⟨את⟩ این سخن که ⟨او⟩ گفت.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "و این"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برای تو"
+    },
+    {
+      "surface": "האות",
+      "gloss": "نشانه"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ از",
+      "marks": "یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "خواهد کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "این سخن"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "این سخن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گفت"
+    }
+  ],
+  "timestamp": "2026-08-15T04:19:22.869827267Z",
+  "model": "glm-4.6"
+}

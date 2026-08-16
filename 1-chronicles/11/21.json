@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "1-chronicles 11:21",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "از سه‌گانگان، بر دو تن گرامی‌تر بود و ⟨شد⟩ سرورِ آنان؛ اما تا سه‌گانگانِ نخست نیامد.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "سه‌گانگان"
+    },
+    {
+      "surface": "בשנים",
+      "gloss": "بر دو تن"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "گرامی‌تر بود"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "להם",
+      "gloss": "برای آنان"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "به سروری"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "اما تا"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "سه‌گانگان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בא",
+      "gloss": "نیامد"
+    }
+  ],
+  "timestamp": "2026-08-15T04:33:53.891721314Z",
+  "model": "glm-5.3"
+}

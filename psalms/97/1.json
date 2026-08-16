@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 97,
+  "translation": "یاهوه پادشاهی کرد، بفخراند زمین؛ شاد شوند جزایرِ بسیار.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهی کرد"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "بفخراند"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "شاد شوند"
+    },
+    {
+      "surface": "איים",
+      "gloss": "جزایر"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "بسیار"
+    }
+  ],
+  "timestamp": "2026-08-13T22:51:27.125537832Z",
+  "model": "glm-5.2"
+}

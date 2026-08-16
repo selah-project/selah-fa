@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "و شد ⟨⟨پادشاه⟩⟩ در یِشورون، در گردآمدن سرانِ قوم، یَکدِستِ قبایلِ یِسرائیل.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "در یِشورون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "در گردآمدن"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سرانِ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "یَکدِست"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "قبایلِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-13T20:53:16.926143051Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 7:39",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و پسرانِ عُلاّ: اَرَخ و حَنّی‌اِل و رِتسیا.",
+  "tokens": [
+    {
+      "surface": "וּבְנֵ֖י",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "עֻלָּ֑א",
+      "gloss": "عُلاّ"
+    },
+    {
+      "surface": "אָרַ֥ח",
+      "gloss": "اَرَخ"
+    },
+    {
+      "surface": "וְחַנִּיאֵ֖ל",
+      "gloss": "و حَنّی‌اِل"
+    },
+    {
+      "surface": "וְרִצְיָֽא",
+      "gloss": "و رِتسیا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:25.484739429Z",
+  "model": "glm-5.2"
+}

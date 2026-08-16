@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 1:23",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و بیتِ یوسف در بیت‌اِل جاسوسی کردند؛ و نامِ شهرِ پیشین لوز بود.",
+  "tokens": [
+    {
+      "surface": "ויתירו",
+      "gloss": "و جاسوسی کردند"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیتِ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "در بیت‌"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "و نامِ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهرِ"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "پیشین"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "لوز"
+    }
+  ],
+  "timestamp": "2026-08-13T21:00:09.052236941Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 27:25",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و تمامِ ارزش‌گذاریِ تو به شِکلِ مقدّس باشد، بیست گِرا باشد شِکل.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و تمامِ"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "ارزش‌گذاریِ تو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "باشد"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "به شِکلِ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدّس"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "گِرا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "باشد"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "شِکل"
+    }
+  ],
+  "timestamp": "2026-08-13T20:30:41.038599980Z",
+  "model": "glm-5.2"
+}

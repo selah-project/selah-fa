@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 55,
+  "translation": "دلِ من در درونم می‌پیچد، و هراس‌های مرگ بر من فرود آمده‌اند.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "دلِ من"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "می‌پیچد"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "در درونم"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "و هراس‌های"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرگ"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "فرود آمده‌اند"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بر من"
+    }
+  ],
+  "timestamp": "2026-08-13T22:44:30.024669514Z",
+  "model": "glm-5.2"
+}

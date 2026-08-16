@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 121,
+  "translation": "یاهوه نگاهبانِ توست، یاهوه سایهٔ توست بر دستِ راستِ تو.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "نگاهبانِ توست"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "سایهٔ توست"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دستِ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "راستِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:56:28.457151039Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "تا کی، ای تنبل، خواهی خوابید؟ کی ⟨خواهی⟩ از خوابت برخیزی؟",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מָתַ֖י",
+      "gloss": "کی"
+    },
+    {
+      "surface": "עָצֵ֥ל",
+      "gloss": "ای تنبل"
+    },
+    {
+      "surface": "תִּשְׁכָּ֑ב",
+      "gloss": "خواهی خوابید"
+    },
+    {
+      "surface": "מָ֝תַ֗י",
+      "gloss": "کی"
+    },
+    {
+      "surface": "תָּק֥וּם",
+      "gloss": "برخیزی"
+    },
+    {
+      "surface": "מִשְּׁנָתֶֽךָ",
+      "gloss": "از خوابت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:00:20.113860037Z",
+  "model": "glm-5.2"
+}

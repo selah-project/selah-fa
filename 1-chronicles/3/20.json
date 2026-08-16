@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و حَشوبه، و اُهِل، و بِرِخْیَه، و حَسَدْیَه، یوشَو خِسِد، پنج.",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "و حَشوبه،"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "و اُهِل،"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "و بِرِخْیَه،"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "و حَسَدْیَه،"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "یوشَو"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خِسِد،"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج."
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:13.037424539Z",
+  "model": "glm-5.2"
+}

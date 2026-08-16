@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "نیک است اندکی با داد، فراوانیِ محصول بدون داد.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "نیک است"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "اندکی"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "با داد"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "از فراوانیِ"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "محصول"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بدون"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "داد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:17.876781978Z",
+  "model": "glm-5.2"
+}

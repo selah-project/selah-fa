@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "haggai 2:20",
+  "book": "haggai",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و کلامِ یاهوه بارِ دوم به حَگّی رسید، در بیست‌و‌چهارمِ ماه، به این مضمون:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلامِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "بارِ دوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "حَگّی"
+    },
+    {
+      "surface": "בעשרים",
+      "gloss": "در بیست"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "و چهار"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ماه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به این مضمون"
+    }
+  ],
+  "timestamp": "2026-08-13T22:33:50.043037666Z",
+  "model": "glm-5.2"
+}

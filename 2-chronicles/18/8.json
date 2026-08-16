@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 18:8",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و پادشاهِ یِسرائیل یکی از خواجه‌گان را خواند و گفت: بشتاب میکاهو پسرِ یِملأ را بیاور.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "و خواند"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "خواجه‌ای"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "بشتاب"
+    },
+    {
+      "surface": "מיכהו",
+      "gloss": "میکاهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "یِملأ"
+    }
+  ],
+  "timestamp": "2026-08-13T23:47:30.585431267Z",
+  "model": "glm-5.2"
+}

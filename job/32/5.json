@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "job 32:5",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "و الیهو دید که پاسخی در دهانِ آن سه مرد نیست، و خشمِ او برافروخت.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "دید"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "الیهو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "پاسخی"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "در دهانِ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "سه"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "مردان"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "و برافروخت"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "خشمش"
+    }
+  ],
+  "timestamp": "2026-08-15T04:29:43.972077629Z",
+  "model": "glm-5.3"
+}

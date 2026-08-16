@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 58,
+  "ref": "numbers 7:58",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "یک بزِ نر برای خطیه؛",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "بزِ نری"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بزها"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "برای خطیه"
+    }
+  ],
+  "timestamp": "2026-08-15T03:52:08.577418828Z",
+  "model": "glm-5.3"
+}

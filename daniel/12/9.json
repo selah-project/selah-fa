@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و گفت: برو، دانی‌یل، زیرا بسته‌اند و مُهرشده‌اند ⟨این⟩ سخنان تا زمانِ پایان.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برو"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "دانی‌یل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "بسته‌اند"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "و مُهرشده‌اند"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "سخنان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "עת",
+      "gloss": "زمانِ"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "پایان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:27:55.234074662Z",
+  "model": "glm-5.2"
+}

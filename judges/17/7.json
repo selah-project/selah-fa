@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 17:7",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "و نَعَری از بیت‌لَحِمِ یهودا، از خانوادهٔ یهودا بود، و او لِوی بود، و او آنجا غریب بود.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "נער",
+      "gloss": "نَعَری"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ازِ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "بیت‌لَحِمِ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "از خانوادهٔ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "و او"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لِوی"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "و او"
+    },
+    {
+      "surface": "גר",
+      "gloss": "غریبِ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آنجا"
+    }
+  ],
+  "timestamp": "2026-08-13T21:06:01.372034587Z",
+  "model": "glm-5.2"
+}

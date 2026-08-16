@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 34:1",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 34,
+  "translation": "و یاهوه به موشه سخن گفت، به بیان:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به بیان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:42:36.816723847Z",
+  "model": "glm-5.2"
+}

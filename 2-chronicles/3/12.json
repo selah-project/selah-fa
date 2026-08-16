@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 3:12",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و بالِ کروبِ یکی، پنج اَمّه، می‌رسید به دیوارِ خانه؛ و بالِ دیگرِ پنج اَمّه، چسبیده بود به بالِ کروبِ دیگر.",
+  "tokens": [
+    {
+      "surface": "וכנף",
+      "gloss": "و بالِ"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "کروبِ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "اَمّه"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מגיע",
+      "gloss": "می‌رسید"
+    },
+    {
+      "surface": "לקיר",
+      "gloss": "به دیوارِ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "خانه"
+    },
+    {
+      "surface": "והכנף",
+      "gloss": "و بالِ"
+    },
+    {
+      "surface": "האחרת",
+      "gloss": "دیگرِ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "اَمّه"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "چسبیده بود"
+    },
+    {
+      "surface": "לכנף",
+      "gloss": "به بالِ"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "کروبِ"
+    },
+    {
+      "surface": "האחר",
+      "gloss": "دیگر"
+    }
+  ],
+  "timestamp": "2026-08-13T23:43:47.419495809Z",
+  "model": "glm-5.2"
+}

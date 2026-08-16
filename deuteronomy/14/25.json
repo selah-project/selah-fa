@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 14:25",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و بدهی ⟨آن را⟩ به نقره، و نقره را در دست خود ببندی، و به آن‌جا که یاهوه الوهیمِ تو برمی‌گزیند بروی.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "و بدهی"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "به نقره"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "و ببندی"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "نقره را"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "در دستِ تو"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "و بروی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "آن‌جا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "برمی‌گزیند"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "الوهیمِ تو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در آن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:47:04.924971652Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و لابان ⟨את⟩ همهٔ مردانِ آن مکان را گرد آورد، و ضیافتی برپا کرد.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "و گرد آورد"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همهٔ مردانِ آن مکان را"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "مردانِ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "آن مکان"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "و برپا کرد"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ضیافتی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:02:07.658967979Z",
+  "model": "glm-5.2"
+}

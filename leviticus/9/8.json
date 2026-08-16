@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و اَهارون نزدیک شد به مذبح، و ذبح کرد ⟨את⟩ گوسالهٔ گناه را که برایِ او بود.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "و نزدیک شد"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اَهارون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "و ذبح کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گوسالهٔ گناه"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "گوساله"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "گناه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برایِ او بود"
+    }
+  ],
+  "timestamp": "2026-08-13T23:56:06.655928013Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "و روزهایِ ییتسْحاک یکصد سال و هشتاد سال شد.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روزهایِ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ییتسْحاک"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "یکصد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "و هشتاد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-08-13T20:04:40.696990075Z",
+  "model": "glm-5.2"
+}

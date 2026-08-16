@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 15:13",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "دلِ شاد چهره را می‌نیکو کند، و به‌یأسِ دل، روانِ درهم‌کوفته",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "شاد"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "می‌نیکو کند"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "چهره را"
+    },
+    {
+      "surface": "ובעצבת",
+      "gloss": "و به‌یأسِ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روان"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "درهم‌کوفته"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:21.937211542Z",
+  "model": "glm-5.2"
+}

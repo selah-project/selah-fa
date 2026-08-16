@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 9:27",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "الوهیم به یافت وسعت دهد، و در خیمه‌های شِم ساکن شود؛ و کنعان غلامِ آنان باشد.",
+  "tokens": [
+    {
+      "surface": "יפת",
+      "gloss": "وسعت دهد"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ליפת",
+      "gloss": "به یافت"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "و ساکن شود"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "در خیمه‌های"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شِم"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و باشد"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلامِ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "آنان"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:28.135263551Z",
+  "model": "glm-5.2"
+}

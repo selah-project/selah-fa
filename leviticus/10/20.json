@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و موشه شنید، و در چشم‌هایِ او نیکو بود.",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁמַ֣ע",
+      "gloss": "و شنید"
+    },
+    {
+      "surface": "מֹשֶׁ֔ה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "וַיִּיטַ֖ב",
+      "gloss": "و نیکو بود"
+    },
+    {
+      "surface": "בְּעֵינָֽיו",
+      "gloss": "در چشم‌هایِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:24:40.850496423Z",
+  "model": "glm-5.2"
+}

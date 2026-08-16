@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 34:12",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 34,
+  "translation": "و به تمام دستِ قوی و به تمام ترسِ بزرگ که موشه به‌انجام‌رساند در برابرِ چشمِ تمام یِسرائیل،",
+  "tokens": [
+    {
+      "surface": "ולכל",
+      "gloss": "و به‌تمام"
+    },
+    {
+      "surface": "היד",
+      "gloss": "دستِ"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "قوی"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "و به‌تمام"
+    },
+    {
+      "surface": "המורא",
+      "gloss": "ترسِ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "به‌انجام‌رساند"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "در برابرِ چشمِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-13T23:59:09.495401216Z",
+  "model": "glm-5.2"
+}

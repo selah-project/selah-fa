@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و به من گفت: تو کی ⟨هستی⟩؟ و به او گفت: آمالِقی من ⟨هستم⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "آمالِقی"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    }
+  ],
+  "timestamp": "2026-08-13T21:16:24.494502897Z",
+  "model": "glm-5.2"
+}

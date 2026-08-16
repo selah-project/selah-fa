@@ -1,0 +1,58 @@
+{
+  "tier": "4.6",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و صبر کرد هنوز هفت روز دیگر و دوباره فرستاد ⟨את⟩ کبوتر را از کشتی",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "و صبر کرد"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "هنوز"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روز"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "دیگر"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "و دوباره"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "فرستاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کبوتر"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "کبوتر"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "کشتی"
+    }
+  ],
+  "timestamp": "2026-08-15T03:30:17.393878665Z",
+  "model": "glm-4.6"
+}

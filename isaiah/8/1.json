@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 8:1",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و یاهوه به من گفت: برای خود لوحی بزرگ بگیر و بر آن به قلمِ انسانی بنویس: مَهِر-شَلال-حاش-باز.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "קח",
+      "gloss": "بگیر"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برای تو"
+    },
+    {
+      "surface": "גליון",
+      "gloss": "لوح"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "و بنویس"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر آن"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "به قلمِ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "انسانی"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "مَهِر-"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "-شَلال-"
+    },
+    {
+      "surface": "חש",
+      "gloss": "-حاش-"
+    },
+    {
+      "surface": "בז",
+      "gloss": "-باز"
+    }
+  ],
+  "timestamp": "2026-08-13T21:42:20.947919890Z",
+  "model": "glm-5.2"
+}

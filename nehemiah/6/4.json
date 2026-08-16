@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و نزد من فرستادند مانند این سخن، چهار بار، و من آن‌ها را ⟨את⟩ مانند این سخن پاسخ دادم.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "و فرستادند"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "نزد من"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "مانند این سخن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "بار"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "و پاسخ دادم"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "آن‌ها"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "مانند سخن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    }
+  ],
+  "timestamp": "2026-08-13T23:32:31.160563412Z",
+  "model": "glm-5.2"
+}

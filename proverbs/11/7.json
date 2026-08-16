@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 11:7",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "با مرگِ انسانِ شریر، امید هلاک می‌شود، و انتظارِ اَوِن‌ها، هلاک شده است.",
+  "tokens": [
+    {
+      "surface": "במות",
+      "gloss": "با مرگِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسانِ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شریر"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "هلاک می‌شود"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "امید"
+    },
+    {
+      "surface": "ותוחלת",
+      "gloss": "و انتظارِ"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "اَوِن‌ها"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "هلاک شده است"
+    }
+  ],
+  "timestamp": "2026-08-13T23:01:28.324769864Z",
+  "model": "glm-5.2"
+}

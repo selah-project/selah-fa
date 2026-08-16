@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و شما، چسبیدگان به یاهوه، الوهیمِ خودتان، زنده‌اید، همگی شما، امروز.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "و شما"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "چسبیدگانِ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "به یاهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "الوهیمِ شما"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زنده‌اید"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "همگی شما"
+    },
+    {
+      "surface": "היום",
+      "gloss": "امروز"
+    }
+  ],
+  "timestamp": "2026-08-13T20:44:51.379072625Z",
+  "model": "glm-5.2"
+}

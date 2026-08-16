@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 24:29",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "نگو: چنان‌که به من کرد، چنین خواهم کرد به او؛ باز خواهم داد به مردی همچون عملِ او.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "بگو"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چنان‌که"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرد"
+    },
+    {
+      "surface": "לי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "خواهم کرد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "باز خواهم داد"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "به مردی"
+    },
+    {
+      "surface": "כפעלו",
+      "gloss": "همچون عملِ او"
+    }
+  ],
+  "timestamp": "2026-08-14T00:14:24.791401543Z",
+  "model": "glm-5.2"
+}

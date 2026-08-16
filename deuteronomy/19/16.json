@@ -1,0 +1,45 @@
+{
+  "tier": "4.6",
+  "verse": 16,
+  "ref": "deuteronomy 19:16",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "اگر برخیزد شاهد خشونت ⟨در⟩ مرد برای عذاب کردن در او فساد.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "برخیزد"
+    },
+    {
+      "surface": "עד",
+      "gloss": "شاهد"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "خشونت"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "⟨در⟩ مرد"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "برای عذاب کردن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در او"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "فساد"
+    }
+  ],
+  "timestamp": "2026-08-15T04:00:06.929539897Z",
+  "model": "glm-4.6"
+}

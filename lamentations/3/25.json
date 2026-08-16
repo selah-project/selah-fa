@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "نکو است یاهوه برایِ ⟨آنانکه⟩ منتظرند، برایِ نفسی که ⟨او⟩ را می‌جوید.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "نکو است"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "برایِ منتظران"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "برایِ نفس"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "او را می‌جوید"
+    }
+  ],
+  "timestamp": "2026-08-13T23:18:17.550312677Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "و فرمان‌های مرا نگاه دارید و ⟨את⟩ آنها را به‌جا آورید؛ من یاهوه هستم.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "و نگاه دارید"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "فرمان‌های مرا"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "و به‌جا آورید"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "آنها"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:28:14.831631041Z",
+  "model": "glm-5.2"
+}

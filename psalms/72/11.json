@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 72,
+  "translation": "وهمگی پادشاهان پیش او سجده کنند، همهٔ گویان او را بپرستند.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "سجده کنند"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پیش او"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "پادشاهان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "گویان"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "او را بپرستند"
+    }
+  ],
+  "timestamp": "2026-08-15T04:24:10.741258394Z",
+  "model": "glm-5.3"
+}

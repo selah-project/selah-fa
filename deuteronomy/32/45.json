@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "و موشه تمام کردنِ سخن گفتنِ ⟨את⟩ همهٔ این سخنان را به همهٔ ییسورائیل.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "و تمام کرد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "سخن گفتنِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "این سخنان"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "این"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ییسورائیل"
+    }
+  ],
+  "timestamp": "2026-08-13T20:52:35.970616025Z",
+  "model": "glm-5.2"
+}

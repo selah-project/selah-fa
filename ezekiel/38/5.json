@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 38,
+  "translation": "پارس، کوش و پوت ⟨את⟩ آنان؛ همگی آنان سپر و کلاه‌خود",
+  "tokens": [
+    {
+      "surface": "פָּרַ֛ס",
+      "gloss": "پارس"
+    },
+    {
+      "surface": "כּ֥וּשׁ",
+      "gloss": "کوش"
+    },
+    {
+      "surface": "וּפ֖וּט",
+      "gloss": "و پوت"
+    },
+    {
+      "surface": "אִתָּ֑ם",
+      "gloss": "⟨את⟩",
+      "marks": "آنان"
+    },
+    {
+      "surface": "כֻּלָּ֖ם",
+      "gloss": "همگیِ آنان"
+    },
+    {
+      "surface": "מָגֵ֥ן",
+      "gloss": "سپر"
+    },
+    {
+      "surface": "וְכוֹבָֽע",
+      "gloss": "و کلاه‌خود"
+    }
+  ],
+  "timestamp": "2026-08-14T00:09:07.631099506Z",
+  "model": "glm-5.2"
+}

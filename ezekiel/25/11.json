@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 25:11",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و در موآب داوری‌ها خواهم کرد، و خواهند دانست که من یاهوه هستم.»",
+  "tokens": [
+    {
+      "surface": "ובמואב",
+      "gloss": "و در موآب"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "خواهم کرد"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "داوری‌ها"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "و خواهند دانست"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:18:14.277121238Z",
+  "model": "glm-5.2"
+}

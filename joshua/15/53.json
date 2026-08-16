@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "joshua 15:53",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و یَنیم، و بیت تَپّوَح، و اَفِقَه،",
+  "tokens": [
+    {
+      "surface": "וינים",
+      "gloss": "و یَنیم"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "و بیت"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "تَپّوَح"
+    },
+    {
+      "surface": "ואפקה",
+      "gloss": "و اَفِقَه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:58:07.119718666Z",
+  "model": "glm-5.2"
+}

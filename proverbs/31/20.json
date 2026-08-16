@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "proverbs 31:20",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "کفِّ دستش را به سوی فقیر گشود و دست‌هایش را به سوی نیازمند فرستاد.",
+  "tokens": [
+    {
+      "surface": "כפה",
+      "gloss": "کفِ دستش"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "گشود"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "به سوی فقیر"
+    },
+    {
+      "surface": "וידיה",
+      "gloss": "و دست‌هایش"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "فرستاد"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "به سوی نیازمند"
+    }
+  ],
+  "timestamp": "2026-08-15T04:27:57.444533581Z",
+  "model": "glm-5.3"
+}

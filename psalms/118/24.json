@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 118,
+  "translation": "این است روزی که یاهوه ساخت؛ بشارت کنیم و شاد باشیم در آن.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "این است"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روزی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ساخت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "بشارت کنیم"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "و شاد باشیم"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در آن"
+    }
+  ],
+  "timestamp": "2026-08-13T22:54:40.397514672Z",
+  "model": "glm-5.2"
+}

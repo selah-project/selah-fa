@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 35:9",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "و یاهوه با موشه سخن گفت، به‌قولِ:",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֥ר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "با"
+    },
+    {
+      "surface": "מֹשֶׁ֥ה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "לֵּאמֹֽר",
+      "gloss": "به‌قولِ"
+    }
+  ],
+  "timestamp": "2026-08-13T20:42:28.545925569Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و نیز هر انسانی که بخورد و بیاشامد و نیکی را در تمام رنجِ خویش ببیند — این بخششی از الوهیم است.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "و نیز"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسانی"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "که بخورد"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "و بیاشامد"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "و ببیند"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیکی"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "در تمام"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "رنجِ خویش"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "بخشش"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "היא",
+      "gloss": "این است"
+    }
+  ],
+  "timestamp": "2026-08-15T04:31:16.589463750Z",
+  "model": "glm-5.3"
+}

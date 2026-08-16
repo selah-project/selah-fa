@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "نه ⟨את⟩ پدرانِ ما را یاهوه این پیمان را بُست، بلکه با ما — ما، همین‌ها، اینجا، امروز، همهٔ ما زنده.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پدرانِ ما"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "پدرانِ ما"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "بُست"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "این پیمان"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "پیمان"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلکه"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ما را"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ما"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "همین‌ها"
+    },
+    {
+      "surface": "פה",
+      "gloss": "اینجا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "امروز"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "همهٔ ما"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زنده"
+    }
+  ],
+  "timestamp": "2026-08-13T20:44:37.653427005Z",
+  "model": "glm-5.2"
+}

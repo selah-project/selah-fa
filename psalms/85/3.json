@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 85,
+  "translation": "برداشتی گناهِ قومِ خود را، پوشاندی همهٔ خطایایشان را. سلاه",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "برداشتی"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گناه"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "قومِ خود را"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "پوشاندی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "خطایایشان را"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاه"
+    }
+  ],
+  "timestamp": "2026-08-15T04:24:31.266486380Z",
+  "model": "glm-5.3"
+}

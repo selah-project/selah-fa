@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 5:7",
+  "book": "esther",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و استر پاسخ داد و گفت: خواستِ من و درخواستِ من:",
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "و پاسخ داد"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "استر"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "خواستِ من"
+    },
+    {
+      "surface": "ובקשתי",
+      "gloss": "و درخواستِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T23:22:48.475746664Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "leviticus 13:24",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "یا گوشت، چون در پوستِ او سوختگیِ آتش باشد، و زخمِ سوختگی به لکهٔ سفیدِ سرخ‌فام یا سفید بدل شود —",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "باشد"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "در پوستِ او"
+    },
+    {
+      "surface": "מכות",
+      "gloss": "سوختگیِ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آتش"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "و … بدل شود"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "زخمِ"
+    },
+    {
+      "surface": "המכוה",
+      "gloss": "سوختگی"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "به لکهٔ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "سفیدِ"
+    },
+    {
+      "surface": "אדמדמת",
+      "gloss": "سرخ‌فام"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "سفید"
+    }
+  ],
+  "timestamp": "2026-08-15T03:50:16.585666453Z",
+  "model": "glm-5.3"
+}

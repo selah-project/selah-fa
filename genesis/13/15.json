@@ -1,0 +1,62 @@
+{
+  "tier": "4.6",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "زیرا که ⟨هستم⟩ تمام ⟨آن⟩ زمین را که تو می‌بینی، به تو و به زرعه‌ات تا ابد ⟨את⟩ آن را می‌دهم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تمام زمین"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨آن⟩ زمین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "می‌بینی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "به تو"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "می‌دهم"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "و به زرعه‌ات"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ابد"
+    }
+  ],
+  "timestamp": "2026-08-15T03:30:58.023523568Z",
+  "model": "glm-4.6"
+}

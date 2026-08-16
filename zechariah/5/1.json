@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 5:1",
+  "book": "zechariah",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و بازگشتم و چشمانم را برافراشتم و دیدم، و اینک مُگردانی در پرواز است.",
+  "tokens": [
+    {
+      "surface": "ואשוב",
+      "gloss": "و بازگشتم"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "و برافراشتم"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "چشمانم را"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "و دیدم"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "مُگردانی"
+    },
+    {
+      "surface": "עפה",
+      "gloss": "در پرواز است"
+    }
+  ],
+  "timestamp": "2026-08-13T22:35:27.622056880Z",
+  "model": "glm-5.2"
+}

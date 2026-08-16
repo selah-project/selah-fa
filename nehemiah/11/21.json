@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 11:21",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و نَتینیم ساکن ⟨در⟩ عُفِل بودند، و تسیخا و گیشپا بر نَتینیم ⟨بودند⟩.",
+  "tokens": [
+    {
+      "surface": "והנתינים",
+      "gloss": "و نَتینیم"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "ساکن"
+    },
+    {
+      "surface": "בעפל",
+      "gloss": "در عُفِل"
+    },
+    {
+      "surface": "וציחא",
+      "gloss": "و تسیخا"
+    },
+    {
+      "surface": "וגשפא",
+      "gloss": "و گیشپا"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "نَتینیم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:38.520039219Z",
+  "model": "glm-5.2"
+}

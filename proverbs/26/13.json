@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 26:13",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "تنبل گفت: شیر در راه است، شیر در میان میدان‌ها.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "تنبل"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "در راه"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "בין",
+      "gloss": "در میان"
+    },
+    {
+      "surface": "הרחבות",
+      "gloss": "میدان‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T23:05:02.186474537Z",
+  "model": "glm-5.2"
+}

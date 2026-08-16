@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 38,
+  "translation": "چون من به لنگیدن ⟨هستم⟩ آماده، و دردِ من همواره پیشِ رویِ من است.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "به لنگیدن"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "آاده"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "و دردِ من"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "پیشِ رویِ من"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "همواره"
+    }
+  ],
+  "timestamp": "2026-08-13T22:42:37.002602072Z",
+  "model": "glm-5.2"
+}

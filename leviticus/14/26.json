@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 14:26",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و کاهون از روغن بر کفِ دستِ چپِ کاهون می‌ریزد.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "و از"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "روغن"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "می‌ریزد"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهون"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כף",
+      "gloss": "کف"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهون"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "چپ"
+    }
+  ],
+  "timestamp": "2026-08-13T20:25:37.136780861Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 31:5",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "مرا بیرون آور از این تله‌ای که برای من پنهان کردند، زیرا تو سنگرِ منی.",
+  "tokens": [
+    {
+      "surface": "תוציאני",
+      "gloss": "مرا بیرون آور"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "از تله"
+    },
+    {
+      "surface": "זו",
+      "gloss": "این"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "پنهان کردند"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برای من"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "سنگرِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T22:41:08.692867536Z",
+  "model": "glm-5.2"
+}

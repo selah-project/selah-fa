@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 17:12",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "تختِ شکوه، بلندای از ابتدا، مکانِ مقدس‌گاهِ ما.",
+  "tokens": [
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شکوه"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "بلندا"
+    },
+    {
+      "surface": "מראשון",
+      "gloss": "از ابتدا"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "مکان"
+    },
+    {
+      "surface": "מקדשנו",
+      "gloss": "مقدس‌گاهِ ما"
+    }
+  ],
+  "timestamp": "2026-08-13T22:00:28.703242914Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 10:24",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و بر سپاهِ سبطِ بنی بَنیامین، اَویدان بن گیدعونی.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "سپاهِ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "سبطِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بَنیامین"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "اَویدان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "גדעוני",
+      "gloss": "گیدعونی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:33:39.215741132Z",
+  "model": "glm-5.2"
+}

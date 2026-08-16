@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 41:38",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 41,
+  "translation": "و گفت فَرعون به بردگانش: آیا یافته می‌شود چونِ این مردی که رُح الوهیم در اوست؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فَرعون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "بردگانش"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "آیا یافته می‌شود"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "چونِ این"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "رُح"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در اوست"
+    }
+  ],
+  "timestamp": "2026-08-13T20:07:04.334460819Z",
+  "model": "glm-5.2"
+}

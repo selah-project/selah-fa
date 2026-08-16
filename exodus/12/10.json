@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و نگذارید چیزی از آن بماند تا صبح، و آنچه از آن بماند تا صبح، در آتش بسوزانید",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "بگذارید بماند"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "از آن"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "و آنچه بماند"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "از آن"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "באש",
+      "gloss": "در آتش"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "بسوزانید"
+    }
+  ],
+  "timestamp": "2026-08-13T20:12:45.395604061Z",
+  "model": "glm-5.2"
+}

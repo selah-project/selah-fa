@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و نفسِ من به‌شدّت لرزیده است، و ⟨את⟩ یاهوه ⟨تو،⟩ تا کی؟",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "و نفسِ من"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "لرزیده است"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "به‌شدّت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کی"
+    }
+  ],
+  "timestamp": "2026-08-13T22:37:58.569368060Z",
+  "model": "glm-5.2"
+}

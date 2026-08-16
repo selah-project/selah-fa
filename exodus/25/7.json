@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "سنگ‌های شُهَم و سنگ‌هایِ مَلوء، برایِ اِفود و برایِ حوشن",
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "سنگ‌هایِ"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "شُهَم"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "و سنگ‌هایِ"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "مَلوء"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "برایِ اِفود"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "و برایِ حوشن"
+    }
+  ],
+  "timestamp": "2026-08-13T23:55:06.927751686Z",
+  "model": "glm-5.2"
+}

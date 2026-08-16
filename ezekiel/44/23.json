@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "ezekiel 44:23",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 44,
+  "translation": "و ⟨את⟩ قومِ مرا آموزش خواهند داد میانِ مقدّس و نامقدّس، و میانِ ناپاک و پاک را به آنان خواهند شناخت.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "قومِ من"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "قومِ من"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "آموزش خواهند داد"
+    },
+    {
+      "surface": "בין",
+      "gloss": "میانِ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدّس"
+    },
+    {
+      "surface": "לחol",
+      "gloss": "نامقدّس",
+      "note": "fixing surface"
+    },
+    {
+      "surface": "לחול",
+      "gloss": "نامقدّس"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "و میانِ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "לטהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "יודעם",
+      "gloss": "خواهند شناخت (به آنان)"
+    }
+  ],
+  "timestamp": "2026-08-15T04:17:31.072028205Z",
+  "model": "glm-5.3"
+}

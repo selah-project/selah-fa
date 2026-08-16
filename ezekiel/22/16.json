@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 22:16",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "و در حضورِ امّت‌ها در تو میراث خواهی برد، و خواهی دانست که من یاهوه هستم.",
+  "tokens": [
+    {
+      "surface": "ונחלת",
+      "gloss": "و میراث خواهی برد"
+    },
+    {
+      "surface": "בך",
+      "gloss": "در تو"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "در حضورِ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "امّت‌ها"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "و خواهی دانست"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:17:32.304140332Z",
+  "model": "glm-5.2"
+}

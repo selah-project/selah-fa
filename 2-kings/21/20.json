@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "2-kings 21:20",
+  "book": "2-kings",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و آن شر را در چشم‌های یاهوه کرد، چنان‌که مِنَشه پدرش کرده بود.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و کرد"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "آن شر"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "در چشم‌های"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چنان‌که"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرده بود"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مِنَشه"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پدرش"
+    }
+  ],
+  "timestamp": "2026-08-15T04:06:30.509193708Z",
+  "model": "glm-5.3"
+}

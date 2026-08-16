@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "lamentations 3:64",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "بازپسشان دهی کیفر را، یاهوه، برابرِ کارِ دست‌هایشان.",
+  "tokens": [
+    {
+      "surface": "תָּשִׁ֨יב",
+      "gloss": "بازپس دهی"
+    },
+    {
+      "surface": "לָהֶ֥ם",
+      "gloss": "به ایشان"
+    },
+    {
+      "surface": "גְּמ֛וּל",
+      "gloss": "کیفر را"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כְּמַעֲשֵׂ֥ה",
+      "gloss": "برابرِ کارِ"
+    },
+    {
+      "surface": "יְדֵיהֶֽם",
+      "gloss": "دست‌هایشان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:17:57.858488219Z",
+  "model": "glm-5.2"
+}

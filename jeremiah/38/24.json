@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "jeremiah 38:24",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 38,
+  "translation": "وَ صِدقیاهو گفت به یِرمیاهو: مردی نگذار که این سخنان را بداند، و نخواهی مُرد.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "صِدقیاهو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمیاهو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نگذار"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "بداند"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "این سخنان را"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "این"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "خواهی مُرد"
+    }
+  ],
+  "timestamp": "2026-08-15T04:13:08.700373776Z",
+  "model": "glm-5.3"
+}

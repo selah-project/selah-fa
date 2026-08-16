@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "دوست‌دارِ تربیت، دوست‌دارِ دانستن است، و نابودگرِ سرزنش، پست‌فطرت است.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "دوست‌دارِ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تربیت"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "دوست‌دارِ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "دانستن"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "و نابودگرِ"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "سرزنش"
+    },
+    {
+      "surface": "בער",
+      "gloss": "پست‌فطرت"
+    }
+  ],
+  "timestamp": "2026-08-15T20:51:08.002620944Z",
+  "model": "glm-5.3"
+}

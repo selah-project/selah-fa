@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 47,
+  "translation": "که بود کلام یاهوه به یِرمِیاهو نبی به پلِشت‌ها، پیش از آنکه فَرعُه ⟨את⟩ غُزّه را بزند.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمِیاهو"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پلِشت‌ها"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "پیش از"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "بزند"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فَرعُه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "غُزّه"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "غُزّه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:08:38.966132921Z",
+  "model": "glm-5.2"
+}

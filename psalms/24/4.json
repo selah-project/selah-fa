@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "پاکِ کفِ دست‌ها، و پاکِ دل، که جانِ خود را به پوچی بالا نمی‌برد، و به فریب قسم نمی‌خورد.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "پاکِ"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "کفِ دست‌ها"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "و پاکِ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "بالا می‌برد"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "به پوچی"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "جانِ خود را"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "قسم می‌خورد"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "به فریب"
+    }
+  ],
+  "timestamp": "2026-08-13T22:40:50.204331526Z",
+  "model": "glm-5.2"
+}

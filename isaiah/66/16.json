@@ -1,0 +1,58 @@
+{
+  "ref": "isaiah 66:16",
+  "lang": "fa",
+  "book": "isaiah",
+  "chapter": 66,
+  "verse": 16,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:46:46Z",
+  "translation": "زیرا به آتش یاهوه داوری می‌کند و به شمشیرِ خود ⟨את⟩ همه‌ی بشر را، و کشتگانِ یاهوه بسیار خواهند بود.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "באש",
+      "gloss": "به آتش"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "داوری می‌کند"
+    },
+    {
+      "surface": "ובחרבו",
+      "gloss": "و به شمشیرِ خود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همه‌ی بشر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همه‌ی"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "بشر"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "و بسیار خواهند بود"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "کشتگانِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ]
+}

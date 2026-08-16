@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 7:6",
+  "book": "zechariah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و چون می‌خورید و چون می‌نوشید، آیا نه شما خورندگانید و شما نوشندگان؟",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "و چون"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "می‌خورید"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "و چون"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "می‌نوشید"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "آیا نه"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "شما"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "خورندگانید"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "و شما"
+    },
+    {
+      "surface": "השתים",
+      "gloss": "نوشندگان"
+    }
+  ],
+  "timestamp": "2026-08-13T22:34:53.364340657Z",
+  "model": "glm-5.2"
+}

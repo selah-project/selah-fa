@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 135,
+  "translation": "ستایش گویید یاه، که نیکوست یاهوه! برای نامِ او سرود بخوانید، که نکوست.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ستایش گویید"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیکوست"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "سرود بخوانید"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "برای نامِ او"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "نکوست"
+    }
+  ],
+  "timestamp": "2026-08-13T22:57:11.578177423Z",
+  "model": "glm-5.2"
+}

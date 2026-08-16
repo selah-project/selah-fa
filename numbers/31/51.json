@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 31:51",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و موشه و اَلعازارِ کاهن ⟨את⟩ طلا را از ⟨את⟩ آن‌ها گرفتند؛ تمامِ ظرفِ ساخته‌شده.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "و گرفت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "و اَلعازار"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "طلا"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "طلا"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "از ⟨את⟩ آن‌ها"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ظرفِ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ساخته‌شده"
+    }
+  ],
+  "timestamp": "2026-08-13T20:40:50.859505409Z",
+  "model": "glm-5.2"
+}

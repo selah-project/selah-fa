@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "به نادان بر اساس نادانیِ او پاسخ ده، مبادا در چشمانِ خودش حکیم باشد.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "پاسخ ده"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "بر اساس نادانیِ او"
+    },
+    {
+      "surface": "פן",
+      "gloss": "مبادا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "باشد"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حکیم"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "در چشمانِ خودش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:05:02.309730356Z",
+  "model": "glm-5.2"
+}

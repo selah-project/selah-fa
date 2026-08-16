@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 31:8",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "دهانِ خود را برای گنگ بگشای، در دفاعِ داورىِ همهٔ پسرانِ بازمانده،",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "بگشای"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "دهانِ خود را"
+    },
+    {
+      "surface": "לאלם",
+      "gloss": "برای گنگ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "در"
+    },
+    {
+      "surface": "דין",
+      "gloss": "داورىِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "חלוף",
+      "gloss": "بازمانده"
+    }
+  ],
+  "timestamp": "2026-08-13T23:06:15.240478957Z",
+  "model": "glm-5.2"
+}

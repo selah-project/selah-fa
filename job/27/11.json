@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "به دستِ اِل به شما می‌آموزم، آنچه نزد شدّای است پنهان نمی‌کنم.",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "می‌آموزم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ شما"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "به دستِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنچه"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نزد"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّای"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "پنهان می‌کنم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:11:35.130806179Z",
+  "model": "glm-5.2"
+}

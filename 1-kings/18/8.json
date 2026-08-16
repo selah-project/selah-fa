@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 18:8",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و به او گفت: منم. برو، بگو به سرورت: اینک اِلیاهو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "אני",
+      "gloss": "منم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برو"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "بگو"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "به سرورت"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "اِلیاهو"
+    }
+  ],
+  "timestamp": "2026-08-13T21:30:28.225259023Z",
+  "model": "glm-5.2"
+}

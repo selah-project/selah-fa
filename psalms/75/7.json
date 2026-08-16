@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 75,
+  "translation": "زیرا ⟨این⟩ نه از خروجگاه، و نه از مغرب است، و نه از بیابانِ کوه‌ها ⟨برافراشتن⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "از خروجگاه"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "و از مغرب"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "از بیابان"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "کوه‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T22:48:01.237140066Z",
+  "model": "glm-5.2"
+}

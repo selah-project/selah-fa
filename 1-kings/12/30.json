@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و این امر برای گناهی شد، و قوم به پیشِ یکی ⟨رفتند⟩ تا دان.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "این امر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "برای گناهی"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "و رفتند"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "به پیشِ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    }
+  ],
+  "timestamp": "2026-08-14T00:01:56.512230933Z",
+  "model": "glm-5.2"
+}

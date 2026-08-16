@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 11:14",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و یِفتَح باز نیز افزود، و فرستادگانی به سوی پادشاهِ بنی-عَمّون فرستاد.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "و افزود"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "باز"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "یِفتَح"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "و فرستاد"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "فرستادگانی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی-"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عَمّون"
+    }
+  ],
+  "timestamp": "2026-08-13T21:04:44.887078543Z",
+  "model": "glm-5.2"
+}

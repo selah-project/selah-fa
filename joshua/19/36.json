@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 19:36",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و اَدامه، و هَرامه، و حَصور.",
+  "tokens": [
+    {
+      "surface": "ואדמה",
+      "gloss": "و اَدامه"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "و هَرامه"
+    },
+    {
+      "surface": "וחצור",
+      "gloss": "و حَصور"
+    }
+  ],
+  "timestamp": "2026-08-13T20:59:07.847696646Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 30:13",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "نیست ⟨کسی⟩ داوریِ داوریِ تو برای التیام، پزشکیِ بسته‌بندی نیست برای تو.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "דן",
+      "gloss": "داور"
+    },
+    {
+      "surface": "דינך",
+      "gloss": "داوریِ تو"
+    },
+    {
+      "surface": "למזור",
+      "gloss": "برای التیام"
+    },
+    {
+      "surface": "רפאות",
+      "gloss": "پزشکی"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "بسته‌بندی"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برای تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:04:25.220296512Z",
+  "model": "glm-5.2"
+}

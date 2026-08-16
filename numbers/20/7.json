@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 20:7",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و یاهوه با موشه سخن گفت، به این بیان:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "با"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به این بیان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:37:31.926382233Z",
+  "model": "glm-5.2"
+}

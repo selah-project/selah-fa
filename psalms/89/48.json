@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 89:48",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 89,
+  "translation": "بیاد آر که من چه گذرایم، برای چه باطلی همه پسران انسان را آفریدی؟",
+  "tokens": [
+    {
+      "surface": "זְכָר",
+      "gloss": "بیاد آر"
+    },
+    {
+      "surface": "אֲנִ֥י",
+      "gloss": "که من"
+    },
+    {
+      "surface": "מֶה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "חָ֑לֶד",
+      "gloss": "گذرا"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "برای"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "שָּׁ֝֗וְא",
+      "gloss": "باطلی"
+    },
+    {
+      "surface": "בָּרָ֥אתָ",
+      "gloss": "آفریدی"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "همه"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "پسران"
+    },
+    {
+      "surface": "אָדָֽם",
+      "gloss": "انسان"
+    }
+  ],
+  "timestamp": "2026-08-13T22:49:57.266312081Z",
+  "model": "glm-5.2"
+}

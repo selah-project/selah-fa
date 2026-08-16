@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و اگر خورده‌شود خورده شود در روزِ سوم، ناپاک‌شده است، پذیرفته نخواهد شد.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "خورده‌شدنی"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "خورده شود"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "سوم"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "ناپاک‌شده"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او\/آن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "پذیرفته شود"
+    }
+  ],
+  "timestamp": "2026-08-13T20:27:10.037822505Z",
+  "model": "glm-5.2"
+}

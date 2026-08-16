@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 5:31",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "پس شدند همهٔ روزهایِ لمک هفت و هفتاد سال و هفت‌صد سال، و بمرد.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "پس شدند"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روزهایِ"
+    },
+    {
+      "surface": "למך",
+      "gloss": "لمک"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "و هفتاد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "و هفت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "وبمرد"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:05.269094343Z",
+  "model": "glm-5.2"
+}

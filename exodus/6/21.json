@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و پسرانِ ییتسهار: قورَح و نَفِگ و زیکری.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ییتسهار"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورَح"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "و نَفِگ"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "و زیکری"
+    }
+  ],
+  "timestamp": "2026-08-13T20:10:33.226227486Z",
+  "model": "glm-5.2"
+}

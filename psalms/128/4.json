@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 128,
+  "translation": "اینک، که این‌گونه برکت می‌یابد مردِ یارایِ یاهوه.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "כן",
+      "gloss": "این‌گونه"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "برکت می‌یابد"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "یارایِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:56:27.856746412Z",
+  "model": "glm-5.2"
+}

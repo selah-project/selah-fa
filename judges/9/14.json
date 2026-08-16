@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 9:14",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و گفت همهٔ درخت‌ها به خار: برو تو، پادشاهی بر ما!",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "درخت‌ها"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "خار"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهی"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "بر ما"
+    }
+  ],
+  "timestamp": "2026-08-13T21:03:10.263211981Z",
+  "model": "glm-5.2"
+}

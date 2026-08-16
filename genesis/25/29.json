@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 25:29",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و یعقوو پخته‌ای پخت، و عیساو از میدان آمد، و او ⟨بود⟩ بی‌رمق.",
+  "tokens": [
+    {
+      "surface": "ויזד",
+      "gloss": "و پخت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "נזיד",
+      "gloss": "پخته‌ای"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "و آمد"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیساو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "میدان"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "و او"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "بی‌رمق"
+    }
+  ],
+  "timestamp": "2026-08-13T20:01:31.924058216Z",
+  "model": "glm-5.2"
+}

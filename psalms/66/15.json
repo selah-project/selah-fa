@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 66,
+  "translation": "عروق‌سوزانِ چاقان برایت بالا برم، با بخور قوچ‌ها، گاوان را با بزّها بکنم. سِلا",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "عروق‌سوزانِ"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "چاقان"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "بالا برم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برایت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "بخورِ"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "قوچ‌ها"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "بکنم"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "گاوان را"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "بزّها"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلا"
+    }
+  ],
+  "timestamp": "2026-08-13T22:46:02.714183630Z",
+  "model": "glm-5.2"
+}

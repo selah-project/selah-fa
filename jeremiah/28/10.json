@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "و حَنَنیا، نبی، ⟨את⟩ یوغ را از بر گردنِ یرمیا، نبی، برداشت و آن را شکست.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "و برداشت"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "حَنَنیا"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوغ"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "یوغ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "از بر"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "گردن"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "یرمیا"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "و آن را شکست"
+    }
+  ],
+  "timestamp": "2026-08-15T04:12:07.295900395Z",
+  "model": "glm-5.3"
+}

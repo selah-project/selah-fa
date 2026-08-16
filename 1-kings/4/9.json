@@ -1,0 +1,49 @@
+{
+  "ref": "1-kings 4:9",
+  "lang": "fa",
+  "book": "1-kings",
+  "chapter": 4,
+  "verse": 9,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:47:37Z",
+  "translation": "بن-دِقِر در ماقَتس و در شَعَلویم و ⟨در⟩ بِیت-شِمِش و اِیلون بِیت-حانان.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "بن-"
+    },
+    {
+      "surface": "דקר",
+      "gloss": "دِقِر"
+    },
+    {
+      "surface": "במקץ",
+      "gloss": "در ماقَتس"
+    },
+    {
+      "surface": "ובשעלבים",
+      "gloss": "و در شَعَلویم"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "و بِیت-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "شِمِش"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "و اِیلون"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بِیت-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "حانان"
+    }
+  ]
+}

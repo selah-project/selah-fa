@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 11:13",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و کاهنان و لویان که در همهٔ یِسرائیل بودند، از همهٔ سرحدِ خود بر او ایستادند.",
+  "tokens": [
+    {
+      "surface": "והכהנים",
+      "gloss": "و کاهنان"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "و لویان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "در همهٔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "ایستادند"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر او"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "از همهٔ"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "سرحدِ خود"
+    }
+  ],
+  "timestamp": "2026-08-13T23:45:44.305001642Z",
+  "model": "glm-5.2"
+}

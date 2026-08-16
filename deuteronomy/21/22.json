@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 21:22",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و چون در مردی باشد گناهِ ⟨دستگاهِ⟩ دادرسیِ مرگ و اعدام شود، و او را بر دار آویزی،",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "و چون"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "باشد"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "در مردی"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گناهِ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "دادرسیِ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرگ"
+    },
+    {
+      "surface": "והומת",
+      "gloss": "و اعدام شود"
+    },
+    {
+      "surface": "ותלית",
+      "gloss": "و آویزی"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ او",
+      "marks": "او را"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "دار"
+    }
+  ],
+  "timestamp": "2026-08-13T20:49:00.336552453Z",
+  "model": "glm-5.2"
+}

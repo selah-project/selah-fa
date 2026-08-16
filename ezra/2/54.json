@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezra 2:54",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "پسرانِ نَتسیاخ، پسرانِ حَتیفا.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "نَتسیاخ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "حَتیفا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:28:51.220178996Z",
+  "model": "glm-5.2"
+}

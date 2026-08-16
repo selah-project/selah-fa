@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "اگر مار بدونِ فسفسه گاز بگیرد، آن‌گاه برای صاحبِ زبان برتری‌ای نیست.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "گاز بگیرد"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "مار"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "بدونِ"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "فسفسه"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "آن‌گاه … نیست"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "برتری‌ای"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "برای صاحبِ"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "زبان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:44.549564413Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "به راست و به چپ مگر، پایت را از شر بگردان.",
+  "tokens": [
+    {
+      "surface": "אַֽל",
+      "gloss": "مگر"
+    },
+    {
+      "surface": "תֵּט",
+      "gloss": "میل مکن"
+    },
+    {
+      "surface": "יָמִ֥ין",
+      "gloss": "به راست"
+    },
+    {
+      "surface": "וּשְׂמֹ֑אול",
+      "gloss": "و به چپ"
+    },
+    {
+      "surface": "הָסֵ֖ר",
+      "gloss": "بگردان"
+    },
+    {
+      "surface": "רַגְלְךָ֣",
+      "gloss": "پایت را"
+    },
+    {
+      "surface": "מֵרָֽע",
+      "gloss": "از شر"
+    }
+  ],
+  "timestamp": "2026-08-13T22:59:39.492846664Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و تِراخ هفتاد سال زیست، و زایید ⟨את⟩ آورام، ⟨את⟩ ناحُور، و ⟨את⟩ هاران را.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "و زیست"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تِراخ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "هفتاد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و زایید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آورام"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "آورام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناحُور"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ناحُور"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "هاران"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "هاران را"
+    }
+  ],
+  "timestamp": "2026-08-13T19:57:23.696949355Z",
+  "model": "glm-5.2"
+}

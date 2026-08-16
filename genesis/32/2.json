@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "و یاعکوو به راهِ خود رفت، و فرستادگانِ الوهیم با او برخوردند.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "و یاعکوو"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "رفت"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "به راهِ خود"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "و برخوردند"
+    },
+    {
+      "surface": "בו",
+      "gloss": "با او"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "فرستادگانِ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:03:39.077796888Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "nehemiah 7:62",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "پسرانِ دَلاَیَه، پسرانِ تُوبی‌یَه، پسرانِ نَکودا، ششصد و چهل و دو.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "דליה",
+      "gloss": "دَلاَیَه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "تُوبی‌یَه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "نَکودا"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "و چهل"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "و دو"
+    }
+  ],
+  "timestamp": "2026-08-13T23:33:15.224680565Z",
+  "model": "glm-5.2"
+}

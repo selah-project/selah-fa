@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 35:21",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "و دهانشان را بر ضد من گشادند، گفتند: هآ، هآ، چشمِ ما دید!",
+  "tokens": [
+    {
+      "surface": "וירחיבו",
+      "gloss": "و گشادند"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بر ضدِ من"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "دهانِشان را"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "گفتند"
+    },
+    {
+      "surface": "האח",
+      "gloss": "هآ"
+    },
+    {
+      "surface": "האח",
+      "gloss": "هآ"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "دید"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "چشمِ ما"
+    }
+  ],
+  "timestamp": "2026-08-13T22:41:46.604396631Z",
+  "model": "glm-5.2"
+}

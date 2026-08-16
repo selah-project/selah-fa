@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 32:44",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "و آمد موشه و سخن گفت ⟨את⟩ همهٔ سخنانِ اینِ سرود را در گوشِ قوم، خودِ ⟨او⟩ و هوشِعاء بن نون.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "و آمد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همهٔ سخنانِ اینِ سرود"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "سخنانِ"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "اینِ سرود"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اینِ"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "در گوشِ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "خودِ ⟨او⟩"
+    },
+    {
+      "surface": "והושע",
+      "gloss": "و هوشِعاء"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نون"
+    }
+  ],
+  "timestamp": "2026-08-13T23:58:33.798095474Z",
+  "model": "glm-5.2"
+}

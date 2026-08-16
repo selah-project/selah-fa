@@ -1,0 +1,53 @@
+{
+  "tier": "hand",
+  "verse": 60,
+  "ref": "ezra 2:60",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "پسرانِ دِلایا، پسرانِ توویا، پسرانِ نِقودا: ششصد و پنجاه و دو.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "דליה",
+      "gloss": "دِلایا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "توویا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "نِقودا"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاه"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "و دو"
+    }
+  ],
+  "timestamp": "2026-08-14T17:47:39Z",
+  "model": "claude-fable-5/hand"
+}

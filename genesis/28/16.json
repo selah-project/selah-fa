@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 28:16",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "و یاعکوو از خوابِ خود بیدار شد، و گفت: بی‌گمان یاهوه در این مکان هست، و من نمی‌دانستم.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "و بیدار شد"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعکوو"
+    },
+    {
+      "surface": "משנתו",
+      "gloss": "از خوابِ خود"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "بی‌گمان"
+    },
+    {
+      "surface": "יש",
+      "gloss": "هست"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "در مکان"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "و من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نمی"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "دانستم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:02:36.944030631Z",
+  "model": "glm-5.2"
+}

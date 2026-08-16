@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و نهادند ⟨את⟩ چربی‌ها را بر سینه‌ها، و چربی‌ها را به دود برآورد — مذبح‌سو.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "و نهادند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چربی‌ها"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "چربی‌ها"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "سینه‌ها"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "و به دود برآورد"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "چربی‌ها"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "مذبهیْ"
+    }
+  ],
+  "timestamp": "2026-08-13T20:24:09.298340748Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "و به ما بدی کردند مِصری‌ها، و ما را می‌فشاردند، و بر ما نهادند کارِ سخت را:",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "و بدی کردند"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "ما را"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "مِصری‌ها"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "و ما را می‌فشاردند"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "و نهادند"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "بر ما"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "کارِ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "سخت"
+    }
+  ],
+  "timestamp": "2026-08-13T20:50:30.698388228Z",
+  "model": "glm-5.2"
+}

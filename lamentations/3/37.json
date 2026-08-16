@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "چه کسی ⟨این است⟩ که گفت و ⟨آن⟩ شد؟ آیا اَدونای فرمان نداد؟",
+  "tokens": [
+    {
+      "surface": "מִ֣י",
+      "gloss": "چه کسی"
+    },
+    {
+      "surface": "זֶ֤ה",
+      "gloss": "⟨این است⟩"
+    },
+    {
+      "surface": "אָמַר֙",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "וַתֶּ֔הִי",
+      "gloss": "و ⟨آن⟩ شد"
+    },
+    {
+      "surface": "אֲדֹנָ֖י",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "نه"
+    },
+    {
+      "surface": "צִוָּֽה",
+      "gloss": "فرمان داد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:18:18.192065130Z",
+  "model": "glm-5.2"
+}

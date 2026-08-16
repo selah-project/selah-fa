@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "numbers 3:47",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و تو پنج‌تا پنج‌تا شِکَل برای هر سر، به شِکَلِ مقدس بگیر — بیست گِرَه شِکَل.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "و تو بگیری"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "پنج‌تا"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "پنج‌تا"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "شِکَل"
+    },
+    {
+      "surface": "לגלגלת",
+      "gloss": "برای هر سر"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "به شِکَلِ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "بگیر"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "گِرَه"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "شِکَل"
+    }
+  ],
+  "timestamp": "2026-08-13T20:31:07.443142370Z",
+  "model": "glm-5.2"
+}

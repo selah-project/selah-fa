@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "هر خزندهٔ بال‌داری که بر چهار می‌رود، نجس است برای شما.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "خزنده"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "بال‌دار"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "که می‌رود"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨است⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "برای شما"
+    }
+  ],
+  "timestamp": "2026-08-13T20:24:24.893845511Z",
+  "model": "glm-5.2"
+}

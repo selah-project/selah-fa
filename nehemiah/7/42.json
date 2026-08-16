@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "nehemiah 7:42",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "پسرانِ حارِم: هزار و هفده.",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "חָרִ֔ם",
+      "gloss": "حارِم"
+    },
+    {
+      "surface": "אֶ֖לֶף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "שִׁבְעָ֥ה",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "עָשָֽׂר",
+      "gloss": "−ده"
+    }
+  ],
+  "timestamp": "2026-08-13T23:32:58.684900083Z",
+  "model": "glm-5.2"
+}

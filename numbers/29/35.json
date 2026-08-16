@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 29:35",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "در روزِ هشتم، عِتسرِت برای شما باش⟨د⟩؛ هر کارِ خدمتِ بیگانه نکنید.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "هشتم"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "عِتسرِت"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "باش⟨د⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "برای شما"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "کارِ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "خدمتِ بیگانه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "نکنید"
+    }
+  ],
+  "timestamp": "2026-08-13T20:40:48.886115448Z",
+  "model": "glm-5.2"
+}

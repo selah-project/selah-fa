@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 23:3",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "نامشروع در جامعهٔ یاهوه نیاید؛ حتی نسلِ دهم نیز برای او در جامعهٔ یاهوه نیاید.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יָבֹא",
+      "gloss": "بیاید"
+    },
+    {
+      "surface": "מַמְזֵר",
+      "gloss": "نامشروع"
+    },
+    {
+      "surface": "בִּקְהַל",
+      "gloss": "در جامعهٔ"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "حتی"
+    },
+    {
+      "surface": "דּוֹר",
+      "gloss": "نسلِ"
+    },
+    {
+      "surface": "עֲשִׂירִי",
+      "gloss": "دهم"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יָבֹא",
+      "gloss": "بیاید"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "برای او"
+    },
+    {
+      "surface": "בִּקְהַל",
+      "gloss": "در جامعهٔ"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:50:23.767524989Z",
+  "model": "glm-5.2"
+}

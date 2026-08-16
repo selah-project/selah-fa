@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "malachi 3:9",
+  "book": "malachi",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "با نفرین، نفرین‌شده‌اید و مرا ⟨את⟩ فریب می‌دهید — این ملت، همهٔ آن.",
+  "tokens": [
+    {
+      "surface": "במארה",
+      "gloss": "با نفرین"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "شما"
+    },
+    {
+      "surface": "נארים",
+      "gloss": "نفرین‌شده‌اید"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "و ⟨את⟩ مرا",
+      "marks": "شما"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "شما"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "فریب می‌دهید"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "این ملت"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "همهٔ آن"
+    }
+  ],
+  "timestamp": "2026-08-15T04:21:43.504163575Z",
+  "model": "glm-5.3"
+}

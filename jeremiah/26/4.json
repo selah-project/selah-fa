@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 26:4",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "و بگویی به آنان: چنین گفت یاهوه: اگر نشنوید مرا، به رفتن در توراتِ من که نهادم به رویِ شما،",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "و بگویی"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "به آنان"
+    },
+    {
+      "surface": "כה",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "بشنوید"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مرا"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "به رفتن"
+    },
+    {
+      "surface": "בתורתי",
+      "gloss": "در توراتِ من"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "نهادم"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "به رویِ شما"
+    }
+  ],
+  "timestamp": "2026-08-13T22:03:12.007460240Z",
+  "model": "glm-5.2"
+}

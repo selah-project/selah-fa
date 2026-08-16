@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "isaiah 30:31",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "که از صدای یاهوه اَشّور درهم‌شکسته می‌شود؛ با عصایی می‌زند.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "از صدای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "درهم‌شکسته می‌شود"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اَشّور"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "با عصا"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "می‌زند"
+    }
+  ],
+  "timestamp": "2026-08-15T04:08:38.151656048Z",
+  "model": "glm-5.3"
+}

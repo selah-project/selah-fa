@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و موشه گفت: بگذارم بگردانم و ⟨את⟩ این دیدارِ بزرگ را ببینم؛ چرا بوته‌ای نمی‌سوزد؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و او گفت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "بگذارم بگردانم"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اكنون"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "و ببینم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "این دیدارِ بزرگ"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "دیدارِ"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "می‌سوزد"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "بوته‌ای"
+    }
+  ],
+  "timestamp": "2026-08-13T20:10:22.951251199Z",
+  "model": "glm-5.2"
+}

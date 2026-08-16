@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "و اَلیشَع به او گفت: کمان و تیرها را بگیر، و او کمان و تیرها را نزدِ او گرفت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "اَلیشَع"
+    },
+    {
+      "surface": "קח",
+      "gloss": "بگیر"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "کمان"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "و تیرها"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "و گرفت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "نزدِ او"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "کمان"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "و تیرها"
+    }
+  ],
+  "timestamp": "2026-08-13T21:36:20.450029561Z",
+  "model": "glm-5.2"
+}

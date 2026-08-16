@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 48:13",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 48,
+  "translation": "و لَویان روبرویِ مرزِ کاهنان، پنج و بیست هزار طول و ده هزار پهنا؛ همهٔ طول پنج و بیست هزار و پهنا ده هزار.",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "و لَویان"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "روبرویِ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "مرزِ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهنان"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "و بیست"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "طول"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "و پهنا"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ده"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "طول"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "و بیست"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "و پهنا"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ده"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هزار"
+    }
+  ],
+  "timestamp": "2026-08-13T22:26:13.300285066Z",
+  "model": "glm-5.2"
+}

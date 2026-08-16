@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 37,
+  "ref": "1-chronicles 11:37",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "حِتسروی کَرمِلی، نَعَرای بنِ اِزْبای.",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "حِتسروی"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "کَرمِلی"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "نَعَرای"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بنِ"
+    },
+    {
+      "surface": "אזבי",
+      "gloss": "اِزْبای"
+    }
+  ],
+  "timestamp": "2026-08-15T17:41:22.136558230Z",
+  "model": "glm-5.3"
+}

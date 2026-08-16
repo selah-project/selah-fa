@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 44:23",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 44,
+  "translation": "و به بندگانت گفتی: اگر برادرِ کوچکِ شما با ⟨את⟩ شما فرود نیاید، دیگر چهرهٔ مرا نخواهید دید.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "و گفتی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "بندگانت"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "فرود آید"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "برادرِ شما"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "کوچک"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "شما"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תספון",
+      "gloss": "بیشتر خواهید"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "دیدنِ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "چهرهٔ مرا"
+    }
+  ],
+  "timestamp": "2026-08-13T20:07:29.999603809Z",
+  "model": "glm-5.2"
+}

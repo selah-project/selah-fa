@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 42,
+  "translation": "و به آنان گفت: نه، بلکه برای دیدنِ برهنگیِ زمین آمده‌اید.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "به آنان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلکه"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "برهنگیِ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "آمده‌اید"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "برای دیدنِ"
+    }
+  ],
+  "timestamp": "2026-08-13T20:07:03.603552679Z",
+  "model": "glm-5.2"
+}

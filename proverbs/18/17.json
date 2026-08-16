@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 18:17",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "عادل ⟨است⟩ نخستین در دعوای خود؛ همدمش می‌آید و او را می‌کاود.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "عادل"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "نخستین"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "در دعوای خود"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "می‌آید"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "همدمش"
+    },
+    {
+      "surface": "וחקרו",
+      "gloss": "و او را می‌کاود"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:04.374693786Z",
+  "model": "glm-5.2"
+}

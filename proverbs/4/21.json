@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 4:21",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "از پیشِ چشمانت برنروند، ایشان را در میانِ دلِ تو نگاه دار.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יליזו",
+      "gloss": "برنروند"
+    },
+    {
+      "surface": "מעיניך",
+      "gloss": "از پیشِ چشمانت"
+    },
+    {
+      "surface": "שמרם",
+      "gloss": "ایشان را نگاه دار"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "در میانِ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "دلِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:59:51.706762012Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "وَ حور پدید آورد ⟨את⟩ اوری، وَ اوری پدید آورد ⟨את⟩ بِتْسالْاِل.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "وَ حور"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پدید آورد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوری"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "اوری"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "وَ اوری"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پدید آورد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بِتْسالْاِل"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "بِتْسالْاِل"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:29.558195423Z",
+  "model": "glm-5.2"
+}

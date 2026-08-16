@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 11:28",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و در صِقْلَگ، و در مَخونا و آبادی‌هایش.",
+  "tokens": [
+    {
+      "surface": "ובצקלג",
+      "gloss": "و در صِقْلَگ"
+    },
+    {
+      "surface": "ובמכנה",
+      "gloss": "و در مَخونا"
+    },
+    {
+      "surface": "ובבנתיה",
+      "gloss": "و آبادی‌هایش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:33:59.410152305Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "بالا می‌بریم دلِ خود را به سویِ کف‌ها، به سویِ اِل در آسمان‌ها.",
+  "tokens": [
+    {
+      "surface": "נִשָּׂא",
+      "gloss": "بالا می‌بریم"
+    },
+    {
+      "surface": "לְבָבֵנוּ",
+      "gloss": "دلِ خود را"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "به سویِ"
+    },
+    {
+      "surface": "כַּפַּיִם",
+      "gloss": "کف‌ها"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "به سویِ"
+    },
+    {
+      "surface": "אֵל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "בַּשָּׁמַיִם",
+      "gloss": "در آسمان‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T23:18:02.697191317Z",
+  "model": "glm-5.2"
+}

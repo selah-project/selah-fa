@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "وَ ⟨את⟩ پنج پرده را جدا پیوند داد، و ⟨את⟩ شش پرده را جدا.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "وَ پیوند داد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنج پرده"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "پرده"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "جدا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "وَ ⟨את⟩",
+      "marks": "شش پرده"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شش"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "پرده"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "جدا"
+    }
+  ],
+  "timestamp": "2026-08-13T20:20:58.399015062Z",
+  "model": "glm-5.2"
+}

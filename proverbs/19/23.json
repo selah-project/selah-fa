@@ -1,0 +1,45 @@
+{
+  "tier": "hand",
+  "verse": 23,
+  "ref": "proverbs 19:23",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "ترسِ یاهوه به حیات ⟨می‌انجامد⟩؛ و سیر می‌آرامد، به بدی گرفتار نشود.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "ترسِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "به حیات"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "و سیر"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "می‌آرامد"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "گرفتار شود"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بدی"
+    }
+  ],
+  "timestamp": "2026-08-14T17:46:57Z",
+  "model": "claude-fable-5/hand"
+}

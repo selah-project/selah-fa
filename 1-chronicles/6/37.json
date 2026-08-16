@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 6:37",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "مرایوت، پسرِ او؛ اَمَریا، پسرِ او؛ اَحیتوب، پسرِ او.",
+  "tokens": [
+    {
+      "surface": "מְרָי֥וֹת",
+      "gloss": "مرایوت"
+    },
+    {
+      "surface": "בְּנ֛וֹ",
+      "gloss": "پسرِ او"
+    },
+    {
+      "surface": "אֲמַרְיָ֥ה",
+      "gloss": "اَمَریا"
+    },
+    {
+      "surface": "בְנ֖וֹ",
+      "gloss": "پسرِ او"
+    },
+    {
+      "surface": "אֲחִיט֥וּב",
+      "gloss": "اَحیتوب"
+    },
+    {
+      "surface": "בְּנֽוֹ",
+      "gloss": "پسرِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:11.632225617Z",
+  "model": "glm-5.2"
+}

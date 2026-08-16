@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و از حوشیم، او ⟨את⟩ اَویطوب و ⟨את⟩ اَلْفَعَل را پدید آورد.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "و از حوشیم"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پدید آورد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَویطوب"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "اَویطوب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "اَلْفَعَل"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "اَلْفَعَل"
+    }
+  ],
+  "timestamp": "2026-08-14T00:18:04.326687492Z",
+  "model": "glm-5.2"
+}

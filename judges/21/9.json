@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 21:9",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و شمرده‌شد قوم، و اینک نبود آنجا هیچ‌مردی از ساکنانِ یَوِش جیلعاد.",
+  "tokens": [
+    {
+      "surface": "ויתפקד",
+      "gloss": "و شمرده‌شد"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نبود"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آنجا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هیچ‌مردی"
+    },
+    {
+      "surface": "מיושבי",
+      "gloss": "از ساکنانِ"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "یَوِش"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "جیلعاد"
+    }
+  ],
+  "timestamp": "2026-08-13T21:07:45.596892964Z",
+  "model": "glm-5.2"
+}

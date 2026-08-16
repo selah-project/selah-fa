@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "تا آنگاه که یاهوه بنگرد و ببیند از آسمان‌ها",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تا آنگاه که"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "بنگرد"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "و ببیند"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "از آسمان‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T23:17:53.864205025Z",
+  "model": "glm-5.2"
+}

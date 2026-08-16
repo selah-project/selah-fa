@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "ezekiel 6:10",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و خواهند دانست که من یاهوه‌ام؛ بی‌جهت سخن نگفتم تا این بدی را برایشان کنم.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "و خواهند دانست"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨برای⟩"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بی‌جهت"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "سخن گفتم"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "تا کنم"
+    },
+    {
+      "surface": "להם",
+      "gloss": "برایشان"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "این بدی"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "این"
+    }
+  ],
+  "timestamp": "2026-08-15T04:15:05.528527942Z",
+  "model": "glm-5.3"
+}

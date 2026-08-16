@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 135,
+  "translation": "یاهوه، نامِ تو تا به ابد؛ یاهوه، یادِ تو تا نسل‌های ⟨و⟩ نسل‌ها.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "نامِ تو"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "تا به ابد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "یادِ تو"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "تا نسل‌های"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "نسل‌ها"
+    }
+  ],
+  "timestamp": "2026-08-15T04:26:10.651974876Z",
+  "model": "glm-5.3"
+}

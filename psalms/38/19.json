@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 38,
+  "translation": "چون بی‌راهیِ خود را بیان می‌کنم؛ از گناهِ خود بیمناک ⟨هستم⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "بی‌راهیِ من"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "بیان می‌کنم"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "بیمناک"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "از گناهِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T22:42:37.002784448Z",
+  "model": "glm-5.2"
+}

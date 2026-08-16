@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "nehemiah 7:51",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "پسرانِ گَزّام، پسرانِ عُزّا، پسرانِ پاسِیَح،",
+  "tokens": [
+    {
+      "surface": "בְּנֵי",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "גַזָּ֥ם",
+      "gloss": "گَزّام"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "עֻזָּ֖א",
+      "gloss": "عُزّا"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "פָסֵֽחַ",
+      "gloss": "پاسِیَح"
+    }
+  ],
+  "timestamp": "2026-08-13T23:32:58.540379379Z",
+  "model": "glm-5.2"
+}

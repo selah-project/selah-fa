@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 78:29",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 78,
+  "translation": "و خوردند و بسیار سیر شدند، و آرزوی ایشان را برایشان آورد.",
+  "tokens": [
+    {
+      "surface": "ויאכלו",
+      "gloss": "و خوردند"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "و سیر شدند"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "ותאותם",
+      "gloss": "و آرزوی ایشان"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "آورد"
+    },
+    {
+      "surface": "להם",
+      "gloss": "برایشان"
+    }
+  ],
+  "timestamp": "2026-08-13T22:48:30.117052287Z",
+  "model": "glm-5.2"
+}

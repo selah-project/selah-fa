@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 115,
+  "translation": "نه مرده‌گان یاه را ستایش می‌کنند، و نه همهٔ فرودآمدگان به سکوت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "مرده‌گان"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "ستایش می‌کنند"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "فرودآمدگان"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "سکوت"
+    }
+  ],
+  "timestamp": "2026-08-13T22:54:36.844164280Z",
+  "model": "glm-5.2"
+}

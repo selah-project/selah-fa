@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 3:2",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "زیرا درازیِ روزها و سال‌هایِ زندگی و سلامتی بیافزایند بر تو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "درازیِ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روزها"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "و سال‌هایِ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زیستی"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "و سلامتی"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "بیافزایند"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بر تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:59:34.195725881Z",
+  "model": "glm-5.2"
+}

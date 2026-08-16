@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "زیرا ⟨את⟩ تمامِ کردِ کارِ الوهیم، او به داوری خواهد آورد، بر هر چیزِ پنهان، چه نیک و چه بد.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تمامِ کردِ کار"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کردِ کار"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "خواهد آورد"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "به داوری"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "پنهان"
+    },
+    {
+      "surface": "אם",
+      "gloss": "چه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیک"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "و چه"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:41.809924930Z",
+  "model": "glm-5.2"
+}

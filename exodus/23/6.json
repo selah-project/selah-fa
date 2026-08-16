@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "حقِ بینوایِ خود را در دعوایش کج نکنی.",
+  "tokens": [
+    {
+      "surface": "לֹ֥א",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תַטֶּ֛ה",
+      "gloss": "کج نکنی"
+    },
+    {
+      "surface": "מִשְׁפַּ֥ט",
+      "gloss": "حقِ"
+    },
+    {
+      "surface": "אֶבְיֹנְךָ֖",
+      "gloss": "بینوایِ خود"
+    },
+    {
+      "surface": "בְּרִיבֽוֹ",
+      "gloss": "در دعوایش"
+    }
+  ],
+  "timestamp": "2026-08-13T20:15:41.446926154Z",
+  "model": "glm-5.2"
+}

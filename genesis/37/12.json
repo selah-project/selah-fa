@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "و برادرانش رفتند تا ⟨את⟩ گلهٔ پدرشان را بچرانند، در شِخِم.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "و رفتند"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برادرانش"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "تا بچرانند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گله را"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "گلهٔ"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "پدرشان"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "در شِخِم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:05:20.883798361Z",
+  "model": "glm-5.2"
+}

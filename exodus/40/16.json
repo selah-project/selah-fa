@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 40,
+  "translation": "و موسه چنین کرد؛ بر اساس همهٔ آنچه که یاهوه به او فرموده بود، ⟨את⟩ او را چنین کرد.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و کرد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "بر اساس همهٔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنچه که"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فرموده بود"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ او را",
+      "marks": "موشه"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:21:50.309117681Z",
+  "model": "glm-5.2"
+}

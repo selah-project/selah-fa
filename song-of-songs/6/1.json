@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 6:1",
+  "book": "song-of-songs",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "کجا رفته ⟨است⟩ دوستت، ای زیباتر در میان زنان؟ کجا روی گردانده ⟨است⟩ دوستت، تا ⟨او را⟩ با تو بجوییم؟",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "کجا"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "رفته"
+    },
+    {
+      "surface": "דודך",
+      "gloss": "دوستت"
+    },
+    {
+      "surface": "היפה",
+      "gloss": "زیباتر"
+    },
+    {
+      "surface": "בנשים",
+      "gloss": "در میان زنان"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "کجا"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "روی گردانده"
+    },
+    {
+      "surface": "דודך",
+      "gloss": "دوستت"
+    },
+    {
+      "surface": "ונבקשנו",
+      "gloss": "و بجوییم او را"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "با تو"
+    }
+  ],
+  "timestamp": "2026-08-13T23:15:50.279349019Z",
+  "model": "glm-5.2"
+}

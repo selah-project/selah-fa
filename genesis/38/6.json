@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 38:6",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 38,
+  "translation": "و یهودا زنی برای عِر، نخست‌زادِ خود گرفت؛ و نامِ او تامار بود.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "و گرفت"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زن"
+    },
+    {
+      "surface": "לער",
+      "gloss": "برای عِر"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "نخست‌زادِ او"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "و نامِ او"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "تامار"
+    }
+  ],
+  "timestamp": "2026-08-13T20:05:37.802157684Z",
+  "model": "glm-5.2"
+}

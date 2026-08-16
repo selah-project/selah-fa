@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 15:13",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و چون ⟨او⟩ را آزاد از نزد خود روانه کنی، او را خالی روانه نکنی.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "و چون"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "روانه‌اش کنی"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "آزاد"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "از نزد تو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "روانه‌اش کنی"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "خالی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:47:44.133513601Z",
+  "model": "glm-5.2"
+}

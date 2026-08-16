@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 1:45",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و یوواب مرد و چوشام از سرزمینِ تیمانی به جایِ او پادشاه شد.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "یوواب"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "و پادشاه شد"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "به جایِ او"
+    },
+    {
+      "surface": "חושם",
+      "gloss": "چوشام"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "از سرزمینِ"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "تیمانی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:00.954881895Z",
+  "model": "glm-5.2"
+}

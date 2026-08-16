@@ -1,0 +1,70 @@
+{
+  "tier": "4.6",
+  "verse": 25,
+  "ref": "genesis 11:25",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "وَزَندَگی ناحور بَعد از آن‌که ⟨او⟩ آفرید ⟨את⟩ تِرَح ۱۱۹ سال و زایید پسران و دختران",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "وَزَندَگی"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ناحور"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بَعد از"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "آن‌که ⟨او⟩ آفرید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تِرَح"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تِرَح"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "۹"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "۱۰"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "و۱۰۰"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و زایید"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پسران"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "و دختران"
+    }
+  ],
+  "timestamp": "2026-08-15T03:28:32.638685918Z",
+  "model": "glm-4.6"
+}

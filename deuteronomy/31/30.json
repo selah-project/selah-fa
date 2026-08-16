@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و موشه در گوش‌هایِ تمامِ جمعِ یِسرائیل سخن گفت، ⟨את⟩ سخنانِ اینِ سرود را، تا پایان.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "در گوش‌هایِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "جمع"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سخنانِ اینِ سرود"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "سخنانِ"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "اینِ سرود"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "پایان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:52:18.861440174Z",
+  "model": "glm-5.2"
+}

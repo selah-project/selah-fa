@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 119,
+  "translation": "تو نزدیکی، ای یاهوه؛ و تمامِ فرمان‌هایت ⟨آنين⟩ راست‌بنیاد.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "نزدیک"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ای یاهوه"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و تمامِ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "فرمان‌هایت"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "راست‌بنیاد"
+    }
+  ],
+  "timestamp": "2026-08-13T22:55:31.085613828Z",
+  "model": "glm-5.2"
+}

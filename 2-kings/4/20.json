@@ -1,0 +1,53 @@
+{
+  "ref": "2-kings 4:20",
+  "lang": "fa",
+  "book": "2-kings",
+  "chapter": 4,
+  "verse": 20,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:47:37Z",
+  "translation": "و او را برداشت و نزدِ مادرش آورد، و بر زانوهای او نشست تا نیمروز، و مرد.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "و او را برداشت"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "و او را آورد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نزدِ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "مادرش"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "و نشست"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "زانوهای او"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "نیمروز"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    }
+  ]
+}

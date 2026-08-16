@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "عریانیِ خواهرِ پدرت را برهنه نکنی، او گوشتِ پدرت ⟨است⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "عریانیِ"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "خواهرِ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "پدرت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "برهنه کنی"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "گوشتِ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "پدرت"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوست"
+    }
+  ],
+  "timestamp": "2026-08-13T20:26:14.090069621Z",
+  "model": "glm-5.2"
+}

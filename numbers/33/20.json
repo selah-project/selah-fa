@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 33:20",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "و کوچ کردند از رِمّون-فِرِص، و اردو زدند در لِیْوْنَه.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "و کوچ کردند"
+    },
+    {
+      "surface": "מרמן",
+      "gloss": "از رِمّون"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "فِرِص"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "و اردو زدند"
+    },
+    {
+      "surface": "בלבנה",
+      "gloss": "در لِیْوْنَه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:42:02.146401475Z",
+  "model": "glm-5.2"
+}

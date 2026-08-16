@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "وتراشید، و ⟨את⟩ نَتِق را نتراشد، وکاهن ⟨את⟩ نَتِق را هفت روز دوم ببندد.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "وتراشید"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "نَتِق"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "نَتِق"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "تراشد"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "وببندد"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نَتِق"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "نَتِق"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روز"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "دوم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:25:08.097754153Z",
+  "model": "glm-5.2"
+}

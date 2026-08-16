@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "⟨את⟩ اَیالون و ⟨את⟩ مراتعِ آن، ⟨את⟩ گَت‌ریمون و ⟨את⟩ مراتعِ آن؛ چهار شهر.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَیالون"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "اَیالون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مراتعِ آن"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "مراتعِ آن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گَت‌ریمون"
+    },
+    {
+      "surface": "גת",
+      "gloss": "گَت"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "ریمون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مراتعِ آن"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "مراتعِ آن"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چهار"
+    }
+  ],
+  "timestamp": "2026-08-13T20:59:07.519736618Z",
+  "model": "glm-5.2"
+}

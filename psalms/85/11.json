@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 85,
+  "translation": "رحمت و راستی به هم رسیدند، عدالت و شالوم یکدیگر را بوسیدند.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "رحمت"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "و راستی"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "به هم رسیدند"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "عدالت"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "و شالوم"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "بوسیدند"
+    }
+  ],
+  "timestamp": "2026-08-15T20:54:17.798121597Z",
+  "model": "glm-5.3+hand"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 15:9",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و پادشاه به او گفت: «به سلامتی برو.» و ⟨او⟩ برخاست و به حِبرون رفت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برو"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "در سلام"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "و برخاست"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "و رفت"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "به حبرون"
+    }
+  ],
+  "timestamp": "2026-08-13T21:20:38.713852592Z",
+  "model": "glm-5.2"
+}

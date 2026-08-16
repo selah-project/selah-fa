@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 5:3",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و آدم سیصد و سی سال زیست و در شباهتِ خود، چون تصویرِ خود، زاد، و نامِ او را شِت خواند.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "و زیست"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "و صد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و زاد"
+    },
+    {
+      "surface": "בדמותו",
+      "gloss": "در شباهتِ خود"
+    },
+    {
+      "surface": "כצלמו",
+      "gloss": "چون تصویرِ خود"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "و خواند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نامِ او را"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "نامِش"
+    },
+    {
+      "surface": "שת",
+      "gloss": "شِت"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:56.643731108Z",
+  "model": "glm-5.2"
+}

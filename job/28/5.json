@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 28:5",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "زمین، از آن نان بیرون می‌آید، و زیرِ آن همانند آتش زیر و رو شده.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "از آن"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "بیرون می‌آید"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "ותחתיה",
+      "gloss": "و زیرِ آن"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "زیر و رو شده"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "همانند"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آتش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:11:41.382306254Z",
+  "model": "glm-5.2"
+}

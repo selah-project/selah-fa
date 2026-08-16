@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 5:2",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "فرمان ده ⟨את⟩ بنییسْرائیل را که بیرون بفرستند از اردو هر برص‌دار و هر ذوالب و هر نجس برای نفس،",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "فرمان ده"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بنییسرائیل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنیـ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسْرائیل"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "که بیرون بفرستند"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "اردو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "برص‌دار"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "זב",
+      "gloss": "ذوالب"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "برای نفس"
+    }
+  ],
+  "timestamp": "2026-08-13T20:32:48.029912098Z",
+  "model": "glm-5.2"
+}

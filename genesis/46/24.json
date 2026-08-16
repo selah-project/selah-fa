@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 46:24",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 46,
+  "translation": "و پسرانِ نَفتالی: یَحتس‌اِل و گونی و یِتسِر و شیلِّم.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نَفتالی"
+    },
+    {
+      "surface": "יחצאל",
+      "gloss": "یَحتس‌اِل"
+    },
+    {
+      "surface": "וגוני",
+      "gloss": "و گونی"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "و یِتسِر"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "و شیلِّم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:07:59.523812086Z",
+  "model": "glm-5.2"
+}

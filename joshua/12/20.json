@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "پادشاهِ شِمرون-مِرون، یک؛ پادشاهِ اَخشاف، یک؛",
+  "tokens": [
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "שִׁמְר֤וֹן",
+      "gloss": "شِمرون"
+    },
+    {
+      "surface": "מְראוֹן֙",
+      "gloss": "مِرون"
+    },
+    {
+      "surface": "אֶחָ֔ד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "אַכְשָׁ֖ף",
+      "gloss": "اَخشاف"
+    },
+    {
+      "surface": "אֶחָֽד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-08-13T20:56:41.731058196Z",
+  "model": "glm-5.2"
+}

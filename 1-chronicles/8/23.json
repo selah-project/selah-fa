@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "1-chronicles 8:23",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "وَعَبدون، وَزیکری، وَحانان",
+  "tokens": [
+    {
+      "surface": "ועבדון",
+      "gloss": "وَعَبدون"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "وَزیکری"
+    },
+    {
+      "surface": "וחנן",
+      "gloss": "وَحانان"
+    }
+  ],
+  "timestamp": "2026-08-15T04:33:24.476388554Z",
+  "model": "glm-5.3"
+}

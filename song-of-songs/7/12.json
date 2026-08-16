@@ -1,0 +1,37 @@
+{
+  "tier": "4.6",
+  "verse": 12,
+  "ref": "song-of-songs 7:12",
+  "book": "song-of-songs",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "بیا دودی، بیاییم ⟨به⟩ صحرا، شب‌مان کنیم در دهکده‌ها",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "بیا"
+    },
+    {
+      "surface": "דודی",
+      "gloss": "دودی"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "بیاییم"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "⟨به⟩ صحرا"
+    },
+    {
+      "surface": "נלינה",
+      "gloss": "شب‌مان کنیم"
+    },
+    {
+      "surface": "בכפרים",
+      "gloss": "در دهکده‌ها"
+    }
+  ],
+  "timestamp": "2026-08-15T04:30:04.755805190Z",
+  "model": "glm-4.6"
+}

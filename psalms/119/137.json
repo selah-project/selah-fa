@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 119,
+  "translation": "صادق ⟨هستی⟩ تو، یاهوه، و راست ⟨هستند⟩ داوری‌های تو.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "صادق"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "و راست"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "داوری‌های تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:55:43.624139733Z",
+  "model": "glm-5.2"
+}

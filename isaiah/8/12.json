@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 8:12",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "نگویید: توطئه، به ⟨دربارهٔ⟩ همهٔ آنچه این قوم می‌گوید: توطئه؛ و ⟨את⟩ هراسِ او را مترسید و نلرزید.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "نگویید"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "توطئه"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "به همهٔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنچه"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "می‌گوید"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "توطئه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "هراسِ او"
+    },
+    {
+      "surface": "מוראו",
+      "gloss": "هراسِ او"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "مترسید"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תעריצו",
+      "gloss": "نلرزید"
+    }
+  ],
+  "timestamp": "2026-08-13T21:41:54.183603933Z",
+  "model": "glm-5.2"
+}

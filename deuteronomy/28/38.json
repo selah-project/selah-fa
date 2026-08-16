@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "deuteronomy 28:38",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "تخمِ فراوان به مزرعه بیرون می‌بری و اندکی را جمع می‌کنی، زیرا ملخ آن را می‌خورد.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "تخم"
+    },
+    {
+      "surface": "רב",
+      "gloss": "فراوان"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "بیرون می‌بری"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "به مزرعه"
+    },
+    {
+      "surface": "ומעט",
+      "gloss": "و اندکی"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "جمع می‌کنی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "יחסלנו",
+      "gloss": "آن را می‌خورد"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "ملخ"
+    }
+  ],
+  "timestamp": "2026-08-13T20:51:18.315261816Z",
+  "model": "glm-5.2"
+}

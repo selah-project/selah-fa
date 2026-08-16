@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 62,
+  "translation": "تنها برای الوهیم بی‌صدا باش، ای نفسِ من، که از او ⟨است⟩ امیدِ من.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "تنها"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "برای الوهیم"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "بی‌صدا باش"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نفسِ من"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "از او"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "امیدِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T22:45:39.411333692Z",
+  "model": "glm-5.2"
+}

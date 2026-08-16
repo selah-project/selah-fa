@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 1:9",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و به من گفت: بایست، التماس، بر من و ⟨مرا⟩ بمیران، زیرا ⟨تیر⟩ گرفت مرا است، زیرا همهٔ هنوز نفسِ من در من است.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "بایست"
+    },
+    {
+      "surface": "נא",
+      "gloss": "التماس"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "ומתתני",
+      "gloss": "و بمیران"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مرا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "אחזני",
+      "gloss": "گرفت مرا"
+    },
+    {
+      "surface": "השבץ",
+      "gloss": "تیر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "هنوز"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نفسِ من"
+    },
+    {
+      "surface": "בי",
+      "gloss": "در من"
+    }
+  ],
+  "timestamp": "2026-08-13T21:16:28.387928316Z",
+  "model": "glm-5.2"
+}

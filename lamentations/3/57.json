@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "lamentations 3:57",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "نزدیک شدی در روزِ فراخوانِ منِ ⟨تو را⟩، گفتی: نترس.",
+  "tokens": [
+    {
+      "surface": "קרבת",
+      "gloss": "نزدیک شدی"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "درِ روزِ"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "فراخوانِ منِ ⟨تو را⟩"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "گفتی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "بترس"
+    }
+  ],
+  "timestamp": "2026-08-13T23:18:10.422539783Z",
+  "model": "glm-5.2"
+}

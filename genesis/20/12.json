@@ -1,0 +1,65 @@
+{
+  "tier": "4.6",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و نیز قطعاً خواهرِ من، دخترِ پدرِ من ⟨هست⟩، هرچند دخترِ مادرِ من نیست؛ و برای من به زن ⟨شد⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "و نیز"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "قطعاً"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "خواهرِ من"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دخترِ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پدرِ من"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هست⟩"
+    },
+    {
+      "surface": "אך",
+      "gloss": "هرچند"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دخترِ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "مادرِ من"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "و برای من ⟨شد⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": ""
+    },
+    {
+      "surface": "לאשה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-15T03:33:00.681929129Z",
+  "model": "glm-4.6"
+}

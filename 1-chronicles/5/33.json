@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "مِرایوت ⟨את⟩ اَمَریَاه را زاد، و اَمَریَاه ⟨את⟩ اَحیتوب را زاد.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "مِرایوت"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَمَریَاه"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "اَمَریَاه"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "و اَمَریَاه"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَحیتوب"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "اَحیتوب"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:26.703971681Z",
+  "model": "glm-5.2"
+}

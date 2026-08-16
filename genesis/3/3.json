@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و از میوهٔ درختی که در میان باغ است، الوهیم گفته: از آن نخورید و به آن دست نزنید، مبادا بمیرید.",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "و از میوهٔ"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "درختی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "در میان"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "باغ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفته"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "خورید"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "از آن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "دست بزنید"
+    },
+    {
+      "surface": "בו",
+      "gloss": "به آن"
+    },
+    {
+      "surface": "פן",
+      "gloss": "مبادا"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "بمیرید"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:35.360483826Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 39,
+  "translation": "از تمامی عصیان‌هایم بربایم؛ ننگِ نابخردان بر من مگذار.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "از تمامی"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "عصیان‌هایم"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "بربایم"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "ننگِ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نابخرد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "مگذار"
+    }
+  ],
+  "timestamp": "2026-08-13T22:42:48.898141249Z",
+  "model": "glm-5.2"
+}

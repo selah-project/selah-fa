@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "در روزِ نخست، فراخوانِ مقدّس؛ هر کارِ خدمت نکنید.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "نخست"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "فراخوانِ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدّس"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "کارِ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "خدمت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کنید"
+    }
+  ],
+  "timestamp": "2026-08-13T20:28:55.033699874Z",
+  "model": "glm-5.2"
+}

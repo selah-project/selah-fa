@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 69,
+  "translation": "مرا نجات بده، ای الوهیم، زیرا آب‌ها تا جان رسیده‌اند.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "مرا نجات بده"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "באו",
+      "gloss": "رسیده‌اند"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آب‌ها"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    }
+  ],
+  "timestamp": "2026-08-15T04:23:55.608950133Z",
+  "model": "glm-5.3"
+}

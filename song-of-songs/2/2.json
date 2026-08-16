@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "song-of-songs 2:2",
+  "book": "song-of-songs",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "همچون نیلوفری میان خارها، так بابهای من میان دختران.",
+  "tokens": [
+    {
+      "surface": "כשושנה",
+      "gloss": "همچون نیلوفری"
+    },
+    {
+      "surface": "בין",
+      "gloss": "میان"
+    },
+    {
+      "surface": "החוחים",
+      "gloss": "خارها"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "بابهای من"
+    },
+    {
+      "surface": "בין",
+      "gloss": "میان"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "دختران"
+    }
+  ],
+  "timestamp": "2026-08-15T04:29:39.347925772Z",
+  "model": "glm-5.3"
+}

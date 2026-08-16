@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "یوئیل ⟨⟨او⟩ سرور⟩، و شافام دومی، و یَعْنای و شافَط در هَباشان.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "یوئیل"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سرور"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "و شافام"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "دومی"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "و یَعْنای"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "و شافَط"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "در هَباشان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:17.213973354Z",
+  "model": "glm-5.2"
+}

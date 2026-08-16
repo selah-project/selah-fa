@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 116,
+  "translation": "آه، ای یاهوه، که من بندهٔ توئم؛ من بندهٔ توئم و پسرِ کنیزِ تو؛ بندهایم را گشودی.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "آه، ای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "بندهٔ توئم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "بندهٔ توئم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "و پسرِ"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "کنیزِ تو"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "گشودی"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "بندهایم را"
+    }
+  ],
+  "timestamp": "2026-08-13T22:54:53.201877375Z",
+  "model": "glm-5.2"
+}

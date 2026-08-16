@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 8:4",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و اینک آنجا کَبوُدِ الوهیمِ یِسرائیل، به‌مانندِ مَرئیِ که دیدم در درّه.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آنجا"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "کَبوُدِ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوهیمِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "به‌مانندِ مَرئیِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "دیدم"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "در درّه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:13:23.249030236Z",
+  "model": "glm-5.2"
+}

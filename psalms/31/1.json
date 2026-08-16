@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "به رهبرِموسیقی، مزموری از داوود.",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּחַ",
+      "gloss": "به رهبرِموسیقی"
+    },
+    {
+      "surface": "מִזְמוֹר",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "از داوود"
+    }
+  ],
+  "timestamp": "2026-08-13T22:41:14.177112283Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 3:11",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و یاهوه به من گفت: عادل‌تر شد جانِ مِشیوَه یِسرائیل از خیانتکار یهودا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "عادل‌تر شد"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "جانِ"
+    },
+    {
+      "surface": "משבה",
+      "gloss": "مِشیوَه"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "מבגדה",
+      "gloss": "از خیانتکار"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    }
+  ],
+  "timestamp": "2026-08-13T21:55:48.215553862Z",
+  "model": "glm-5.2"
+}

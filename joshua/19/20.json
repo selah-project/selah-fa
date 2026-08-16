@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 19:20",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و هَرَبیت و قیشیون و اوِتس.",
+  "tokens": [
+    {
+      "surface": "וְהָֽרַבִּ֥ית",
+      "gloss": "و هَرَبیت"
+    },
+    {
+      "surface": "וְקִשְׁי֖וֹן",
+      "gloss": "و قیشیون"
+    },
+    {
+      "surface": "וָאָֽבֶץ",
+      "gloss": "و اوِتس"
+    }
+  ],
+  "timestamp": "2026-08-13T20:58:56.959968262Z",
+  "model": "glm-5.2"
+}

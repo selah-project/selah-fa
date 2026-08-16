@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و بهتر از هر دو ⟨את⟩ او که تا کنون نبوده، که ندیده ⟨את⟩ کارِ بد را که شده زیر خورشید.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "و بهتر"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "از هر دو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "او"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "تا کنون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "نبوده"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ندیده"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کارِ بد"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "کارِ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "شده"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "زیر"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "خورشید"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:26.563572704Z",
+  "model": "glm-5.2"
+}

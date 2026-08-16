@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 11:20",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و اَویشای، برادرِ یوآو، او سرِ آن سه تن بود؛ و او نیزبارهٔ ⟨את⟩ نیزهٔ خود را بر سیصد کشته بیدار کرد؛ و برای او نامی میانِ آن سه نبود.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "و اَویشای"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برادرِ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سرِ"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "آن سه تن"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "و او"
+    },
+    {
+      "surface": "עורר",
+      "gloss": "بیدار کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نیزهٔ او"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "نیزهٔ خود را"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "کشته"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نامی"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "در آن سه تن"
+    }
+  ],
+  "timestamp": "2026-08-13T23:38:26.153141036Z",
+  "model": "glm-5.2"
+}

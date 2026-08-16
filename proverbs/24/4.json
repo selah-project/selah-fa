@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 24:4",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و با دانش اتاق‌ها پر شوند، از همهٔ ثروتِ گران‌بها و خوشایند.",
+  "tokens": [
+    {
+      "surface": "ובדעת",
+      "gloss": "و با دانش"
+    },
+    {
+      "surface": "חדרים",
+      "gloss": "اتاق‌ها"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "پر شوند"
+    },
+    {
+      "surface": "כל",
+      "gloss": "از همهٔ"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ثروتِ"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "گران‌بها"
+    },
+    {
+      "surface": "ונעים",
+      "gloss": "و خوشایند"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:49.803511375Z",
+  "model": "glm-5.2"
+}

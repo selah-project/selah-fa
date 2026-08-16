@@ -1,0 +1,69 @@
+{
+  "ref": "deuteronomy 29:6",
+  "lang": "fa",
+  "book": "deuteronomy",
+  "chapter": 29,
+  "verse": 6,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:55:53Z",
+  "translation": "و ⟨به⟩ این مکان آمدید، و سیحون پادشاهِ حِشبون و عوگ پادشاهِ باشان به رویاروییِ ما برای جنگ بیرون آمدند، و آنان را زدیم.",
+  "tokens": [
+    {
+      "surface": "ותבאו",
+      "gloss": "و آمدید"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨به⟩"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "مکان"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "و بیرون آمد"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "سیحون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "حِشبون"
+    },
+    {
+      "surface": "ועוג",
+      "gloss": "و عوگ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "باشان"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "به رویاروییِ ما"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "برای جنگ"
+    },
+    {
+      "surface": "ונכם",
+      "gloss": "و آنان را زدیم"
+    }
+  ]
+}

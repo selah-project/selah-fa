@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 23:6",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "و داوید آنان را به دسته‌ها بخش کرد، به پسرانِ لِوی: گِرشون، قِهات و مِراری.",
+  "tokens": [
+    {
+      "surface": "ויחלקם",
+      "gloss": "و آنان را بخش کرد"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوید"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "به دسته‌ها"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "به پسرانِ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لِوی"
+    },
+    {
+      "surface": "לגרשון",
+      "gloss": "گِرشون"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قِهات"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "و مِراری"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:18.143770710Z",
+  "model": "glm-5.2"
+}

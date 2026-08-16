@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 25:23",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "بادِ شمال باران را می‌آورد، و چهره‌های خشمگین، زبانی پنهان ⟨را⟩.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "باد"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "شمال"
+    },
+    {
+      "surface": "תחולל",
+      "gloss": "می‌آورد"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "باران"
+    },
+    {
+      "surface": "ופנים",
+      "gloss": "و چهره‌ها"
+    },
+    {
+      "surface": "נזעמים",
+      "gloss": "خشمگین"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "پنهان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:47.316738861Z",
+  "model": "glm-5.2"
+}

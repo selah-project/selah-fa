@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 17:3",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "و در آن شب واقع شد، و کلام الوهیم به ناتان آمد، به این مضمون:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و واقع شد"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "در شب"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به این مضمون"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:28.827522276Z",
+  "model": "glm-5.2"
+}

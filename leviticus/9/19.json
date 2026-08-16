@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 9:19",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و ⟨את⟩ چربی‌ها از گاو نر و از قوچ، دم پین، و پوشش درون‌ها، و کلیه‌ها، و برآمدگی جگر،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "چربی‌ها"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "چربی‌ها"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "השור",
+      "gloss": "گاو نر"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "و از"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "قوچ"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "دم پین"
+    },
+    {
+      "surface": "והמכסה",
+      "gloss": "و پوشش"
+    },
+    {
+      "surface": "והכלית",
+      "gloss": "و کلیه‌ها"
+    },
+    {
+      "surface": "ויתרת",
+      "gloss": "و برآمدگی"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "جگر"
+    }
+  ],
+  "timestamp": "2026-08-13T20:24:09.298234069Z",
+  "model": "glm-5.2"
+}

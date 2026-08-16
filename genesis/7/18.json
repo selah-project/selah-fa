@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 7:18",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و چیره شدند آب‌ها و بسیار فزودند بر زمین، و رفت تابوت بر روی آب‌ها.",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "و چیره شدند"
+    },
+    {
+      "surface": "המים",
+      "gloss": "آب‌ها"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "و فزودند"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "و رفت"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "تابوت"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "روی"
+    },
+    {
+      "surface": "המים",
+      "gloss": "آب‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:29.377493391Z",
+  "model": "glm-5.2"
+}

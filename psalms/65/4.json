@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 65,
+  "translation": "امورِ گناهان بر من چیره شد؛ ⟨את⟩ سرکشی‌های ما را تو می‌پوشانی.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "امورِ"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "گناهان"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "چیره شد"
+    },
+    {
+      "surface": "מני",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "سرکشی‌های ما"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "می‌پوشانی‌شان"
+    }
+  ],
+  "timestamp": "2026-08-15T04:23:44.299915889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 45:6",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 45,
+  "translation": "تا بدانند از طلوعِ خورشید و از غروبِ ⟨آن⟩ که جز من نیست؛ من یاهوه‌ام و دیگر نیست.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "تا"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "بدانند"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "از طلوعِ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "خورشید"
+    },
+    {
+      "surface": "וממערבה",
+      "gloss": "و از غروبِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "هیچ"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "جز من"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نیست"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیگر"
+    }
+  ],
+  "timestamp": "2026-08-13T21:51:45.088824300Z",
+  "model": "glm-5.2"
+}

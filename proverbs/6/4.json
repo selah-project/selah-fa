@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "خواب به چشم‌هایت مده، و خوابِ سبک به پلک‌هایت.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "مده"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "خواب"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "به چشم‌هایت"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "و خوابِ سبک"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "به پلک‌هایت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:00:04.870737944Z",
+  "model": "glm-5.2"
+}

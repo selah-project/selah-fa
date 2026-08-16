@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 116,
+  "translation": "بازگرد، ای جانِ من، به آرامشت؛ زیرا یاهوه بر تو نیکی کرده ⟨است⟩.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "بازگرد"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "جانِ من"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "به آرامشت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "نیکی کرده"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "بر تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:55:00.624379348Z",
+  "model": "glm-5.2"
+}

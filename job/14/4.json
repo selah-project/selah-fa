@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "چه کسی پاک از ناپاک خواهد داد؟ ⟨هیچ⟩ یک!",
+  "tokens": [
+    {
+      "surface": "מִֽי",
+      "gloss": "چه کسی"
+    },
+    {
+      "surface": "יִתֵּ֣ן",
+      "gloss": "خواهد داد"
+    },
+    {
+      "surface": "טָ֭הוֹר",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "מִטָּמֵ֗א",
+      "gloss": "از ناپاک"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אֶחָֽד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-08-13T23:09:11.494829431Z",
+  "model": "glm-5.2"
+}

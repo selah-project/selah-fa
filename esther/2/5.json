@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "esther 2:5",
+  "book": "esther",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "مردی یهودی بود در شوشانِ دژ، و نامش مُردُخای بود، پسر یائیر، پسر شیمعی، پسر قیش، مردی بنی‌یامینی.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "יהודי",
+      "gloss": "یهودی"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "در شوشان"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "دژ"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "و نامش"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مُردُخای"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "یائیر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شیمعی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "قیش"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "بنی‌یامینی"
+    }
+  ],
+  "timestamp": "2026-08-15T04:30:47.501249916Z",
+  "model": "glm-5.3"
+}

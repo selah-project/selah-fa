@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 38:17",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 38,
+  "translation": "و گفت: من بزغاله‌ای از گله می‌فرستم. و گفت: اگر دست‌سپاری بدهی تا زمانی که آن را بفرستی.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "می‌فرستم"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "بزغاله‌ای"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بز"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "گله"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "بدهی"
+    },
+    {
+      "surface": "ערבון",
+      "gloss": "دست‌سپاری"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا زمانی که"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "بفرستی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:06:07.854384237Z",
+  "model": "glm-5.2"
+}

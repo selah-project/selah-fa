@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 43:5",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 43,
+  "translation": "و روان مرا برداشت و مرا آورد به سمت حیاطِ درونی، و اینک جلالِ یاهوه خانه را پر ⟨بود⟩.",
+  "tokens": [
+    {
+      "surface": "ותשאני",
+      "gloss": "و مرا برداشت"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روان"
+    },
+    {
+      "surface": "ותביאני",
+      "gloss": "و مرا آورد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سمت"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "حیاطِ"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "درونی"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلالِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "خانه را"
+    }
+  ],
+  "timestamp": "2026-08-14T00:08:54.575063223Z",
+  "model": "glm-5.2"
+}

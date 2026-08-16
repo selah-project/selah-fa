@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 31:16",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "زیرا تمامِ ثروتی که الوهیم از پدرِ ما بزدود، از آنِ ما و پسرانِ ماست؛ و اکنون، هر آنچه الوهیم به تو گفته، بکن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "ثروت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "بزدود"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "از پدرِ ما"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "به ما"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آن است"
+    },
+    {
+      "surface": "ולבנינו",
+      "gloss": "و به پسرانِ ما"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "و اکنون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنچه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفته"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "به تو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بکن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:04:07.083091428Z",
+  "model": "glm-5.2"
+}

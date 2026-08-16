@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "سخن‌چینی نکن در میان قومت؛ بر خونِ همسایه‌ات ساکی نایست؛ من یاهوه‌ام.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "بگَرد (روی)"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "سخن‌چین"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "در میان قومت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "بایست"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "همسایه‌ات"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-15T03:51:03.687032515Z",
+  "model": "glm-5.3"
+}

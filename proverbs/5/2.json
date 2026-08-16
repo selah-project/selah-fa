@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 5:2",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "برای نگاه داشتنِ تدبیر، و دانش، لبانت نگاه دارند.",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "برای نگاه داشتنِ"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "تدبیر"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "و دانش"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "لبانت"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "نگاه دارند"
+    }
+  ],
+  "timestamp": "2026-08-13T23:00:05.257442119Z",
+  "model": "glm-5.2"
+}

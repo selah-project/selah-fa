@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 1:12",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و یاهوه به من گفت: «نیکو دیدی، که من بیدارم بر سخنِ خودم تا آن را به انجام برسانم.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "היטבת",
+      "gloss": "نیکو دیدی"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "برای دیدن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "بیدارم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "سخنِ خودم"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "تا آن را به انجام برنانم"
+    }
+  ],
+  "timestamp": "2026-08-13T21:55:07.367957999Z",
+  "model": "glm-5.2"
+}

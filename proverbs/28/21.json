@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "شناختنِ چهره‌ها خوب نیست، و برای یک لقمه نان مردی گناه می‌کند.",
+  "tokens": [
+    {
+      "surface": "הכר",
+      "gloss": "شناختنِ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "چهره‌ها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خوب"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و برای"
+    },
+    {
+      "surface": "פת",
+      "gloss": "یک لقمه"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "יפשע",
+      "gloss": "گناه می‌کند"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "مردی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:05:35.768253668Z",
+  "model": "glm-5.2"
+}

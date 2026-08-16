@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و برخاست پادشاهیِ نو بر مصر، که نمی‌شناخت ⟨את⟩ یوسف.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "و برخاست"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهی"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نو"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نمی‌"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "شناخت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوسف"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    }
+  ],
+  "timestamp": "2026-08-13T20:09:22.984708713Z",
+  "model": "glm-5.2"
+}

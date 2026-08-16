@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "1-chronicles 27:8",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "پنجمی برای ماهِ پنجم: سرور شَمهوت هایزراحی؛ و بر دستهٔ او بیست‌وچهار ⟨هزار⟩.",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "پنجمی"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "برای ماه"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "پنجم"
+    },
+    {
+      "surface": "השר",
+      "gloss": "سرور"
+    },
+    {
+      "surface": "שמהות",
+      "gloss": "شَمهوت"
+    },
+    {
+      "surface": "היזרח",
+      "gloss": "هایزراحی"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "دستهٔ او"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "و چهار"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    }
+  ],
+  "timestamp": "2026-08-15T17:41:26.382052470Z",
+  "model": "glm-5.3"
+}

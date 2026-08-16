@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "برای رهبر، مزمورِ داوود.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "برای رهبر"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوود"
+    }
+  ],
+  "timestamp": "2026-08-13T22:39:51.926507341Z",
+  "model": "glm-5.2"
+}

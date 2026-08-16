@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 20:23",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "مکروهِ یاهوه سنگِ و سنگِ، و ترازوهای فریب خوب نیستند.",
+  "tokens": [
+    {
+      "surface": "תּוֹעֲבַ֣ת",
+      "gloss": "مکروفِ"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֶ֣בֶן",
+      "gloss": "سنگ"
+    },
+    {
+      "surface": "וָאָ֑בֶן",
+      "gloss": "و سنگ"
+    },
+    {
+      "surface": "וּמֹאזְנֵ֖י",
+      "gloss": "و ترازوهای"
+    },
+    {
+      "surface": "מִרְמָ֣ה",
+      "gloss": "فریب"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "نه"
+    },
+    {
+      "surface": "טֽוֹב",
+      "gloss": "خوب"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:16.378673392Z",
+  "model": "glm-5.2"
+}

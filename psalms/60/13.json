@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 60,
+  "translation": "به ما کمکِ ⟨از⟩ تنگی بده، و ⟨با⟩ این که رستگاریِ آدم پوچ است.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "بده"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "به ما"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "کمکِ"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "تنگی"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "و پوچ است"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "رستگاریِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    }
+  ],
+  "timestamp": "2026-08-13T22:45:23.008621081Z",
+  "model": "glm-5.2"
+}

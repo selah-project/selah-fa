@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "پسرانِ اَرَح، هفت‌صد و هفتاد‌وپنج.",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "אָרַ֔ח",
+      "gloss": "اَرَح"
+    },
+    {
+      "surface": "שְׁבַ֥ע",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "מֵא֖וֹת",
+      "gloss": "صد"
+    },
+    {
+      "surface": "חֲמִשָּׁ֥ה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "וְשִׁבְעִֽים",
+      "gloss": "و هفتاد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:28:00.240711965Z",
+  "model": "glm-5.2"
+}

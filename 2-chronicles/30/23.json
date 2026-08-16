@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 30:23",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "و مشورت کردند همهٔ قوم برایِ کردنِ هفتِ روزِ دیگر را، و کردند هفتِ روزِ شادی را.",
+  "tokens": [
+    {
+      "surface": "ויועצו",
+      "gloss": "و مشورت کردند"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "برایِ کردنِ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "هفتِ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روزِ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "دیگر"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "و کردند"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "هفتِ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روز"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "شادی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:50:54.284672619Z",
+  "model": "glm-5.2"
+}

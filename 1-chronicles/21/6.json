@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 21:6",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و لاوی و بِنیامین را در میانِ ایشان شمرد نکرد، که کلامِ پادشاه نزدِ یوآب ⟨את⟩ مکروه بود.",
+  "tokens": [
+    {
+      "surface": "ולוי",
+      "gloss": "و لاوی"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "و بِنیامین"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نکرد"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "شمرد"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "در میانِ ایشان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "مکروه بود"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوآب"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "نزدِ یوآب"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:34.425975879Z",
+  "model": "glm-5.2"
+}

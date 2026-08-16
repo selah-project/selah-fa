@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 33,
+  "ref": "1-chronicles 11:33",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "عَزمَوِت هَبَحرومی، اِلیَحبَا هَشَعلبونی؛",
+  "tokens": [
+    {
+      "surface": "עזמות",
+      "gloss": "عَزمَوِت"
+    },
+    {
+      "surface": "הבחרומי",
+      "gloss": "هَبَحرومی"
+    },
+    {
+      "surface": "אליחבא",
+      "gloss": "اِلیَحبَا"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "هَشَعلبونی"
+    }
+  ],
+  "timestamp": "2026-08-15T04:34:04.267891602Z",
+  "model": "glm-5.3"
+}

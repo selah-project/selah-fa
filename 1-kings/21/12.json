@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 21:12",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "روزه‌ای اعلام کردند و ⟨את⟩ نابوت را در سرِ قوم بنشانیدند.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "اعلام کردند"
+    },
+    {
+      "surface": "צום",
+      "gloss": "روزه‌ای"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "و بنشانیدند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نابوت"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "نابوت"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "در سرِ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    }
+  ],
+  "timestamp": "2026-08-13T21:31:19.327465391Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 40,
+  "translation": "و ⟨את⟩ پردهٔ درگاهِ مسکن را برافراشت.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "و برافراشت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پرده"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "پرده"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "درگاهِ"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "مسکن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:21:25.642791637Z",
+  "model": "glm-5.2"
+}

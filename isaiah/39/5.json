@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 39:5",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 39,
+  "translation": "و یِشَ‌ع‌یاهو به حِزقی‌یاهو گفت: بشنو ⟨את⟩ کلام یاهوه صَباؤت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "یِشَ‌ع‌یاهو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حِزقی‌یاهو"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "بشنو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨את⟩ کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صَباؤت"
+    }
+  ],
+  "timestamp": "2026-08-13T21:48:58.546620740Z",
+  "model": "glm-5.2"
+}

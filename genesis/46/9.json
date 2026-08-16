@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 46:9",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 46,
+  "translation": "و پسرانِ رئوبِن: حَنوخ و فَلّو و حِتسرون و کَرمی.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئوبِن"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "حَنوخ"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "و فَلّو"
+    },
+    {
+      "surface": "וחצרון",
+      "gloss": "و حِتسرون"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "و کَرمی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:07:59.741844524Z",
+  "model": "glm-5.2"
+}

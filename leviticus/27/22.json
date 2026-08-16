@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و اگر ⟨את⟩ زمینِ خریدِ خود را که از زمینِ ملکِ او نیست، تقدیس کند برای یاهوه،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمین"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "زمینِ"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "خریدِ خود"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "از زمینِ"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "ملکِ او"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "تقدیس کند"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "برای یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:30:29.117337109Z",
+  "model": "glm-5.2"
+}

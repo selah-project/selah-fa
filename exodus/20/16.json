@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "در برابرِ همسایه‌ات شهادتِ دروغ نده.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "شهادت نده"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "در برابرِ همسایه‌ات"
+    },
+    {
+      "surface": "עד",
+      "gloss": "شهادت"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغ"
+    }
+  ],
+  "timestamp": "2026-08-15T03:47:47.719841182Z",
+  "model": "glm-5.3"
+}

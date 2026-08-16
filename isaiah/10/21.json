@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "بقیّت بازگردد، بقیّتِ یاعکوو، به سوی اِلِ توانا.",
+  "tokens": [
+    {
+      "surface": "שְׁאָ֥ר",
+      "gloss": "بقیّت"
+    },
+    {
+      "surface": "יָשׁ֖וּב",
+      "gloss": "بازگردد"
+    },
+    {
+      "surface": "שְׁאָ֣ר",
+      "gloss": "بقیّتِ"
+    },
+    {
+      "surface": "יַעֲקֹ֑ב",
+      "gloss": "یاعکوو"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "אֵ֖ל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "גִּבּֽוֹר",
+      "gloss": "توانا"
+    }
+  ],
+  "timestamp": "2026-08-13T21:43:22.292138291Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "و زایید کرد زِلپه کنیزِ لِیّا برای یاعکوو پسری.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "و زایید کرد"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "زِلپه"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "کنیزِ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لِیّا"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "برای یاعکوو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسری"
+    }
+  ],
+  "timestamp": "2026-08-13T20:02:08.884100799Z",
+  "model": "glm-5.2"
+}

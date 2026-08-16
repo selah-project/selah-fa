@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "وَ کاهن فرمان دهد، و ⟨את⟩ پرندهٔ یکی را در ظرف سفالی بر فراز آب‌های زنده ذبح کند.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "وَ فرمان دهد"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "وَ ذبح کند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پرندهٔ یکی"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "پرنده"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "در"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ظرف"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "سفالی"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر فراز"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آب‌های"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زنده"
+    }
+  ],
+  "timestamp": "2026-08-13T20:25:59.711969465Z",
+  "model": "glm-5.2"
+}

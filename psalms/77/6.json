@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 77,
+  "translation": "روزهای از پیش را برمی‌شمرم، سال‌های دوران‌ها را.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "برمی‌شمرم"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روزهای"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "از پیش را"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "سال‌های"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "دوران‌ها را"
+    }
+  ],
+  "timestamp": "2026-08-13T22:47:44.881051287Z",
+  "model": "glm-5.2"
+}

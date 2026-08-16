@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 49:21",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 49,
+  "translation": "از صدای افتِ آن‌ها به‌لرزه درآمد زمین؛ فریادی بر دریای سُوف شنیده شد صدایش.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "از صدای"
+    },
+    {
+      "surface": "נפלם",
+      "gloss": "افتِ آن‌ها"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "به‌لرزه درآمد"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "فریادی"
+    },
+    {
+      "surface": "בים",
+      "gloss": "بر دریای"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "سُوف"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "شنیده شد"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "صدایش"
+    }
+  ],
+  "timestamp": "2026-08-13T22:09:49.157366390Z",
+  "model": "glm-5.2"
+}

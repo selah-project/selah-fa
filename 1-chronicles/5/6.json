@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 5:6",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "بِئِرا پسرِ او، که تِلگَت-پِلْنِئسَر پادشاهِ آشور تبعیدش کرد؛ او نَسی برای رأوبِنی بود.",
+  "tokens": [
+    {
+      "surface": "בארה",
+      "gloss": "بِئِرا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرِ او"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "تبعید کرد"
+    },
+    {
+      "surface": "תלגת",
+      "gloss": "تِلگَت"
+    },
+    {
+      "surface": "פלנאסר",
+      "gloss": "پِلْنِئسَر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آشور"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "نَسی"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "برای رأوبِنی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:02.671406797Z",
+  "model": "glm-5.2"
+}

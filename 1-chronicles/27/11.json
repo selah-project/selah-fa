@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 27:11",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "هشتمین برای ماهِ هشتم، سیبْخای حوشاتی، زَرَحی، و بر بخشِ او بیست‌وچهار هزار.",
+  "tokens": [
+    {
+      "surface": "השמיני",
+      "gloss": "هشتمین"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "برای ماه"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "هشتم"
+    },
+    {
+      "surface": "סבכי",
+      "gloss": "سیبْخای"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "حوشاتی"
+    },
+    {
+      "surface": "לזרחי",
+      "gloss": "زَرَحی"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "بخشِ او"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "و چهار"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    }
+  ],
+  "timestamp": "2026-08-13T23:42:27.561919619Z",
+  "model": "glm-5.2"
+}

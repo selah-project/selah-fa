@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 22:40",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "وَ بَلَق گاو و گوسفند ذبح کرد، و نزد بِلعام و سرورانی که ⟨את⟩ او بودند فرستاد.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "وَ ذبح کرد"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بَلَق"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "گاو"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "و گوسفند"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "و فرستاد"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "نزد بِلعام"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "و سروران"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ او",
+      "marks": "او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:38:21.919939885Z",
+  "model": "glm-5.2"
+}

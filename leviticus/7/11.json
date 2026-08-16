@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و این توراتِ ذبیحهٔ شَلومیم است، که او به پیشگاه یاهوه تقریب کند:",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "و این"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "توراتِ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ذبیحهٔ"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "شَلومیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "تقریب کند"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "به پیشگاه یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:22:47.879082701Z",
+  "model": "glm-5.2"
+}

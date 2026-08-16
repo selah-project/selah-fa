@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و نزد پادشاه درآی و با او سخن گویی چون این سخن.» و یوآو ⟨את⟩ سخنان را در دهانِ ⟨او⟩ نهاد.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "و درآی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نزد"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "و سخن گویی"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "با او"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "چون"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "و نهاد"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سخنان را"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "سخنان"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "در دهانِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T21:19:55.168645321Z",
+  "model": "glm-5.2"
+}

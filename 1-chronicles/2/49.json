@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 2:49",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و زاد شَعَف پدرِ مَدْمَنّه، ⟨את⟩ شِوا پدرِ مَکْبِنا، و پدرِ گِبْعا؛ و دخترِ کالِب عَکْسا.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "و زاد"
+    },
+    {
+      "surface": "שעף",
+      "gloss": "شَعَف"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پدرِ"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "مَدْمَنّه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شِوا"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "شِوا"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پدرِ"
+    },
+    {
+      "surface": "מכבנה",
+      "gloss": "مَکْبِنا"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "و پدرِ"
+    },
+    {
+      "surface": "גבעא",
+      "gloss": "گِبْعا"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "و دخترِ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالِب"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "عَکْسا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:14.687016496Z",
+  "model": "glm-5.2"
+}

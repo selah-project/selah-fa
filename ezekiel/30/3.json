@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 30:3",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "که نزدیک ⟨است⟩ روز، و نزدیک ⟨است⟩ روزِ یاهوه، روزِ ابر، زمانِ امّت‌ها خواهد بود.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "نزدیک"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "و نزدیک"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ابر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "زمان"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "امّت‌ها"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "خواهد بود"
+    }
+  ],
+  "timestamp": "2026-08-13T22:19:36.312569720Z",
+  "model": "glm-5.2"
+}

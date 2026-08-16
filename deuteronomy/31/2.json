@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 31:2",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و به آنان گفت: صد و بیست ساله من امروز است؛ دیگر نمی‌توانم بیرون رفتن و درآمدن کنم، و یاهوه به من گفت: تو بر این یَردَن عبور نخواهی کرد ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "به آنان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "صد"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "و بیست"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "היום",
+      "gloss": "امروز"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "می‌توانم"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بیشتر"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "بیرون رفتن"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "و درآمدن"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "و یاهوه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "عبور خواهی کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یَردَن"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یَردَن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    }
+  ],
+  "timestamp": "2026-08-13T20:53:25.771432604Z",
+  "model": "glm-5.2"
+}

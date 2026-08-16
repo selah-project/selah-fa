@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 13:10",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "برای سبطِ زِوولون، گَدّی‌اِل پسرِ سودی.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "برای سبطِ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زِوولون"
+    },
+    {
+      "surface": "גדיאל",
+      "gloss": "گَدّی‌اِل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "סודי",
+      "gloss": "سودی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:34:28.905068851Z",
+  "model": "glm-5.2"
+}

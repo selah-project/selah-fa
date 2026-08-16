@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 17:28",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "هر که نزدیک شود، نزدیک شود به مسکنِ یاهوه، خواهد مرد؛ آیا تا تهِ جان سپرده‌ایم؟",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر که"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "نزدیک شود"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "نزدیک شود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "مسکنِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "خواهد مرد"
+    },
+    {
+      "surface": "האם",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "تهی شدیم"
+    },
+    {
+      "surface": "לגוע",
+      "gloss": "به جان‌سپردن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:36:49.754405048Z",
+  "model": "glm-5.2"
+}

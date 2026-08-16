@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 6:2",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "زیبا و لذت‌بخش، او را نابود کرده‌ام، دخترِ تسیون را.",
+  "tokens": [
+    {
+      "surface": "הנוה",
+      "gloss": "زیبا"
+    },
+    {
+      "surface": "והמענגה",
+      "gloss": "و لذت‌بخش"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "نابود کرده‌ام"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دخترِ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "تسیون"
+    }
+  ],
+  "timestamp": "2026-08-13T21:57:28.140685094Z",
+  "model": "glm-5.2"
+}

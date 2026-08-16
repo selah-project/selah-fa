@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 47:31",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 47,
+  "translation": "و گفت: به من سوگند! و سوگند خورد به او. و یِسرائیل تعظیم کرد بر سرِ تخت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "سوگند!"
+    },
+    {
+      "surface": "לי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "و سوگند خورد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "و تعظیم کرد"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سرِ"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "تخت"
+    }
+  ],
+  "timestamp": "2026-08-13T20:08:24.933203941Z",
+  "model": "glm-5.2"
+}

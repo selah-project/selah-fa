@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "proverbs 9:1",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "حکمت خانهٔ خود را بنا کرد؛ ستون‌هایش را هفت‌تا کند.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "بنا کرد"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "خانهٔ خود"
+    },
+    {
+      "surface": "חצבה",
+      "gloss": "کند"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "ستون‌هایش"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "هفت"
+    }
+  ],
+  "timestamp": "2026-08-15T04:27:09.269543417Z",
+  "model": "glm-5.3"
+}

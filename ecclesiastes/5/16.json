@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "همچنین همهٔ روزهایش در تاریکی می‌خورد، و خشمِ بسیار و بیماری‌اش و غضب.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "همچنین"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "روزهایش"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "در تاریکی"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "می‌خورد"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "و خشم"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "و بیماری‌اش"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "و غضب"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:50.424158028Z",
+  "model": "glm-5.2"
+}

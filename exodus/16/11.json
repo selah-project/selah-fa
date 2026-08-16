@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 16:11",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "و یاهوه با موسه سخن گفت، به بیانِ این:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "با"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به بیانِ این"
+    }
+  ],
+  "timestamp": "2026-08-13T20:14:17.415680119Z",
+  "model": "glm-5.2"
+}

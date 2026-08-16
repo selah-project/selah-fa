@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 6:3",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و ایوان، بر رویِ هیکلِ خانه، بیست اَمّه طولِ آن، بر رویِ عرضِ خانه؛ ده اَمّه با اَمّه عرضِ آن، بر رویِ خانه.",
+  "tokens": [
+    {
+      "surface": "והאולם",
+      "gloss": "و ایوان"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رویِ"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "هیکلِ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "خانه"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "اَمّه"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "طولِ آن"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رویِ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "عرضِ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "خانه"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ده"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "با اَمّه"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "عرضِ آن"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رویِ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "خانه"
+    }
+  ],
+  "timestamp": "2026-08-13T21:26:09.846229719Z",
+  "model": "glm-5.2"
+}

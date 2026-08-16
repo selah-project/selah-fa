@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 20:13",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "چون ⟨او⟩ از جاده کنار زده شد، هر مردی از پیِ یوآو عبور کرد تا از پیِ شِبع بن بیکری برود.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "چون"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "کنار زده شد"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "המסלה",
+      "gloss": "جاده"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عبور کرد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "از پیِ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآو"
+    },
+    {
+      "surface": "לרדף",
+      "gloss": "تا برود"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "از پیِ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شِبع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "بیکری"
+    }
+  ],
+  "timestamp": "2026-08-13T21:22:36.684092567Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 18:13",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "کامل باش با یاهوه الوهیمِ تو.",
+  "tokens": [
+    {
+      "surface": "תָּמִ֣ים",
+      "gloss": "کامل"
+    },
+    {
+      "surface": "תִּֽהְיֶ֔ה",
+      "gloss": "باش"
+    },
+    {
+      "surface": "עִ֖ם",
+      "gloss": "با"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֱלֹהֶֽיךָ",
+      "gloss": "الوهیمِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:48:47.110052853Z",
+  "model": "glm-5.2"
+}

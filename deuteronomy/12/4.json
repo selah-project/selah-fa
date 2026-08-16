@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "این‌گونه برای یاهوه، الوهیمِ خودتان نکنید.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תַעֲשׂ֣וּן",
+      "gloss": "شما نکنید"
+    },
+    {
+      "surface": "כֵּ֔ן",
+      "gloss": "این‌گونه"
+    },
+    {
+      "surface": "לַיהוָ֖ה",
+      "gloss": "برای یاهوه"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶֽם",
+      "gloss": "الوهیمِ شما"
+    }
+  ],
+  "timestamp": "2026-08-13T20:47:43.914255028Z",
+  "model": "glm-5.2"
+}

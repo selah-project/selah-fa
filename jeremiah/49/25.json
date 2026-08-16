@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 49,
+  "translation": "چگونه رها نشده ⟨است⟩ شهرِ ستایش، شهرِ شادمانیِ من!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "چگونه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "رها شده"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شهرِ"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ستایش"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "شهرِ"
+    },
+    {
+      "surface": "משושי",
+      "gloss": "شادمانیِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T22:09:50.073171247Z",
+  "model": "glm-5.2"
+}

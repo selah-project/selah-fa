@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و یائیر مُرد و دفن شد در قامون.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "و مُرد"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "یائیر"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "و دفن شد"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "در قامون"
+    }
+  ],
+  "timestamp": "2026-08-13T21:03:59.144942320Z",
+  "model": "glm-5.2"
+}

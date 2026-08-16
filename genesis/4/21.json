@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و نامِ برادرِ او یووال ⟨بود⟩؛ او پدرِ همهٔ نگاه‌دارندهٔ کینور و عوگاب ⟨بود⟩.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "و نامِ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برادرِ او"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "یووال"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پدرِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "نگاه‌دارندهٔ"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "کینور"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "و عوگاب"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:47.410214115Z",
+  "model": "glm-5.2"
+}

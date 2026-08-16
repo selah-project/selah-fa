@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 10:29",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "دژِ استواری راهِ یاهوه است، و ویرانی برای فاعلانِ باطل.",
+  "tokens": [
+    {
+      "surface": "מעוז",
+      "gloss": "دژِ استواری"
+    },
+    {
+      "surface": "לתם",
+      "gloss": "کامل"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راهِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "و ویرانی"
+    },
+    {
+      "surface": "לפעלי",
+      "gloss": "برای فاعلانِ"
+    },
+    {
+      "surface": "און",
+      "gloss": "باطل"
+    }
+  ],
+  "timestamp": "2026-08-13T23:01:08.959346984Z",
+  "model": "glm-5.2"
+}

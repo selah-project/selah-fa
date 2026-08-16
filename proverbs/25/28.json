@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 25:28",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "شهری رُفته‌بَر و بی‌دیوار، مردی که نیست بازدار برای روحش.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "شهری"
+    },
+    {
+      "surface": "פרוצה",
+      "gloss": "رُفته‌بَر"
+    },
+    {
+      "surface": "אין",
+      "gloss": "بی"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "دیوار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "بازدار"
+    },
+    {
+      "surface": "לרוחו",
+      "gloss": "برای روحش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:41.927079415Z",
+  "model": "glm-5.2"
+}

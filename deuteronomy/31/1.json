@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و موشه رفت و ⟨את⟩ سخنانِ این را به همهٔ یِسرائیل گفت.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "و رفت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سخنان"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "سخنانِ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "این"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-13T20:53:25.771187254Z",
+  "model": "glm-5.2"
+}

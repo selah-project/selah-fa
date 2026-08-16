@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "چرا شِکوه کند انسانِ زنده، مَردی، بر گناهِ ⟨خود⟩؟",
+  "tokens": [
+    {
+      "surface": "מַה",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "יִּתְאוֹנֵן֙",
+      "gloss": "شِکوه کند"
+    },
+    {
+      "surface": "אָדָ֣ם",
+      "gloss": "انسانِ"
+    },
+    {
+      "surface": "חָ֔י",
+      "gloss": "زنده"
+    },
+    {
+      "surface": "גֶּ֖בֶר",
+      "gloss": "مَردی"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "گناهِ ⟨خود⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T23:18:18.192637820Z",
+  "model": "glm-5.2"
+}

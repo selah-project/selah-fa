@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 19:3",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و حَتسَر شوعال، و باله، و عاصِم.",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "و حَتسَر"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "شوعال"
+    },
+    {
+      "surface": "ובלה",
+      "gloss": "و باله"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "و عاصِم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:58:47.127444374Z",
+  "model": "glm-5.2"
+}

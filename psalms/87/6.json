@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 87,
+  "translation": "یاهوه شماره خواهد کرد در نوشتنِ قوم‌ها: این یکی، آنجا زاده شده است. سلا.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "شماره خواهد کرد"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "در نوشتن"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قوم‌ها"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این یکی"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "زاده شده است"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آنجا"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلا"
+    }
+  ],
+  "timestamp": "2026-08-13T22:49:42.972532933Z",
+  "model": "glm-5.2"
+}

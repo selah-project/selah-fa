@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 43:16",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 43,
+  "translation": "و هَرئِئل، دوازده طول و دوازده پهنا، مربَّع به چهار گوشهٔ خود.",
+  "tokens": [
+    {
+      "surface": "והאראיל",
+      "gloss": "و هَرئِئل"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ده"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "طول"
+    },
+    {
+      "surface": "בשתים",
+      "gloss": "با دو"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ده"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "پهنا"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "مربَّع"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "רבעיו",
+      "gloss": "گوشهٔ خود"
+    }
+  ],
+  "timestamp": "2026-08-13T22:23:42.080614208Z",
+  "model": "glm-5.2"
+}

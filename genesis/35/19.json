@@ -1,0 +1,45 @@
+{
+  "tier": "4.6",
+  "verse": 19,
+  "ref": "genesis 35:19",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "و ⟨هست⟩ راخیل مرد و دفن شد در راهِ اِفراتاه که ⟨هست⟩ بیت‌لَحَم",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "و ⟨هست⟩ راخیل مرد"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راخیل"
+    },
+    {
+      "surface": "ותקבר",
+      "gloss": "و دفن شد"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "در راهِ"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "اِفراتاه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "که ⟨هست⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت‌لَحَم"
+    },
+    {
+      "surface": "לחם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-15T03:41:02.480923318Z",
+  "model": "glm-4.6"
+}

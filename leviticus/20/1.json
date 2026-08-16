@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 20:1",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و یاهوه به موشه سخن گفت، به این سخن:",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֥ר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "به"
+    },
+    {
+      "surface": "מֹשֶׁ֥ה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "לֵּאמֹֽר",
+      "gloss": "به این سخن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:28:37.339821266Z",
+  "model": "glm-5.2"
+}

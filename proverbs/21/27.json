@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 27,
+  "ref": "proverbs 21:27",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "قربانیِ رَشَعان نکوهیده است — بلکه حتی آنگاه که با بدی بیاوردش.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "قربانی"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "رَشَعان"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "نکوهیده است"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بلکه حتی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "آن‌که"
+    },
+    {
+      "surface": "בזמה",
+      "gloss": "با بدی"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "بیاوردش"
+    }
+  ],
+  "timestamp": "2026-08-15T04:27:18.282854439Z",
+  "model": "glm-5.3"
+}

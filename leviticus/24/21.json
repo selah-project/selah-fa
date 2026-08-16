@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و زنندهٔ بهیمه آن را بازپرداخت می‌کند، و زنندهٔ آدم کشته می‌شود.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "و زنندهٔ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "بهیمه"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "آن را بازپرداخت می‌کند"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "و زنندهٔ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "کشته می‌شود"
+    }
+  ],
+  "timestamp": "2026-08-13T20:28:51.671598825Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "که برای هر خواست، زمان و داوری هست، زیرا بدیِ آدم بر او بسیار است.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "برای هر"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "خواست"
+    },
+    {
+      "surface": "יש",
+      "gloss": "هست"
+    },
+    {
+      "surface": "עת",
+      "gloss": "زمان"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "و داوری"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "بدیِ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:16.380481883Z",
+  "model": "glm-5.2"
+}

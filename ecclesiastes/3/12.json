@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "دانستم که نیست خیری در آنها، مگر شاد شدن و نیکو کردن در زندگیِ او.",
+  "tokens": [
+    {
+      "surface": "יָדַ֕עְתִּי",
+      "gloss": "دانستم"
+    },
+    {
+      "surface": "כִּ֛י",
+      "gloss": "که"
+    },
+    {
+      "surface": "אֵ֥ין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "ט֖וֹב",
+      "gloss": "خیری"
+    },
+    {
+      "surface": "בָּ֑ם",
+      "gloss": "در آنها"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "مگر"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "که"
+    },
+    {
+      "surface": "לִשְׂמ֔וֹחַ",
+      "gloss": "شاد شدن"
+    },
+    {
+      "surface": "וְלַעֲשׂ֥וֹת",
+      "gloss": "و نیکو کردن"
+    },
+    {
+      "surface": "ט֖וֹב",
+      "gloss": "نیکو"
+    },
+    {
+      "surface": "בְּחַיָּֽיו",
+      "gloss": "در زندگیِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:19:56.256265032Z",
+  "model": "glm-5.2"
+}

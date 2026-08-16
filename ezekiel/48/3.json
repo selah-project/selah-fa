@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 48:3",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 48,
+  "translation": "و بر مرزِ اَشِر، از طرفِ شرق و تا طرفِ دریا — نَفتالی، یکی.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "مرزِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اَشِر"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "از طرفِ"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "شرق"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "طرفِ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نَفتالی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکی"
+    }
+  ],
+  "timestamp": "2026-08-13T22:25:02.557127935Z",
+  "model": "glm-5.2"
+}

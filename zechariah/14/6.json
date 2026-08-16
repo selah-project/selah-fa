@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 14:6",
+  "book": "zechariah",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و در آنِ روز خواهد شد: نه نورِ گران‌بها باشد، نه تاریکیِ غلیظ.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و خواهد شد"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "باشد"
+    },
+    {
+      "surface": "אור",
+      "gloss": "نورِ"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "گران‌بها"
+    },
+    {
+      "surface": "יקפאון",
+      "gloss": "تاریکیِ غلیظ"
+    }
+  ],
+  "timestamp": "2026-08-13T22:36:46.038824621Z",
+  "model": "glm-5.2"
+}

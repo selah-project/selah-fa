@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و کوش زاد ⟨את⟩ نمرود؛ او آغاز کرد که باشد جبار در زمین.",
+  "tokens": [
+    {
+      "surface": "וְכ֖וּשׁ",
+      "gloss": "و کوش"
+    },
+    {
+      "surface": "יָלַ֣ד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "نمرود"
+    },
+    {
+      "surface": "נִמְרֹ֑ד",
+      "gloss": "نمرود"
+    },
+    {
+      "surface": "ה֣וּא",
+      "gloss": "او"
+    },
+    {
+      "surface": "הֵחֵ֔ל",
+      "gloss": "آغاز کرد"
+    },
+    {
+      "surface": "לִֽהְי֥וֹת",
+      "gloss": "که باشد"
+    },
+    {
+      "surface": "גִּבֹּ֖ר",
+      "gloss": "جبار"
+    },
+    {
+      "surface": "בָּאָֽרֶץ",
+      "gloss": "در زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:59.069283041Z",
+  "model": "glm-5.2"
+}

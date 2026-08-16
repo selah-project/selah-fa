@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و مار به زن گفت: هرگز نخواهید مردن، مرگ نخواهید مردن.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "مار"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "האשه",
+      "gloss": "زن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرگ"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "خواهید مردن"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:35.360678476Z",
+  "model": "glm-5.2"
+}

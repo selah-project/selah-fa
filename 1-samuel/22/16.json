@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "و گفت پادشاه: مرگ خواهی مرد، اَخیملک، تو و تمامِ خانهٔ پدرت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرگ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "خواهی مرد"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "اَخیملک"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و تمامِ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانهٔ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "پدرت"
+    }
+  ],
+  "timestamp": "2026-08-13T21:14:20.981708639Z",
+  "model": "glm-5.2"
+}

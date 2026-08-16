@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 22:26",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "وفرشتهٔ یاهوه افزود بگذرد، و در جایی تنگ ایستاد، که راهی برای کج شدنِ به راست و به چپ نبود.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "وافزود"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עבור",
+      "gloss": "عبور کردن"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "وایستاد"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "در جای"
+    },
+    {
+      "surface": "צר",
+      "gloss": "تنگ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نبود"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راه"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "برای کج شدن"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "راست"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "وچپ"
+    }
+  ],
+  "timestamp": "2026-08-13T23:57:46.913269772Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 28:12",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "و حکمت از کجا یافت می‌شود؟ و جایِ فهم کجاست؟",
+  "tokens": [
+    {
+      "surface": "והחכמה",
+      "gloss": "و حکمت"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "از کجا"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "یافت می‌شود"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "و کجا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جایِ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "فهم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:11:48.472262552Z",
+  "model": "glm-5.2"
+}

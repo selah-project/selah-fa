@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 42,
+  "translation": "چرخید به سوی سمتِ دریا، پیمود پانصد قَنات با قَناتِ اندازه‌گیری.",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "چرخید"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "سمت"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "پیمود"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پانصد"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "قَنات"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "با قَناتِ"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "اندازه‌گیری"
+    }
+  ],
+  "timestamp": "2026-08-14T00:09:24.603172700Z",
+  "model": "glm-5.2"
+}

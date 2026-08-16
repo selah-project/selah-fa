@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 120,
+  "translation": "دراز شد سکونتِ نَفَسِ من با مَکرَهِ صلح.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "دراز شد"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "سکونت"
+    },
+    {
+      "surface": "לה",
+      "gloss": "برایِ ⟨او⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نَفَسِ من"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "مَکرَهِ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "صلح"
+    }
+  ],
+  "timestamp": "2026-08-13T22:56:12.315944410Z",
+  "model": "glm-5.2"
+}

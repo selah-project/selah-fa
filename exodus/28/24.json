@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 28:24",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "و بده ⟨את⟩ دو طنابِ پیچیدهٔ زر را بر دو انگشتری، به سوی سرهای سینه‌بند.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "و بده"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دو طنابِ پیچیدهٔ زر"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עבתת",
+      "gloss": "طنابِ پیچیدهٔ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "زر"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "انگشتری"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "سرهای"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "سینه‌بند"
+    }
+  ],
+  "timestamp": "2026-08-13T20:17:54.444421576Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "زیرا تمام سفره‌ها از استفراغ پر شده‌اند، فضلات، بی‌جای پاکی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "سفره‌ها"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "پر شده‌اند"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "از استفراغ"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "فضلات"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بی‌"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جای پاکی"
+    }
+  ],
+  "timestamp": "2026-08-13T21:46:33.419276151Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 6:1",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و چون آدمیان آغاز کردند به فراوانی شدن بر روی زمین و دخترانی برای آنان به دنیا آمدند،",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و چون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "החל",
+      "gloss": "آغاز کردند"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدمیان"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "به فراوانی شدن"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رویِ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "و دخترانی"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "به دنیا آمدند"
+    },
+    {
+      "surface": "להם",
+      "gloss": "برای آنان"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:48.100375363Z",
+  "model": "glm-5.2"
+}

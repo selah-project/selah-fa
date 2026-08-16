@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 105:39",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 105,
+  "translation": "ابر را برای پوشش گستراند، و آتش برای روشن کردنِ شب.",
+  "tokens": [
+    {
+      "surface": "פרש",
+      "gloss": "گستراند"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ابر را"
+    },
+    {
+      "surface": "למסך",
+      "gloss": "برای پوشش"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "و آتش"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "برای روشن کردنِ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شب"
+    }
+  ],
+  "timestamp": "2026-08-13T22:52:34.717982221Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 38,
+  "translation": "یاهوه، در خشمِ خود مرا مپاس، و در غضبِ خود مرا تنبیه مکن.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "در خشمِ تو"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "مرا مپاس"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "و در غضبِ تو"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "مرا تنبیه مکن"
+    }
+  ],
+  "timestamp": "2026-08-15T04:23:01.609042979Z",
+  "model": "glm-5.3"
+}

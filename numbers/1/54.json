@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "numbers 1:54",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و کردند بنی‌یسرائیل برابرِ همهٔ آنچه که یاهوه ⟨את⟩ موشه را فرمان داد، چنین کردند.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "و کردند"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی‌"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "برابرِ همهٔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنچه که"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فرمان داد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کردند"
+    }
+  ],
+  "timestamp": "2026-08-13T23:56:56.663161399Z",
+  "model": "glm-5.2"
+}

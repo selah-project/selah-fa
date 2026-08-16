@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "و یاهوه با مَنَشّه و با قومِ او سخن گفت، اما گوش ندادند.",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֧ר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "با"
+    },
+    {
+      "surface": "מְנַשֶּׁ֥ה",
+      "gloss": "مَنَشّه"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "و با"
+    },
+    {
+      "surface": "עַמּ֖וֹ",
+      "gloss": "قومِ او"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "اما نه"
+    },
+    {
+      "surface": "הִקְשִֽׁיבוּ",
+      "gloss": "گوش دادند"
+    }
+  ],
+  "timestamp": "2026-08-13T23:50:52.564868604Z",
+  "model": "glm-5.2"
+}

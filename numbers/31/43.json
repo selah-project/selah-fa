@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 31:43",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و نیمهٔ جماعت از گله، سیصد هزار و سی هزار و هفت هزار و پانصد بود،",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "מחצת",
+      "gloss": "نیمهٔ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "گله"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سیصد"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "(صد)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "و سی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "و پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:40:44.567296890Z",
+  "model": "glm-5.2"
+}

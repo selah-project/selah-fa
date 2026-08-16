@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "به حکمت بگو: «خواهرِ من ⟨את⟩»، و به موداع، فهم را بخوان.",
+  "tokens": [
+    {
+      "surface": "אֱמֹ֣ר",
+      "gloss": "بگو"
+    },
+    {
+      "surface": "לַֽ֭חָכְמָה",
+      "gloss": "به حکمت"
+    },
+    {
+      "surface": "אֲחֹ֣תִי",
+      "gloss": "خواهرِ من"
+    },
+    {
+      "surface": "אָ֑תְּ",
+      "gloss": "⟨את⟩",
+      "marks": "تویی"
+    },
+    {
+      "surface": "וּ֝מֹדָ֗ע",
+      "gloss": "موداع"
+    },
+    {
+      "surface": "לַבִּינָ֥ה",
+      "gloss": "فهم"
+    },
+    {
+      "surface": "תִקְרָֽא",
+      "gloss": "بخوان"
+    }
+  ],
+  "timestamp": "2026-08-14T00:13:53.694168544Z",
+  "model": "glm-5.2"
+}

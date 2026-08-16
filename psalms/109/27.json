@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 109,
+  "translation": "و بدانند که دستِ تو ⟨این⟩ است؛ تو، ای یاهوه، ⟨آن را⟩ کرده‌ای.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "و بدانند"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "دستِ تو"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨این⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ای یاهوه"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "کرده‌ای"
+    }
+  ],
+  "timestamp": "2026-08-13T22:53:55.324210937Z",
+  "model": "glm-5.2"
+}

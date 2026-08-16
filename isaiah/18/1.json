@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "وای بر سرزمینی بال‌های زمزمه‌کنان، که آن سوی رودهای کوش است.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "وای"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "سرزمین"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "زمزمه"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "بال‌ها"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "آن‌سوی"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "رودهای"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "کوش"
+    }
+  ],
+  "timestamp": "2026-08-13T21:45:07.407376415Z",
+  "model": "glm-5.2"
+}

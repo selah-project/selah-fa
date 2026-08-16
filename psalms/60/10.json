@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 60,
+  "translation": "موأب دیگِ شست‌وشوی من؛ بر اَدوم کفشِ خود را افکنم، بر من فَلِشت هُو هُو کن!",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "موأب"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "دیگ"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "شست‌وشوی من"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اَدوم"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "افکنم"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "کفشِ من"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "فَلِشت"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "هُو هُو کن"
+    }
+  ],
+  "timestamp": "2026-08-13T22:45:34.235708679Z",
+  "model": "glm-5.2"
+}

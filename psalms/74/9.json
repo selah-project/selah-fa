@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 74,
+  "translation": "نشانه‌های ما را ندیده‌ایم، دیگر نبی‌ای نیست، و نه ⟨את⟩ ما دانایی ⟨هست⟩ تا کِی.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "نشانه‌های ما"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "دیدیم"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بیشتر"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "ما"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی \/ کی"
+    }
+  ],
+  "timestamp": "2026-08-13T22:47:55.127986075Z",
+  "model": "glm-5.2"
+}

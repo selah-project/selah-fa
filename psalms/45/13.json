@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 45,
+  "translation": "و دخترِ صُور با هدیه، رویِ تو را التماس کنند ثروتمندانِ قوم.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "و دخترِ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "صُور"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "با هدیه"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "رویِ تو را"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "التماس کنند"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "ثروتمندانِ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    }
+  ],
+  "timestamp": "2026-08-13T22:43:55.370976499Z",
+  "model": "glm-5.2"
+}

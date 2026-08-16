@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "آب‌های ژرف، سخنانِ دهانِ مرد؛ رودخانه‌ای جوشان، چشمهٔ حکمت.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "آب‌های"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "ژرف"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "سخنانِ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دهانِ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "رودخانه‌ای"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "جوشان"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "چشمهٔ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:00.179096014Z",
+  "model": "glm-5.2"
+}

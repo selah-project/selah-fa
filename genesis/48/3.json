@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 48,
+  "translation": "و یعکوو به یوسف گفت: اِل شدّای به من در لوز، در زمینِ کنعان، ظاهر شد، و مرا ⟨את⟩ برکت داد.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعکوو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّای"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ظاهر شد"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "در لوز"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "در زمینِ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "و برکت داد"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ مرا",
+      "marks": "من"
+    }
+  ],
+  "timestamp": "2026-08-13T20:08:45.646451573Z",
+  "model": "glm-5.2"
+}

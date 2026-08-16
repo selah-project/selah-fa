@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 44,
+  "ref": "leviticus 14:44",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و کاهن درآید و ببیند، و اینک ضایعه در خانه گسترده شده — تسوعتِ تلخ‌کننده ⟨است⟩ آن در خانه؛ نجس ⟨است⟩ آن.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "و درآید"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "وראה",
+      "gloss": "و ببیند"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "گسترده شده"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ضایعه"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "در خانه"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "تسوعت"
+    },
+    {
+      "surface": "ממארת",
+      "gloss": "تلخ‌کننده"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "در خانه"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آن"
+    }
+  ],
+  "timestamp": "2026-08-15T03:51:14.540249179Z",
+  "model": "glm-5.3"
+}

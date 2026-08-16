@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 11:41",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "اوریّه هَحِتی، زَواد پسر اَحْلای،",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "اوریّه"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "هَحِتی"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "زَواد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "اَحْلای"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:43.412844997Z",
+  "model": "glm-5.2"
+}

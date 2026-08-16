@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 41,
+  "translation": "و گاوهایِ لاغر و زشت، ⟨את⟩ هفت گاوِ نخستینِ تپل را خوردند.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "و خوردند"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "گاوهایِ"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "لاغر"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "و زشت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هفت گاوِ نخستینِ تپل"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "گاوِ"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "نخستینِ"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "تپل"
+    }
+  ],
+  "timestamp": "2026-08-13T20:06:32.636919117Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 3:11",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و کاهن آن‌را بر مذبح بِخُوشاند، نانِ اَیشه‌ای برای یاهوه.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "و بِخُوشاند"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "بر مذبح"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نانِ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "اَیشه"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "برای یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:21:44.281293414Z",
+  "model": "glm-5.2"
+}

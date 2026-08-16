@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 31:9",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "اگر فریفته شد دل من به سببِ زنی، و بر درِ همسایه‌ام در کمین نشستم",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "נפתה",
+      "gloss": "فریفته شد"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دلِ من"
+    },
+    {
+      "surface": "על",
+      "gloss": "به سببِ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زنی"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "درِ"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "همسایه‌ام"
+    },
+    {
+      "surface": "ארבתי",
+      "gloss": "در کمین نشستم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:12:09.122697759Z",
+  "model": "glm-5.2"
+}

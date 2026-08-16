@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 47,
+  "ref": "leviticus 13:47",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "و جامه، چون باشد در آن ضربهٔ برص، در جامهٔ پشم یا در جامهٔ کتان",
+  "tokens": [
+    {
+      "surface": "והבגד",
+      "gloss": "و جامه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "باشد"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در آن"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ضربه"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "برص"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "در جامهٔ"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "پشم"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "در جامهٔ"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "کتان"
+    }
+  ],
+  "timestamp": "2026-08-15T20:52:55.046155805Z",
+  "model": "glm-5.3+hand"
+}

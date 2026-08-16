@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و لوط به سوی آنان بیرون آمد، به دهانه ⟨در⟩، و در را بست از پسِ خودش.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "و بیرون آمد"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "به سوی آنان"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوط"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "به دهانه"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "و در"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "بست"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "از پسِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T19:59:06.612177468Z",
+  "model": "glm-5.2"
+}

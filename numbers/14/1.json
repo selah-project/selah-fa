@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و همهٔ جماعت صدای خود را برافراشتند و ⟨את⟩ خویش را دادند و مردم در آن شب گریستند.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "برافراشت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "دادند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خویش را"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "خویش را"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "گریستند"
+    },
+    {
+      "surface": "העם",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "در شب"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    }
+  ],
+  "timestamp": "2026-08-15T17:35:20.032197679Z",
+  "model": "glm-5.3"
+}

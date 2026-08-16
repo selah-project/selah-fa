@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 17:14",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "و شدند مرده‌ها در طاعون چهارده هزار و هفتصد، جدا از مرده‌ها بر سرِ امرِ قورح.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "و شدند"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "مرده‌ها"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "در طاعون"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ده"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "و هفت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "جدا از"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "مرده‌ها"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر سرِ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "امرِ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    }
+  ],
+  "timestamp": "2026-08-13T20:36:33.554937178Z",
+  "model": "glm-5.2"
+}

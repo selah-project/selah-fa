@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 21:28",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و سخنِ یاهوه بر اِلیَهو هَتِشبی به این شرح بود:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخنِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "اِلیَهو"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "هَتِشبی"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به این شرح"
+    }
+  ],
+  "timestamp": "2026-08-13T21:32:14.653192733Z",
+  "model": "glm-5.2"
+}

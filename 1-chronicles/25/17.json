@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 25:17",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "دَهُمین ⟨به⟩ شِمْعی، پسرانش و برادرانش ⟨بودند⟩ دوازده",
+  "tokens": [
+    {
+      "surface": "הָעֲשִׂירִ֣י",
+      "gloss": "دَهُمین"
+    },
+    {
+      "surface": "שִׁמְעִ֔י",
+      "gloss": "شِمْعی"
+    },
+    {
+      "surface": "בָּנָ֥יו",
+      "gloss": "پسرانش"
+    },
+    {
+      "surface": "וְאֶחָ֖יו",
+      "gloss": "و برادرانش"
+    },
+    {
+      "surface": "שְׁנֵ֥ים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עָשָֽׂר",
+      "gloss": "ده"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:38.702968030Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 28:17",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "و ترسید و گفت: چگونه هولناک است این مکان! این نیست جز بیت الوهیم، و این دروازهٔ آسمان‌هاست.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "و ترسید"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چگونه"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "هولناک"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "است مکان"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جز"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "و این"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازهٔ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمان‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T20:02:34.658160026Z",
+  "model": "glm-5.2"
+}

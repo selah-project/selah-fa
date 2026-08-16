@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و هر زینی که صاحبِ جریان بر آن سوار شود ناپاک می‌شود.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "زینی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "سوار شود"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر آن"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "صاحبِ جریان"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ناپاک می‌شود"
+    }
+  ],
+  "timestamp": "2026-08-15T03:51:19.799779364Z",
+  "model": "glm-5.3"
+}

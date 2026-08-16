@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "به‌رہبرِ موسیقی، مزموری از داوود.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "به‌رہبرِ موسیقی"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "از داوود"
+    }
+  ],
+  "timestamp": "2026-08-13T22:39:02.824025606Z",
+  "model": "glm-5.2"
+}

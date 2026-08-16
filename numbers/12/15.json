@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 12:15",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و بسته شد میریام از بیرونِ اردوگاه هفت روز، و قوم حرکت نکردند تا گردآورده شدنِ میریام.",
+  "tokens": [
+    {
+      "surface": "ותסגר",
+      "gloss": "و بسته شد"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "میریام"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "از بیرونِ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "اردوگاه"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روز"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "و قوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "حرکت کرد"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "گردآورده شدنِ"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "میریام"
+    }
+  ],
+  "timestamp": "2026-08-13T20:34:37.153706099Z",
+  "model": "glm-5.2"
+}

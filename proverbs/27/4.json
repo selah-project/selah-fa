@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 27:4",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "درندگیِ خشم و طوفانِ غضب، و چه کسی می‌تواند در برابرِ غیرت بایستد؟",
+  "tokens": [
+    {
+      "surface": "אכזריות",
+      "gloss": "درندگیِ"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "خشم"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "و طوفانِ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غضب"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "و چه کسی"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "می‌تواند بایستد"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "در برابرِ"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "غیرت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:05:23.839420310Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "lamentations 3:60",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "همۀ انتقام‌هایشان را دیدی، همۀ اندیشه‌هایشان را دربارهٔ من.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "دیدی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همۀ"
+    },
+    {
+      "surface": "נקמתם",
+      "gloss": "انتقام‌هایشان را"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همۀ"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "اندیشه‌هایشان را"
+    },
+    {
+      "surface": "לי",
+      "gloss": "دربارهٔ من"
+    }
+  ],
+  "timestamp": "2026-08-13T23:18:10.423046585Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 33:1",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "و شد کلام یاهوه به سوی من، به این سخن:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به سوی من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به این سخن"
+    }
+  ],
+  "timestamp": "2026-08-13T22:20:26.570410888Z",
+  "model": "glm-5.2"
+}

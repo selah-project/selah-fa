@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "که سهمِ یاهوه قومِ اوست؛ یاعکووّ طنابِ میراثِ اوست.",
+  "tokens": [
+    {
+      "surface": "כִּ֛י",
+      "gloss": "که"
+    },
+    {
+      "surface": "חֵ֥לֶק",
+      "gloss": "سهم"
+    },
+    {
+      "surface": "יְהֹוָ֖ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עַמּ֑וֹ",
+      "gloss": "قومِ او"
+    },
+    {
+      "surface": "יַעֲקֹ֖ב",
+      "gloss": "یاعکوو"
+    },
+    {
+      "surface": "חֶ֥בֶל",
+      "gloss": "طناب"
+    },
+    {
+      "surface": "נַחֲלָתֽוֹ",
+      "gloss": "میراثِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:52:54.183542891Z",
+  "model": "glm-5.2"
+}

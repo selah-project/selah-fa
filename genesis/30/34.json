@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 30:34",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "و گفت لاوَن: اینک! ای کاش باشد برابرِ سخنِ تو.",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֥אמֶר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "לָבָ֖ן",
+      "gloss": "لاوَن"
+    },
+    {
+      "surface": "הֵ֑ן",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "ל֖וּ",
+      "gloss": "ای کاش"
+    },
+    {
+      "surface": "יְהִ֥י",
+      "gloss": "بشود"
+    },
+    {
+      "surface": "כִדְבָרֶֽךָ",
+      "gloss": "برابرِ سخنِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:03:25.213029737Z",
+  "model": "glm-5.2"
+}

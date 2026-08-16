@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "genesis 41:50",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 41,
+  "translation": "و به یوسف دو پسر زاده شدند پیش از آنکه سالِ قحطی بیاید، که آسنات، دخترِ پوتی-فرع، کاهنِ اون، برایش زایید.",
+  "tokens": [
+    {
+      "surface": "וליוסף",
+      "gloss": "و به یوسف"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "زاده شدند"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "پیش از"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "آنکه بیاید"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "سالِ"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "قحطی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "زایید"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برایش"
+    },
+    {
+      "surface": "אסנת",
+      "gloss": "آسنات"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دخترِ"
+    },
+    {
+      "surface": "פוטי",
+      "gloss": "پوتی-"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "فرع"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاهنِ"
+    },
+    {
+      "surface": "און",
+      "gloss": "اون"
+    }
+  ],
+  "timestamp": "2026-08-13T20:07:06.513313043Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 69,
+  "translation": "بیگانه شدم برای برادرانم، و غریب برای پسران مادرم.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "بیگانه"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "شدم"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "برای برادرانم"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "و غریب"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "برای پسران"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "مادرم"
+    }
+  ],
+  "timestamp": "2026-08-13T22:46:36.082614626Z",
+  "model": "glm-5.2"
+}

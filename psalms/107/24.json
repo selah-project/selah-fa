@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 107,
+  "translation": "آنها دیدند کارهایِ یاهوه را، و عجایبِ او را در ژرفا.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "آنها"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "دیدند"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "کارهایِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "و عجایبِ او"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "در ژرفا"
+    }
+  ],
+  "timestamp": "2026-08-13T22:52:45.712481262Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "خوب است حکمت با میراث، و سودی است برای دیدگانِ خورشید.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "خوب است"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "میراث"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "و سود"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "برای دیدگانِ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "خورشید"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:40.509278638Z",
+  "model": "glm-5.2"
+}

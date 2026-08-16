@@ -1,0 +1,65 @@
+{
+  "ref": "deuteronomy 29:5",
+  "lang": "fa",
+  "book": "deuteronomy",
+  "chapter": 29,
+  "verse": 5,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:55:53Z",
+  "translation": "نان نخوردید، و شراب یا مُسکِر ننوشیدید — تا بدانید که من یاهوه، الوهیمِ شما ⟨هستم⟩.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "خوردید"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "و شراب"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "یا مُسکِر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "نوشیدید"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تا"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "بدانید"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "الوهیمِ شما"
+    }
+  ]
+}

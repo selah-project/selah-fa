@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 138,
+  "ref": "psalms 119:138",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 119,
+  "translation": "فرمان دادی عدالت را، گواهی‌هایت، و вер ‹بسیار› ایمانی.",
+  "tokens": [
+    {
+      "surface": "צוית",
+      "gloss": "فرمان دادی"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "عدالت"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "گواهی‌هایت"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "و ایمانی"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بسیار"
+    }
+  ],
+  "timestamp": "2026-08-13T22:55:43.624354554Z",
+  "model": "glm-5.2"
+}

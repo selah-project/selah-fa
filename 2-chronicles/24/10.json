@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 24:10",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و شاد شدند همهٔ سروران و همهٔ قوم، و آوردند و افکندند به صندوق تا تمام شدن.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "و شاد شدند"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "سروران"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و همهٔ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "و آوردند"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "و افکندند"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "به صندوق"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "تمام شدن"
+    }
+  ],
+  "timestamp": "2026-08-13T23:48:38.879966231Z",
+  "model": "glm-5.2"
+}

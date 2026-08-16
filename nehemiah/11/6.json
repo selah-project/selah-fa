@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 11:6",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "همهٔ پسران پِرِص، ⟨آنانی⟩ که در یروشالَییم ساکن‌اند، چهارصد و شصت و هشت مردِ دلاور.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسران"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پِرِص"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "ساکن‌اند"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "در یروشالَییم"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "شصت"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "و هشت"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "مردانِ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "دلاور"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:06.150626700Z",
+  "model": "glm-5.2"
+}

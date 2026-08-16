@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "آهوِ نر، و غزال، و یَحمور، و بز کوهی، و دیشون، و تِئو، و زامر.",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "آهوِ نر"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "و غزال"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "و یَحمور"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "و بز کوهی"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "و دیشون"
+    },
+    {
+      "surface": "ותאو",
+      "gloss": "و تِئو"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "و زامر"
+    }
+  ],
+  "timestamp": "2026-08-15T03:55:09.166557521Z",
+  "model": "glm-5.3"
+}

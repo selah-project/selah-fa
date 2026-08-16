@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 41:5",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 41,
+  "translation": "و پیمود دیوارِ خانه را، شش اَمّه، و پهنای اَضلع، چهار اَمّه، به دور به دور برایِ خانه به دور.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "و پیمود"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "دیوارِ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "خانه"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شش"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "اَمّه"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "و پهنایِ"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "اَضلع"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "اَمّه"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "به دور"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "به دور"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "برایِ خانه"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "به دور"
+    }
+  ],
+  "timestamp": "2026-08-13T22:23:07.297448007Z",
+  "model": "glm-5.2"
+}

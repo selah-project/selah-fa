@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 14:7",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و بر کسی که از برص پاک می‌شود، هفت بار بپاشد، و او را پاک گرداند؛ و پرندهٔ زنده را بر روی صحرا رها کند.",
+  "tokens": [
+    {
+      "surface": "והזה",
+      "gloss": "وَ بپاشد"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "کسی که پاک می‌شود"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "برص"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "بار"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "وَ او را پاک گرداند"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "وَ رها کند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پرندهٔ زنده"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "پرنده"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "زنده"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "روی"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "صحرا"
+    }
+  ],
+  "timestamp": "2026-08-13T20:25:59.712532498Z",
+  "model": "glm-5.2"
+}

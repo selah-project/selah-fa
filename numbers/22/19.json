@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 22:19",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "و حالا بنشینید، امروز، همچنین شما، این شب؛ و بدانم چه‌گاه بیفزاید یاهوه سخن گفتن با من.»",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و حالا"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "بنشینید"
+    },
+    {
+      "surface": "נא",
+      "gloss": "امروز"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "גם",
+      "gloss": "نیز"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "شما"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "شب"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "و بدانم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه‌گاه"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "بیفزاید"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخن گفتن"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "با من"
+    }
+  ],
+  "timestamp": "2026-08-13T20:38:15.752881949Z",
+  "model": "glm-5.2"
+}

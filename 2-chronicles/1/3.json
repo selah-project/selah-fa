@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 1:3",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و رفت شلومه و همهٔ هقهل با او به بامهٔ آنکه در گیبعون، زیرا آنجا خیمهٔ موعدِ الوهیم بود که ساخته بود موشه بندهٔ یاهوه در بیابان.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "و رفت"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومه"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و همهٔ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "هقهل"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "با او"
+    },
+    {
+      "surface": "לבמה",
+      "gloss": "به بامه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "در گیبعون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آنجا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمهٔ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "موعد"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ساخته بود"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "بندهٔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "در بیابان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:43:00.088159419Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 31:31",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "اگر مردانِ خیمهٔ من نگویند، چه کسی بدهد از گوشتِ او؟ ما سیر نمی‌شویم —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "می‌گویند"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "مردانِ"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "خیمهٔ من"
+    },
+    {
+      "surface": "מי",
+      "gloss": "چه کسی"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "بدهد"
+    },
+    {
+      "surface": "מבשרו",
+      "gloss": "از گوشتِ او"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "سیر می‌شویم"
+    }
+  ],
+  "timestamp": "2026-08-14T00:15:14.528442714Z",
+  "model": "glm-5.2"
+}

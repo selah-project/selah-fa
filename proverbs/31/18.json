@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "proverbs 31:18",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "چشید که سودِ داد و ستدِ او نیکوست؛ در شب چراغِ او خاموش نمی‌شود.",
+  "tokens": [
+    {
+      "surface": "טעמה",
+      "gloss": "چشید"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیکوست"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "سودِ داد و ستدِ او"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نمی‌"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "خاموش شود"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "در شب"
+    },
+    {
+      "surface": "נרה",
+      "gloss": "چراغِ او"
+    }
+  ],
+  "timestamp": "2026-08-15T04:28:24.002604916Z",
+  "model": "glm-5.3"
+}

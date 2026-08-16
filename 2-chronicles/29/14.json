@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 29:14",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و از پسران هِیمان: یِحُئیل و شِمْعی، و از پسران یَدوتون: شِمَعیه و عُزّی‌اِل.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "و از"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "הימן",
+      "gloss": "هِیمان"
+    },
+    {
+      "surface": "יחואל",
+      "gloss": "یِحُئیل"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "و شِمْعی"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "و از"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "یَدوتون"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شِمَعیه"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "و عُزّی‌اِل"
+    }
+  ],
+  "timestamp": "2026-08-13T23:50:13.813093569Z",
+  "model": "glm-5.2"
+}

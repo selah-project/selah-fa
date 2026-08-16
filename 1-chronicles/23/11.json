@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 23:11",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "و یَحَت سر بود و زیزا دوم، و یَعوش و بَریا پسرانِ بسیار نکردند، و به خانهِ پدر به شمارشِ یکی شدند.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "یَحَت"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "וזיזה",
+      "gloss": "و زیزا"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوم"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "و یَعوش"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "و بَریا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "הרבו",
+      "gloss": "بسیار کردند"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پسران"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "و شدند"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "به خانهِ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پدر"
+    },
+    {
+      "surface": "לפקדה",
+      "gloss": "به شمارشِ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یکی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:29.057251372Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 37:36",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "و ⟨او⟩ گذشت، و اینک او نیست، و من جستمش، و یافت نشد.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "و گذشت"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "او نیست"
+    },
+    {
+      "surface": "ואבקשהו",
+      "gloss": "و من جستمش"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "یافت شد"
+    }
+  ],
+  "timestamp": "2026-08-13T22:42:31.140996440Z",
+  "model": "glm-5.2"
+}

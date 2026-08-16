@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 21:31",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "⟨את⟩ خِلقات و ⟨את⟩ مراتعش، و ⟨את⟩ رَخوو و ⟨את⟩ مراتعش؛ شهرها چهار.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خِلقات"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "خِلقات"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مراتعش"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "مراتعش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "رَخوو"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "رَخوو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مراتعش"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "مراتعش"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شهرها"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چهار"
+    }
+  ],
+  "timestamp": "2026-08-13T20:59:22.036257402Z",
+  "model": "glm-5.2"
+}

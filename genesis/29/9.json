@@ -1,0 +1,61 @@
+{
+  "tier": "4.6",
+  "verse": 9,
+  "ref": "genesis 29:9",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "هنوز با آنان ⟨او⟩ صحبت می‌کرد، و راخیل با گوسفندانِ پدرش آمد، زیرا او چوپان ⟨است⟩.",
+  "tokens": [
+    {
+      "surface": "עודנו",
+      "gloss": "هنوز"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "صحبت می‌کرد"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "با آنان"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "وراخیل"
+    },
+    {
+      "surface": "באה",
+      "gloss": "آمد"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "گوسفندانِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "پدرش"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "چوپان"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    }
+  ],
+  "timestamp": "2026-08-15T03:36:18.736052900Z",
+  "model": "glm-4.6"
+}

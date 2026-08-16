@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "ecclesiastes 3:11",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "⟨את⟩ همه را در وقتِ خودِ آن زیبا ساخته است؛ همچنین ⟨את⟩ ازلیّت را در دلِ آنها نهاده، بی‌آنکه آدمی ⟨את⟩ کارِ آنچه را که الوهیم کرده، از آغاز تا پایان بیابد.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همه"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "همه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ساخته است"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "زیبا"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "در وقتِ خودِ آن"
+    },
+    {
+      "surface": "גם",
+      "gloss": "همچنین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ازلیّت"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "ازلیّت"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "نهاده"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "در دلِ آنها"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "بی‌آنکه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنچه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "بیابد"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کار"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنچه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرده"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "از آغاز"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "پایان"
+    }
+  ],
+  "timestamp": "2026-08-15T04:30:39.814229202Z",
+  "model": "glm-5.3"
+}

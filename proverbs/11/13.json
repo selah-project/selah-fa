@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 11:13",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "راهندهٔ سِفله‌باز، راز را فاش می‌کند، و وفادارِ روح، امر را می‌پوشاند.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "راهندهٔ"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "سِفله‌باز"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "فاش می‌کند"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "راز"
+    },
+    {
+      "surface": "ונאמן",
+      "gloss": "و وفادارِ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "می‌پوشاند"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "امر"
+    }
+  ],
+  "timestamp": "2026-08-13T23:01:35.186138937Z",
+  "model": "glm-5.2"
+}

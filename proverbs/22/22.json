@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "غارت مکن ضعیف را، چون ⟨او⟩ ضعیف است، و لالای مکنِ زیرِ پا بینوای در دروازه را.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مکن"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "غارت"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ضعیف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ضعیف"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨او⟩ است"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و مکن"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "لایِ زیرِ پا"
+    },
+    {
+      "surface": "עני",
+      "gloss": "بینوای"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "در دروازه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:14.985699183Z",
+  "model": "glm-5.2"
+}

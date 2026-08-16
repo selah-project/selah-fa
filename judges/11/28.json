@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "judges 11:28",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و نشنید پادشاهِ پسرانِ عَمّون به سخنانِ یِفتاح که به سویِ او فرستاد.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "شنید"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عَمّون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "سخنانِ"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "یِفتاح"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "فرستاد"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "به سویِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T21:04:56.442508944Z",
+  "model": "glm-5.2"
+}

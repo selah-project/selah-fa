@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "همه‌ات زیباست، ای دوستِ من، و عیبی در تو نیست.",
+  "tokens": [
+    {
+      "surface": "כֻּלָּ֤ךְ",
+      "gloss": "همه‌ات"
+    },
+    {
+      "surface": "יָפָה֙",
+      "gloss": "زیباست"
+    },
+    {
+      "surface": "רַעְיָתִ֔י",
+      "gloss": "ای دوستِ من"
+    },
+    {
+      "surface": "וּמ֖וּם",
+      "gloss": "و عیبی"
+    },
+    {
+      "surface": "אֵ֥ין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "בָּֽךְ",
+      "gloss": "در تو"
+    }
+  ],
+  "timestamp": "2026-08-13T23:15:34.274723348Z",
+  "model": "glm-5.2"
+}

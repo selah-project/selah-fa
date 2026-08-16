@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 45:14",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 45,
+  "translation": "و بر گردنِ بِنیامین، برادرش افتاد و گریست؛ و بِنیامین بر گردنِ او گریست.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "و افتاد"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "צוארי",
+      "gloss": "گردنِ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بِنیامین،"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برادرش"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "و گریست؛"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "و بِنیامین"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "گریست"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "گردنِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:08:31.286182215Z",
+  "model": "glm-5.2"
+}

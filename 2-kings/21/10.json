@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 21:10",
+  "book": "2-kings",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و یاهوه به دست بندگانش انبیا سخن گفت، به گفتن:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "به دست"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "بندگانش"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "انبیا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به گفتن"
+    }
+  ],
+  "timestamp": "2026-08-13T21:39:01.012564284Z",
+  "model": "glm-5.2"
+}

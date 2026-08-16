@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "و فروتنان زمین را به میراث برند، و از فراوانیِ شلوم لذت برند.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "و فروتنان"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "به میراث برند"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین را"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "و لذت برند"
+    },
+    {
+      "surface": "על",
+      "gloss": "از"
+    },
+    {
+      "surface": "רב",
+      "gloss": "فراوانیِ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شلوم"
+    }
+  ],
+  "timestamp": "2026-08-13T22:41:55.301413088Z",
+  "model": "glm-5.2"
+}

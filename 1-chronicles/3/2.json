@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 3:2",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "سوم اَوشالوم، پسر مَعاخه، دختر تَلْمای پادشاه گَشور؛ چهارم آدونی‌یَهو، پسر خَگیت.",
+  "tokens": [
+    {
+      "surface": "השלשי",
+      "gloss": "سوم"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "اَوشالوم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "مَعاخه"
+    },
+    {
+      "surface": "بת",
+      "gloss": "دختر"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "تَلْمای"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "گَشور"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "چهارم"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "آدونی‌یَهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "خَگیت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:18.436190817Z",
+  "model": "glm-5.2"
+}

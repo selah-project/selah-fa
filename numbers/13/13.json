@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 13:13",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "برای سبدِ اَشِر، سَتور پسرِ میکائیل.",
+  "tokens": [
+    {
+      "surface": "לְמַטֵּה",
+      "gloss": "برای سبدِ"
+    },
+    {
+      "surface": "אָשֵׁר",
+      "gloss": "اَشِر"
+    },
+    {
+      "surface": "סְתוּר",
+      "gloss": "سَتور"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "מִיכָאֵל",
+      "gloss": "میکائیل"
+    }
+  ],
+  "timestamp": "2026-08-13T23:56:37.876168397Z",
+  "model": "glm-5.2"
+}

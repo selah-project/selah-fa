@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 34:8",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 34,
+  "translation": "و پسرانِ یِسرائیل ⟨את⟩ موشه را در دشت‌های موآب سی روز گریستند؛ و روزهای گریه و سوگواریِ موشه به پایان رسید.",
+  "tokens": [
+    {
+      "surface": "ויבכו",
+      "gloss": "و گریستند"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "در دشت‌های"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "ויתמו",
+      "gloss": "و به پایان رسید"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روزهای"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "گریه"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "و سوگواری"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:53:26.165647077Z",
+  "model": "glm-5.2"
+}

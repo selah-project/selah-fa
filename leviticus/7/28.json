@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 7:28",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و سخن گفت یاهوه با موشه، به‌گفتن:",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֥ר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "با"
+    },
+    {
+      "surface": "מֹשֶׁ֥ה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "לֵּאמֹֽר",
+      "gloss": "به‌گفتن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:23:27.773426802Z",
+  "model": "glm-5.2"
+}

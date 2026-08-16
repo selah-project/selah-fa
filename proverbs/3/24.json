@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "اگر بخوابی، نخواهی هراسید؛ و خوابیده باشی، و خوش‌کامِ خوابِ تو.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "بخوابی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "خواهی-هراسید"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "و خوابیده باشی"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "و خوش‌کامِ"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "خوابِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:59:10.922748851Z",
+  "model": "glm-5.2"
+}

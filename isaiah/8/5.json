@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "وَ یاهوه افزود سخن گفتن به سوی من باز برای گفتن:",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֣סֶף",
+      "gloss": "وَ افزود"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "דַּבֵּ֥ר",
+      "gloss": "سخن گفتن"
+    },
+    {
+      "surface": "אֵלַ֛י",
+      "gloss": "به سوی من"
+    },
+    {
+      "surface": "ע֖וֹד",
+      "gloss": "باز"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "برای گفتن"
+    }
+  ],
+  "timestamp": "2026-08-13T21:42:28.106782240Z",
+  "model": "glm-5.2"
+}

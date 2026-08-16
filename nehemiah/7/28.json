@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 7:28",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "مردانِ بیتْ‌عَزماوِت، چهل و دو.",
+  "tokens": [
+    {
+      "surface": "אַנְשֵׁ֥י",
+      "gloss": "مردانِ"
+    },
+    {
+      "surface": "בֵית",
+      "gloss": "بیتْ"
+    },
+    {
+      "surface": "עַזְמָ֖וֶת",
+      "gloss": "عَزماوِت"
+    },
+    {
+      "surface": "אַרְבָּעִ֥ים",
+      "gloss": "چهل"
+    },
+    {
+      "surface": "וּשְׁנָֽיִם",
+      "gloss": "و دو"
+    }
+  ],
+  "timestamp": "2026-08-13T23:33:00.610384949Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 21:27",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و گفت یاهوه به مَلَک، و بازگرداند شمشیرِ ⟨خود را⟩ به غلافِ ⟨آن⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "למלאך",
+      "gloss": "به مَلَک"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "و بازگرداند"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "شمشیرِ ⟨خود را⟩",
+      "marks": "شمشیر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "נדנה",
+      "gloss": "غلافِ ⟨آن⟩",
+      "marks": "غلاف"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:13.857874283Z",
+  "model": "glm-5.2"
+}

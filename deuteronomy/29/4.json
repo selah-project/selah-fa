@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و من ⟨את⟩ شما را چهل سال در بیابان راه بردم — لباس‌هایتان بر تنِ شما کهنه نشد، و کفشِ تو بر پایت کهنه نشد.",
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "و راه بردم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "شما را"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چهل"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "در بیابان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "کهنه شد"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "لباس‌هایتان"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "بر تنِ شما"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "و کفشِ تو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "کهنه شد"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "پایت"
+    }
+  ],
+  "timestamp": "2026-08-13T20:52:12.236375963Z",
+  "model": "glm-5.2"
+}

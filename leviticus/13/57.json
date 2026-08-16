@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "leviticus 13:57",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "و اگر باز در جامه یا در تار یا در پود یا در هر ظرفِ پوست دیده شود، ⟨او⟩ شکوفنده است؛ در آتش خواهی سوزاندش ⟨את⟩ آنچه در آن است، ⟨یعنی⟩ آفت را.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "دیده شود"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "باز"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "در جامه"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "در تار"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "در پود"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "در هر"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ظرف"
+    },
+    {
+      "surface": "עור",
+      "gloss": "پوست"
+    },
+    {
+      "surface": "פרחת",
+      "gloss": "شکوفنده است"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨او⟩"
+    },
+    {
+      "surface": "באש",
+      "gloss": "در آتش"
+    },
+    {
+      "surface": "תשרפנו",
+      "gloss": "خواهی سوزاندش"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آنچه در آن است"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنچه"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در آن"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "آفت"
+    }
+  ],
+  "timestamp": "2026-08-13T20:25:03.164203639Z",
+  "model": "glm-5.2"
+}

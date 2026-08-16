@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "پسرِ دانا، شاد می‌کند پدر را؛ و مردِ نادان، بی‌ارزش می‌دارد مادرِ ⟨خود⟩ را.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "شاد می‌کند"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پدر را"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "و مردِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "بی‌ارزش می‌دارد"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "مادرِ ⟨خود⟩ را"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:38.768250800Z",
+  "model": "glm-5.2"
+}

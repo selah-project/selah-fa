@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "jeremiah 36:11",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "و میکایاهو پسرِ گماریاهو پسرِ شافان ⟨את⟩ تمامِ سخنانِ یاهوه را از برِ کتاب شنید.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "و شنید"
+    },
+    {
+      "surface": "مכיהו",
+      "gloss": "میکایاهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "גמריהו",
+      "gloss": "گماریاهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "شافان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تمامِ سخنانِ یاهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "دברי",
+      "gloss": "سخنانِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "از برِ"
+    },
+    {
+      "surface": "هספר",
+      "gloss": "کتاب"
+    }
+  ],
+  "timestamp": "2026-08-15T04:13:29.419133042Z",
+  "model": "glm-5.3"
+}

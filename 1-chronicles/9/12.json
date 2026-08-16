@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 9:12",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و عَدَیاه بن یِروخام بن پَشخور بن مَلکی‌یاه، و مَعَسَی بن عَدی‌اِل بن یَخزِره بن مَشولّام بن مَشیلِّمیت بن ایمر.",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "و عَدَیاه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "یِروخام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "پَشخور"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "مَلکی‌یاه"
+    },
+    {
+      "surface": "ומעשי",
+      "gloss": "و مَعَسَی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "עדיאל",
+      "gloss": "عَدی‌اِل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "יחזרה",
+      "gloss": "یَخزِره"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مَشولّام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "משלמית",
+      "gloss": "مَشیلِّمیت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ایمر"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:57.098994010Z",
+  "model": "glm-5.2"
+}

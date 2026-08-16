@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 24:15",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "هفدهم لِحِزیر، هجدهم لْهَپِیتسِتس.",
+  "tokens": [
+    {
+      "surface": "לחזיר",
+      "gloss": "لِحِزیر"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ده"
+    },
+    {
+      "surface": "להפצץ",
+      "gloss": "لْهَپِیتسِتس"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "هشت"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ده"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:38.384927347Z",
+  "model": "glm-5.2"
+}

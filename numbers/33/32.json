@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 33:32",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "و حرکت کردند از بِنِی-یَعقان، و اردو زدند در حور-هَگِدگاد.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "و حرکت کردند"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "از پسرانِ"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "یَعقان"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "و اردو زدند"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "در حورِ"
+    },
+    {
+      "surface": "הגדגד",
+      "gloss": "هَگِدگاد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:41:53.682326101Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 1:48",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و سَملَه مرد و شاؤل از رَخوووتِ نهار به جایِ او پادشاه شد.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "سَملَه"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "و پادشاه شد"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "به جایِ او"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "از رَخوووتِ"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "نهار"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:00.955424064Z",
+  "model": "glm-5.2"
+}

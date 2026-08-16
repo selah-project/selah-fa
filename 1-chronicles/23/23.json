@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 23:23",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "پسرانِ موشی: مَحْلی و عِیدِر و یِرِموت — سه‌تا.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "موشی"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "مَحْلی"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "و عِیدِر"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "و یِرِموت"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سه‌تا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:37.205540569Z",
+  "model": "glm-5.2"
+}

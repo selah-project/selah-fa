@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و گفت پادشاه به او: چه ⟨برای⟩ توست؟ و گفت: بی‌گمان، زنی بیوه هستم، و شوهرم مرد.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "לה",
+      "gloss": "به او"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برای توست"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "بی‌گمان"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زنی"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "بیوه"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من هستم"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "شوهرم"
+    }
+  ],
+  "timestamp": "2026-08-13T21:19:47.437344873Z",
+  "model": "glm-5.2"
+}

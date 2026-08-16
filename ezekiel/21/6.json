@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 21:6",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و کلام یاهوه به سوی من شد، به‌قالِ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به سوی من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به‌قالِ"
+    }
+  ],
+  "timestamp": "2026-08-13T22:16:50.741182817Z",
+  "model": "glm-5.2"
+}

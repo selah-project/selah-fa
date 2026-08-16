@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 119,
+  "translation": "بگذار دلِ من بی‌نقص باشد در فرمان‌های تو، تا خجالت نکشم.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "بگذار باشد"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دلِ من"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "بی‌نقص"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "در فرمان‌های تو"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "خجالت نکشم"
+    }
+  ],
+  "timestamp": "2026-08-13T22:56:06.738449533Z",
+  "model": "glm-5.2"
+}

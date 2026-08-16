@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 16:1",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "وایّوو پاسخ داد و گفت:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "و‌پاسخ‌داد"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ایّوو"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و‌گفت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:09:59.133194243Z",
+  "model": "glm-5.2"
+}

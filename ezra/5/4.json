@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 5:4",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "آنگاه چنین به ایشان گفتیم: نام‌های مردانی که این بنا را می‌سازند چه‌هاست؟",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "آنگاه"
+    },
+    {
+      "surface": "כנמא",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "אמרנא",
+      "gloss": "گفتیم"
+    },
+    {
+      "surface": "להם",
+      "gloss": "به ایشان"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چه"
+    },
+    {
+      "surface": "אנון",
+      "gloss": "هستند"
+    },
+    {
+      "surface": "שמהת",
+      "gloss": "نام‌های"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "مردان"
+    },
+    {
+      "surface": "די",
+      "gloss": "که"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "این"
+    },
+    {
+      "surface": "בנינא",
+      "gloss": "بنا را"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "می‌سازند"
+    }
+  ],
+  "timestamp": "2026-08-13T23:29:39.172243247Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 108,
+  "translation": "سرودی، مزموری برای داوود.",
+  "tokens": [
+    {
+      "surface": "שִׁ֖יר",
+      "gloss": "سرودی"
+    },
+    {
+      "surface": "מִזְמ֣וֹר",
+      "gloss": "مزموری"
+    },
+    {
+      "surface": "לְדָוִֽד",
+      "gloss": "برای داوود"
+    }
+  ],
+  "timestamp": "2026-08-13T22:53:36.649461507Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 119,
+  "translation": "دادم و دادگری را بجا آوردم؛ مرا به ستم‌گرانم مسپار.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "بجا آوردم"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "داد"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "و دادگری"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "مسپار"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "به ستم‌گرانم"
+    }
+  ],
+  "timestamp": "2026-08-13T22:56:05.287726494Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "proverbs 11:20",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "مکروهِ یاهوه کج‌دلان‌اند، و خشنودیِ او بی‌لغزشانِ راه.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "مکروهِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עקשי",
+      "gloss": "کج‌دلان‌اند"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "ורצונו",
+      "gloss": "و خشنودیِ او"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "بی‌لغزشانِ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راه"
+    }
+  ],
+  "timestamp": "2026-08-15T04:27:42.066332335Z",
+  "model": "glm-5.3"
+}

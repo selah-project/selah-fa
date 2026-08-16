@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 130,
+  "translation": "که نزدِ تو بخشایش است، تا ⟨تو⟩ ترسیده شوی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "نزدِ تو"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "بخشایش است"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تا"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "ترسیده شوی"
+    }
+  ],
+  "timestamp": "2026-08-13T22:56:58.246396853Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 2:24",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و بعد از مرگِ خترون در کالِب-افراته، و اَبیّه، همسرِ خترون، برایش زایید ⟨את⟩ اَشحور، پدرِ تَقوع را.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "و بعد از"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرگِ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "خترون"
+    },
+    {
+      "surface": "בכלב",
+      "gloss": "در کالِب"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "-افراته"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "و همسرِ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "خترون"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "اَبیّه"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "و زایید"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برایش"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَشحور"
+    },
+    {
+      "surface": "אשחור",
+      "gloss": "اَشحور"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پدرِ"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "تَقوع"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:37.845217061Z",
+  "model": "glm-5.2"
+}

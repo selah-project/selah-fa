@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "و ⟨את⟩ کِشَد و ⟨את⟩ حَزو و ⟨את⟩ پیلداش و ⟨את⟩ یِدلاف و ⟨את⟩ بَتوئیل را.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "کشد"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "کشد"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "حزو"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "حزو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "پیلداش"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "پیلداش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "یدلاف"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "یدلاف"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "بتوئیل"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "بتوئیل"
+    }
+  ],
+  "timestamp": "2026-08-13T20:00:08.694266272Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 6:7",
+  "book": "song-of-songs",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "مانند برشی از انار است شقیقه‌ات پشت پردهٔ تو.",
+  "tokens": [
+    {
+      "surface": "כפלח",
+      "gloss": "مانند برشی"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "از انار"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "شقیقهٔ تو"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "پشت"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "پردهٔ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T23:16:01.703906531Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "که نه تا پایان فراموش شود نیازمند، امیدِ فروتنان نابود شود برای همیشه.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "تا پایان"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "فراموش شود"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "نیازمند"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "امیدِ"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "فروتنان"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "نابود شود"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "برای همیشه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:38:30.467417706Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و مردی که آمیزشِ خویش را با بهیمه‌ای بدهد، بمیرد کشته شود، و ⟨את⟩ بهیمه را بکشید.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "و مردی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "بدهد"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "آمیزشِ خویش را"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "با بهیمه‌ای"
+    },
+    {
+      "surface": "מות",
+      "gloss": "بمیرد"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "کشته شود"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "بهیمه"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "بهیمه"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "بکشید"
+    }
+  ],
+  "timestamp": "2026-08-13T20:28:35.122243160Z",
+  "model": "glm-5.2"
+}

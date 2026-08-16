@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و ⟨את⟩ احشاء و ⟨את⟩ پاها را شست، و بر هولوکاست، به سوی مذبح سوزاند.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "و شست"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "احشاء"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "احشاء"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "پاها"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "پاها"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "و سوزاند"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "هولوکاست"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "به سوی مذبح"
+    }
+  ],
+  "timestamp": "2026-08-13T20:23:46.654807452Z",
+  "model": "glm-5.2"
+}

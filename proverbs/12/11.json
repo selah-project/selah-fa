@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 12:11",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "کارگرِ خاکِ خود با نان سیر می‌شود، و پیروِ پوچ‌ها فاقدِ دل است.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "کارگرِ"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "خاکِ خود"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "سیر می‌شود"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "با نان"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "و پیروِ"
+    },
+    {
+      "surface": "ריקים",
+      "gloss": "پوچ‌ها"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "فاقدِ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-08-13T23:01:23.845437679Z",
+  "model": "glm-5.2"
+}

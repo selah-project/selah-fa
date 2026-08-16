@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 3:14",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و یاهوه با موشه در بیابانِ سینا سخن گفت، به‌قول:",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֤ר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "با"
+    },
+    {
+      "surface": "מֹשֶׁ֔ה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "בְּמִדְבַּ֥ר",
+      "gloss": "در بیابانِ"
+    },
+    {
+      "surface": "סִינַ֖י",
+      "gloss": "سینا"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "به‌قول"
+    }
+  ],
+  "timestamp": "2026-08-13T20:31:34.661259391Z",
+  "model": "glm-5.2"
+}

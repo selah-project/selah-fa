@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "به این سبب همهٔ دست‌ها سست می‌شوند، و دلِ هر فانی ⟨موعون⟩ می‌گدازد.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "این سبب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "دست‌ها"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "سست می‌شوند"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دلِ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "فانی"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "می‌گدازد"
+    }
+  ],
+  "timestamp": "2026-08-13T21:43:09.063404969Z",
+  "model": "glm-5.2"
+}

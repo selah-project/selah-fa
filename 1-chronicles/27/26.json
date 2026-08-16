@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 27:26",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و بر کارگزاران کارِ صحرا برای کارِ زمین، عِزری پسر کِلوب.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "کارگزارانِ"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "کارِ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "صحرا"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "برای کارِ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "عِزری"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "کِلوب"
+    }
+  ],
+  "timestamp": "2026-08-13T23:42:28.027653114Z",
+  "model": "glm-5.2"
+}

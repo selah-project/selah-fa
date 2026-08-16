@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "بهترندِ آنِ دو از یکی، که برای آن‌ها پاداشِ نیک است در زحمت‌شان.",
+  "tokens": [
+    {
+      "surface": "טוֹבִ֥ים",
+      "gloss": "بهترند"
+    },
+    {
+      "surface": "הַשְּׁנַ֖יִם",
+      "gloss": "آنِ دو"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הָאֶחָ֑ד",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "אֲשֶׁ֧ר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יֵשׁ",
+      "gloss": "هست"
+    },
+    {
+      "surface": "לָהֶ֛ם",
+      "gloss": "برای آن‌ها"
+    },
+    {
+      "surface": "שָׂכָ֥ר",
+      "gloss": "پاداش"
+    },
+    {
+      "surface": "ט֖וֹב",
+      "gloss": "نیک"
+    },
+    {
+      "surface": "בַּעֲמָלָֽם",
+      "gloss": "در زحمت‌شان"
+    }
+  ],
+  "timestamp": "2026-08-14T00:16:22.776522180Z",
+  "model": "glm-5.2"
+}

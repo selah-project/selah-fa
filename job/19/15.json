@@ -1,0 +1,45 @@
+{
+  "ref": "job 19:15",
+  "lang": "fa",
+  "book": "job",
+  "chapter": 19,
+  "verse": 15,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:46:46Z",
+  "translation": "غریبانِ خانه‌ام و کنیزانم مرا چون بیگانه می‌شمارند؛ در چشمانشان اجنبی شده‌ام.",
+  "tokens": [
+    {
+      "surface": "גרי",
+      "gloss": "غریبانِ"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "خانه‌ام"
+    },
+    {
+      "surface": "ואמהתי",
+      "gloss": "و کنیزانم"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "چون بیگانه"
+    },
+    {
+      "surface": "תחשבני",
+      "gloss": "مرا می‌شمارند"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "اجنبی"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "شده‌ام"
+    },
+    {
+      "surface": "בעיניהם",
+      "gloss": "در چشمانشان"
+    }
+  ]
+}

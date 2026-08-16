@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "نفرین‌باد ⟨او⟩ که با هیچ‌گونه بهیمی می‌خوابد، و تمامِ قوم بگویند: آمین.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "نفرین‌باد"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "می‌خوابد"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "بهیمی"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و بگویند"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمین"
+    }
+  ],
+  "timestamp": "2026-08-13T20:51:12.379848638Z",
+  "model": "glm-5.2"
+}

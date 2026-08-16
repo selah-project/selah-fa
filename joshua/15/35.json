@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 15:35",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "یَرموت، و عَدُلّام، سوخُه، و عَزِقاه،",
+  "tokens": [
+    {
+      "surface": "ירמות",
+      "gloss": "یَرموت"
+    },
+    {
+      "surface": "ועדלם",
+      "gloss": "و عَدُلّام"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "سوخُه"
+    },
+    {
+      "surface": "ועזקה",
+      "gloss": "و عَزِقاه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:58:09.750093366Z",
+  "model": "glm-5.2"
+}

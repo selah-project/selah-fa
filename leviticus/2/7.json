@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و اگر هدیه‌ی قاب‌پزی قربانیِ تو باشد، آردِ نرم در روغن ساخته شود.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "هدیه‌ی"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "قاب‌پزی"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "قربانیِ تو"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "آردِ نرم"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "در روغن"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ساخته شود"
+    }
+  ],
+  "timestamp": "2026-08-13T20:21:50.285265187Z",
+  "model": "glm-5.2"
+}

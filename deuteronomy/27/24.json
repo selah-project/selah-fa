@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 27:24",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "نفرین‌باد ⟨کسی که⟩ همسایهٔ خود را در خفا می‌زند، و تمامِ قوم بگویند: آمین.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "نفرین‌باد"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "می‌زند"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "همسایهٔ خود"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "در خفا"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و بگویند"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمین"
+    }
+  ],
+  "timestamp": "2026-08-13T20:51:12.380355500Z",
+  "model": "glm-5.2"
+}

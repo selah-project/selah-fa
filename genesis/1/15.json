@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 1:15",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و باشند برای فروغ‌ها در گسترة آسمان‌ها، تا بتابانند بر زمین»؛ و چنین شد.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "و باشند"
+    },
+    {
+      "surface": "למאורת",
+      "gloss": "برای فروغ‌ها"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "در گسترة"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمان‌ها"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "تا بتابانند"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چنین"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:13.704458315Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 23:18",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "پسران یِتسْهار شَلومیت ⟨هستند⟩ سر",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "پسران"
+    },
+    {
+      "surface": "יִצְהָ֖ר",
+      "gloss": "یِتسْهار"
+    },
+    {
+      "surface": "שְׁלֹמִ֥ית",
+      "gloss": "شَلومیت"
+    },
+    {
+      "surface": "הָרֹֽאשׁ",
+      "gloss": "سر"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:33.267125192Z",
+  "model": "glm-5.2"
+}

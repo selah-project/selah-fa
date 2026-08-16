@@ -1,0 +1,103 @@
+{
+  "ref": "deuteronomy 34:9",
+  "lang": "fa",
+  "book": "deuteronomy",
+  "chapter": 34,
+  "verse": 9,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:55:53Z",
+  "translation": "و یِهوشُع پسرِ نون از روحِ حکمت پر شد، زیرا موشه ⟨את⟩ دست‌هایش را بر او نهاده بود؛ و پسرانِ یِسرائیل به او گوش دادند، و چنان‌که یاهوه ⟨את⟩ موشه را فرمان داده بود کردند.",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "و یِهوشُع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نون"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "پر شد"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "از روحِ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "סמך",
+      "gloss": "نهاده بود"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دست‌هایش"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "دست‌هایش"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر او"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "و گوش دادند"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "و کردند"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چنان‌که"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فرمان داده بود"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    }
+  ]
+}

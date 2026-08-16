@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 47,
+  "translation": "برای الوهیم بزنید، بزنید! برای پادشاهِ ما بزنید، بزنید!",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "بزنید"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "بزنید"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "بزنید"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "برای پادشاهِ ما"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "بزنید"
+    }
+  ],
+  "timestamp": "2026-08-13T22:43:56.139461249Z",
+  "model": "glm-5.2"
+}

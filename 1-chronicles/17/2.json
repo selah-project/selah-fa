@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 17:2",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "و ناتان به داوود گفت: هر آنچه در دلت است بکن، زیرا الوهیم با توست.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنچه"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "در دلت"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بکن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "با توست"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:28.827399436Z",
+  "model": "glm-5.2"
+}

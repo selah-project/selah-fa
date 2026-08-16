@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 22:17",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "و شدت کلام یاهوه ⟨به⟩ من به این سخن:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به این سخن"
+    }
+  ],
+  "timestamp": "2026-08-13T22:17:30.184052270Z",
+  "model": "glm-5.2"
+}

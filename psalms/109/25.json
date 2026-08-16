@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 109,
+  "translation": "و من بودم ننگی برای آنان؛ مرا دیدند، سرِ خویش را تکان دادند.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "و من"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "بودم"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ننگی"
+    },
+    {
+      "surface": "להם",
+      "gloss": "برای آنان"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "مرا دیدند"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "تکان دادند"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "سرِ خویش را"
+    }
+  ],
+  "timestamp": "2026-08-13T22:53:55.323863447Z",
+  "model": "glm-5.2"
+}

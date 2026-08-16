@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 106,
+  "translation": "و در خیمه‌هایشان غریدند، به صوت یاهوه گوش ندادند.",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "وغریدند"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "در خیمه‌هایشان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "شنیدند"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "به صوت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:53:09.080859520Z",
+  "model": "glm-5.2"
+}

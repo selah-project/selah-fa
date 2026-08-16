@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "شنیدهٔ باطل را برندار؛ دستت را با بدکار برای گواهِ ستم بودن نگذار.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "برندار"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "شنیده"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "باطل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مگذار"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "بگذاری"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "دستت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "להית",
+      "gloss": "برای بودن"
+    },
+    {
+      "surface": "עד",
+      "gloss": "گواه"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ستم"
+    }
+  ],
+  "timestamp": "2026-08-15T03:48:31.574788308Z",
+  "model": "glm-5.3"
+}

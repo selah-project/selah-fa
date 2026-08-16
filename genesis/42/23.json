@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 42,
+  "translation": "و آنان نمی‌دانستند که یوسف می‌شنود، زیرا مترجم میانِ آنان بود.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "و آنان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "می‌دانستند"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "می‌شنود"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "مترجم"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "میانِ آنان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:07:18.383014406Z",
+  "model": "glm-5.2"
+}

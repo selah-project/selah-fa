@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 24:4",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "«نئم شنوندهٔ سخنانِ اِل، که بینا شد دیدِ شدّای را، در حالی که می‌افتد و چشمانش گشاده است:",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "نئم"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "شنوندهٔ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "سخنانِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "بینا"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّای"
+    },
+    {
+      "surface": "יחזה",
+      "gloss": "دیدِ"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "می‌افتد"
+    },
+    {
+      "surface": "וגלוי",
+      "gloss": "و گشاده"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "چشمانش"
+    }
+  ],
+  "timestamp": "2026-08-13T20:39:13.112348510Z",
+  "model": "glm-5.2"
+}

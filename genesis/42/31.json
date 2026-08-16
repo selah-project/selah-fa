@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 42,
+  "translation": " «وبه او گفتیم: صادقیم ما، نیستیم جاسوسان.»",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "وگفتیم"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "صادقیم"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "بودیم"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "جاسوسان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:07:53.117047156Z",
+  "model": "glm-5.2"
+}

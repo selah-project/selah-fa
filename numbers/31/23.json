@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 31:23",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "هر چیز که در آتش می‌آید، در آتش بگذرانید، و پاک ⟨است⟩؛ اما با آبِ نجاست پاک شود. و هر آنچه در آتش نمی‌آید، در آب بگذرانید.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چیز"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "می‌آید"
+    },
+    {
+      "surface": "באש",
+      "gloss": "در آتش"
+    },
+    {
+      "surface": "תעבירו",
+      "gloss": "بگذرانید"
+    },
+    {
+      "surface": "באש",
+      "gloss": "در آتش"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "و پاک"
+    },
+    {
+      "surface": "אך",
+      "gloss": "اما"
+    },
+    {
+      "surface": "במי",
+      "gloss": "با آبِ"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "نجاست"
+    },
+    {
+      "surface": "יתחטא",
+      "gloss": "پاک شود"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنچه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "می‌آید"
+    },
+    {
+      "surface": "באש",
+      "gloss": "در آتش"
+    },
+    {
+      "surface": "תעבירו",
+      "gloss": "بگذرانید"
+    },
+    {
+      "surface": "במים",
+      "gloss": "در آب"
+    }
+  ],
+  "timestamp": "2026-08-13T20:40:50.551042380Z",
+  "model": "glm-5.2"
+}

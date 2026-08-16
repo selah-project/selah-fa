@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 7:13",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "در همانِ روزِ این، درآمد نوح، و شِم، و حام، و یِفَت، پسرانِ نوح، و همسرِ نوح، و سهتن زنانِ پسرانش، ⟨את⟩ ایشان، به سوی کشتی.",
+  "tokens": [
+    {
+      "surface": "בעצם",
+      "gloss": "در ذاتِ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روزِ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "בא",
+      "gloss": "درآمد"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "و شِم"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "و حام"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "و یِفَت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "و همسرِ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "و سهتن"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "زنانِ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "پسرانش"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ایشان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "کشتی"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:27.351432756Z",
+  "model": "glm-5.2"
+}

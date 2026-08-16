@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "همهٔ این بر نِبوکَدنِصَّر، شاه، رسید.",
+  "tokens": [
+    {
+      "surface": "כֹּ֣לָּא",
+      "gloss": "همه"
+    },
+    {
+      "surface": "מְּטָ֔א",
+      "gloss": "رسید"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "נְבוּכַדְנֶצַּ֖ר",
+      "gloss": "نِبوکَدنِصَّر"
+    },
+    {
+      "surface": "מַלְכָּֽא",
+      "gloss": "شاه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:24:57.934166779Z",
+  "model": "glm-5.2"
+}

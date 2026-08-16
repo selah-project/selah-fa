@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "گوشهٔ سرِ خود را کوتاه نکنید، و ⟨את⟩ گوشهٔ ریشِ خود را تباه نسازید.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "کوتاه نکنید"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "گوشهٔ"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "سرِ خود"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "تباه نسازید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گوشهٔ ریشِ خود"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "گوشهٔ"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "ریشِ خود"
+    }
+  ],
+  "timestamp": "2026-08-13T20:27:32.221628229Z",
+  "model": "glm-5.2"
+}

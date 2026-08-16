@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 29:30",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و کلام یاهوه به یِرْمَیَهو روی داد، به این بیان:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و ⟨بود⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمَیَهو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به این بیان"
+    }
+  ],
+  "timestamp": "2026-08-14T00:05:51.137299709Z",
+  "model": "glm-5.2"
+}

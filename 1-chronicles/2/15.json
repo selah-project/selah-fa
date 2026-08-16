@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 2:15",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "اُصِم ششمین، داوُد هفتمین.",
+  "tokens": [
+    {
+      "surface": "אצם",
+      "gloss": "اُصِم"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ششمین"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوُد"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "هفتمین"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:25.336135847Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 47,
+  "translation": "الوهیم پادشاهی کرد بر امت‌ها؛ الوهیم نشست بر تختِ قدسِ خویش.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهی کرد"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "امت‌ها"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "نشست"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "قدسِ خویش"
+    }
+  ],
+  "timestamp": "2026-08-13T22:43:28.704154507Z",
+  "model": "glm-5.2"
+}

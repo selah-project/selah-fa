@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "proverbs 5:14",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "چند نمانده بود که در همه بدی می‌افتادم، در میانِ جامعه و جرگه.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "چند نمانده"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "بودم\/می‌افتم"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "در همه"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "در میانِ"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "اجتماع\/جامعه"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "و جرگه\/مجمع"
+    }
+  ],
+  "timestamp": "2026-08-15T04:27:01.535125074Z",
+  "model": "glm-5.3"
+}

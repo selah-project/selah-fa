@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 35:19",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "در هجدهمین سالِ پادشاهیِ یُوشیّاهو، این فِصح به‌جا آورده شد.",
+  "tokens": [
+    {
+      "surface": "בשמונה",
+      "gloss": "در هشت"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ده"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سالِ"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "پادشاهیِ"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "یُوشیّاهو"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "به‌جا آورده شد"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "فِصح"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    }
+  ],
+  "timestamp": "2026-08-13T23:52:29.395089269Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و پسرانِ گومِر: اَشکَناز، و ریفات، و توگارمه.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "گومِر"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "اَشکَناز"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "و ریفات"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "و توگارمه"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:57.835689125Z",
+  "model": "glm-5.2"
+}

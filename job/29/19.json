@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 29:19",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "ریشه‌ام بر آب‌ها گشاده است، و شبنم بر خرمنم بیتوت.",
+  "tokens": [
+    {
+      "surface": "שרשי",
+      "gloss": "ریشه‌ام"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "گشاده"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بر"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آب‌ها"
+    },
+    {
+      "surface": "וטל",
+      "gloss": "و شبنم"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "بیتوت"
+    },
+    {
+      "surface": "בקצירי",
+      "gloss": "بر خرمنم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:12:07.748280013Z",
+  "model": "glm-5.2"
+}

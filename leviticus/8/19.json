@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و ⟨آن را⟩ ذبح کرد، و موشه ⟨את⟩ خون را بر مذبح به دور پاشید.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "و ذبح کرد"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "و پاشید"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خون"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "به دور"
+    }
+  ],
+  "timestamp": "2026-08-13T20:23:48.044548972Z",
+  "model": "glm-5.2"
+}

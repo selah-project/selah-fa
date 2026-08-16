@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 20:26",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و سخن نگفت شائول چیزی در آن روز، زیرا گفت: اتفاقی است او؛ ⟨او⟩ ناپاک است، زیرا ناپاک است.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخن گفت"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "چیزی"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روز"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "اتفاقی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "نا"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    }
+  ],
+  "timestamp": "2026-08-13T21:13:32.494113171Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 48:19",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 48,
+  "translation": "بر راه بایست و نگاه کن، ای ساکنِ عَروئِر! از گریخته و رهیده بپرس، بگو: چه شده است؟",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راه"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "بایست"
+    },
+    {
+      "surface": "וצפי",
+      "gloss": "و نگاه کن"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "ساکنِ"
+    },
+    {
+      "surface": "ערוער",
+      "gloss": "عَروئِر"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "بپرس"
+    },
+    {
+      "surface": "נס",
+      "gloss": "گریخته"
+    },
+    {
+      "surface": "ונמלטה",
+      "gloss": "و رهیده"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "بگو"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "شده است"
+    }
+  ],
+  "timestamp": "2026-08-13T22:09:28.980773751Z",
+  "model": "glm-5.2"
+}

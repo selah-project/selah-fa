@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "به سخنِ یاهوه آسمان‌ها ساخته شدند، و به روحِ دهانِ او همهٔ لشکرِ آنها.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "به سخن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمان‌ها"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "ساخته شدند"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "و به روح"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "دهانِ او"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "لشکرِ آنها"
+    }
+  ],
+  "timestamp": "2026-08-13T22:41:23.324247426Z",
+  "model": "glm-5.2"
+}

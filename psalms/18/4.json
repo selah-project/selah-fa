@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "ستوده، یاهوه را صدا می‌زنم، و از دشمنانِ من رهانیده می‌شوم.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "ستوده"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "صدا می‌زنم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه را"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "و از"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "دشمنانِ من"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "رهانیده می‌شوم"
+    }
+  ],
+  "timestamp": "2026-08-14T00:10:34.523095723Z",
+  "model": "glm-5.2"
+}

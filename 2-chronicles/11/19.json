@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و او برایش پسرانی زایید: ⟨את⟩ یَعوش و ⟨את⟩ شِمَریاهو و ⟨את⟩ زاهام.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "و زایید"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برایش"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پسرانی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یَعوش"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "یَعوش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "شِمَریاهو"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "شِمَریاهو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "زاهام"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "زاهام"
+    }
+  ],
+  "timestamp": "2026-08-13T23:46:00.277596225Z",
+  "model": "glm-5.2"
+}

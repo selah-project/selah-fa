@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 11:23",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "زیرا فرمانِ پادشاه بر آنان ⟨بود⟩، و تَأمین بر خوانندگان، امرِ روز به روزِ خویش.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "فرمانِ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "بر آنان"
+    },
+    {
+      "surface": "ואמנה",
+      "gloss": "و تَأمین"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "خوانندگان"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "امرِ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "به روزِ خویش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:38.520497093Z",
+  "model": "glm-5.2"
+}

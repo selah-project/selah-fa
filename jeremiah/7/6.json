@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "jeremiah 7:6",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "غریب و یتیم و بیوه‌زن را ستم نکنید، و خون بی‌گناه را در این مکان نریزید، و پس از الوهیمِ دیگران نگروید — به بدیِ شما.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "یتیم"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "و بیوه‌زن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעשקו",
+      "gloss": "ستم کنید"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "و خون"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "بی‌گناه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مکنید"
+    },
+    {
+      "surface": "תשפכו",
+      "gloss": "نریزید"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "در مکان"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "و پس از"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "دیگران"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "نگروید"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "به بدی"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "شما"
+    }
+  ],
+  "timestamp": "2026-08-15T04:11:41.610475013Z",
+  "model": "glm-5.3"
+}

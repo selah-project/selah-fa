@@ -1,0 +1,41 @@
+{
+  "ref": "psalms 119:162",
+  "lang": "fa",
+  "book": "psalms",
+  "chapter": 119,
+  "verse": 162,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:47:12Z",
+  "translation": "شادمانم من بر گفتارِ تو، چون یابندهٔ غنیمتی بزرگ.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "شادمانم"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "گفتارِ تو"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "چون یابندهٔ"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "غنیمتِ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بزرگ"
+    }
+  ]
+}

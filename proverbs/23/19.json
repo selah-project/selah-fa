@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 23:19",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "بشنو تو ای پسرم و دانا باش و دلِ خود را در راه هدايت كن.",
+  "tokens": [
+    {
+      "surface": "שְׁמַע",
+      "gloss": "بشنو"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "בְּנִי",
+      "gloss": "ای پسرم"
+    },
+    {
+      "surface": "וַחֲכָם",
+      "gloss": "و دانا باش"
+    },
+    {
+      "surface": "וְאַשֵּׁר",
+      "gloss": "و هدايت كن"
+    },
+    {
+      "surface": "בַּדֶּרֶךְ",
+      "gloss": "در راه"
+    },
+    {
+      "surface": "לִבֶּךָ",
+      "gloss": "دلِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:26.315209126Z",
+  "model": "glm-5.2"
+}

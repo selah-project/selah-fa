@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 42,
+  "translation": "و گرد آورد ⟨את⟩ آنان را به نگه‌داریِ سه روز.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "و گرد آورد"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "آنان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "نگه‌داری"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "سه"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روز"
+    }
+  ],
+  "timestamp": "2026-08-13T20:07:17.141769950Z",
+  "model": "glm-5.2"
+}

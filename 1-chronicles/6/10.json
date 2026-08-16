@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و پسرانِ اِلْقَنه: عَمَسای و اَحیموت.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "اِلْقَنه"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "عَمَسای"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "و اَحیموت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:35.528573798Z",
+  "model": "glm-5.2"
+}

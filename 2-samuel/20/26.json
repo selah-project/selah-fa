@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 20:26",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و همچنین عیرا یائیری برای داوود کاهن بود.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "و همچنین"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "عیرا"
+    },
+    {
+      "surface": "היארי",
+      "gloss": "یائیری"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "برای داوود"
+    }
+  ],
+  "timestamp": "2026-08-13T21:21:32.979026068Z",
+  "model": "glm-5.2"
+}

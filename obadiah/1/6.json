@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "obadiah 1:6",
+  "book": "obadiah",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "چگونه عیساو تفتیش شد! نهان‌گاه‌هایش ریشه کن شد!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "چگونه"
+    },
+    {
+      "surface": "נחפשו",
+      "gloss": "تفتیش شد"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیساو"
+    },
+    {
+      "surface": "נבעו",
+      "gloss": "ریشه کن شد"
+    },
+    {
+      "surface": "מצפניו",
+      "gloss": "نهان‌گاه‌هایش"
+    }
+  ],
+  "timestamp": "2026-08-15T04:19:51.355282308Z",
+  "model": "glm-5.3"
+}

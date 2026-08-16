@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "ezra 2:16",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "فرزندانِ اَتِر، از ⟨طایفهٔ⟩ حیزقیّا، نود و هشت.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "فرزندانِ"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "اَتِر"
+    },
+    {
+      "surface": "ליחזקיה",
+      "gloss": "از حیزقیّا"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "نود"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "و هشت"
+    }
+  ],
+  "timestamp": "2026-08-15T04:31:22.619865215Z",
+  "model": "glm-5.3"
+}

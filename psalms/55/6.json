@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 55,
+  "translation": "ترس و لرز ⟨بر⟩ من می‌آید، و وحشت ⟨مرا⟩ می‌پوشاند.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "ترس"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "و لرز"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "می‌آید"
+    },
+    {
+      "surface": "בי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "و می‌پوشاند ⟨مرا⟩"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "وحشت"
+    }
+  ],
+  "timestamp": "2026-08-13T22:44:30.024920074Z",
+  "model": "glm-5.2"
+}

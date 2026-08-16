@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 24:13",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "بخور، ای پسرِ من، عسل را، زیرا که نیکوست، و نَفَتِ شهدِ ⟨مستی⟩ شیرین است بر کامِ تو.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "بخور"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرِ من"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "عسل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا که"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیکوست"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "و نَفَتِ شهدِ"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "شیرین"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "کامِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:37.425235916Z",
+  "model": "glm-5.2"
+}

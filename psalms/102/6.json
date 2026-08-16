@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 102,
+  "translation": "از صدای ناله‌ام چسبید استخوانم به گوشتم.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "از صدایِ"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "ناله‌ام"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "چسبید"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "استخوانم"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "به گوشتم"
+    }
+  ],
+  "timestamp": "2026-08-13T22:51:41.814522095Z",
+  "model": "glm-5.2"
+}

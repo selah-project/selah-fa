@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و همهٔ بهیمه و غنیمتِ شهرها را برای خود غارت کردیم.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و همهٔ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "بهیمه"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "و غنیمتِ"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "شهرها"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "غارت کردیم"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "برای خود"
+    }
+  ],
+  "timestamp": "2026-08-13T20:43:44.590835083Z",
+  "model": "glm-5.2"
+}

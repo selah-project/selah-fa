@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "jeremiah 45:2",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 45,
+  "translation": "چنین گفت یاهوه، الوهیمِ ییسْرائیل، بر تو ای باروخ:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوهیمِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ییسْرائیل"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "بر تو"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "باروخ"
+    }
+  ],
+  "timestamp": "2026-08-15T04:14:16.858839761Z",
+  "model": "glm-5.3"
+}

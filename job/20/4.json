@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "آیا این را می‌دانی، از آنِ پیش — از آنِ هنگامِ نهادنِ آدم بر زمین؟",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "این را"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "می‌دانی"
+    },
+    {
+      "surface": "מני",
+      "gloss": "از"
+    },
+    {
+      "surface": "עד",
+      "gloss": "آنِ پیش —"
+    },
+    {
+      "surface": "מני",
+      "gloss": "از"
+    },
+    {
+      "surface": "שים",
+      "gloss": "هنگامِ نهادنِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T23:10:46.561207574Z",
+  "model": "glm-5.2"
+}

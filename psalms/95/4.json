@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 95,
+  "translation": "که در دستِ او ⟨هستند⟩ ژرف‌جاهای زمین، و قله‌های کوه‌ها نیز از آنِ او.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "در دستِ او"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "ژرف‌جاهای"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "و قله‌های"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "کوه‌ها"
+    },
+    {
+      "surface": "לו",
+      "gloss": "از آنِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T22:51:16.728735152Z",
+  "model": "glm-5.2"
+}

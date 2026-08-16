@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و ⟨بودند⟩ هر دوِ آن‌ها برهنه، هاآدام و زنش، و خجالت نکشیدند.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "و ⟨بودند⟩"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "هر دوِ آن‌ها"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "برهنه"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "هاآدام"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "و زنش"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "خجالت کشیدند"
+    }
+  ],
+  "timestamp": "2026-08-13T19:54:47.642965804Z",
+  "model": "glm-5.2"
+}

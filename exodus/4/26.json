@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 4:26",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و از او دست برداشت. آن‌گاه گفت: «دامادِ خون‌ها، به سببِ ختنه‌ها.»",
+  "tokens": [
+    {
+      "surface": "וירף",
+      "gloss": "و دست برداشت"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "از او"
+    },
+    {
+      "surface": "אז",
+      "gloss": "آن‌گاه"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "دامادِ"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "خون‌ها"
+    },
+    {
+      "surface": "למולת",
+      "gloss": "به سببِ ختنه‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T20:10:42.232155294Z",
+  "model": "glm-5.2"
+}

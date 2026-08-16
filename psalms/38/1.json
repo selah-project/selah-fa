@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 38,
+  "translation": "مزموری برای داوود، برای یادآوری.",
+  "tokens": [
+    {
+      "surface": "מִזְמוֹר",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "برای داوود"
+    },
+    {
+      "surface": "לְהַזְכִּיר",
+      "gloss": "برای یادآوری"
+    }
+  ],
+  "timestamp": "2026-08-13T22:42:41.314120114Z",
+  "model": "glm-5.2"
+}

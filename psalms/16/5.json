@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "یاهوه ⟨هست⟩ سهمِ بخشِ من و جامِ من؛ تو نگه‌می‌داری قرعهٔ من.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "سهمِ"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "بخشِ من"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "و جامِ من"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "نگه‌می‌داری"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "قرعهٔ من"
+    }
+  ],
+  "timestamp": "2026-08-13T22:38:54.523372656Z",
+  "model": "glm-5.2"
+}

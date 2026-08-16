@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 6:14",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "پسرانِ مِراری: مَحْلی، لِوْنی پسرش، شِمْعی پسرش، عُزّا پسرش،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مِراری"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "مَحْلی"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لِوْنی"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شِمْعی"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "عُزّا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:54.021206933Z",
+  "model": "glm-5.2"
+}

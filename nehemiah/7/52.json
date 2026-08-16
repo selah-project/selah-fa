@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "nehemiah 7:52",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "پسرانِ بِسای، پسرانِ مَعونیم، پسرانِ نَفوشِسیم،",
+  "tokens": [
+    {
+      "surface": "בְּנֵי",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "בֵסַ֥י",
+      "gloss": "بِسای"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "מְעוּנִ֖ים",
+      "gloss": "مَعونیم"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "נפושסים",
+      "gloss": "نَفوشِسیم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:32:58.540518811Z",
+  "model": "glm-5.2"
+}

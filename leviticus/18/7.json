@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "برهنه‌گیِ پدرت و برهنه‌گیِ مادرت را آشکار نکنی؛ او مادر توست — برهنه‌گیِ او را آشکار نکنی.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "برهنه‌گیِ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "پدرت"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "و برهنه‌گیِ"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "مادرت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "آشکار کنی"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "مادرت"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوست"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "آشکار کنی"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "برهنه‌گیِ او را"
+    }
+  ],
+  "timestamp": "2026-08-13T20:26:13.391898177Z",
+  "model": "glm-5.2"
+}

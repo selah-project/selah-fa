@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "بیگانه تو را بستاید و نه دهانِ تو، غریب و نه لبانِ تو.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "تو را بستاید"
+    },
+    {
+      "surface": "זר",
+      "gloss": "بیگانه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "دهانِ تو"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و مب"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "لبانِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T23:05:23.839160411Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 16:27",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "مردِ نابجا بدی را می‌کَنَد، و بر لبانش چون آتشِ افروز است.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "نابجا"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "می‌کَنَد"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "لبانش"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "چون آتش"
+    },
+    {
+      "surface": "צרבת",
+      "gloss": "افروز"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:35.806185166Z",
+  "model": "glm-5.2"
+}

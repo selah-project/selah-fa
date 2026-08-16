@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 25:3",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و یِسرائیل به بَعَل فِعور بست، و خشمِ یاهوه بر یِسرائیل افروخت.",
+  "tokens": [
+    {
+      "surface": "ויצמד",
+      "gloss": "و بست"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "به بَعَل"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "فِعور"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "و افروخت"
+    },
+    {
+      "surface": "אף",
+      "gloss": "خشمِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "بر یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-13T20:38:38.663399188Z",
+  "model": "glm-5.2"
+}

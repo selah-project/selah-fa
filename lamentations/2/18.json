@@ -1,0 +1,93 @@
+{
+  "tier": "4.6",
+  "verse": 18,
+  "ref": "lamentations 2:18",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "دل ایشان به سوی اَدونای فریاد برآسد؛ ای دیوارِ دخترِ تسیون، چون نهر اشک را فرو فرست، روز و شب؛ به خود آسایش مده، دخترِ چشم خود را ساکت مکن.",
+  "tokens": [
+    {
+      "surface": "צעק",
+      "gloss": "فریاد برآسد"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "دل ایشان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ای دیوار"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دختر"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "تسیون"
+    },
+    {
+      "surface": "הורידי",
+      "gloss": "فرو فرست"
+    },
+    {
+      "surface": "כנחל",
+      "gloss": "چون نهر"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "اشک"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "روز"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "و شب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مکن"
+    },
+    {
+      "surface": "תתני",
+      "gloss": "دهی"
+    },
+    {
+      "surface": "פוגת",
+      "gloss": "آسایش"
+    },
+    {
+      "surface": "לך",
+      "gloss": "به خود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مکن"
+    },
+    {
+      "surface": "תדם",
+      "gloss": "ساکت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دختر"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "چشم خود"
+    }
+  ],
+  "timestamp": "2026-08-15T04:31:03.059894453Z",
+  "model": "glm-4.6"
+}

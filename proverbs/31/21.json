@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 31:21",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "نمى‌ترسد خانهٔ او از برف، زیرا تمام خانهٔ او پوشیده‌اند سرخ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "مى‌ترسد"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "خانهٔ او"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "از برف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "خانهٔ او"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "پوشیده‌اند"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سرخ"
+    }
+  ],
+  "timestamp": "2026-08-13T23:06:09.974103728Z",
+  "model": "glm-5.2"
+}

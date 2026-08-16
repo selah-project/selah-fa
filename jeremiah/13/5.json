@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "پس رفتم و آن را در پْرات پنهان کردم، چنان‌که یاهوه به من فرمود.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "و رفتم"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "و پنهانش کردم"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "در پْرات"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چنان‌که"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فرمود"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ مرا"
+    }
+  ],
+  "timestamp": "2026-08-14T00:06:24.732884983Z",
+  "model": "glm-5.2"
+}

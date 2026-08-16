@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "نفرین‌باد ⟨او⟩ که با خواهرِ خود می‌خوابد، دخترِ پدرِ خود یا دخترِ مادرِ خود، و تمامِ قوم بگویند: آمین.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "نفرین‌باد"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "می‌خوابد"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "خواهرِ خود"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دخترِ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پدرِ خود"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دخترِ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "مادرِ خود"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و بگویند"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمین"
+    }
+  ],
+  "timestamp": "2026-08-13T20:51:12.380071835Z",
+  "model": "glm-5.2"
+}

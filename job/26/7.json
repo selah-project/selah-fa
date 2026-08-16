@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "job 26:7",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "شمال را بر پوچی می‌گسترَد، زمین را بر هیچ‌چیز آویزان می‌کند.",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "می‌گسترَد"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "شمال"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "پوچی"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "آویزان می‌کند"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بدونِ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "هیچ‌چیز"
+    }
+  ],
+  "timestamp": "2026-08-15T04:28:43.503108266Z",
+  "model": "glm-5.3"
+}

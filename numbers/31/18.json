@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 31:18",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و هر طفل را از زنان که خوابیدنِ نَر را نشناخته‌اند، برای خود زنده نگه دارید.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "طفل"
+    },
+    {
+      "surface": "בנשים",
+      "gloss": "از زنان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "شناخته‌اند"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "خوابیدن"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نَر"
+    },
+    {
+      "surface": "החיו",
+      "gloss": "زنده نگه دارید"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "برای خود"
+    }
+  ],
+  "timestamp": "2026-08-13T20:41:22.369416683Z",
+  "model": "glm-5.2"
+}

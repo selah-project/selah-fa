@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 15:5",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و ⟨مردی⟩ که بسترِ او را لمس کند، لباس‌هایش را بشوید و در آب غسل کند و نجس باشد تا غروب.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "و ⟨مردی⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "لمس کند"
+    },
+    {
+      "surface": "במשכבו",
+      "gloss": "بسترِ او را"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "بشوید"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "لباس‌هایش را"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "و غسل کند"
+    },
+    {
+      "surface": "במים",
+      "gloss": "در آب"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "و نجس باشد"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "غروب"
+    }
+  ],
+  "timestamp": "2026-08-13T20:26:12.696334289Z",
+  "model": "glm-5.2"
+}

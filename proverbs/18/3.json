@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "در آمدنِ شریر، می‌آید همچنین بی‌آبرویی، و با ننگ، رسوایی.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "در آمدنِ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شریر"
+    },
+    {
+      "surface": "בא",
+      "gloss": "می‌آید"
+    },
+    {
+      "surface": "גם",
+      "gloss": "همچنین"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "بی‌آبرویی"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "و با"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "ننگ"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "رسوایی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:00.178962543Z",
+  "model": "glm-5.2"
+}

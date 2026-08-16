@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 10:4",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "پَشْحور، اَمَر‌یا، مَلْکی‌یا،",
+  "tokens": [
+    {
+      "surface": "פשחור",
+      "gloss": "پَشْحور"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "اَمَر‌یا"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "مَلْکی‌یا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:33:18.131156469Z",
+  "model": "glm-5.2"
+}

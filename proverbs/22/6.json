@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "نوجوان را بر دهانِ راهِ او تربیت کن؛ حتی چون پیر شود، از آن روی برنمی‌گردد.",
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "تربیت کن"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "نوجوان را"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دهانِ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "راهِ او"
+    },
+    {
+      "surface": "גם",
+      "gloss": "حتی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "پیر شود"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "روی برمی‌گردد"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "از آن"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:03.015734766Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 6:6",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "به‌سوی مورچه برو، ای تنبل؛ راه‌هایش را ببین و خردمند باش.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "برو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به‌سوی"
+    },
+    {
+      "surface": "נמלה",
+      "gloss": "مورچه"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ای تنبل"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ببین"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "راه‌هایش"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "و خردمند باش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:00:18.146416301Z",
+  "model": "glm-5.2"
+}

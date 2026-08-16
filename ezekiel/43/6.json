@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 43:6",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 43,
+  "translation": "و شنیدم صدایِ یکی را که با من سخن ⟨می‌گفت⟩، از خانه، و مردی ایستاده ⟨بود⟩ کنارِ من.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "و شنیدم"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "سخن‌گفتنِ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "با من"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "از خانه"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "و مردی"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ایستاده"
+    },
+    {
+      "surface": "אצלי",
+      "gloss": "کنارِ من"
+    }
+  ],
+  "timestamp": "2026-08-14T00:08:54.575294207Z",
+  "model": "glm-5.2"
+}

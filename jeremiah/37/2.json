@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 37:2",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "و او نبود شنونده، و بنده‌گانش، و قوم زمین، به سخنان یاهوه که به دست یِرْمِیاهو پیامبر سخن گفته بود.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "شنید"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "و بنده‌گانش"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "و قوم"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "سخنانِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخن گفت"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "به دست"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرْمِیاهو"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "پیامبر"
+    }
+  ],
+  "timestamp": "2026-08-13T22:06:53.489178464Z",
+  "model": "glm-5.2"
+}

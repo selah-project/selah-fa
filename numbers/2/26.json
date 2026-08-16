@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 2:26",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و سپاهِ او و شمارگانِشان شصت‌ویكدهزار و هفتصد است.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "و سپاهِ او"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "و شمارگانِشان"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "و شصت"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "و هفت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:31:22.196864371Z",
+  "model": "glm-5.2"
+}

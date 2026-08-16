@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و کَنَعان زاد ⟨את⟩ تزیدون بُکرَش و ⟨את⟩ حِتّ را.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "و کَنَعان"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تزیدون"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "تزیدون"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "بُکرَش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "حِتّ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "حِتّ"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:58.857292852Z",
+  "model": "glm-5.2"
+}

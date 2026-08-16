@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 2:14",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "آنان که از کردنِ بدی شاد می‌شوند، در کج‌روی‌هایِ بدی می‌خرامند،",
+  "tokens": [
+    {
+      "surface": "השמחים",
+      "gloss": "شادکنندگانِ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "برای کردنِ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "می‌خرامند"
+    },
+    {
+      "surface": "בתהפכות",
+      "gloss": "در کج‌روی‌هایِ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بدی"
+    }
+  ],
+  "timestamp": "2026-08-14T00:13:44.745972500Z",
+  "model": "glm-5.2"
+}

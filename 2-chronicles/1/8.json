@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 1:8",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و شلومو به الوهیم گفت: تو با داوود پدرم وفای بزرگ کردی، و مرا به جای او پادشاه کردی.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "به الوهیم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "کردی"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پدرم"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "وفای"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "והמלכתני",
+      "gloss": "و مرا پادشاه کردی"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "به جای او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:42:59.475836143Z",
+  "model": "glm-5.2"
+}

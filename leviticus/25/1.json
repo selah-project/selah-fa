@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و یاهوه با موشه در کوهِ سینا سخن گفت، به‌قولِ:",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֤ר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "با"
+    },
+    {
+      "surface": "מֹשֶׁ֔ה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "בְּהַ֥ר",
+      "gloss": "در کوهِ"
+    },
+    {
+      "surface": "סִינַ֖י",
+      "gloss": "سینا"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "به‌قولِ"
+    }
+  ],
+  "timestamp": "2026-08-13T20:29:40.730642884Z",
+  "model": "glm-5.2"
+}

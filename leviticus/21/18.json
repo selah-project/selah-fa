@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 21:18",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "زیرا هر مردی که در او نقصی باشد، نزدیک نشود: مردی کور، یا لنگ، یا فرورفته، یا برآمدگیِ زیاد",
+  "tokens": [
+    {
+      "surface": "כִּ֥י",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "אִ֛ישׁ",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "که"
+    },
+    {
+      "surface": "בּ֥וֹ",
+      "gloss": "در او"
+    },
+    {
+      "surface": "מ֖וּם",
+      "gloss": "نقصی"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יִקְרָ֑ב",
+      "gloss": "نزدیک شود"
+    },
+    {
+      "surface": "אִ֤ישׁ",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "עִוֵּר֙",
+      "gloss": "کور"
+    },
+    {
+      "surface": "א֣וֹ",
+      "gloss": "یا"
+    },
+    {
+      "surface": "פִסֵּ֔חַ",
+      "gloss": "لنگ"
+    },
+    {
+      "surface": "א֥וֹ",
+      "gloss": "یا"
+    },
+    {
+      "surface": "חָרֻ֖ם",
+      "gloss": "فرورفته"
+    },
+    {
+      "surface": "א֥וֹ",
+      "gloss": "یا"
+    },
+    {
+      "surface": "שָׂרֽוּעַ",
+      "gloss": "برآمدگیِ زیاد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:27:55.572411944Z",
+  "model": "glm-5.2"
+}

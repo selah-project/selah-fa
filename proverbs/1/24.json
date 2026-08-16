@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 1:24",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "زیرا صدا زدم و نپذیرفتید؛ دستِ خود را دراز کردم و هیچ‌کس گوش نداد.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "صدا زدم"
+    },
+    {
+      "surface": "ותמאנו",
+      "gloss": "و نپذیرفتید"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "دراز کردم"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "دستِ خود را"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و هیچ‌کس"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "گوش نداد"
+    }
+  ],
+  "timestamp": "2026-08-13T22:59:09.107178343Z",
+  "model": "glm-5.2"
+}

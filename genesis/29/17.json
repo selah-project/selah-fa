@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 29:17",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و چشمانِ لِئه نَرم بودند، و راحِل زیبایِ قامت و زیبایِ چهره بود.",
+  "tokens": [
+    {
+      "surface": "ועיני",
+      "gloss": "و چشمانِ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لِئه"
+    },
+    {
+      "surface": "רכות",
+      "gloss": "نَرم"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "و راحِل"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "زیبایِ"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "قامت"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "و زیبایِ"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "چهره"
+    }
+  ],
+  "timestamp": "2026-08-13T23:53:17.684114207Z",
+  "model": "glm-5.2"
+}

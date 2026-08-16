@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "چون روزانه و شبانه دستت بر من سنگین بود، شورِ من به خشکیِ تابستان دگرگون شد. سلآ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "روزانه"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "و شبانه"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "سنگین بود"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "دستت"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "دگرگون شد"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "شورِ من"
+    },
+    {
+      "surface": "בחרبני",
+      "gloss": "به خشکیِ"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "تابستان"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلآ"
+    }
+  ],
+  "timestamp": "2026-08-13T22:41:57.460563439Z",
+  "model": "glm-5.2"
+}

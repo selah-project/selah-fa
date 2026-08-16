@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 20:27",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و موشه کرد چنانکه یاهوه فرمود بود، و به کوهِ هور صعود کردند، در برابرِ چشمانِ تمامِ ادات.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و کرد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چنانکه"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فرمود بود"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "و صعود کردند"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کوهِ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "هور"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "در برابرِ چشمانِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ادات"
+    }
+  ],
+  "timestamp": "2026-08-13T20:37:20.877112377Z",
+  "model": "glm-5.2"
+}

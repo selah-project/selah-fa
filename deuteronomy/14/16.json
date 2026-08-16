@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "⟨את⟩ جغدِ کوچک و ⟨את⟩ جغدِ بزرگ و باغَوَز",
+  "tokens": [
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "جغدِ کوچک"
+    },
+    {
+      "surface": "הַכּוֹס",
+      "gloss": "جغدِ کوچک"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "جغدِ بزرگ"
+    },
+    {
+      "surface": "הַיַּנְשׁוּף",
+      "gloss": "جغدِ بزرگ"
+    },
+    {
+      "surface": "וְהַתִּנְשָׁמֶת",
+      "gloss": "و باغَوَز"
+    }
+  ],
+  "timestamp": "2026-08-13T20:46:53.902018256Z",
+  "model": "glm-5.2"
+}

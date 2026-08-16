@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "برخیز، ای یاهوه! نه غالب شود انسان؛ داوری شوند امت‌ها بر رویِ تو.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "برخیز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ای یاهوه!"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "غالب شود"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "داوری شوند"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "امت‌ها"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "رویِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:38:30.467567309Z",
+  "model": "glm-5.2"
+}

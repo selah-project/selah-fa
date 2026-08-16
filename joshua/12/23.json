@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 12:23",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "پادشاهِ دور، به نافاتِ دور، یکی؛ پادشاهِ گوییم، به گیلگال، یکی؛",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "دور"
+    },
+    {
+      "surface": "לנפת",
+      "gloss": "به نافاتِ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "دور"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "گوییم"
+    },
+    {
+      "surface": "לגלגל",
+      "gloss": "به گیلگال"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:56:38.942546966Z",
+  "model": "glm-5.2"
+}

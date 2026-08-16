@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "proverbs 7:17",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "بخور دادم به بسترِ خودم را — مُرّ، عودِ آهالیم، و دارچین.",
+  "tokens": [
+    {
+      "surface": "נפתי",
+      "gloss": "بخور دادم"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "بسترِ خودم"
+    },
+    {
+      "surface": "מר",
+      "gloss": "مُرّ"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "عُودِ آهالیم"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "و دارچین"
+    }
+  ],
+  "timestamp": "2026-08-15T04:26:37.659224110Z",
+  "model": "glm-5.3"
+}

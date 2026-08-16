@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 37:15",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "و حَزَقیَهو به یاهه دعا کرد، به‌قولِ:",
+  "tokens": [
+    {
+      "surface": "וַיִּתְפַּלֵּל",
+      "gloss": "و دعا کرد"
+    },
+    {
+      "surface": "חִזְקִיָּהוּ",
+      "gloss": "حَزَقیَهو"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "به"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "به‌قولِ"
+    }
+  ],
+  "timestamp": "2026-08-13T21:48:47.813955312Z",
+  "model": "glm-5.2"
+}

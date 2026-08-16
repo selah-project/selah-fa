@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و از زیستن متنفّر شدم، زیرا بر من سخت است کاری که زیر خورشید انجام شده، زیرا همه هِبَل و رنجِ روح است.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "و متنفّر شدم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زیستن"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "از زیستن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "רע",
+      "gloss": "سخت"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "کاری"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "که انجام شده"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "زیر"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "خورشید"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "همه"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هِبَل"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "و رنج"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    }
+  ],
+  "timestamp": "2026-08-14T00:15:43.291264931Z",
+  "model": "glm-5.2"
+}

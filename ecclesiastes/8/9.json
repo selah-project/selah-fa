@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 8:9",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "⟨את⟩ همهٔ این را دیدم، و دادم ⟨את⟩ دل خودم به هر کاری که زیر خورشید انجام می‌شود، زمانی که انسان بر انسان حکم می‌راند به زیانِ او.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همهٔ این"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "دیدم"
+    },
+    {
+      "surface": "ונתון",
+      "gloss": "و دادم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دل خودم"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دلِ خودم"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "به هر"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کاری"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "انجام می‌شود"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "زیر"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "خورشید"
+    },
+    {
+      "surface": "עת",
+      "gloss": "زمانی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "שלט",
+      "gloss": "حکم می‌راند"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "بر انسان"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "به زیان"
+    },
+    {
+      "surface": "לו",
+      "gloss": "او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:34.893214892Z",
+  "model": "glm-5.2"
+}

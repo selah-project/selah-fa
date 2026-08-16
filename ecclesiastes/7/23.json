@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 7:23",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "همهٔ این را در حکمت آزمودم؛ گفتم: «حکیم خواهم شد»، و او دور است از من.",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "זֹ֖ה",
+      "gloss": "این"
+    },
+    {
+      "surface": "נִסִּ֣יתִי",
+      "gloss": "آزمودم"
+    },
+    {
+      "surface": "בַֽחָכְמָ֑ה",
+      "gloss": "در حکمت"
+    },
+    {
+      "surface": "אָמַ֣רְתִּי",
+      "gloss": "گفتم"
+    },
+    {
+      "surface": "אֶחְכָּ֔מָה",
+      "gloss": "حکیم خواهم شد"
+    },
+    {
+      "surface": "וְהִ֖יא",
+      "gloss": "و او"
+    },
+    {
+      "surface": "רְחוֹקָ֥ה",
+      "gloss": "دور"
+    },
+    {
+      "surface": "מִמֶּֽנִּי",
+      "gloss": "از من"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:51.637564480Z",
+  "model": "glm-5.2"
+}

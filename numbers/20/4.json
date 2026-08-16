@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و چرا آوردید ⟨את⟩ قهَل یاهوه را به این میدبار، برای مُردن آنجا، ما و بهیمهٔ ما؟",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "و چرا"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "آوردید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قهل"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "قهَل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "میدبار"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "למות",
+      "gloss": "برای مُردن"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آنجا"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ما"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "و بهیمهٔ ما"
+    }
+  ],
+  "timestamp": "2026-08-13T20:37:35.130796725Z",
+  "model": "glm-5.2"
+}

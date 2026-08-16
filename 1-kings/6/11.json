@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 6:11",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و شد کلامِ یاهوه به شُلومو، به این سخن:",
+  "tokens": [
+    {
+      "surface": "וַֽיְהִי֙",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "דְּבַר",
+      "gloss": "کلامِ"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "به"
+    },
+    {
+      "surface": "שְׁלֹמֹ֖ה",
+      "gloss": "شُلومو"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "به این سخن"
+    }
+  ],
+  "timestamp": "2026-08-13T21:25:50.298836379Z",
+  "model": "glm-5.2"
+}

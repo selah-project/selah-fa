@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "هَبَل هَبَلیم، گفت قوهِلِت؛ هَبَل هَبَلیم، همگی هَبَل است.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "هَبَل"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "هَبَلیم"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "قوهِلِت"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هَبَل"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "هَبَلیم"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "همگی"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هَبَل"
+    }
+  ],
+  "timestamp": "2026-08-13T23:19:46.323783273Z",
+  "model": "glm-5.2"
+}

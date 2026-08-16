@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 11:17",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و زیست عِوِر، پس از آنکه او ⟨את⟩ پَلِگ را زاد، سی سال و چهارصد سال، و پسران و دختران زاد.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "و زیست"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عِوِر"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پس از"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "آنکه او زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پَلِگ"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "پَلِگ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "و چهار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و زاد"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پسران"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "و دختران"
+    }
+  ],
+  "timestamp": "2026-08-13T19:57:33.817997168Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 6:5",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "برخیزید و برون بریم در شب و ویران کنیم قلعه‌هایش را.",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "برخیزید"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "و برون بریم"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "در شب"
+    },
+    {
+      "surface": "ונשחיתה",
+      "gloss": "و ویران کنیم"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "قلعه‌هایش را"
+    }
+  ],
+  "timestamp": "2026-08-13T21:57:08.205986798Z",
+  "model": "glm-5.2"
+}

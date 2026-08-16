@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "proverbs 16:1",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "برای انسان است آرایش‌های دل، و از یاهوه است پاسخِ زبان.",
+  "tokens": [
+    {
+      "surface": "לאדם",
+      "gloss": "برای انسان"
+    },
+    {
+      "surface": "מערכי",
+      "gloss": "آرایش‌ها"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "و از یاهوه"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "پاسخ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    }
+  ],
+  "timestamp": "2026-08-15T04:27:40.211459680Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 9:16",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "چنین بود همواره؛ ابر آن را می‌پوشانید و منظرِ آتش در شب.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "همواره"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ابر"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "آن را می‌پوشانید"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "و منظرِ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آتش"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "در شب"
+    }
+  ],
+  "timestamp": "2026-08-13T20:34:05.427458869Z",
+  "model": "glm-5.2"
+}

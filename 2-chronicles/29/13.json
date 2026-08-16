@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 29:13",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و از پسران اَلیتسافان: شیمری و یوعئیل، و از پسران آساف: زکریاهو و مَتَنیاهو.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "و از"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "اَلیتسافان"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "شیمری"
+    },
+    {
+      "surface": "ויעואל",
+      "gloss": "و یوعئیل"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "و از"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "آساف"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "زکریاهو"
+    },
+    {
+      "surface": "ומתניהו",
+      "gloss": "و مَتَنیاهو"
+    }
+  ],
+  "timestamp": "2026-08-13T23:50:13.812844973Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "job 9:35",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "سخن بگویم، و او را نهراسم، چونک⟨ه⟩ چنین نیستم من با خودم.",
+  "tokens": [
+    {
+      "surface": "אדברה",
+      "gloss": "سخن بگویم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نـ"
+    },
+    {
+      "surface": "איראנו",
+      "gloss": "هراسم او را"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نـ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "با خودم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:08:15.889186274Z",
+  "model": "glm-5.2"
+}

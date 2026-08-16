@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "برکات‌دار باشی از همهٔ مردمان؛ در تو نازا و نازایی نخواهد بود و در بهایمت ⟨نیز⟩.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "برکات‌دار"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "باشی"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "از همهٔ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "مردمان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "خواهد بود"
+    },
+    {
+      "surface": "בך",
+      "gloss": "در تو"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "نازا (مرد)"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "و نازایی (زن)"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "و در بهایمت"
+    }
+  ],
+  "timestamp": "2026-08-13T20:45:54.996701583Z",
+  "model": "glm-5.2"
+}

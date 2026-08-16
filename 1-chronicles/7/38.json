@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 7:38",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و پسرانِ یِتِر: یِفُنّه و پیسپا و اَرعا.",
+  "tokens": [
+    {
+      "surface": "וּבְנֵ֖י",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "יֶ֑תֶר",
+      "gloss": "یِتِر"
+    },
+    {
+      "surface": "יְפֻנֶּ֥ה",
+      "gloss": "یِفُنّه"
+    },
+    {
+      "surface": "וּפִסְפָּ֖ה",
+      "gloss": "و پیسپا"
+    },
+    {
+      "surface": "וַאְרָֽא",
+      "gloss": "و اَرعا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:25.484553225Z",
+  "model": "glm-5.2"
+}

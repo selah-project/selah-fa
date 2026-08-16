@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 1:30",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "نپذیرفتند مشورتِ مرا، تحقیر کردند هر توبیخِ مرا.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "نپذیرفتند"
+    },
+    {
+      "surface": "לעצתי",
+      "gloss": "مشورتِ مرا"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "تحقیر کردند"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر\/تمام"
+    },
+    {
+      "surface": "תוכחתי",
+      "gloss": "توبیخِ مرا"
+    }
+  ],
+  "timestamp": "2026-08-13T22:59:21.620983273Z",
+  "model": "glm-5.2"
+}

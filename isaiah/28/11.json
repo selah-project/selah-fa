@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 28:11",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "که با لبه‌های مسخره و زبانی دیگر ⟨آن⟩ خواهد بداشت به این قوم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "בלעגי",
+      "gloss": "با لبه‌های مسخره"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "لب"
+    },
+    {
+      "surface": "ובלשון",
+      "gloss": "و زبانی"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "دیگر"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "خواهد بداشت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    }
+  ],
+  "timestamp": "2026-08-14T00:04:08.826089561Z",
+  "model": "glm-5.2"
+}

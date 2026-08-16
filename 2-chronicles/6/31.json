@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-chronicles 6:31",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "تا از تو بترسند، تا در راه‌هایت بروند تمام روزهایی که بر روی زمینی که به پدرانِ ما دادی زنده‌اند،",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "تا"
+    },
+    {
+      "surface": "ייראוך",
+      "gloss": "از تو بترسند"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "تا بروند"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "در راه‌هایت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "روزهایی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "הם",
+      "gloss": "آن‌ها"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زنده‌اند"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رویِ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمینی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "دادی"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "به پدرانِ ما"
+    }
+  ],
+  "timestamp": "2026-08-13T23:44:24.945546042Z",
+  "model": "glm-5.2"
+}

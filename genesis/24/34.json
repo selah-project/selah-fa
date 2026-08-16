@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و ⟨او⟩ گفت: بندهٔ اَوراهام هستم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "بندهٔ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراهام"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "هستم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:53:32.414255131Z",
+  "model": "glm-5.2"
+}

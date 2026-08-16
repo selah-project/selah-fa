@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 25:24",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "خوب است نشستن بر کنارِ بام، از زنِ ناسازگر و خانۀ شرکت.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "خوب"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "نشستن"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "کنار"
+    },
+    {
+      "surface": "גג",
+      "gloss": "بام"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "از زنِ"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "ناسازگر"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "و خانۀ"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "شرکت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:47.316904946Z",
+  "model": "glm-5.2"
+}

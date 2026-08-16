@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "exodus 26:21",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "و چهل پایهٔ آنان از نقره؛ دو پایه زیر تختهٔ ⟨یکی⟩ و دو پایه زیر تختهٔ ⟨یکی⟩.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "و چهل"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "پایه‌های آنان"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "نقره"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "پایه‌ها"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "زیر"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "تختهٔ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "⟨یکی⟩"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "و دو"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "پایه‌ها"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "زیر"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "تختهٔ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "⟨یکی⟩"
+    }
+  ],
+  "timestamp": "2026-08-15T17:34:51.358831691Z",
+  "model": "glm-5.3"
+}

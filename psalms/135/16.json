@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 135,
+  "translation": "دهانی دارند، و سخن نمی‌گویند؛ چشمانی دارند، و نمی‌بینند.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "دهان"
+    },
+    {
+      "surface": "لהם",
+      "gloss": "برای آنان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "خواهند گفت"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "چشم‌ها"
+    },
+    {
+      "surface": "להם",
+      "gloss": "برای آنان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "می‌بینند"
+    }
+  ],
+  "timestamp": "2026-08-13T22:57:11.247336864Z",
+  "model": "glm-5.2"
+}

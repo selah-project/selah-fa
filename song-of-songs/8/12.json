@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 8:12",
+  "book": "song-of-songs",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "کرمِ منِ خودم پیشِ من است؛ هزار از آنِ تو است، ای شلومه، و دویست برای نگهبانان ⟨את⟩ میوهٔ آن.",
+  "tokens": [
+    {
+      "surface": "כרמי",
+      "gloss": "کرمِ من"
+    },
+    {
+      "surface": "שלי",
+      "gloss": "خودم"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشِ"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "לך",
+      "gloss": "از آنِ تو است"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ای شلومه"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "و دویست"
+    },
+    {
+      "surface": "לנטרים",
+      "gloss": "برای نگهبانان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میوهٔ آن"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "میوهٔ آن"
+    }
+  ],
+  "timestamp": "2026-08-13T23:16:40.646365821Z",
+  "model": "glm-5.2"
+}

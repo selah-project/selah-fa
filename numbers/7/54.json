@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "numbers 7:54",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "در روزِ هشتم، نَسیبِ پسرانِ مَنَشه، گَمَلی‌اِل پسر پِدَه‌تسور.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "در روز"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "هشتم"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "نَسیب"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "برای پسرانِ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مَنَشه"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "گَمَلی‌اِل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "پِدَه"
+    },
+    {
+      "surface": "צור",
+      "gloss": "تسور"
+    }
+  ],
+  "timestamp": "2026-08-13T20:32:41.762783915Z",
+  "model": "glm-5.2"
+}

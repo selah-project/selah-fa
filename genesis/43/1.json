@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 43,
+  "translation": "و قحت در زمین سنگین بود.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "و قحتی"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "سنگین"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "در زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T20:07:17.646887121Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 14:4",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و گفتند مردی به برادرِ خود: بگذارید سرِ و بازگردیم به مِصرییم.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "و گفتند"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برادرِ خود"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "بگذارید"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سرِ"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "و بازگردیم"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "به مِصرییم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:35:12.110852215Z",
+  "model": "glm-5.2"
+}

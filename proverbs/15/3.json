@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "در همه‌جا چشم‌های یاهوه ⟨هست⟩، نگهبانِ بدان و نیکان را.",
+  "tokens": [
+    {
+      "surface": "בְּֽכָל",
+      "gloss": "در همه‌"
+    },
+    {
+      "surface": "מָ֭קוֹם",
+      "gloss": "جا"
+    },
+    {
+      "surface": "עֵינֵ֣י",
+      "gloss": "چشم‌های"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "צֹ֝פ֗וֹת",
+      "gloss": "نگهبانِ"
+    },
+    {
+      "surface": "רָעִ֥ים",
+      "gloss": "بدان"
+    },
+    {
+      "surface": "וְטוֹבִֽים",
+      "gloss": "و نیکان را"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:43.835018824Z",
+  "model": "glm-5.2"
+}

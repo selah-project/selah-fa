@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و چيره شد آب‌ها بر زمين، پنجاه و صد روز.",
+  "tokens": [
+    {
+      "surface": "וַיִּגְבְּר֥וּ",
+      "gloss": "و چيره شد"
+    },
+    {
+      "surface": "הַמַּ֖יִם",
+      "gloss": "آب‌ها"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "חֲמִשִּׁ֥ים",
+      "gloss": "پنجاه"
+    },
+    {
+      "surface": "וּמְאַ֖ת",
+      "gloss": "و صد"
+    },
+    {
+      "surface": "יֽוֹם",
+      "gloss": "روز"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:47.427841686Z",
+  "model": "glm-5.2"
+}

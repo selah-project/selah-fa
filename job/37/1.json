@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 37:1",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "حتی بر این ⟨هم⟩ دلِ من می‌لرزد و از جایگاهش می‌جهد.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "حتی"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "بر این"
+    },
+    {
+      "surface": "יחרד",
+      "gloss": "می‌لرزد"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دلِ من"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "و می‌جهد"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "از جایگاهش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:13:57.041907704Z",
+  "model": "glm-5.2"
+}

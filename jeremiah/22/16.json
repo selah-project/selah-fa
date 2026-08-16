@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 22:16",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "دادِ نیازمند و بینوا را داوی كرد — آن‌گاه نیكو بود. آیا این همان شناختِ من نیست؟ نِعوم یاهوه.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "داوی کرد"
+    },
+    {
+      "surface": "דין",
+      "gloss": "دادِ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "نیازمند"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "و بینوا را"
+    },
+    {
+      "surface": "אז",
+      "gloss": "آن‌گاه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیکو"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اوست"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "شناختِ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "من"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نعوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:01:18.140725568Z",
+  "model": "glm-5.2"
+}

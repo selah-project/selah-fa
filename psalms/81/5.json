@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 81,
+  "translation": "که فریضه‌ای برای ییسْرائیل ⟨است⟩، داوری برای الوهیمِ یاعکوو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "חק",
+      "gloss": "فریضه‌ای"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "برای ییسْرائیل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او ⟨است⟩"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "داوری"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "برای الوهیمِ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعکوو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:49:21.024034549Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 35:9",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "و سنگ‌های شوهام و سنگ‌های نشاندن، برای اِفود و برای حوشن",
+  "tokens": [
+    {
+      "surface": "ואבני",
+      "gloss": "و سنگ‌های"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "شوهام"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "و سنگ‌های"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "نشاندن"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "برای اِفود"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "و برای حوشن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:20:02.731978631Z",
+  "model": "glm-5.2"
+}

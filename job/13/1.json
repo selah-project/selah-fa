@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 13:1",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "اینک همه را چشمِ من دید، گوشِ من شنید، و ⟨آن را⟩ فهمید.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همه"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "دید"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "چشمِ من"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "شنید"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "گوشِ من"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "و فهمید"
+    },
+    {
+      "surface": "לה",
+      "gloss": "برای آن"
+    }
+  ],
+  "timestamp": "2026-08-13T23:08:58.000481004Z",
+  "model": "glm-5.2"
+}

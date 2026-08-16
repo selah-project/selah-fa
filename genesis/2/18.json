@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 2:18",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و یاهوه الوهیم گفت: «خوب نیست که آدم تنها باشد؛ یاری برایش سازم در برابرش.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خوب"
+    },
+    {
+      "surface": "היות",
+      "gloss": "بودنِ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "تنها"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "می‌سازم"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برایش"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "یاری"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "در برابرش"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:01.090699293Z",
+  "model": "glm-5.2"
+}

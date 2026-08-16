@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "ذبح کنید ذبح‌هایِ داد را، و توکّل کنید به سوی یاهوه.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "ذبح کنید"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ذبح‌هایِ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "داد"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "و توکّل کنید"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:37:30.387648176Z",
+  "model": "glm-5.2"
+}

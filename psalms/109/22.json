@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 109,
+  "translation": "زیرا فقیر و نیازمند ⟨هستم⟩، من، و دلم در درونم زخمی است.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "עני",
+      "gloss": "فقیر"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "و نیازمند"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "و دلم"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "زخمی است"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "در درونم"
+    }
+  ],
+  "timestamp": "2026-08-13T22:53:49.128765681Z",
+  "model": "glm-5.2"
+}

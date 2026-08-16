@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "آنکه مراقبِ باد است نمی‌کارد، و آنکه به ابرها می‌نگرد درو نمی‌کند.",
+  "tokens": [
+    {
+      "surface": "שֹׁמֵ֥ר",
+      "gloss": "آنکه مراقبِ … است"
+    },
+    {
+      "surface": "ר֖וּחַ",
+      "gloss": "باد"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יִזְרָ֑ע",
+      "gloss": "می‌کارد"
+    },
+    {
+      "surface": "וְרֹאֶ֥ה",
+      "gloss": "و آنکه می‌نگرد به"
+    },
+    {
+      "surface": "בֶעָבִ֖ים",
+      "gloss": "ابرها"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יִקְצֽוֹר",
+      "gloss": "درو می‌کند"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:11.564200213Z",
+  "model": "glm-5.2"
+}

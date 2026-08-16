@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "nehemiah 7:38",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "پسرانِ سَنآه، سه‌هزار و نه‌صد و سی.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "سَنآه"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "سه"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "و سی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:33:08.637087720Z",
+  "model": "glm-5.2"
+}

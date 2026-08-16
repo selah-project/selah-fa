@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و گفت پادشاهِ مِتسراییم به ماماهایِ عبری، که نامِ یکی شیفره و نامِ دومی پوعه،",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسراییم"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "به ماماهایِ"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "عبری"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نامِ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "شیفره"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "و نامِ"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "دومی"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "پوعه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:54:17.425783951Z",
+  "model": "glm-5.2"
+}

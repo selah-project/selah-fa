@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 5:4",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "سی ساله داوود در پادشاهیِ او، چهل سال پادشاهی کرد.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "سی ساله"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "در پادشاهیِ او"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چهل"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهی کرد"
+    }
+  ],
+  "timestamp": "2026-08-13T21:18:09.088764463Z",
+  "model": "glm-5.2"
+}

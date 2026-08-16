@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "پسرانِ لَعْدان: سر یِحی‌اِل، و زِیتام، و یو‌اِل — سه.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "لَعْدان"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "یِحی‌اِل"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "و زِیتام"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "و یو‌اِل"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:18.144073292Z",
+  "model": "glm-5.2"
+}

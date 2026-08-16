@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و اِلیشع به خانه آمد، و اینک پسر مرده، درازکشیده بر تختِ خود.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "و آمد"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "اِلیشع"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "به خانه"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مرده"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "درازکشیده"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "تختِ خود"
+    }
+  ],
+  "timestamp": "2026-08-13T21:34:02.462407376Z",
+  "model": "glm-5.2"
+}

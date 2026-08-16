@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 5:19",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "مقرزی است؛ او مقصر است، قطعاً مقصر، پیش یاهوه.",
+  "tokens": [
+    {
+      "surface": "אשם",
+      "gloss": "مقرزی است"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "مقصر است"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "قطعاً مقصر"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "پیش یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:22:59.584361851Z",
+  "model": "glm-5.2"
+}

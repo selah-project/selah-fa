@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و ناحور نه و بیست سال زیست، و ⟨את⟩ ترح را زایاند.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "و زیست"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ناحور"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "و بیست"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و زایاند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ترح"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "ترح"
+    }
+  ],
+  "timestamp": "2026-08-13T19:57:07.991541443Z",
+  "model": "glm-5.2"
+}

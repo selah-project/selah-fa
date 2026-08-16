@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و ⟨את⟩ آگاگ پادشاهِ عمالک را زنده دست گرفت، و ⟨את⟩ همهٔ قوم را به‌زبانِ شمشیر حرام کرد.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "ودست‌گرفت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آگاگ"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "آگاگ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عمالک"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زنده"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "همهٔ قوم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "حرام‌کرد"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "به‌زبانِ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "شمشیر"
+    }
+  ],
+  "timestamp": "2026-08-13T21:11:15.508387780Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "چشم در برابرِ چشم، دندان در برابرِ دندان، دست در برابرِ دست، پا در برابرِ پا.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "چشم"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "در برابرِ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چشم"
+    },
+    {
+      "surface": "שן",
+      "gloss": "دندان"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "در برابرِ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "دندان"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دست"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "در برابرِ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دست"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "در برابرِ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پا"
+    }
+  ],
+  "timestamp": "2026-08-13T20:15:51.150295310Z",
+  "model": "glm-5.2"
+}

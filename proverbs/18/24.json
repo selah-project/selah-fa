@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "proverbs 18:24",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "مردی ⟨با⟩ دوستان برای رفاقت‌کردن، و دوستی هست که چسبنده‌تر است از برادر.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "دوستان"
+    },
+    {
+      "surface": "להתרעע",
+      "gloss": "برای رفاقت‌کردن"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "و هست"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "دوستی"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "چسبنده‌تر"
+    },
+    {
+      "surface": "מאח",
+      "gloss": "از برادر"
+    }
+  ],
+  "timestamp": "2026-08-15T04:27:37.212414851Z",
+  "model": "glm-5.3"
+}

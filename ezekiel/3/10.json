@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 3:10",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و به من گفت: ای پسرِ آدم، ⟨את⟩ همهٔ سخنانم را که با تو سخن می‌گویم، در دلِ خود بگیر و با گوش‌هایت بشنو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همهٔ سخانم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "سخنانم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "می‌گویم"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "با تو"
+    },
+    {
+      "surface": "קח",
+      "gloss": "بگیر"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "در دلِ تو"
+    },
+    {
+      "surface": "ובאזניך",
+      "gloss": "و با گوش‌هایت"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "بشنو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:12:30.446231148Z",
+  "model": "glm-5.2"
+}

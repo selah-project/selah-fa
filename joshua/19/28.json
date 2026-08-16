@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 19:28",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و عِوْرون و رَخوو و حَمّون و قانه، تا صیدونِ بزرگ.",
+  "tokens": [
+    {
+      "surface": "ועברן",
+      "gloss": "و عِوْرون"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "و رَخوو"
+    },
+    {
+      "surface": "וחמון",
+      "gloss": "و حَمّون"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "و قانه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "صیدونِ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "بزرگ"
+    }
+  ],
+  "timestamp": "2026-08-13T20:58:58.736156776Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 9:13",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و یاهوه از یِسرائیل سر و دم را برید، شاخِ خرما و نی، در یک روز.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "و برید"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "از یِسرائیل"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "و دم"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "شاخِ خرما"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "و نی"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-08-13T21:43:12.951552880Z",
+  "model": "glm-5.2"
+}

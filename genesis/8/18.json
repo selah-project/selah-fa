@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و نوح بیرون آمد، و پسرانش، و همسرش، و همسرانِ پسرانش ⟨את⟩ او.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "و بیرون آمد"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "و پسرانش"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "و همسرش"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "و همسرانِ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "پسرانش"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "او"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:47.233149223Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "هر زنندهٔ نفس را به‌سخنِ شاهدان، ⟨את⟩ قاتل بکشند؛ و یک شاهد در نفسی برای مردن پاسخ ندهد.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "زنندهٔ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "به‌سخنِ"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "شاندهان"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "بکشند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قاتل"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "قاتل"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و شاهد"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "پاسخ دهد"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "در نفسی"
+    },
+    {
+      "surface": "למות",
+      "gloss": "برای مردن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:42:25.096660466Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 42,
+  "translation": "و یوسف به ایشان گفت: او همان است که من به شما گفتم، با گفتن: جاسوسان شما هستید.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "به ایشان"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "گفتم"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "به شما"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "با گفتن"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "جاسوسان"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "شما"
+    }
+  ],
+  "timestamp": "2026-08-13T20:07:25.593429701Z",
+  "model": "glm-5.2"
+}

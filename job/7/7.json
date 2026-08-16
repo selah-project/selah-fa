@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 7:7",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "به یاد آر که جانِ من باد است؛ چشمِ من بازنمی‌گردد تا نیکی ببیند.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "به یاد آر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "باد"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "جانِ من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "بازمی‌گردد"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "چشمِ من"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "برای دیدنِ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیکی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:07:30.985507284Z",
+  "model": "glm-5.2"
+}

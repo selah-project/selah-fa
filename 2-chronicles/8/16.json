@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 8:16",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و استوار شد تمام کارِ شلومه، تا روزِ بنیادگذاریِ بیتِ یاهوه، و تا تمام شدنش؛ کامل شد بیتِ یاهوه.",
+  "tokens": [
+    {
+      "surface": "ותכן",
+      "gloss": "و استوار شد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "کارِ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روزِ"
+    },
+    {
+      "surface": "מוסד",
+      "gloss": "بنیادگذاریِ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیتِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "تمام شدنش"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "کامل شد"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیتِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:45:22.542969311Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "ref": "1-kings 8:60",
+  "lang": "fa",
+  "book": "1-kings",
+  "chapter": 8,
+  "verse": 60,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:47:37Z",
+  "translation": "تا همهٔ قوم‌هایِ زمین بدانند که یاهوه، او الوهیم ⟨است⟩؛ دیگری نیست.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "تا"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "بدانند"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "قوم‌هایِ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیگر"
+    }
+  ]
+}

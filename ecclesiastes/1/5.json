@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و خورشید برآید و خورشید درآید، و ⟨به⟩ جای خود شتابان بیاساید، همان‌جا که می‌تابد.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "و برآید"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "خورشید"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "و درآید"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "خورشید"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و ⟨به⟩"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "جای خود"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "شتابان بیاساید"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "می‌تابد"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "שם",
+      "gloss": "همان‌جا"
+    }
+  ],
+  "timestamp": "2026-08-15T04:29:54.120411211Z",
+  "model": "glm-5.3"
+}

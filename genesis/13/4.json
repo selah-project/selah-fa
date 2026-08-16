@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 13:4",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "به مکانِ مذبحی که آنجا در درست نخست ساخته بود، و آنجا ابراهام به نام یاهوه خواند.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "مکانِ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ساخته بود"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آنجا"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "در نخست"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "و خواند"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آنجا"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ابراهام"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "به نامِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T19:57:41.207556038Z",
+  "model": "glm-5.2"
+}

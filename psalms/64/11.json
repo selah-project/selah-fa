@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 64,
+  "translation": "بشورد در یاهوه، و به او پناه برد؛ و همهٔ راست‌دلان ستایش کنند.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "بشورد"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "شورد"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "در یاهوه"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "و پناه برد"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در او"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "و ستایش کنند"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "راستانِ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-08-15T04:23:51.309729561Z",
+  "model": "glm-5.3"
+}

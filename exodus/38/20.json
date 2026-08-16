@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 38:20",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 38,
+  "translation": "و تمام میخ‌ها برای مسکـن و برای ⟨ه⟩حیاط، گرداگرد، مس بود.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و تمام"
+    },
+    {
+      "surface": "היתדת",
+      "gloss": "میخ‌ها"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "برای مسکـن"
+    },
+    {
+      "surface": "ולחצר",
+      "gloss": "و برای ⟨ه⟩حیاط"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "گرداگرد"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "مس"
+    }
+  ],
+  "timestamp": "2026-08-13T20:21:09.735428802Z",
+  "model": "glm-5.2"
+}

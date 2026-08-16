@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 112,
+  "translation": "زیرا تا جهان لرزان نخواهد شد؛ به یادگاریِ همیشگی ⟨او⟩ عادل خواهد بود.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "تا جهان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "لرزان خواهد شد"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "به یادگاریِ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "همیشگی"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "خواهد بود"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "عادل"
+    }
+  ],
+  "timestamp": "2026-08-13T22:54:03.959043135Z",
+  "model": "glm-5.2"
+}

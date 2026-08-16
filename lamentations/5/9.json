@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "با جانِ خود نانِ خود را می‌آوریم، از رویِ شمشیرِ بیابان.",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "با جانِ خود"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "می‌آوریم"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "نانِ خود را"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "از رویِ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "شمشیرِ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "بیابان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:19:30.719046816Z",
+  "model": "glm-5.2"
+}

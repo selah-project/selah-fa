@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 5:22",
+  "book": "daniel",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و تو، ای پسرِ او، بِلْشَصَّر، دلِ خویش را فرو نکردی، بهسببِ اینکه همهٔ این را می‌دانستی.",
+  "tokens": [
+    {
+      "surface": "ואנתה",
+      "gloss": "و تو"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "בלשאצר",
+      "gloss": "بِلْشَصَّر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "השפלת",
+      "gloss": "فرو کردی"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "دلِ خویش را"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "بهسببِ"
+    },
+    {
+      "surface": "די",
+      "gloss": "که"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "این"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "می‌دانستی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:25:25.922535719Z",
+  "model": "glm-5.2"
+}

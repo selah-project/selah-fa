@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "⟨את⟩ مرا رانده و راه برده در تاریکی و نه نور.",
+  "tokens": [
+    {
+      "surface": "אוֹתִי",
+      "gloss": "⟨את⟩",
+      "marks": "مرا"
+    },
+    {
+      "surface": "נָהַג",
+      "gloss": "رانده"
+    },
+    {
+      "surface": "וַיֹּלַךְ",
+      "gloss": "و راه برده"
+    },
+    {
+      "surface": "חֹשֶׁךְ",
+      "gloss": "در تاریکی"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "אוֹר",
+      "gloss": "نور"
+    }
+  ],
+  "timestamp": "2026-08-13T23:18:18.033964027Z",
+  "model": "glm-5.2"
+}

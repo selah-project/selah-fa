@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 39,
+  "ref": "psalms 107:39",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 107,
+  "translation": "و کم شدند و خم شدند، از ستمِ بدی و اندوه",
+  "tokens": [
+    {
+      "surface": "וימעטו",
+      "gloss": "و کم شدند"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "و خم شدند"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "از ستم"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "و اندوه"
+    }
+  ],
+  "timestamp": "2026-08-15T04:25:40.631000038Z",
+  "model": "glm-5.3"
+}

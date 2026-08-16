@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 26:32",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "و شمی‌دَع، تیرهٔ شمی‌دَعی؛ و حِفِر، تیرهٔ حِفری.",
+  "tokens": [
+    {
+      "surface": "ושמידע",
+      "gloss": "و شمی‌دَع"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "تیرهٔ"
+    },
+    {
+      "surface": "השמידעי",
+      "gloss": "شمی‌دَعی"
+    },
+    {
+      "surface": "וחפר",
+      "gloss": "و حِفِر"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "تیرهٔ"
+    },
+    {
+      "surface": "החפרי",
+      "gloss": "حِفری"
+    }
+  ],
+  "timestamp": "2026-08-13T20:39:37.835682036Z",
+  "model": "glm-5.2"
+}

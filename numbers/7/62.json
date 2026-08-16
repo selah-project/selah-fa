@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "numbers 7:62",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "یک کفِ طلا، ده ⟨شِکل⟩، پر از بخور:",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "کفِ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ده"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "طلا"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "پر"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "از بخور"
+    }
+  ],
+  "timestamp": "2026-08-13T20:33:23.808130540Z",
+  "model": "glm-5.2"
+}

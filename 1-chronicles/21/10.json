@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 21:10",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "برو و با داوود سخن بگو، به‌ گفتن: چنین گفت یاهوه: سه ⟨چیز⟩ من بر تو می‌گشایم؛ برای خود یکی از آن‌ها برگزین تا برایت بکنم.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "برو"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "و سخن بگو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "با"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به‌ گفتن"
+    },
+    {
+      "surface": "כה",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "سه"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "می‌گشایم"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "بر تو"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "برگزین"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برای خود"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "از آن‌ها"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "و بکنم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برایت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:02.113812984Z",
+  "model": "glm-5.2"
+}

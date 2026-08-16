@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "شکسته شده است شهرِ ویرانی؛ بسته شده ⟨است⟩ هر خانه از وارد شدن.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "شکسته شده است"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "شهرِ"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "ویرانی"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "بسته شده"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانه"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "از وارد شدن"
+    }
+  ],
+  "timestamp": "2026-08-13T21:45:49.807773147Z",
+  "model": "glm-5.2"
+}

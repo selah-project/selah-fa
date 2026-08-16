@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "آسیابِ دستی و رحْوِ بالایی آن را به گرو نگیرند، زیرا جان است آنچه به گرو گرفته می‌شود.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "به گرو بگیرند"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "آسیابِ دستی"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "و رحْوِ بالایی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آن است"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "به گرو گرفتن"
+    }
+  ],
+  "timestamp": "2026-08-15T03:55:55.128986213Z",
+  "model": "glm-5.3"
+}

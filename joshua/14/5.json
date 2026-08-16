@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 14:5",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "چنانکه یاهوه به موشه فرمود، چنین کردند بنی‌یسْرائیل، و تقسیم کردند ⟨את⟩ زمین را.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "چنانکه"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فرمود"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کردند"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی‌"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسْرائیل"
+    },
+    {
+      "surface": "ויחלקו",
+      "gloss": "و تقسیم کردند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T20:57:42.045505276Z",
+  "model": "glm-5.2"
+}

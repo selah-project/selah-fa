@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "سخنی که یِشَعْیاهو پسر اَموتص دربارهٔ یِهودا و یروشالَییم دیده است.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "سخن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "دیده است"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "یِشَعْیاهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "اَموتص"
+    },
+    {
+      "surface": "על",
+      "gloss": "دربارهٔ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یِهودا"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "و یروشالَییم"
+    }
+  ],
+  "timestamp": "2026-08-15T04:06:50.927694496Z",
+  "model": "glm-5.3"
+}

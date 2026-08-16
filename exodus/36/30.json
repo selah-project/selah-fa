@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 36:30",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "و ⟨بودند⟩ هشت تخته و قاعده‌هایشان نقره، شانزده قاعده؛ دو قاعده، دو قاعده زیر یک تخته.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "و ⟨بودند⟩"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "هشت"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "تخته"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "و قاعده‌هایشان"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "نقره"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "شانزده"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "قاعده"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "قاعده"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "قاعده"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "زیر"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "تختهٔ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-08-13T20:20:32.985240429Z",
+  "model": "glm-5.2"
+}

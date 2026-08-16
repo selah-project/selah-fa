@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و برتریِ زمین در همه ⟨چیزها است⟩: پادشاهی ⟨که⟩ به مزرعه‌ای خادم است.",
+  "tokens": [
+    {
+      "surface": "וְיִתְר֥וֹן",
+      "gloss": "و برتریِ"
+    },
+    {
+      "surface": "אֶ֖רֶץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "בַּכֹּ֣ל",
+      "gloss": "در همه"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨است⟩"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "پادشاهی"
+    },
+    {
+      "surface": "לְשָׂדֶ֖ה",
+      "gloss": "به مزرعه‌ای"
+    },
+    {
+      "surface": "נֶעֱבָֽד",
+      "gloss": "خادم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:23.978912577Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 69,
+  "translation": "و رویت را از بندهٔ خود برنگردان، که تنگی بر من است؛ بشتاب مرا پاسخ ده.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "و ... نه"
+    },
+    {
+      "surface": "תסתر",
+      "gloss": "بپوشان"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "رویت را"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "از بندهٔ خود"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "צר",
+      "gloss": "تنگی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بر من است"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "بشتاب"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "مرا پاسخ ده"
+    }
+  ],
+  "timestamp": "2026-08-13T22:47:13.357226141Z",
+  "model": "glm-5.2"
+}

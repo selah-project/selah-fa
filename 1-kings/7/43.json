@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و ⟨את⟩ پایه‌ها ده، و ⟨את⟩ لگن‌ها ده، بر پایه‌ها.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "پایه‌ها"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "پایه‌ها"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ده"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "لگن‌ها"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "لگن‌ها"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ده"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "پایه‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T21:25:29.845936013Z",
+  "model": "glm-5.2"
+}

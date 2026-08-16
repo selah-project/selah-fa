@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 12:18",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "پسرِ آدم، نانت را در لرزش بخور، و آب‌هایت را در برآشفتگی و در دلهره بنوش.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "نانت"
+    },
+    {
+      "surface": "ברעש",
+      "gloss": "در لرزش"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "بخور"
+    },
+    {
+      "surface": "ומימיך",
+      "gloss": "و آب‌هایت"
+    },
+    {
+      "surface": "ברגזה",
+      "gloss": "در برآشفتگی"
+    },
+    {
+      "surface": "ובדאגה",
+      "gloss": "و در دلهره"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "بنوش"
+    }
+  ],
+  "timestamp": "2026-08-13T22:13:57.123201339Z",
+  "model": "glm-5.2"
+}

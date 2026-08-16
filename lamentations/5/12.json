@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "سران به دستِ خود آویخته شدند، چهرهٔ پیران گرامی داشته نشد.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "سران"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "به دستِ خود"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "آویخته شدند"
+    },
+    {
+      "surface": "פני",
+      "gloss": "چهرهٔ"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "پیران"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "گرامی داشته شدند"
+    }
+  ],
+  "timestamp": "2026-08-13T23:19:30.719530893Z",
+  "model": "glm-5.2"
+}

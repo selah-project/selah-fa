@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "از آنِ من ⟨است⟩ نقره و از آنِ من ⟨است⟩ طلا، خواستِ یاهوهِ صَبایوت.»",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "از آنِ من"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "نقره"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "و از آنِ من"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "طلا"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "خواستِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صَبایوت"
+    }
+  ],
+  "timestamp": "2026-08-13T22:34:06.772087687Z",
+  "model": "glm-5.2"
+}

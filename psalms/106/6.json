@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 106,
+  "translation": "گناه کردیم با پدرانمان، بدی کردیم، بدکاری کردیم",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "گناه کردیم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "پدرانمان"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "بدی کردیم"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "بدکاری کردیم"
+    }
+  ],
+  "timestamp": "2026-08-13T22:53:06.727510858Z",
+  "model": "glm-5.2"
+}

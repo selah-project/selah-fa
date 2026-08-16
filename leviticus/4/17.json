@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 4:17",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و فرو برد كاهن انگشت خود را از خون، و افشاند هفت بار پیشِ رویِ یاهوه، ⟨את⟩ رویِ پرده را.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "و فرو برد"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "كاهن"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "انگشتِ او"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "و افشاند"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "بار"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشِ رویِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رویِ پرده"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رویِ"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "پرده"
+    }
+  ],
+  "timestamp": "2026-08-13T20:22:39.602062607Z",
+  "model": "glm-5.2"
+}

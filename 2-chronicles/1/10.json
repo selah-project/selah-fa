@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 1:10",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "اکنون، حکمت و دانش به من ببخش تا پیش رویِ این قوم بیرون بروم و درآیم، که چه کسی ⟨את⟩ قومِ تو را — این قومِ بزرگ — داوری کند؟",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "اکنون"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "و دانش"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ببخش"
+    },
+    {
+      "surface": "לי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "ואצאה",
+      "gloss": "و بیرون بروم"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیش رویِ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "و درآیم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "מי",
+      "gloss": "چه کسی"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "داوری کند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قومِ تو"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "قومِ تو"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "بزرگ"
+    }
+  ],
+  "timestamp": "2026-08-13T23:43:19.202898317Z",
+  "model": "glm-5.2"
+}

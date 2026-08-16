@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "فرسوده کرده گوشتِ مرا و پوستِ مرا، شکسته استخوان‌هایِ مرا.",
+  "tokens": [
+    {
+      "surface": "בִּלָּה",
+      "gloss": "فرسوده کرده"
+    },
+    {
+      "surface": "בְּשָׂרִי",
+      "gloss": "گوشتِ مرا"
+    },
+    {
+      "surface": "וְעוֹרִי",
+      "gloss": "و پوستِ مرا"
+    },
+    {
+      "surface": "שִׁבַּר",
+      "gloss": "شکسته"
+    },
+    {
+      "surface": "עַצְמוֹתָי",
+      "gloss": "استخوان‌هایِ مرا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:18:18.034238334Z",
+  "model": "glm-5.2"
+}

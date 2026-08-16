@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 14:27",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و ⟨به⟩ اَوشالوم سه پسر و یک دختر زاده شدند، و نامِ او تامار بود؛ او زنی بود زیباتیما.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "و زاده شدند"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "⟨به⟩ اَوشالوم"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "سه"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "و دختر"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "و نامِ او"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "تامار"
+    },
+    {
+      "surface": "היא",
+      "gloss": "او"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زن"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "زیبا"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "در دیدار"
+    }
+  ],
+  "timestamp": "2026-08-14T00:01:16.604668863Z",
+  "model": "glm-5.2"
+}

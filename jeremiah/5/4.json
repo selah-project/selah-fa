@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 5:4",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و من گفتم: «فقط ضعیفانند، بی‌خرد شده‌اند، که راه یاهوه را نمی‌دانند، داد الوهیمِ ایشان را»",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "و من"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "گفتم"
+    },
+    {
+      "surface": "אך",
+      "gloss": "فقط"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ضعیفان"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هستند"
+    },
+    {
+      "surface": "נואלו",
+      "gloss": "بی‌خرد شده‌اند"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نمی‌"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "دانند"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "داد"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "الوهیمِ ایشان"
+    }
+  ],
+  "timestamp": "2026-08-13T21:57:33.643131367Z",
+  "model": "glm-5.2"
+}

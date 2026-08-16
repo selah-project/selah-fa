@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 65,
+  "translation": "برای رهبرِ نوازندگان، مزمور، برای داوود، سرود",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "برای رهبرِ نوازندگان"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "برای داوود"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "سرود"
+    }
+  ],
+  "timestamp": "2026-08-14T00:12:04.538384853Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 2:15",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و بر رویِ آن روغن بگذار و بر آن لبانة گذار؛ هدیه است⟨.⟩",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "و بگذار"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "بر رویِ آن"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "روغن"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "و گذار"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "بر آن"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "لبانة"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "هدیه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "است"
+    }
+  ],
+  "timestamp": "2026-08-13T20:22:02.397710179Z",
+  "model": "glm-5.2"
+}

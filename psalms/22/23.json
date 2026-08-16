@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "اسمِ تو را به برادرانم بیان کنم؛ در میانِ جمع ستایشت کنم.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "بیان کنم"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "اسمِ تو را"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "به برادرانم"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "در میانِ"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "جمع"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "ستایشت کنم"
+    }
+  ],
+  "timestamp": "2026-08-13T22:39:52.362774053Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "وَاِنوش نود سال زیست، و ⟨את⟩ قَینان را زایید.",
+  "tokens": [
+    {
+      "surface": "וַֽיְחִ֥י",
+      "gloss": "و زیست"
+    },
+    {
+      "surface": "אֱנ֖וֹשׁ",
+      "gloss": "اَنوش"
+    },
+    {
+      "surface": "תִּשְׁעִ֣ים",
+      "gloss": "نود"
+    },
+    {
+      "surface": "שָׁנָ֑ה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וַיּ֖וֹלֶד",
+      "gloss": "و زایید"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "قَینان"
+    },
+    {
+      "surface": "קֵינָֽן",
+      "gloss": "قَینان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:53:43.783994219Z",
+  "model": "glm-5.2"
+}

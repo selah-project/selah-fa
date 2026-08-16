@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 24:24",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "وبه‌او گفت: من دخترِ بتوئیل هستم، پسرِ میلکه که او برای ناحور زایید.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "به‌او"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دخترِ"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "بتوئیل"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من ... هستم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "میلکه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "زایید"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "برای ناحور"
+    }
+  ],
+  "timestamp": "2026-08-13T20:01:08.958021710Z",
+  "model": "glm-5.2"
+}

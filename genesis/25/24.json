@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 25:24",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و روزهایِ او برایِ زاییدن کامل شد، و اینک دوقلوها در شکمِ او.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "و کامل شد"
+    },
+    {
+      "surface": "ימיה",
+      "gloss": "روزهایِ او"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "برایِ زاییدن"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "תומם",
+      "gloss": "دوقلوها"
+    },
+    {
+      "surface": "בבטנה",
+      "gloss": "در شکمِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:01:07.959973792Z",
+  "model": "glm-5.2"
+}

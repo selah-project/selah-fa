@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و ⟨تو⟩ بدینِ بخشایش و فهمی نیک بیابی در چشم‌هایِ الوهیم و آدم.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "و بیابی"
+    },
+    {
+      "surface": "חן",
+      "gloss": "بخشایش"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "و فهمی"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیک"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "در چشم‌هایِ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "و آدمی"
+    }
+  ],
+  "timestamp": "2026-08-13T22:59:34.196065035Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 11:10",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "از کوهنان: یدعیا بن یویاریب، یاکین.",
+  "tokens": [
+    {
+      "surface": "מִן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הַֽכֹּהֲנִ֑ים",
+      "gloss": "کوهنان"
+    },
+    {
+      "surface": "יְדַֽעְיָ֥ה",
+      "gloss": "یدعیا"
+    },
+    {
+      "surface": "בֶן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "יוֹיָרִ֖יב",
+      "gloss": "یویاریب"
+    },
+    {
+      "surface": "יָכִֽין",
+      "gloss": "یاکین"
+    }
+  ],
+  "timestamp": "2026-08-14T00:17:29.814144565Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "joshua 16:2",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "و از بیت-اِل به لُوز می‌رفت و به سوی مرزِ اَرکی می‌گذشت، تا عَطاروت.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "و می‌رفت"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "از بیتِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-اِل"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "به لوز"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "و می‌گذشت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "مرزِ"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "اَرکی"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "عطاروت"
+    }
+  ],
+  "timestamp": "2026-08-15T20:49:29.002513200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و به مُردِخای ⟨את⟩ سخنانِ اِستِر را گزارش دادند.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "و گزارش دادند"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "به مُردِخای"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سخنان"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "سخنانِ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "اِستِر"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:54.747080794Z",
+  "model": "glm-5.2"
+}

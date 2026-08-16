@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "⟨את⟩ عوصِ بکرِ او و ⟨את⟩ بوزِ برادرِ او و ⟨את⟩ قموئیلِ پدرِ آرام را.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عوص"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "عوص"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "بکرِ او"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "بوز"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "بوز"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برادرِ او"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "قموئیل"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "قموئیل"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پدرِ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "آرام"
+    }
+  ],
+  "timestamp": "2026-08-13T20:00:08.693972639Z",
+  "model": "glm-5.2"
+}

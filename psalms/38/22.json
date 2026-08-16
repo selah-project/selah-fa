@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 38,
+  "translation": "ترکم مکن، یاهوه؛ الوهیمِ من، دور مباش از من.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مکن"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "ترکم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوهیمِ من"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مباش"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "دور"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "از من"
+    }
+  ],
+  "timestamp": "2026-08-14T00:11:42.496839932Z",
+  "model": "glm-5.2"
+}

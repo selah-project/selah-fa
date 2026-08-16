@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و به این قوم بگو: این‌گونه گفت یاهوه: اینک من پیشِ رویِ شما ⟨את⟩ راهِ حیات و ⟨את⟩ راهِ مرگ را می‌نهَم.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "و به"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "بگو"
+    },
+    {
+      "surface": "כה",
+      "gloss": "این‌گونه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "اینک من"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "می‌نهَم"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "پیشِ رویِ شما"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "راهِ حیات"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راهِ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "حیات"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "راهِ مرگ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راهِ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "مرگ"
+    }
+  ],
+  "timestamp": "2026-08-13T22:02:06.690775585Z",
+  "model": "glm-5.2"
+}

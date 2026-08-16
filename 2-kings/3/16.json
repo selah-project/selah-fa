@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 3:16",
+  "book": "2-kings",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و گفت: «این‌چنین گفت یاهوه: این وادی را خندق، خندق بسازید.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "כה",
+      "gloss": "این‌چنین"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بسازید"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "این وادی را"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "خندق،"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "خندق"
+    }
+  ],
+  "timestamp": "2026-08-13T21:32:50.457688480Z",
+  "model": "glm-5.2"
+}

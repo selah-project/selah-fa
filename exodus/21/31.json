@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "یا پسری را بزند، یا دختری را بزند، بر اساس این حکم با او انجام شود.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسری"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "بزند"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دختری"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "بزند"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "بر اساس حکم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "انجام شود"
+    },
+    {
+      "surface": "לו",
+      "gloss": "با او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:16:30.070226411Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "نروانی تا برده‌ای را به سرورِش تسلیم کنی، آن‌که ⟨اگر⟩ بگریزد به سویِ تو از نزدِ سرورِش:",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نروانی"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "تسلیـم کنی"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "برده‌ای را"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "سرورِش"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آن‌که"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "⟨اگر⟩ بگریزد"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "به سویِ تو"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "از نزدِ"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "سرورِش"
+    }
+  ],
+  "timestamp": "2026-08-13T20:50:17.661740088Z",
+  "model": "glm-5.2"
+}

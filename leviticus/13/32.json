@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 13:32",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "و ببیند کوهن ⟨את⟩ ناگاه را در روزِ هفتم، و اینک نَتَک گسترش نیافته، و در آن موی زرد نبوده، و پدیدارِ نَتَک ژرف‌تر از پوست نباشد.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "و ببیند"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کوهن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناگاه را"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ناگاه"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "هفتم"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "گسترش یافته"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "نَتَک"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوده"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در آن"
+    },
+    {
+      "surface": "שער",
+      "gloss": "مویی"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "زرد"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "و پدیدارِ"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "نَتَک"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نباشد"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ژرف‌تر"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "העור",
+      "gloss": "پوست"
+    }
+  ],
+  "timestamp": "2026-08-13T20:25:44.024687806Z",
+  "model": "glm-5.2"
+}

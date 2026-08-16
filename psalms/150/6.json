@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 150,
+  "translation": "هر دَمـی یاه را ستایش کند! یاه را ستایش کنید!",
+  "tokens": [
+    {
+      "surface": "כֹּ֣ל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "הַ֭נְּשָׁמָה",
+      "gloss": "دَمـی"
+    },
+    {
+      "surface": "תְּהַלֵּ֥ל",
+      "gloss": "ستایش کند"
+    },
+    {
+      "surface": "יָ֗הּ",
+      "gloss": "یاه"
+    },
+    {
+      "surface": "הַֽלְלוּ",
+      "gloss": "ستایش کنید"
+    },
+    {
+      "surface": "יָֽהּ",
+      "gloss": "یاه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:58:20.638914444Z",
+  "model": "glm-5.2"
+}

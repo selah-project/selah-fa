@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 4:15",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و یاهوه با یَهوشُع سخن گفت، به‌قولِ:",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֣אמֶר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "با"
+    },
+    {
+      "surface": "יְהוֹשֻׁ֖עַ",
+      "gloss": "یَهوشُع"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "به‌قولِ:"
+    }
+  ],
+  "timestamp": "2026-08-13T20:54:04.116547045Z",
+  "model": "glm-5.2"
+}

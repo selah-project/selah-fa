@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 26:17",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "نگه‌دارندهٔ گوش‌های سگی ⟨است⟩ عابری که خشمگین می‌شود بر دعوای〈ی〉 که از آنِ او نیست.",
+  "tokens": [
+    {
+      "surface": "מחזיק",
+      "gloss": "نگه‌دارندهٔ"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "گوش‌هایِ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "سگی"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عابری"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "خشمگین می‌شود"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "دعوای"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "از آنِ اوست"
+    }
+  ],
+  "timestamp": "2026-08-13T23:05:07.680995469Z",
+  "model": "glm-5.2"
+}

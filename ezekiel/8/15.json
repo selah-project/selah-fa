@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 8:15",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و ⟨او⟩ به من گفت: آیا دیدی، پسر آدم؟ باز بازگرد تا ⟨تو⟩ ببینی تخفیف‌های بزرگ‌تر از این‌ها.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "آیا دیدی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "باز"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "بازگرد"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ببینی"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "تخفیف‌های"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "از این‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T22:14:04.865709593Z",
+  "model": "glm-5.2"
+}

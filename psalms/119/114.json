@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 114,
+  "ref": "psalms 119:114",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 119,
+  "translation": "پناهگاهِ من و سپرِ من تویی؛ به سخنِ تو امید بسته‌ام.",
+  "tokens": [
+    {
+      "surface": "סתרי",
+      "gloss": "پناهگاهِ من"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "و سپرِ من"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تویی"
+    },
+    {
+      "surface": "لדברך",
+      "gloss": "به سخنِ تو"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "امید بسته‌ام"
+    }
+  ],
+  "timestamp": "2026-08-15T04:26:03.764693681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 18:22",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "یافتنِ زنی — یافتنِ نیکی است، و خشنودی از جانبِ یاهوه به‌دست می‌آوَرَد.",
+  "tokens": [
+    {
+      "surface": "מצא",
+      "gloss": "یافتنِ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زنی"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "یافتنِ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیکی"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "و به‌دست می‌آوَرَد"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "خشنودی"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "از جانبِ یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:17.014582208Z",
+  "model": "glm-5.2"
+}

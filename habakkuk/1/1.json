@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "بارِی که حَبَقّوق نبی دید.",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "دید"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "حَبَقّوق"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    }
+  ],
+  "timestamp": "2026-08-13T22:33:02.845476056Z",
+  "model": "glm-5.2"
+}

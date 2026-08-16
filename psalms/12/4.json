@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "ببرد یاهوه همهٔ لب‌های نرم را، زبانی که سخنانِ بزرگواری می‌گوید.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "ببرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "لب‌های"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "نرم"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبانی"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "که می‌گوید"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "سخنانِ بزرگواری"
+    }
+  ],
+  "timestamp": "2026-08-13T22:38:31.239096494Z",
+  "model": "glm-5.2"
+}

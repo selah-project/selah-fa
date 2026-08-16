@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "حتی همسایه‌اش، فقیر را دشمن دارد، و دوستانِ ثروتمند، بسیارند.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "حتی"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "همسایه‌اش"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "دشمن دارد"
+    },
+    {
+      "surface": "רש",
+      "gloss": "فقیر"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "و دوستانِ"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ثروتمند"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "بسیارند"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:00.525806108Z",
+  "model": "glm-5.2"
+}

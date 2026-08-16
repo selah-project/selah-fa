@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 1:9",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "اکنون، یاهوه الوهیم، سخنِ تو با داوید پدرم استوار باد، که تو مرا بر قومی فراوان، چون غبارِ زمین، پادشاه گرداندی.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "اکنون"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "יאמן",
+      "gloss": "استوار باد"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "سخنِ تو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوید"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پدرم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "המלכתני",
+      "gloss": "مرا پادشاه گرداندی"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قومی"
+    },
+    {
+      "surface": "רב",
+      "gloss": "فراوان"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "چون غبار"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T23:43:19.202603681Z",
+  "model": "glm-5.2"
+}

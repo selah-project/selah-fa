@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 4:8",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و ⟨את⟩ همهٔ چربیِ گاوِ گناه را از آن برخیزد: ⟨את⟩ چربی‌ای که بر روده‌ها را می‌پوشاند و ⟨את⟩ همهٔ چربی که بر روده‌هاست.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "همهٔ چربیِ گاوِ گناه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "چربیِ"
+    },
+    {
+      "surface": "פר",
+      "gloss": "گاوِ"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "گناه"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "برخیزد"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "از آن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چربی"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "چربی"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "که می‌پوشاند"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "روده‌ها"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "همهٔ چربی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "چربی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "روده‌هاست"
+    }
+  ],
+  "timestamp": "2026-08-13T20:22:47.744449875Z",
+  "model": "glm-5.2"
+}

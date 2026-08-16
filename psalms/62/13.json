@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 62,
+  "translation": "و نزد توست، ای اَدونای، رحمت؛ زیرا تو ⟨את⟩ پاداش هر مرد را چون عملِ او می‌پردازی.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "و نزد توست"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "رحمت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "می‌پردازی"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "به هر مرد"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "چون عملِ او"
+    }
+  ],
+  "timestamp": "2026-08-15T20:54:02.838343Z",
+  "model": "glm-5.3+hand"
+}

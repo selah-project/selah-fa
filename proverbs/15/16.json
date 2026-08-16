@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 15:16",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "نیکوست اندکی در یَرتِ یاهوه، از گنجِ فراوان و آشوبی با آن",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "نیکوست"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "اندکی"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "در یَرتِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מאוצר",
+      "gloss": "از گنجِ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "فراوان"
+    },
+    {
+      "surface": "ומהומה",
+      "gloss": "و آشوبی"
+    },
+    {
+      "surface": "בו",
+      "gloss": "با آن"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:21.937735879Z",
+  "model": "glm-5.2"
+}

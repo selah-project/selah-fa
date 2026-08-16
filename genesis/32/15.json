@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "بزها دویست و نر-بزها بیست، مادشان دویست و قوچ‌ها بیست.",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "بزها"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دویست"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "و نر-بزها"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "مادشان"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دویست"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "و قوچ‌ها"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    }
+  ],
+  "timestamp": "2026-08-13T20:03:48.784531841Z",
+  "model": "glm-5.2"
+}

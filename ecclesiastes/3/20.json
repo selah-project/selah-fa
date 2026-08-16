@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "همه به سویِ جایگاهِ یکی می‌روند؛ همه از خاک ⟨بود⟩، و همه به خاک بازمی‌گردد.",
+  "tokens": [
+    {
+      "surface": "הַכֹּ֥ל",
+      "gloss": "همه"
+    },
+    {
+      "surface": "הוֹלֵ֖ךְ",
+      "gloss": "می‌رود"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "به سویِ"
+    },
+    {
+      "surface": "מָק֣וֹם",
+      "gloss": "جایگاهِ"
+    },
+    {
+      "surface": "אֶחָ֑ד",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "הַכֹּל֙",
+      "gloss": "همه"
+    },
+    {
+      "surface": "הָיָ֣ה",
+      "gloss": "⟨بود⟩"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הֶֽעָפָ֔ר",
+      "gloss": "خاک"
+    },
+    {
+      "surface": "וְהַכֹּ֖ל",
+      "gloss": "و همه"
+    },
+    {
+      "surface": "שָׁ֥ב",
+      "gloss": "بازمی‌گردد"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "به"
+    },
+    {
+      "surface": "הֶעָפָֽר",
+      "gloss": "خاک"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:08.345874892Z",
+  "model": "glm-5.2"
+}

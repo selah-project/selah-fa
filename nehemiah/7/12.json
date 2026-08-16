@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 7:12",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "پسرانِ عیلام، هزار و دویست پنجاه و چهار.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عیلام"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دویست"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاه"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "و چهار"
+    }
+  ],
+  "timestamp": "2026-08-13T23:32:32.955669456Z",
+  "model": "glm-5.2"
+}

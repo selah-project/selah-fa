@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 36:25",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "و این‌ها ⟨هستند⟩ پسرانِ عَناه: دیشون و اُهُلیواماه دخترِ عَناه.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "و این‌ها"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "عَناه"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "دیشون"
+    },
+    {
+      "surface": "ואהליבמה",
+      "gloss": "و اُهُلیواماه"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دخترِ"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "عَناه"
+    }
+  ],
+  "timestamp": "2026-08-14T18:57:56.946547962Z",
+  "model": "glm-5.3"
+}

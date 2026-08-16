@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 5:2",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "زیرا یِهودا چیره‌بود بر اَخ‌هایش، و به نَگیذ از او، و بِخوره از یوسِف ⟨بود⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یِهودا"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "چیره‌بود"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "بر اَخ‌هایش"
+    },
+    {
+      "surface": "ולנגיד",
+      "gloss": "و به نَگیذ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "از او"
+    },
+    {
+      "surface": "והבכרה",
+      "gloss": "و بِخوره"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "از یوسِف"
+    }
+  ],
+  "timestamp": "2026-08-14T00:17:55.921166242Z",
+  "model": "glm-5.2"
+}

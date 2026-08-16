@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 78:63",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 78,
+  "translation": "جوانانِ او را آتش خورد، و باکره‌هایش ستوده نشدند.",
+  "tokens": [
+    {
+      "surface": "בחוריו",
+      "gloss": "جوانانِ او را"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "خورد"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آتش"
+    },
+    {
+      "surface": "ובתולתיו",
+      "gloss": "و باکره‌هایش"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "הוללו",
+      "gloss": "ستوده نشدند"
+    }
+  ],
+  "timestamp": "2026-08-13T22:48:36.155978872Z",
+  "model": "glm-5.2"
+}

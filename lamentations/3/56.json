@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "lamentations 3:56",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "صدایِ مرا شنیدی؛ گوشت را بر آهِ من، بر فریادِ من پوشان مکن.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "صدایِ مرا"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "شنیدی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مکن"
+    },
+    {
+      "surface": "תעלם",
+      "gloss": "پوشان"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "گوشت را"
+    },
+    {
+      "surface": "לרוחתי",
+      "gloss": "بر آهِ من"
+    },
+    {
+      "surface": "לשועתי",
+      "gloss": "بر فریادِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T23:18:17.647513916Z",
+  "model": "glm-5.2"
+}

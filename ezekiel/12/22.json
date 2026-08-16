@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 12:22",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "پسر انسان، چیست این مثل برای شما بر خاک یِسرائیل، به گفتار: «طولانی شوند روزها و هر دیدن نابود شود»؟",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چیست"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "این مثل"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "برای شما"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "خاک"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به گفتار"
+    },
+    {
+      "surface": "יארכו",
+      "gloss": "طولانی شوند"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "روزها"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "و نابود شود"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "دیدن"
+    }
+  ],
+  "timestamp": "2026-08-13T22:13:59.880895172Z",
+  "model": "glm-5.2"
+}

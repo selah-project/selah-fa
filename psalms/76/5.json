@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 76,
+  "translation": "نورانی ⟨هستی⟩ تو، ای شکوهمند، از کوه‌های شکار.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "نورانی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "شکوهمند"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "از کوه‌های"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "شکار"
+    }
+  ],
+  "timestamp": "2026-08-13T22:47:58.492136402Z",
+  "model": "glm-5.2"
+}

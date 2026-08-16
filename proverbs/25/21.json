@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "اگر گرسنه‌ست دشمنِ تو، نانش بخوران، و اگر تشنه‌ست، آبش بیاشامان.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "گرسنه"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "دشمنِ تو"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "بخورانش"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "تشه"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "بیاشامانش"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آب"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:47.316277668Z",
+  "model": "glm-5.2"
+}

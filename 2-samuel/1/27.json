@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 1:27",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "چگونه افتادند جنگجوانِ دلاور و هلاک شدند ابزارِ جنگ!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "چگونه"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "افتادند"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "جنگجوانِ دلاور"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "و هلاک شدند"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ابزارِ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    }
+  ],
+  "timestamp": "2026-08-13T21:16:22.224057933Z",
+  "model": "glm-5.2"
+}

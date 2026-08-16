@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 19:36",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و دو دخترِ لوط، از پدرِ خود، باردار شدند.",
+  "tokens": [
+    {
+      "surface": "ותהרין",
+      "gloss": "و باردار شدند"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "دخترانِ"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوت"
+    },
+    {
+      "surface": "מאביהן",
+      "gloss": "از پدرِ خود"
+    }
+  ],
+  "timestamp": "2026-08-13T19:59:40.971563589Z",
+  "model": "glm-5.2"
+}

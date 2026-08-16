@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-chronicles 6:57",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و از قبیلهٔ ییساسخار ⟨את⟩ قادش و ⟨את⟩ مراتعش، ⟨את⟩ دویرات و ⟨את⟩ مراتعش را.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "و از قبیلهٔ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ییساسخار"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قادش"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قادش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مراتعش"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "مراتعش"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دویرات"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "دویرات"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مراتعش"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "مراتعش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:02.384311711Z",
+  "model": "glm-5.2"
+}

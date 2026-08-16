@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 76,
+  "translation": "و بود در شالِم خیمهٔ او، و جایگاهِ او در تسیون.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "در شالِم"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "خیمهٔ او"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "و جایگاهِ او"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "در تسیون"
+    }
+  ],
+  "timestamp": "2026-08-13T22:47:45.020037245Z",
+  "model": "glm-5.2"
+}

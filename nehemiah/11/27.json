@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 11:27",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و در حَصَرْ‌شوعال، و در بئرْ‌شِبع و آبادی‌هایش.",
+  "tokens": [
+    {
+      "surface": "ובחצר",
+      "gloss": "و در حَصَرْ‌"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "شوعال"
+    },
+    {
+      "surface": "ובבאר",
+      "gloss": "و در بئرْ‌"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شِبع"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "و آبادی‌هایش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:33:59.410026529Z",
+  "model": "glm-5.2"
+}

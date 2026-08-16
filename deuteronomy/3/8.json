@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و ما در آن هنگام ⟨את⟩ زمین را از دستِ دو پادشاهِ اموری گرفتیم، آن‌که در آن‌سوی یاردُن بود، از وادیٔ اَرنون تا کوهِ حَرمون.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "و ما گرفتیم"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "در هنگامِ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "از دستِ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "اموری"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آن‌که"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "در آن‌سوی"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یاردُن"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "از وادیٔ"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "اَرنون"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کوهِ"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "حَرمون"
+    }
+  ],
+  "timestamp": "2026-08-13T20:43:44.590963955Z",
+  "model": "glm-5.2"
+}

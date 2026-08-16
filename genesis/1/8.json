@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و الوهیم گستره را آسمان‌ها خواند؛ و شد غروب، و شد صبح، روز دوم.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "و خواند"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "گستره را"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمان‌ها"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "غروب"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دوم"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:09.799028815Z",
+  "model": "glm-5.2"
+}

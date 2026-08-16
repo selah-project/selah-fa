@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "زمینِ گندم و جو و مو و انجیر و انار، زمینِ زیتونِ روغن و عسل.",
+  "tokens": [
+    {
+      "surface": "אֶרֶץ",
+      "gloss": "زمینِ"
+    },
+    {
+      "surface": "חִטָּה",
+      "gloss": "گندم"
+    },
+    {
+      "surface": "וּשְׂעֹרָה",
+      "gloss": "و جو"
+    },
+    {
+      "surface": "וְגֶפֶן",
+      "gloss": "و مو"
+    },
+    {
+      "surface": "וּתְאֵנָה",
+      "gloss": "و انجیر"
+    },
+    {
+      "surface": "וְרִמּוֹן",
+      "gloss": "و انار"
+    },
+    {
+      "surface": "אֶרֶץ",
+      "gloss": "زمینِ"
+    },
+    {
+      "surface": "זֵית",
+      "gloss": "زیتونِ"
+    },
+    {
+      "surface": "שֶׁמֶן",
+      "gloss": "روغن"
+    },
+    {
+      "surface": "וּדְבָשׁ",
+      "gloss": "و عسل"
+    }
+  ],
+  "timestamp": "2026-08-13T20:45:36.110135742Z",
+  "model": "glm-5.2"
+}

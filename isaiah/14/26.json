@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "isaiah 14:26",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "این ⟨است⟩ مشورتی که بر تمام زمین مشورت شده است، و این دستِ گشوده‌شده بر تمام ملت‌هاست.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "مشورت"
+    },
+    {
+      "surface": "היעוצה",
+      "gloss": "مشورت‌شده"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "و این"
+    },
+    {
+      "surface": "היד",
+      "gloss": "دست"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "گشوده‌شده"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ملت‌ها"
+    }
+  ],
+  "timestamp": "2026-08-15T17:38:19.881347716Z",
+  "model": "glm-5.3"
+}

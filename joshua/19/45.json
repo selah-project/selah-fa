@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 19:45",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و یهود، و بْنِی-بَرَق، و گات ریمون",
+  "tokens": [
+    {
+      "surface": "וִיהֻ֥ד",
+      "gloss": "و یهود"
+    },
+    {
+      "surface": "וּבְנֵֽי",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "בְרַ֖ק",
+      "gloss": "بَرَق"
+    },
+    {
+      "surface": "וְגַת",
+      "gloss": "و گات"
+    },
+    {
+      "surface": "רִמּֽוֹן",
+      "gloss": "ریمون"
+    }
+  ],
+  "timestamp": "2026-08-13T20:59:06.957597930Z",
+  "model": "glm-5.2"
+}

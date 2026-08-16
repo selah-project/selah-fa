@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 16:27",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "هیبت و شکوه پیشِ رویِ او ⟨هست⟩، عزّت و شادی در جایگاهِ او.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "هیبت"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "و شکوه"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "پیشِ رویِ او"
+    },
+    {
+      "surface": "עז",
+      "gloss": "عزّت"
+    },
+    {
+      "surface": "וחדוה",
+      "gloss": "و شادی"
+    },
+    {
+      "surface": "במקמו",
+      "gloss": "در جایگاهِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:39:23.436355755Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 118:22",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 118,
+  "translation": "سنگی که بناکنندگان رد کردند، به سرِ گوشه شده است.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "سنگی"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "رد کردند"
+    },
+    {
+      "surface": "הבונים",
+      "gloss": "بناکنندگان"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "شد"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "به سرِ"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "گوشه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:54:40.397262810Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "رئیس قِناز، رئیس تِیمان، رئیس میبصَر.",
+  "tokens": [
+    {
+      "surface": "אַלּ֥וּף",
+      "gloss": "رئیس"
+    },
+    {
+      "surface": "קְנַ֛ז",
+      "gloss": "قِناز"
+    },
+    {
+      "surface": "אַלּ֥וּף",
+      "gloss": "رئیس"
+    },
+    {
+      "surface": "תֵּימָ֖ן",
+      "gloss": "تِیمان"
+    },
+    {
+      "surface": "אַלּ֥וּף",
+      "gloss": "رئیس"
+    },
+    {
+      "surface": "מִבְצָֽר",
+      "gloss": "میبصَر"
+    }
+  ],
+  "timestamp": "2026-08-13T20:05:05.639424977Z",
+  "model": "glm-5.2"
+}

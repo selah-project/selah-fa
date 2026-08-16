@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 19:35",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و شهرهایِ دژ‌مانند: هَصِّیدیم، صِیر، و حَمّات، راقّات، و کینّارِت.",
+  "tokens": [
+    {
+      "surface": "וערי",
+      "gloss": "و شهرهای"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "دژ"
+    },
+    {
+      "surface": "הצדים",
+      "gloss": "هَصِّیدیم"
+    },
+    {
+      "surface": "צר",
+      "gloss": "صِیر"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "و حَمّات"
+    },
+    {
+      "surface": "רקת",
+      "gloss": "راقّات"
+    },
+    {
+      "surface": "וכנרת",
+      "gloss": "و کینّارِت"
+    }
+  ],
+  "timestamp": "2026-08-13T20:59:07.847571361Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "خواستِ آدمی، فداکاریِ ⟨اوست⟩؛ و بهتر است نیازمند از مردِ دروغ‌گو.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "خواستِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "فداکاریِ ⟨اوست⟩"
+    },
+    {
+      "surface": "وטוב",
+      "gloss": "و بهتر است"
+    },
+    {
+      "surface": "רש",
+      "gloss": "نیازمند"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "از مردِ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "دروغ‌گو"
+    }
+  ],
+  "timestamp": "2026-08-14T00:14:05.917658795Z",
+  "model": "glm-5.2"
+}

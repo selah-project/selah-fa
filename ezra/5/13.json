@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "ezra 5:13",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "اما در سالِ یکم کورُش پادشاهِ بابل، کورُش پادشاه فرمانی نهاد که این خانهٔ الوهیم بنا شود.",
+  "tokens": [
+    {
+      "surface": "ברם",
+      "gloss": "اما"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "در سالِ"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "یکم"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "کورُش"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "די",
+      "gloss": "ِ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "کورُش"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نهاد"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "فرمانی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانهٔ"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "این"
+    },
+    {
+      "surface": "לבנא",
+      "gloss": "تا بنا شود"
+    }
+  ],
+  "timestamp": "2026-08-15T04:32:22.146293733Z",
+  "model": "glm-5.3"
+}

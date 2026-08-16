@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 36:18",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "و باروخ به ایشان گفت: از دهانِ او بر من خوانده شد ⟨את⟩ همهٔ این سخنان، و من بر کتاب با مرکب می‌نوشتم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "به ایشان"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "باروخ"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "از دهانِ او"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "خوانده شد"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "این سخنان"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "این"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "و من"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "می‌نوشتم"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "کتاب"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "با مرکب"
+    }
+  ],
+  "timestamp": "2026-08-13T22:06:39.450346246Z",
+  "model": "glm-5.2"
+}

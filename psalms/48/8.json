@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 48,
+  "translation": "با بادِ شرقی ⟨تو⟩ کشتی‌های تَرشیش را می‌شکافی.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "با بادِ"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "شرقی"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "می‌شکافی"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "کشتی‌های"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "تَرشیش"
+    }
+  ],
+  "timestamp": "2026-08-13T22:43:41.668139021Z",
+  "model": "glm-5.2"
+}

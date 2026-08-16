@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "esther 9:26",
+  "book": "esther",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "بر این اساس خواندند این روزها را پوریم، به نامِ پور. بر این اساس، بر همهٔ سخنانِ این نامه، و آنچه دیدند چنین، و آنچه به آنان رسید.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "این اساس"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "خواندند"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "روزها را"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "این"
+    },
+    {
+      "surface": "פורים",
+      "gloss": "پوریم"
+    },
+    {
+      "surface": "על",
+      "gloss": "به"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نامِ"
+    },
+    {
+      "surface": "הפור",
+      "gloss": "پور"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "این اساس"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "سخنانِ"
+    },
+    {
+      "surface": "האגרת",
+      "gloss": "نامه"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "و آنچه"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "دیدند"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "و آنچه"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "رسید"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "به آنان"
+    }
+  ],
+  "timestamp": "2026-08-14T00:16:35.724806829Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 48,
+  "translation": "لرزه ⟨آنها⟩ را فرا گرفت، آنجا — درد، چون ⟨زنِ⟩ زایو.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "لرزه"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "فرا گرفت"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آنجا"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "درد"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "چون ⟨زنِ⟩ زایو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:43:41.668026461Z",
+  "model": "glm-5.2"
+}

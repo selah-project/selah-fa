@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و یاهوه به شما دلِ برای دانستن، و چشم‌هایی برای دیدن، و گوش‌هایی برای شنیدن نداد، تا روزِ امروز.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "داد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "لכם",
+      "gloss": "به شما"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "برای دانستن"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "و چشم‌هایی"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "برای دیدن"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "و گوش‌هایی"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "برای شنیدن"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روزِ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    }
+  ],
+  "timestamp": "2026-08-13T20:52:12.236224236Z",
+  "model": "glm-5.2"
+}

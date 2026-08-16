@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و یعقوو گفت: «امروز ⟨את⟩ حقِ نخست‌زادیِت را به من بفروش.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "بفروش"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "امروز"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حقِ نخست‌زادیِت"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "حقِ نخست‌زادیِت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "به من"
+    }
+  ],
+  "timestamp": "2026-08-13T20:01:31.924501923Z",
+  "model": "glm-5.2"
+}

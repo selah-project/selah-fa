@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 92,
+  "translation": "هنوز در پیری میوه می‌آورند، شاداب و سرسبز باشند.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "هنوز"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "میوه می‌آورند"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "در پیری"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "شاداب"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "و سرسبز"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "باشند"
+    }
+  ],
+  "timestamp": "2026-08-13T22:50:57.216553136Z",
+  "model": "glm-5.2"
+}

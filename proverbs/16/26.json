@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 16:26",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "نفسِ زحمتکش برایش به زحمت کار می‌کند، که دهانش او را وامی‌دارد.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "زحمتکش"
+    },
+    {
+      "surface": "עמלה",
+      "gloss": "به زحمت کار می‌کند"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برایش"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אכף",
+      "gloss": "وامی‌دارد"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "او را"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "دهانش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:35.806009311Z",
+  "model": "glm-5.2"
+}

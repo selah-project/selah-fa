@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "زیرا انسانی نیست که عادل باشد بر زمین، که نیکی کند و گناه نکند.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "عادل باشد"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "بر زمین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کند"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیکی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نکند"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "گناه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:08.468839298Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "نه، استوار نمی‌شود انسان در شرارت، و ریشهٔ صدیقان، هرگز تکان نمی‌خورد.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "استوار نمی‌شود"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "در شرارت"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "و ریشهٔ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "صدیقان"
+    },
+    {
+      "surface": "בל",
+      "gloss": "هرگز"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "تکان نمی‌خورد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:01:39.041838463Z",
+  "model": "glm-5.2"
+}

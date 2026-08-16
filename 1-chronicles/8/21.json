@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و عَدَیاه، و وَرایاه، و شیمرات — پسرانِ شیمعی.",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "و عَدَیاه"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "و وَرایاه"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "و شیمرات"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شیمعی"
+    }
+  ],
+  "timestamp": "2026-08-15T04:33:30.896115354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "بر گردنِ ما تعقیبمان کردند؛ خسته شدیم، ⟨و⟩ به ما آرام داده نشد.",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "צַוָּארֵנוּ",
+      "gloss": "گردنِ ما"
+    },
+    {
+      "surface": "נִרְדָּפְנוּ",
+      "gloss": "تعقیبمان کردند"
+    },
+    {
+      "surface": "יָגַעְנוּ",
+      "gloss": "خسته شدیم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "הוּנַח",
+      "gloss": "آرام داده شد"
+    },
+    {
+      "surface": "לָנוּ",
+      "gloss": "به ما"
+    }
+  ],
+  "timestamp": "2026-08-13T23:19:32.154244261Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 18:13",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "پاسخ‌دادنِ سخنی را پیش از آنکه بشنود، نادانیِ اوست و خجالت.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "پاسخ‌دادنِ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخنی را"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "پیش از"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "آنکه بشنود"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "نادانیِ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اوست"
+    },
+    {
+      "surface": "לו",
+      "gloss": "او"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "و خجالت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:13.486985120Z",
+  "model": "glm-5.2"
+}

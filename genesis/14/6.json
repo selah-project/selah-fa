@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و ⟨את⟩ حوریان را در کوهِشان سَعیر، تا اِیل فاران که بر کویر است.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "حوریان"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "حوریان"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "در کوهِشان"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سَعیر"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "איל",
+      "gloss": "اِیل"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "فاران"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "کویر"
+    }
+  ],
+  "timestamp": "2026-08-13T19:57:44.375179356Z",
+  "model": "glm-5.2"
+}

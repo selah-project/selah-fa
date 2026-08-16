@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و خشم را از دلِ خود بردار، و بدی را از تنِ خود بگذران، که جوانی و سپیده‌دم، هَبَل است.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "و بردار"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "خشم"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "از دلِ تو"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "و بگذران"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "از تنِ تو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "הילدות",
+      "gloss": "جوانی"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "و سپیده‌دم"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هَبَل"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:45.408955911Z",
+  "model": "glm-5.2"
+}

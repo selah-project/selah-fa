@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "وَ یاعکوو دلِ لاوَانِ اَرامی را ⟨את⟩ دزدید، بر آنکه به او خبر نداد که ⟨هو⟩ می‌گریزد،",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "وَ دزدید"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعکوو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دلِ لاوَانِ اَرامی را"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دلِ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لاوَانِ"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "اَرامی را"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "آنکه"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "خبر نداد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "می‌گریزد"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T20:03:43.446923542Z",
+  "model": "glm-5.2"
+}

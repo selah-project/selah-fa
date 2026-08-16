@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 11:23",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و جلالِ یاهوه از میانِ شهر برخاست، و بر کوهی که در مشرقِ شهر است ایستاد.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "و برخاست"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلالِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "از"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "میانِ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "و ایستاد"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "کوهی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "در مشرقِ"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "شهر"
+    }
+  ],
+  "timestamp": "2026-08-13T22:13:37.939818767Z",
+  "model": "glm-5.2"
+}

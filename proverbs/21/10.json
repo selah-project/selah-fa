@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "نفسِ شریر بد را می‌خواهد؛ همسایه‌اش در چشمانش هرگز نعمت نمی‌یابد.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "نفسِ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شریر"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "می‌خواهد"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه\/هرگز"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "نعمت می‌یابد"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "در چشمانش"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "همسایه‌اش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:20.495098534Z",
+  "model": "glm-5.2"
+}

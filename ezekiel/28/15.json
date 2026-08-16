@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 28:15",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "کامل بودی در راه‌هایت، از روزِ آفریده‌شدنت تا یافته‌شدِ بی‌داد در تو.",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "کامل"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "بودی"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "در راه‌هایت"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "از روزِ"
+    },
+    {
+      "surface": "הבראך",
+      "gloss": "آفریده‌شدنت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "یافته‌شدِ"
+    },
+    {
+      "surface": "עולתה",
+      "gloss": "بی‌داد"
+    },
+    {
+      "surface": "בך",
+      "gloss": "در تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:19:20.147288960Z",
+  "model": "glm-5.2"
+}

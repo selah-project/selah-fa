@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "ساق‌هایش از آهن، پاهایش بخشی از آهن و بخشی از گلِ خام.",
+  "tokens": [
+    {
+      "surface": "שָׁק֖וֹהִי",
+      "gloss": "ساق‌هایش"
+    },
+    {
+      "surface": "דִּ֣י",
+      "gloss": "از"
+    },
+    {
+      "surface": "פַרְזֶ֑ל",
+      "gloss": "آهن"
+    },
+    {
+      "surface": "רַגְל֕וֹהִי",
+      "gloss": "پاهایش"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "بخشی"
+    },
+    {
+      "surface": "דִּ֣י",
+      "gloss": "از"
+    },
+    {
+      "surface": "פַרְזֶ֔ל",
+      "gloss": "آهن"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "و بخشی"
+    },
+    {
+      "surface": "דִּ֥י",
+      "gloss": "از"
+    },
+    {
+      "surface": "חֲסַֽף",
+      "gloss": "گلِ خام"
+    }
+  ],
+  "timestamp": "2026-08-13T23:24:56.121331243Z",
+  "model": "glm-5.2"
+}

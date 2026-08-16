@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 13:22",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "و مَنوح به زنِ خود گفت: «مُردیم می‌میریم، زیرا الوهیم را دیده‌ایم.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "مَنوح"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "زنِ او"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مُردن"
+    },
+    {
+      "surface": "نמות",
+      "gloss": "می‌میریم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "دیده‌ایم"
+    }
+  ],
+  "timestamp": "2026-08-13T21:04:28.764784314Z",
+  "model": "glm-5.2"
+}

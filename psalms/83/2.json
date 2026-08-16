@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 83,
+  "translation": "ای الوهیم، خاموش مبر؛ بر سرت سکوت مساز و بی‌سروصدا مباش، ای اِل.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ای الوهیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "خاموش مبر"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بر سرت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "سکوت مساز"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "بی‌سروصدا مباش"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ای اِل"
+    }
+  ],
+  "timestamp": "2026-08-13T22:49:08.179672619Z",
+  "model": "glm-5.2"
+}

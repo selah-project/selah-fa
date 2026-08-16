@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 3:6",
+  "book": "amos",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "آیا دمیده شود شوفاری در شهر و قومی نلرزند؟ آیا رخ دهد بدی‌ای در شهر و یاهوه نساخته باشد؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "دمیده شود"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شوفاری"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "در شهر"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "و قومی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "لرزند"
+    },
+    {
+      "surface": "אם",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "رخ دهد"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدی‌ای"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "در شهر"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "و یاهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ساخته باشد"
+    }
+  ],
+  "timestamp": "2026-08-13T22:28:48.927060259Z",
+  "model": "glm-5.2"
+}

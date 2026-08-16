@@ -1,0 +1,49 @@
+{
+  "tier": "4.6",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "به یاهوه برای همیشه توکّل کنید، زیرا در یاه، یاهوه صخرهٔ ادوار است.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "توکّل کنید"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "به یاهوه"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "برای"
+    },
+    {
+      "surface": "עד",
+      "gloss": "همیشه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "در یاه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "צור",
+      "gloss": "صخرهٔ"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ادوار"
+    }
+  ],
+  "timestamp": "2026-08-15T04:19:06.669503283Z",
+  "model": "glm-4.6"
+}

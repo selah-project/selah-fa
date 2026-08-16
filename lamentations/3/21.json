@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "این را برمی‌گردانم به دلِ من؛ بر این اساس امید می‌ورزم.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "برمی‌گردانم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دلِ من"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "این اساس"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "امید می‌ورازم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:17:58.233858261Z",
+  "model": "glm-5.2"
+}

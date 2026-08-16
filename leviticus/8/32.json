@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و آنچه از گوشت و از نان باقی می‌ماند را در آتش بسوزانید.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "و آنچه باقی می‌ماند"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "از گوشت"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "و از نان"
+    },
+    {
+      "surface": "באש",
+      "gloss": "در آتش"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "بسوزانید"
+    }
+  ],
+  "timestamp": "2026-08-13T20:24:31.078283912Z",
+  "model": "glm-5.2"
+}

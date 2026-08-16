@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 13:7",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "برای سبطِ یِساکار، یِگال پسرِ یوسف.",
+  "tokens": [
+    {
+      "surface": "לְמַטֵּה",
+      "gloss": "برای سبطِ"
+    },
+    {
+      "surface": "יִשָּׂשכָר",
+      "gloss": "یِساکار"
+    },
+    {
+      "surface": "יִגְאָל",
+      "gloss": "یِگال"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "יוֹסֵף",
+      "gloss": "یوسف"
+    }
+  ],
+  "timestamp": "2026-08-13T20:34:30.659605375Z",
+  "model": "glm-5.2"
+}

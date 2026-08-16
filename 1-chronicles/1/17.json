@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 1:17",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "پسرانِ شِم: عِیلام، و اَشّور، و اَرفَخْشاد، و لود، و اَرام، و عوص، و حول، و گِتِر، و مَشِک.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شِم"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عِیلام"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "و اَشّور"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "و اَرفَخْشاد"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "و لود"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "و اَرام"
+    },
+    {
+      "surface": "ועוץ",
+      "gloss": "و عوص"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "و حول"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "و گِتِر"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "و مَشِک"
+    }
+  ],
+  "timestamp": "2026-08-14T00:17:28.588017049Z",
+  "model": "glm-5.2"
+}

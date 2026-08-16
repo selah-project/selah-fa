@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "نغمِ گناه به رشیک، در میانِ دلِ من ⟨است⟩: هراسِ الوهیم پیشِ چشمانِ او نیست.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "نغمِ"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "گناه"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "به رشیک"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "در میانِ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دلِ من"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "هراسِ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "پیشِ"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "چشمانِ او"
+    }
+  ],
+  "timestamp": "2026-08-15T17:39:55.640831941Z",
+  "model": "glm-5.3"
+}

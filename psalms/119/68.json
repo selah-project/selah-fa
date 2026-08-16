@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 119,
+  "translation": "تو خوبی و نیکی می‌کنی؛ فرمان‌هایت را به من بیاموز.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "خوب"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "و نیکی می‌کنی"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "به من بیاموز"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "فرمان‌هایت را"
+    }
+  ],
+  "timestamp": "2026-08-13T22:55:51.469616568Z",
+  "model": "glm-5.2"
+}

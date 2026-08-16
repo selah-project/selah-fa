@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 8:34",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "چنان‌که در روزِ این انجام شد، یاهوه فرمان داد تا انجام شود تا برای شما کفّاره شود",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "چنان‌که"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "انجام شد"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فرمان داد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "تا انجام شود"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "تا کفّاره شود"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "برای شما"
+    }
+  ],
+  "timestamp": "2026-08-13T20:23:50.988894088Z",
+  "model": "glm-5.2"
+}

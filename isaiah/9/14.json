@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 9:14",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "پیرمرد و برگزیدهٔ چهره، او ⟨است⟩ سر؛ و نبیِ آموزندهٔ دروغ، او ⟨است⟩ دم.",
+  "tokens": [
+    {
+      "surface": "זקן",
+      "gloss": "پیرمرد"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "و برگزیدهٔ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "چهره"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "و نبیِ"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "آموزندهٔ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "הזנב",
+      "gloss": "دم"
+    }
+  ],
+  "timestamp": "2026-08-13T21:43:12.951847798Z",
+  "model": "glm-5.2"
+}

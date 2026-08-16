@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 14:28",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و کاهون از روغنی که بر کفِ اوست بر لالهٔ گوشِ پاک‌شونده، ⟨یعنی⟩ راست می‌گذارد، و بر شستِ دستِ راستِ او، و بر شستِ پاِ راستِ او، بر جایِ خونِ اَشام.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "و گذاشت"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهون"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "روغن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "کفِ او"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "תנוך",
+      "gloss": "لاله"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "گوش"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "پاک‌شونده"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "راست"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "شست"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دستِ او"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "راست"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "شست"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "پاِ او"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "راست"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جای"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "اَشام"
+    }
+  ],
+  "timestamp": "2026-08-13T20:25:37.137058675Z",
+  "model": "glm-5.2"
+}

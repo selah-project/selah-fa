@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "بندگان بر ما فرمان راندند؛ رهاننده‌ای از دستِ ایشان نیست.",
+  "tokens": [
+    {
+      "surface": "עֲבָדִים",
+      "gloss": "بندگان"
+    },
+    {
+      "surface": "מָשְׁלוּ",
+      "gloss": "فرمان راندند"
+    },
+    {
+      "surface": "בָנוּ",
+      "gloss": "بر ما"
+    },
+    {
+      "surface": "פֹּרֵק",
+      "gloss": "رهاننده"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "מִיָּדָם",
+      "gloss": "از دستِ ایشان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:19:32.154750672Z",
+  "model": "glm-5.2"
+}

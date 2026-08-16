@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و نوح، الطافِ یافتن در چشمانِ یاهوه.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "و نوح"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "یافت"
+    },
+    {
+      "surface": "חן",
+      "gloss": "الطاف"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "در چشمانِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:53:42.795343947Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 109,
+  "translation": "بادند پسرانش یتیمان، و همسرش بیوه.",
+  "tokens": [
+    {
+      "surface": "יִֽהְיוּ",
+      "gloss": "بادند"
+    },
+    {
+      "surface": "בָנָ֥יו",
+      "gloss": "پسرانش"
+    },
+    {
+      "surface": "יְתוֹמִ֑ים",
+      "gloss": "یتیمان"
+    },
+    {
+      "surface": "וְ֝אִשְׁתּוֹ",
+      "gloss": "و همسرش"
+    },
+    {
+      "surface": "אַלְמָנָֽה",
+      "gloss": "بیوه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:53:52.871142085Z",
+  "model": "glm-5.2"
+}

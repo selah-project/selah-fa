@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و ⟨את⟩ او به درونِ خانه‌ات بیاوری، و او سرِ خود را تراشد، و ⟨את⟩ ناخن‌هایش را کوتاه کند،",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "و بیاوری"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "درونِ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "خانه‌ات"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "و تراشد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سرِ خود"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "سرِ خود"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "و کند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناخن‌هایش"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "ناخن‌هایش"
+    }
+  ],
+  "timestamp": "2026-08-13T20:49:15.941652988Z",
+  "model": "glm-5.2"
+}

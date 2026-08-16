@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 27:12",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "زیرک، بدی را دید و پنهان شد؛ ساده‌لوحان عبور کردند و مجازات شدند.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "زیرک"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "دید"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدی را"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "و پنهان شد"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "ساده‌لوحان"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "عبور کردند"
+    },
+    {
+      "surface": "נענשו",
+      "gloss": "و مجازات شدند"
+    }
+  ],
+  "timestamp": "2026-08-13T23:05:42.860475175Z",
+  "model": "glm-5.2"
+}

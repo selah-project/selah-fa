@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 106,
+  "translation": "و آب‌ها بر ستمگرانِ ایشان پوشانیدند، یکی از ایشان نماند.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "وپوشانیدند"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آب‌ها"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "بر ستمگرانِ ایشان"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "از ایشان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "نماند"
+    }
+  ],
+  "timestamp": "2026-08-13T22:52:51.204296076Z",
+  "model": "glm-5.2"
+}

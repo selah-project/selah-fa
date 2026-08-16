@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و رام ⟨את⟩ عَمّیناداو را زاد، و عَمّیناداو ⟨את⟩ نَحشون را زاد، نَسیِ پسرانِ یهودا.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "و رام"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عَمّیناداو"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "عَمّیناداو"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "و عَمّیناداو"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نَحشون"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "نَحشون"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "نَسی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:15.798129605Z",
+  "model": "glm-5.2"
+}

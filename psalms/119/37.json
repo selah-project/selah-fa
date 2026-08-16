@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 119:37",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 119,
+  "translation": "بگذران چشمِ مرا از دیدنِ باطل، در راهِ تو مرا زنده کن.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "بگذران"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "چشمِ مرا"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "از دیدنِ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "باطل"
+    },
+    {
+      "surface": "בדרכך",
+      "gloss": "در راهِ تو"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "مرا زنده کن"
+    }
+  ],
+  "timestamp": "2026-08-13T22:54:57.792677105Z",
+  "model": "glm-5.2"
+}

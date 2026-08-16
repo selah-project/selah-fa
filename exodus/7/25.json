@@ -1,0 +1,46 @@
+{
+  "tier": "4.6",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و هفت روز پر شد، پس از ⟨آنکه⟩ یاهوه ⟨את⟩ نیل را زد",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "و پر شد"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روز"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پس از"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "زدن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نیل"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "نیل"
+    }
+  ],
+  "timestamp": "2026-08-15T03:46:16.522260985Z",
+  "model": "glm-4.6"
+}

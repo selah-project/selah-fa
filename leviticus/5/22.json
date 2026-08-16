@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 5:22",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "یا چیزی گم‌شده بیابد و در آن دروغ گوید، و بر دروغ قسم بخورد، بر یکی از همهٔ آنچه آدمی می‌کند تا به آن بگناهد؛",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "بیابد"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "چیزی گم‌شده"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "و دروغ گوید"
+    },
+    {
+      "surface": "בה",
+      "gloss": "در آن"
+    },
+    {
+      "surface": "ונשבע",
+      "gloss": "و قسم بخورد"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغ"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "از همهٔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنچه"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "می‌کند"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "تا بگناهد"
+    },
+    {
+      "surface": "בהנה",
+      "gloss": "به آن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:23:05.865975748Z",
+  "model": "glm-5.2"
+}

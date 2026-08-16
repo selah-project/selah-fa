@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 23:20",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "و برپا شد صفت و غاری که در آن است، برای اَوراهام، برای مِلکِ قبر، ⟨את⟩ از پسرانِ حِت.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "و برپا شد"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "صفت"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "و غار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در آن"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "برای اَوراهام"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "برای مِلکِ"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "قبر"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "پسرانِ حِت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "حِت"
+    }
+  ],
+  "timestamp": "2026-08-13T20:00:18.972892810Z",
+  "model": "glm-5.2"
+}

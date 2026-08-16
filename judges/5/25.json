@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 5:25",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "آب خواست، ⟨את⟩ شیر داد — در کاسهٔ بزرگان، پنیرِ تازه نزدیک آورد.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "آب"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "خواست"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "داد"
+    },
+    {
+      "surface": "בספל",
+      "gloss": "در کاسه"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "بزرگان"
+    },
+    {
+      "surface": "הקריבה",
+      "gloss": "نزدیک آورد"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "پنیرِ تازه"
+    }
+  ],
+  "timestamp": "2026-08-13T21:01:44.434440713Z",
+  "model": "glm-5.2"
+}

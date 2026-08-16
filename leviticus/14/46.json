@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و ⟨هرکه⟩ واردِ خانه شود، همهٔ روزهایِ بسته‌بودنِ ⟨את⟩ آن، نجس می‌شود تا غروب.",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "و ⟨هرکه⟩ واردِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "خانه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روزهایِ"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "بسته‌بودنِ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "آن"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "نجس می‌شود"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "غروب"
+    }
+  ],
+  "timestamp": "2026-08-13T20:25:55.915073263Z",
+  "model": "glm-5.2"
+}

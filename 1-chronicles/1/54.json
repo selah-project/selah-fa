@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 1:54",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "رئیس مَگدی‌اِل، رئیس عیرام. این‌ها رؤسای ⟨هستند⟩ ادوم.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "رئیس"
+    },
+    {
+      "surface": "מגדיאל",
+      "gloss": "مَگدی‌اِل"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "رئیس"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "عیرام"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "رؤسای"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:53.458835334Z",
+  "model": "glm-5.2"
+}

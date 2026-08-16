@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "exodus 36:22",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "دو زبانه برای آن تختهٔ یک، درهم‌گرفته یکی ⟨به⟩ دیگری؛ چنین ساخت برای همهٔ تخته‌های مسکِن.",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ידת",
+      "gloss": "زبانه"
+    },
+    {
+      "surface": "לקרש",
+      "gloss": "برای تختهٔ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "משלבת",
+      "gloss": "درهم‌گرفته"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨به⟩"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "دیگری"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ساخت"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "برای همهٔ"
+    },
+    {
+      "surface": "קרשי",
+      "gloss": "تخته‌های"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکِن"
+    }
+  ],
+  "timestamp": "2026-08-15T03:49:13.015297193Z",
+  "model": "glm-5.3"
+}

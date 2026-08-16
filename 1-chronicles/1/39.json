@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 1:39",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و پسرانِ لوطان: حوری، و هومام؛ و خواهرِ لوطان ⟨است⟩ تیمناع.",
+  "tokens": [
+    {
+      "surface": "וּבְנֵ֥י",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "לוֹטָ֖ן",
+      "gloss": "لوطان"
+    },
+    {
+      "surface": "חֹרִ֣י",
+      "gloss": "حوری"
+    },
+    {
+      "surface": "וְהוֹמָ֑ם",
+      "gloss": "و هومام"
+    },
+    {
+      "surface": "וַאֲח֥וֹת",
+      "gloss": "و خواهرِ"
+    },
+    {
+      "surface": "לוֹטָ֖ן",
+      "gloss": "لوطان"
+    },
+    {
+      "surface": "תִּמְנָֽע",
+      "gloss": "تیمناع"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:53.709581758Z",
+  "model": "glm-5.2"
+}

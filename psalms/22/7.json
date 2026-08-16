@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "و من کَرم و نه مردم؛ ننگِ آدمیان و خوارِ قوم.",
+  "tokens": [
+    {
+      "surface": "וְאָנֹכִ֣י",
+      "gloss": "و من"
+    },
+    {
+      "surface": "תוֹלַ֣עַת",
+      "gloss": "کَرم"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "אִ֑ישׁ",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "חֶרְפַּ֥ת",
+      "gloss": "ننگِ"
+    },
+    {
+      "surface": "אָ֝דָ֗ם",
+      "gloss": "آدمیان"
+    },
+    {
+      "surface": "וּבְז֥וּי",
+      "gloss": "و خوارِ"
+    },
+    {
+      "surface": "עָֽם",
+      "gloss": "قوم"
+    }
+  ],
+  "timestamp": "2026-08-13T22:39:39.349701362Z",
+  "model": "glm-5.2"
+}

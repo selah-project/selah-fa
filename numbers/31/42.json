@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 31:42",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و از نیمهٔ بنی‌یِسرائیل، که موشه از مردان جنگی جدا کرد،",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "و از نیمهٔ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "جدا کرد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "مردان"
+    },
+    {
+      "surface": "הצבאים",
+      "gloss": "جنگی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:40:44.567095978Z",
+  "model": "glm-5.2"
+}

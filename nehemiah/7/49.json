@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "nehemiah 7:49",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "پسرانِ خَنان، پسرانِ گیدّل، پسرانِ گاحَر،",
+  "tokens": [
+    {
+      "surface": "בְּנֵי",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "חָנָ֥ן",
+      "gloss": "خَنان"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "גִדֵּ֖ל",
+      "gloss": "گیدّل"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "גָֽחַר",
+      "gloss": "گاحَر"
+    }
+  ],
+  "timestamp": "2026-08-13T23:32:58.540071748Z",
+  "model": "glm-5.2"
+}

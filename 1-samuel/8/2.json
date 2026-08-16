@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "1-samuel 8:2",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و نامِ پسرِ بزرگش یوئیل بود و نامِ دومِ او اَویا؛ ایشان در بئر شِئوَع داوران بودند.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نامِ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "بزرگش"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "یوئیل"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "و نامِ"
+    },
+    {
+      "surface": "משנהו",
+      "gloss": "دومِ او"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "اَویا"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "داوران"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "در بئر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شِئوَع"
+    }
+  ],
+  "timestamp": "2026-08-15T04:00:52.079060215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "4.6",
+  "verse": 17,
+  "ref": "genesis 9:17",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و الوهیم به نوح گفت: این ⟨هست⟩ نشان پیمانی که میان من و میان همهٔ گوشتی که ⟨بر⟩ زمین ⟨است⟩ برپا داشتم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "אות",
+      "gloss": "نشان"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "پیمانِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "برپا داشتم"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "میان من"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "و میان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشتی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨بر⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-15T03:28:54.168005499Z",
+  "model": "glm-4.6"
+}

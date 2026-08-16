@@ -1,0 +1,45 @@
+{
+  "ref": "1-kings 4:10",
+  "lang": "fa",
+  "book": "1-kings",
+  "chapter": 4,
+  "verse": 10,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:47:37Z",
+  "translation": "بن-حِسِد در اَروبوت؛ سوکو و همهٔ سرزمینِ حِفِر از آنِ او ⟨بود⟩.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "بن-"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "حِسِد"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "در اَروبوت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "از آنِ او"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "سوکو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و همهٔ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "سرزمینِ"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "حِفِر"
+    }
+  ]
+}

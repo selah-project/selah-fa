@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "که دستِ خود را به سوی آسمان‌ها بالا می‌برم و می‌گویم: به حیاتِ من، که به جهانیان!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "بالا می‌برم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمان‌ها"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "دستِ خود را"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "و می‌گویم"
+    },
+    {
+      "surface": "חי",
+      "gloss": "به حیاتِ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "که به جهانیان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:52:28.089768280Z",
+  "model": "glm-5.2"
+}

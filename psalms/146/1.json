@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 146,
+  "translation": "ستایش گویید یاه! ستایش کن، ای جانِ من، ⟨את⟩ یاهوه را.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ستایش گویید"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "ستایش کن"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ای جانِ من"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:58:35.151097947Z",
+  "model": "glm-5.2"
+}

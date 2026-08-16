@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و اگر برای او دختری نیست، پس شما ⟨את⟩ میراث او را به برادرانش بدهید.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برای او"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دختر"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "و شما بدهید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میراث او"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "میراث او"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "به برادرانش"
+    }
+  ],
+  "timestamp": "2026-08-13T20:40:00.362540987Z",
+  "model": "glm-5.2"
+}

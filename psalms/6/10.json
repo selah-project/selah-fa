@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "یاهوه التماسِ مرا شنیده است؛ یاهوه ⟨את⟩ دعای مرا می‌پذیرد.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "شنیده است"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "التماسِ مرا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "دعای مرا"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "می‌پذیرد"
+    }
+  ],
+  "timestamp": "2026-08-13T22:37:10.039859882Z",
+  "model": "glm-5.2"
+}

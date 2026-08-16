@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 14:27",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و لوی‌ای که در دروازه‌های توست، رهایش نکنی، که او را سهم و میراثی با تو نیست.",
+  "tokens": [
+    {
+      "surface": "והלוי",
+      "gloss": "و لوی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "در دروازه‌های تو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "رهایش کنی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برای او"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "سهم"
+    },
+    {
+      "surface": "ונחלה",
+      "gloss": "و میراث"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "با تو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:47:04.925394279Z",
+  "model": "glm-5.2"
+}

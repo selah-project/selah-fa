@@ -1,0 +1,111 @@
+{
+  "tier": "4.6",
+  "verse": 13,
+  "ref": "exodus 10:13",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و دراز کرد موشه ⟨את⟩ عصایش بر زمین مصر و یاهوه راند بادی شرقی در زمین تمام آن روز و تمام آن شب صبح شد و باد شرقی برداشت ⟨את⟩ ملخ.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "و دراز کرد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عصایش"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "عصایش"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصر"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "و یاهوه"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "راند"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "بادی"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "شرقی"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "در زمین"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "היום",
+      "gloss": "آن روز"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و تمام"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "آن شب"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "היה",
+      "gloss": "شد"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "و باد"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "شرقی"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "برداشت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ملخ"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "ملخ"
+    }
+  ],
+  "timestamp": "2026-08-15T03:49:52.775763878Z",
+  "model": "glm-4.6"
+}

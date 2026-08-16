@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 13:41",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "و اگر از کنارِ رویِ او سرِ او تَسَنَّد، گیبّاح است او، طاهور است او.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "از کنارِ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "رویِ او"
+    },
+    {
+      "surface": "ימרט",
+      "gloss": "تَسَنَّد"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "سرِ او"
+    },
+    {
+      "surface": "גבח",
+      "gloss": "گیبّاح"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "طاهور"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:25:04.885298580Z",
+  "model": "glm-5.2"
+}

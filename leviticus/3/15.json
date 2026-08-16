@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 3:15",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و ⟨את⟩ دو کلیه، و ⟨את⟩ چربی که بر آن‌هاست، که بر پهلوهاست، و ⟨את⟩ زائدهٔ بر جگر — او با کلیه‌ها برمی‌دارد.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "دو کلیه"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "کلیه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "چربی"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "چربی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "بر آن‌ها"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "پهلوها"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "زائده"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "زائده"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "جگر"
+    },
+    {
+      "surface": "על",
+      "gloss": "با"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "کلیه‌ها"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "برمی‌دارد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:21:54.483617739Z",
+  "model": "glm-5.2"
+}

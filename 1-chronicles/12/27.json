@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 12:27",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "از بنیانِ لاوی، چهار هزار و ششصد.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنیانِ"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "لاوی"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "و شش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:39:01.992776649Z",
+  "model": "glm-5.2"
+}

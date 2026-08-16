@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 41:28",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 41,
+  "translation": "این است سخنی که به پَرعو گفته‌ام: آنچه را که الوهیم می‌کند، به پَرعو ⟨את⟩ نشان داده است.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "او ⟨است⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "سخنِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "گفته‌ام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پَرعو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنچه"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "می‌کند"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "نشان داده است"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پَرعو"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پَرعو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:05:42.850188617Z",
+  "model": "glm-5.2"
+}

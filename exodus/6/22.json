@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 6:22",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و پسرانِ عوزی‌اِل: میشا‌اِل و اِلصافان و سیتری.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "عوزی‌اِل"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "میشا‌اِل"
+    },
+    {
+      "surface": "ואלצפן",
+      "gloss": "و اِلصافان"
+    },
+    {
+      "surface": "וסתרי",
+      "gloss": "و سیتری"
+    }
+  ],
+  "timestamp": "2026-08-13T20:10:33.226438050Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 4:17",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "چون نگاهبانانِ صحرا بر او شدند، از پیرامون، زیرا بر ضدِّ من او سرکشی کرد — نئم یاهوه.",
+  "tokens": [
+    {
+      "surface": "כשמרי",
+      "gloss": "چون نگاهبانانِ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "صحرا"
+    },
+    {
+      "surface": "היו",
+      "gloss": "شدند"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "بر او"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "از پیرامون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "من"
+    },
+    {
+      "surface": "מרתה",
+      "gloss": "سرکشی کرد"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نئم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T21:57:03.605569737Z",
+  "model": "glm-5.2"
+}

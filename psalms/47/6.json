@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 47,
+  "translation": "الوهیم با فریادِ جنگ بالا رفت، یاهوه با صدای شوفار.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "بالا رفت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "با فریادِ جنگ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "با صدای"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شوفار"
+    }
+  ],
+  "timestamp": "2026-08-13T22:43:56.139325654Z",
+  "model": "glm-5.2"
+}

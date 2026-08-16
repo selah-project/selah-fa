@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 2:14",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "نَتانْاِل چهارمین، رَدّای پنجمین.",
+  "tokens": [
+    {
+      "surface": "נתנאל",
+      "gloss": "نَتانْاِل"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "چهارمین"
+    },
+    {
+      "surface": "רדי",
+      "gloss": "رَدّای"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "پنجمین"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:25.336002676Z",
+  "model": "glm-5.2"
+}

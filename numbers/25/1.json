@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 25:1",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و یِسرائیل در شِیتیم نشست، و قوم به زِناکاری بسوی دختران موآب روی آوردند.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "و نشست"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "בשטים",
+      "gloss": "در شِیتیم"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "و آغاز کرد"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "به زِناکاری"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به‌سوی"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "دختران"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    }
+  ],
+  "timestamp": "2026-08-13T20:38:38.663057269Z",
+  "model": "glm-5.2"
+}

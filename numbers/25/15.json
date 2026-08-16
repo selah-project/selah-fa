@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 25:15",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و نامِ زنِ زده‌شده، مِدیانی، کُزبی دخترِ صوُر، سرِ قوم‌ها از خاندانِ پدری در مِدیان، ⟨او⟩.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "و نامِ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "زنِ"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "زده‌شده"
+    },
+    {
+      "surface": "המדינית",
+      "gloss": "مِدیانی"
+    },
+    {
+      "surface": "כזבי",
+      "gloss": "کُزبی"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دخترِ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "صوُر"
+    },
+    {
+      "surface": "رאש",
+      "gloss": "سرِ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "قوم‌ها"
+    },
+    {
+      "surface": "בית",
+      "gloss": "از خاندانِ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پدری"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "در مِدیان"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨او⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T20:38:34.043204219Z",
+  "model": "glm-5.2"
+}

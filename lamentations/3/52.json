@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "شکارکنندِ مرا شکار کردند، مانند پرنده؛ دشمنانِ من، بی‌دلیل",
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "شکارکنندِ"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "مرا شکار کردند"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "مانند پرنده"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "دشمنانِ من"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بی‌دلیل"
+    }
+  ],
+  "timestamp": "2026-08-13T23:17:53.864476065Z",
+  "model": "glm-5.2"
+}

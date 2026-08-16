@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و برای ایشان بود، در میراث‌شان: بئر شِوَع و شِوَع و مولادا.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "להם",
+      "gloss": "برای ایشان"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "در میراث‌شان"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بئر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شِوَع"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "و شِوَع"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "و مولادا"
+    }
+  ],
+  "timestamp": "2026-08-13T20:58:47.127299170Z",
+  "model": "glm-5.2"
+}

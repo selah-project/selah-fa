@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 3:19",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "آویزها و بازوبندها و نقاب‌ها،",
+  "tokens": [
+    {
+      "surface": "הנטיפות",
+      "gloss": "آویزها"
+    },
+    {
+      "surface": "והשירות",
+      "gloss": "و بازوبندها"
+    },
+    {
+      "surface": "והרעלות",
+      "gloss": "و نقاب‌ها"
+    }
+  ],
+  "timestamp": "2026-08-14T00:03:55.258101006Z",
+  "model": "glm-5.2"
+}

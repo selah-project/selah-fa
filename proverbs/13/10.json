@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "تنها از زَرو، نزاع پیدا می‌شود، و ⟨את⟩ مشاوران را حکمت همراهی می‌کند.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "تنها"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "از زَرو"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "پیدا می‌کند"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "نزاع"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "مشاوران"
+    },
+    {
+      "surface": "نועצים",
+      "gloss": "مشاوران"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:01:42.601870511Z",
+  "model": "glm-5.2"
+}

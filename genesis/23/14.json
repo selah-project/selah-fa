@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "و⟨او⟩ پاسخ داد عفرون ⟨את⟩ اَوراهام را، به‌قولِ او:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "و⟨او⟩ پاسخ داد"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "عفرون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَوراهام را"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراهام"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به‌قولِ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:00:16.488120157Z",
+  "model": "glm-5.2"
+}

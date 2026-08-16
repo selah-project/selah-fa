@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "deuteronomy 22:9",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "کِرْمِ خود را با دو گونه ⟨نَه⟩ بکار، مبادا تمامی دانه‌ای که می‌کاری و محصولِ کِرم مقدّس\/مصادره شود.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "بکاری"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "کِرمِ تو"
+    },
+    {
+      "surface": "כלאים",
+      "gloss": "دو گونه"
+    },
+    {
+      "surface": "פן",
+      "gloss": "مبادا"
+    },
+    {
+      "surface": "תקדש",
+      "gloss": "مقدّس\/مصادره شود"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "تمامی"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "دانه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "می‌کاری"
+    },
+    {
+      "surface": "ותבואת",
+      "gloss": "و محصولِ"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "کِرم"
+    }
+  ],
+  "timestamp": "2026-08-15T03:55:29.935210824Z",
+  "model": "glm-5.3"
+}

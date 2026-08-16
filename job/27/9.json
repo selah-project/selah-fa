@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 27:9",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "آیا فریادِ او را اِل می‌شنود، که تنگی بر او بیاید؟",
+  "tokens": [
+    {
+      "surface": "הצעקתו",
+      "gloss": "فریادِ او"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "می‌شنود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "بیاید"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر او"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "تنگی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:11:35.130449551Z",
+  "model": "glm-5.2"
+}

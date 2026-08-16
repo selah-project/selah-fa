@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 97,
+  "translation": "آتش پیشاپیشِ او می‌رود، و دشمنانش را گرداگرد می‌سوزاند.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "آتش"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "پیشاپیشِ او"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "می‌رود"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "و می‌سوزاند"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "گرداگرد"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "دشمنانش را"
+    }
+  ],
+  "timestamp": "2026-08-13T22:51:27.126031537Z",
+  "model": "glm-5.2"
+}

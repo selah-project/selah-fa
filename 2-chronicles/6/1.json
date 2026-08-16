@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "آنگاه شلومه گفت: یاهوه گفت تا ساکن شود در تاریکیِ غلیظ.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "آنگاه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "تا ساکن شود"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "در تاریکیِ غلیظ"
+    }
+  ],
+  "timestamp": "2026-08-13T23:44:10.422237656Z",
+  "model": "glm-5.2"
+}

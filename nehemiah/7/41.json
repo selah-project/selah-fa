@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "nehemiah 7:41",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "پسرانِ پَشْحور: هزار و دویست و چهل و هفت.",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "פַשְׁח֔וּר",
+      "gloss": "پَشْحور"
+    },
+    {
+      "surface": "אֶ֕לֶף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "מָאתַ֖יִם",
+      "gloss": "دویست"
+    },
+    {
+      "surface": "אַרְבָּעִ֥ים",
+      "gloss": "چهل"
+    },
+    {
+      "surface": "וְשִׁבְעָֽה",
+      "gloss": "و هفت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:32:58.684692407Z",
+  "model": "glm-5.2"
+}

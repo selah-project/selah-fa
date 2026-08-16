@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 126,
+  "translation": "یاهوه بزرگ کرده است ⟨تا⟩ با ما انجام دهد؛ ما شادمان بودیم.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "بزرگ کرده است"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "⟨تا⟩ انجام دهد"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "با ما"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "بودیم"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "شادمان"
+    }
+  ],
+  "timestamp": "2026-08-13T22:56:35.757454179Z",
+  "model": "glm-5.2"
+}

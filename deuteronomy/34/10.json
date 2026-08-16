@@ -1,0 +1,61 @@
+{
+  "ref": "deuteronomy 34:10",
+  "lang": "fa",
+  "book": "deuteronomy",
+  "chapter": 34,
+  "verse": 10,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:55:53Z",
+  "translation": "و دیگر پیامبری در یِسرائیل مانند موشه برنخاسته است، که یاهوه او را روی به روی می‌شناخت —",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "קם",
+      "gloss": "برخاسته است"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "پیامبری"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیگر"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "در یِسرائیل"
+    },
+    {
+      "surface": "כמשה",
+      "gloss": "مانند موشه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "او را می‌شناخت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "روی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "روی"
+    }
+  ]
+}

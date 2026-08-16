@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 38:21",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 38,
+  "translation": "و اگر تو نپذیری بیرون آمدن، این است سختی که یاهوه به من نشان داده است:",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "نپذیری"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "بیرون آمدن"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "سختی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "به من نشان داده است"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:07:43.374679786Z",
+  "model": "glm-5.2"
+}

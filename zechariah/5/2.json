@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 5:2",
+  "book": "zechariah",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و ⟨به من⟩ گفت: تو چه می‌بینی؟ و گفتم: من مُگردانی در پرواز می‌بینم؛ درازای آن بیست اَماه و پهنای آن ده اَماه ⟨است⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨به من⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "می‌بینی"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و گفتم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "رאה",
+      "gloss": "می‌بینم"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "مُگردانی"
+    },
+    {
+      "surface": "עפה",
+      "gloss": "در پرواز"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "درازای آن"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "اَماه"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "و پهنای آن"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ده"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "اَماه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:35:27.622301537Z",
+  "model": "glm-5.2"
+}

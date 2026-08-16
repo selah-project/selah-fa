@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "1-chronicles 2:30",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و پسرانِ ناداو: سِلِد و اَپاییم؛ و سِلِد بی‌فرزند مُرد.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ناداو"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "سِلِد"
+    },
+    {
+      "surface": "ואפים",
+      "gloss": "و اَپاییم"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و مُرد"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "سِلِد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پسران\/فرزندان"
+    }
+  ],
+  "timestamp": "2026-08-15T04:33:40.742785235Z",
+  "model": "glm-5.3"
+}

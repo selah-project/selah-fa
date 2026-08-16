@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "به یاد آر، ای یاهوه، چه بر سر ما شده است؛ بنگر و ⟨את⟩ ننگِ ما را ببین.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "به یاد آر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "شده است"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "بر سر ما"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "بنگر"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "و ببین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ننگِ ما"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "ننگِ ما"
+    }
+  ],
+  "timestamp": "2026-08-13T23:19:39.705889463Z",
+  "model": "glm-5.2"
+}

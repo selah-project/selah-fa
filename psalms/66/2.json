@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 66,
+  "translation": "برزِ نامِ او را بزنید، ستایشِ او را شکوهمند سازید.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "برزِ ... را بزنید"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شکوهِ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "نامِ او"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "سازید"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شکوهمند"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ستایشِ او را"
+    }
+  ],
+  "timestamp": "2026-08-13T22:46:08.739703280Z",
+  "model": "glm-5.2"
+}

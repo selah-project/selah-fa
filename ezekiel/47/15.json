@@ -1,0 +1,64 @@
+{
+  "tier": "hand",
+  "verse": 15,
+  "ref": "ezekiel 47:15",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 47,
+  "translation": "و این ⟨است⟩ مرزِ زمین به جانبِ شمال: از دریایِ بزرگ، راهِ حِتلون تا آمدن به تسِدادا.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "و این"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "مرزِ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین",
+      "marks": "زمین"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "به جانبِ"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "شمال"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دریایِ",
+      "marks": "دریا"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "راهِ",
+      "marks": "راه"
+    },
+    {
+      "surface": "חתלן",
+      "gloss": "حِتلون"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "تا آمدن"
+    },
+    {
+      "surface": "צדדה",
+      "gloss": "به تسِدادا"
+    }
+  ],
+  "timestamp": "2026-08-14T17:47:39Z",
+  "model": "claude-fable-5/hand"
+}

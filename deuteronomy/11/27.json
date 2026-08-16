@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 27,
+  "ref": "deuteronomy 11:27",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "⟨את⟩ برکت، آن‌گاه که به فرمان‌های یاهوه الوهیمِ شما گوش دهید، که من امروز ⟨את⟩ به شما فرمان می‌دهم.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "برکت"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "برکت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آن‌گاه که"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "گوش دهید"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "فرمان‌های"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "الوهیمِ شما"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "فرمان می‌دهم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ به شما"
+    },
+    {
+      "surface": "היום",
+      "gloss": "امروز"
+    }
+  ],
+  "timestamp": "2026-08-15T03:55:35.407665826Z",
+  "model": "glm-5.3"
+}

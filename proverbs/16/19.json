@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "خوب است فروتنِ روح، ⟨את⟩ نیازمندان، از قسمت کردنِ غنیمت با ⟨את⟩ متکبران.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "خوب است"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "فروتنِ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نیازمندان"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "نیازمندان"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "از قسمت کردنِ"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "غنیمت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "متکبران"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "متکبران"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:32.207934816Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 116,
+  "translation": "من در شتابِ خویش گفتم: هر انسانی دروغگوست.",
+  "tokens": [
+    {
+      "surface": "אֲנִ֭י",
+      "gloss": "من"
+    },
+    {
+      "surface": "אָמַ֣רְתִּי",
+      "gloss": "گفتم"
+    },
+    {
+      "surface": "בְחָפְזִ֑י",
+      "gloss": "در شتابِ خویش"
+    },
+    {
+      "surface": "כָּֽל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "הָאָדָ֥ם",
+      "gloss": "انسانی"
+    },
+    {
+      "surface": "כֹּזֵֽב",
+      "gloss": "دروغگوست"
+    }
+  ],
+  "timestamp": "2026-08-13T22:54:40.607872180Z",
+  "model": "glm-5.2"
+}

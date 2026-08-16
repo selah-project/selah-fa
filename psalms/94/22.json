@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 94,
+  "translation": "و یاهوه بود برایم به مأوای بلند، و الوهیمم به صخرهٔ پناهگاهم.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برایم"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "به مأوای بلند"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "و الوهیمم"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "به صخرهٔ"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "پناهگاهم"
+    }
+  ],
+  "timestamp": "2026-08-14T00:12:41.645119232Z",
+  "model": "glm-5.2"
+}

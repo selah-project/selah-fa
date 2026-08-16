@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 11:26",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و در یِشوع، و در مولادا، و در بیتْ‌فالِت.",
+  "tokens": [
+    {
+      "surface": "ובישוע",
+      "gloss": "و در یِشوع"
+    },
+    {
+      "surface": "ובמולדה",
+      "gloss": "و در مولادا"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "و در بیتْ‌"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "فالِت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:33:59.409874121Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "lamentations 3:35",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "برای کج‌کردنِ داوریِ انسانی را رویِ مقابلِ حضورِ عِلیون،",
+  "tokens": [
+    {
+      "surface": "לְהַטּוֹת֙",
+      "gloss": "برای کج‌کردنِ"
+    },
+    {
+      "surface": "מִשְׁפַּ֣ט",
+      "gloss": "داوریِ"
+    },
+    {
+      "surface": "גָּ֔בֶר",
+      "gloss": "مردِ"
+    },
+    {
+      "surface": "נֶ֖גֶד",
+      "gloss": "رویِ مقابلِ"
+    },
+    {
+      "surface": "פְּנֵ֥י",
+      "gloss": "حضورِ"
+    },
+    {
+      "surface": "עֶלְיֽוֹן",
+      "gloss": "عِلیون"
+    }
+  ],
+  "timestamp": "2026-08-13T23:18:02.340026672Z",
+  "model": "glm-5.2"
+}

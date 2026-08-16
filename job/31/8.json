@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 31:8",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "بکارم و دیگری بخورد و زادگانِ مرا برکند،",
+  "tokens": [
+    {
+      "surface": "אזרעה",
+      "gloss": "بکارم"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "و دیگری"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "بخورد"
+    },
+    {
+      "surface": "וצאצאי",
+      "gloss": "و زادگانِ مرا"
+    },
+    {
+      "surface": "ישרשו",
+      "gloss": "برکند"
+    }
+  ],
+  "timestamp": "2026-08-13T23:12:15.904774856Z",
+  "model": "glm-5.2"
+}

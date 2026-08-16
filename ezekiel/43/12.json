@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 43:12",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 43,
+  "translation": "این توراتِ خانه است: بر فرازِ کوه، تمامِ مرزِ آن به دور و دور، قدسِ قدسیم است. اینک، این توراتِ خانه است.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "توراتِ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "خانه"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "فرازِ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "کوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "גבלו",
+      "gloss": "مرزِ آن"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "به دور"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "و دور"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قدسِ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "قدسیم"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "توراتِ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "خانه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:23:41.654465229Z",
+  "model": "glm-5.2"
+}

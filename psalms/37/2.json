@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "که چون گیاه زود چیده شوند، و چون سبزی روییده پژمرده گردند.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "چون گیاه"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "زود"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "چیده شوند"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "و چون سبزی"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "روییده"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "پژمرده گردند"
+    }
+  ],
+  "timestamp": "2026-08-13T22:42:08.288730977Z",
+  "model": "glm-5.2"
+}

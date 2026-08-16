@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 89,
+  "translation": "اگر پسرانِ وی توراتِ مرا رها کنند، و در قَضاوتهایِ من نروند —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "رها کنند"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "پسرانِ وی"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "توراتِ مرا"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "و در قَضاوتهایِ من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "بروند"
+    }
+  ],
+  "timestamp": "2026-08-13T22:50:32.179429562Z",
+  "model": "glm-5.2"
+}

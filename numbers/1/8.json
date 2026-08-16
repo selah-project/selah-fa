@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "برای ییسّاشار، نَتاناِل پسر تسوعار.",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "برای ییسّاشار"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "نَتاناِل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "تسوعار"
+    }
+  ],
+  "timestamp": "2026-08-13T20:30:17.011179987Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و این ⟨است⟩ آن‌که از آن‌ها نخورید: عقاب، و کرکسِ شک‌شک، و ماهی‌خور.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "و این"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "خورید"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "از آن‌ها"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "عقاب"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "و کرکس شک‌شک"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "و ماهی‌خور"
+    }
+  ],
+  "timestamp": "2026-08-13T20:46:51.295961399Z",
+  "model": "glm-5.2"
+}

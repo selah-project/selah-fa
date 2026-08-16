@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "نه چنین رَشاعیم، بلکه چون کاهی که باد ⟨آن را⟩ می‌راند.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כֵן",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "הָרְשָׁעִים",
+      "gloss": "رَشاعیم"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "بلکه"
+    },
+    {
+      "surface": "כַּמֹּץ",
+      "gloss": "چون کاهِ"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "که"
+    },
+    {
+      "surface": "תִּדְּפֶנּוּ",
+      "gloss": "می‌راند"
+    },
+    {
+      "surface": "רוּחַ",
+      "gloss": "باد"
+    }
+  ],
+  "timestamp": "2026-08-13T22:38:08.128581504Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 10:9",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "او ⟨بود⟩ غوبار صیّاد پیش از یاهوه؛ برِ این گفته می‌شود چون نیمرود غوبار صیّاد پیش از یاهوه.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "غوبار"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "صیّاد"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیش از"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "این"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "گفته می‌شود"
+    },
+    {
+      "surface": "כנמרד",
+      "gloss": "چون نیمرود"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "غوبار"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "صیّاد"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیش از"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T19:57:10.065175210Z",
+  "model": "glm-5.2"
+}

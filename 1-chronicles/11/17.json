@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 11:17",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و داوود تشنه شد و گفت: کی به من آب خواهد نوشانید از چاهِ بیت‌لَحَم که در دروازه است؟",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "و تشنه شد"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "به من خواهد نوشانید"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آب"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "از چاه"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لَحَم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "در دروازه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:38:26.152493350Z",
+  "model": "glm-5.2"
+}

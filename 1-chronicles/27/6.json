@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 27:6",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "او بْنایاهوو بود، دلاورِ سی‌گانه، و بر سی‌گانه، و گردهٔ او عَمی‌زاباد پسرش بود.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "بْنایاهوو"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "دلاورِ"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "سی‌گانه"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "سی‌گانه"
+    },
+    {
+      "surface": "ומחלקתו",
+      "gloss": "و گردهٔ او"
+    },
+    {
+      "surface": "עמיזבד",
+      "gloss": "عَمی‌زاباد"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:42:32.414714772Z",
+  "model": "glm-5.2"
+}

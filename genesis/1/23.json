@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و ⟨بود⟩ شب، و ⟨بود⟩ صبح، روزِ پنجم.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "شب"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "پنجم"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:01.779701807Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و لقمهٔ شلومه، برایِ یکِ روز، سی کُر آردِ نرم و شصت کُر آرد بود.",
+  "tokens": [
+    {
+      "surface": "וששים",
+      "gloss": "و شصت"
+    },
+    {
+      "surface": "כר",
+      "gloss": "کُر"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "آرد"
+    }
+  ],
+  "timestamp": "2026-08-13T21:26:23.519532325Z",
+  "model": "glm-5.2"
+}

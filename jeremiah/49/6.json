@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 49,
+  "translation": "و پس از آن، بازمی‌گردانم ⟨את⟩ اسارتِ بنی‌عَمّون را، کلام یاهوه.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "و پس از"
+    },
+    {
+      "surface": "כן",
+      "gloss": "آن"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "بازمی‌گردانم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسارت"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "اسارتِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی‌"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عَمّون"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:09:50.497068575Z",
+  "model": "glm-5.2"
+}

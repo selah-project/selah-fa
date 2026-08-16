@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "بهتر است ناچیز شمرده‌شده و برای او ⟨یک⟩ غلام، از خودبزرگ‌بین و بی‌نان.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بهتر است"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "ناچیز شمرده‌شده"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "و غلام"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برای او"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "از خودبزرگ‌بین"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "و بی‌"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:01:23.845041994Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و بگذاری عمامه را بر سرِ او، و بدهی ⟨את⟩ نذریتِ قدوست را بر عمامه.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "و بگذاری"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "عمامه"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "سرِ او"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "و بدهی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نذریتِ قدوست"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "نذریت"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "قدوست"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "عمامه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:17:51.836186138Z",
+  "model": "glm-5.2"
+}

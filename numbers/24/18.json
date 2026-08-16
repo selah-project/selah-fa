@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 24:18",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و شد ⟨این⟩ اَدوم مِلک و شد ⟨این⟩ مِلک سَعیر، دشمنانش، و یِسرائیل با دلاوری می‌کند",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اَدوم"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "مِلک"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "مِلک"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سَعیر"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "دشمنانش"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "و یِسرائیل"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "می‌کند"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "با دلاوری"
+    }
+  ],
+  "timestamp": "2026-08-13T23:57:39.328552979Z",
+  "model": "glm-5.2"
+}

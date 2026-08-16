@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 26:31",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "و اسری‌اِل، تیرهٔ اسری‌اِلی؛ و شخم، تیرهٔ شِخمی.",
+  "tokens": [
+    {
+      "surface": "ואשריאל",
+      "gloss": "و اسری‌اِل"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "تیرهٔ"
+    },
+    {
+      "surface": "האשראלי",
+      "gloss": "اسری‌اِلی"
+    },
+    {
+      "surface": "ושכם",
+      "gloss": "و شِخم"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "تیرهٔ"
+    },
+    {
+      "surface": "השכמי",
+      "gloss": "شِخمی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:39:37.835523606Z",
+  "model": "glm-5.2"
+}

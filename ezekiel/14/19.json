@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 14:19",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "یا طاعونی به آن زمین بفرستم و خشمِ خود را بر آن به خون بریزم، تا انسان و بهیمه را از آن بریده سازم —",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "طاعون"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "بفرستم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "آن زمین"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "ושפכתי",
+      "gloss": "و بریزم"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "خشمِ خود"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "بر آن"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "به خون"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "تا بریده سازم"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "از آن"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "و بهیمه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:15:10.324032066Z",
+  "model": "glm-5.2"
+}

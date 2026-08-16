@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 1:1",
+  "book": "zechariah",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "در ماهِ هشتم، در سالِ دومِ داریاوُش، کلامِ یاهوه به زَخَریا، پسرِ بَرَخیا، پسرِ عیدو، پیامبر، بود، به این سخن:",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "در ماهِ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "هشتم"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "در سالِ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دوم"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "داریاوُش"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلامِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "زَخَریا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "بَرَخیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "עדו",
+      "gloss": "عیدو"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "پیامبر"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به این سخن"
+    }
+  ],
+  "timestamp": "2026-08-13T22:34:25.698059306Z",
+  "model": "glm-5.2"
+}

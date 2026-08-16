@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 25:26",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و برای آن چهار حلقهٔ زرین بسازی، و ⟨את⟩ حلقه‌ها را بر چهار گوشه‌ای که برای چهار پای اوست بگذاری.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "و بسازی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برای آن"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "حلقه"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زرین"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "و بگذاری"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حلقه‌ها"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "حلقه‌ها"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "הפאת",
+      "gloss": "گوشه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "برای چهار"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "پای او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:16:55.937851411Z",
+  "model": "glm-5.2"
+}

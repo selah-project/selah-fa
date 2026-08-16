@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 19:6",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "بدانید اکنون که الوهیم ⟨مرا⟩ کج کرده، و تورِ او را بر من گردانده،",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "بدانید"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "اکنون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "עותני",
+      "gloss": "کج کرده"
+    },
+    {
+      "surface": "ומצודו",
+      "gloss": "و تورِ او"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "הקיף",
+      "gloss": "گردانده"
+    }
+  ],
+  "timestamp": "2026-08-13T23:10:13.518651242Z",
+  "model": "glm-5.2"
+}

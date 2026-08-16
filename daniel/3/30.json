@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "آنگاه پادشاه، شَدراک، میشاک، و عَبِد نَگو را در ایالتِ بابِل پیش برد.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "آنگاه"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "پیش برد"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "شَدراک"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "میشاک"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "و عَبِد"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "نَگو"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "در ایالتِ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابِل"
+    }
+  ],
+  "timestamp": "2026-08-13T23:25:24.980906025Z",
+  "model": "glm-5.2"
+}

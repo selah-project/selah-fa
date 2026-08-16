@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 11:12",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و پس از او اَلعازار پسرِ دودو هاآحوهی، او در میانِ سه قهرمان بود.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "و پس از او"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "اَلعازار"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "دودو"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "هاآحوهی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "در میانِ سه"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "قهرمان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:56.464365529Z",
+  "model": "glm-5.2"
+}

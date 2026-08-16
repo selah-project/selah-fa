@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و ⟨את⟩ مذبحِ عَولَه و ⟨את⟩ همهٔ ظروفش و ⟨את⟩ لِگن و ⟨את⟩ پایه‌اش،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "مذبح"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "عَولَه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "همهٔ ظروفش"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ظروفش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "لِگن"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "لِگن"
+    },
+    {
+      "surface": "وאת",
+      "gloss": "⟨את⟩",
+      "marks": "پایه‌اش"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "پایه‌اش"
+    }
+  ],
+  "timestamp": "2026-08-13T20:18:04.619091081Z",
+  "model": "glm-5.2"
+}

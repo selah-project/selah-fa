@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "jeremiah 7:1",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "کلام که برای یِرمیاهو از نزد یاهوه ⟨את⟩ رخ داد، برای گفتن:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "היה",
+      "gloss": "رخ داد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "برای"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمیاهو"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "از نزد یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "برای گفتن:"
+    }
+  ],
+  "timestamp": "2026-08-15T20:53:27.488476702Z",
+  "model": "glm-5.3+hand"
+}

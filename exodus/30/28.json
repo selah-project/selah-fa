@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "و ⟨את⟩ مذبحِ عوله و ⟨את⟩ همهٔ ظروفِ آن را و ⟨את⟩ لگن و ⟨את⟩ پایهٔ آن را.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مذبحِ عوله"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبحِ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "عوله"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "همهٔ ظروفِ آن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ظروفِ آن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "لگن"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "لگن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "پایهٔ آن"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "پایهٔ آن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:18:29.101906714Z",
+  "model": "glm-5.2"
+}

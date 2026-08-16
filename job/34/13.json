@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 34:13",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 34,
+  "translation": "چه کسی بر زمینِ او گماشت؟ و چه کسی کلِ جهان را نهاد؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "چه کسی"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "گماشت"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "زمینِ او"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "و چه کسی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نهاد"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "جهان"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "کلِ"
+    }
+  ],
+  "timestamp": "2026-08-13T23:13:41.814746431Z",
+  "model": "glm-5.2"
+}

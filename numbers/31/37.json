@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 31:37",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و بود مَکْس برای یاهوه از گله: ششصد هفتاد و پنج.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "המכס",
+      "gloss": "مَکْس"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "برای یاهوه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "گله"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "و هفتاد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:40:57.723538158Z",
+  "model": "glm-5.2"
+}

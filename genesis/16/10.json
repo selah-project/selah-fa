@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "و به او گفت فرشتهٔ یاهوه: بسیار بیفزایم ⟨את⟩ تخمت، و شمرده نشود از راهِ کثرت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "לה",
+      "gloss": "به او"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشتهٔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "بیفزایم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تخمت"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "تخمت"
+    },
+    {
+      "surface": "وלא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "شمرده شود"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "از راهِ کثرت"
+    }
+  ],
+  "timestamp": "2026-08-13T19:58:31.840357763Z",
+  "model": "glm-5.2"
+}

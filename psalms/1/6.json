@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "زیرا یاهوه راهِ صادقان را می‌داند، و راهِ بدان نابود می‌شود.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "می‌داند"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راهِ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "صادقان"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "و راهِ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدان"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "نابود می‌شود"
+    }
+  ],
+  "timestamp": "2026-08-13T22:37:08.411295822Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 22:27",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "گاو یا گوسفند یا بز، چون زاده شود، هفت روز زیر مادرِ خود باد؛ و از روزِ هشتم و به بعد، برای قربانِ ایشه به یاهوه پذیرفته شود.",
+  "tokens": [
+    {
+      "surface": "שור",
+      "gloss": "گاو"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "گوسفند"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "עז",
+      "gloss": "بز"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "زاده شود"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "و باد"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روز"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "زیرِ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "مادرِ او"
+    },
+    {
+      "surface": "ומיום",
+      "gloss": "و از روزِ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "هشتم"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "و به بعد"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "پذیرفته شود"
+    },
+    {
+      "surface": "לקרבן",
+      "gloss": "برای قربان"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ایشه"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "به یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:27:38.976064600Z",
+  "model": "glm-5.2"
+}

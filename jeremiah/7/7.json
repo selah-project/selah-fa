@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "jeremiah 7:7",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و ⟨م⟩ شما را در این مکان مسکن خواهم داد، در سرزمینی که به پدرانِ شما دادم — از ازل و تا ابد.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "و مسکن خواهم داد"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ شما",
+      "marks": "شما"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "در مکان"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "در سرزمین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "دادم"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "به پدرانِ شما"
+    },
+    {
+      "surface": "למן",
+      "gloss": "از"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ازل"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ابد"
+    }
+  ],
+  "timestamp": "2026-08-15T04:11:41.610782425Z",
+  "model": "glm-5.3"
+}

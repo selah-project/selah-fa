@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 5:22",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "به ویرانی و به قحطی بخندی، و از جانورانِ زمین مترسی.",
+  "tokens": [
+    {
+      "surface": "לשד",
+      "gloss": "به ویرانی"
+    },
+    {
+      "surface": "ולכפן",
+      "gloss": "و به قحطی"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "بخندی"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "و از جانورانِ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "بترسی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:07:23.270683919Z",
+  "model": "glm-5.2"
+}

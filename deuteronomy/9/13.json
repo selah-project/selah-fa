@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و یاهوه بر من فرمود، به‌گفتن: من ⟨את⟩ این قوم را دیدم، و اینک قومی سختِ گردن است ⟨او⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فرمود"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به‌گفتن"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "دیدم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "این قوم را"
+    },
+    {
+      "surface": "העם",
+      "gloss": "این قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قومی"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "سختِ"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "گردن"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:45:53.588158553Z",
+  "model": "glm-5.2"
+}

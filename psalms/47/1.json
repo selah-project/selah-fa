@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 47,
+  "translation": "به رهبرِ سرود، برای پسرانِ قورح، مزمور.",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּ֬חַ",
+      "gloss": "به رهبرِ سرود"
+    },
+    {
+      "surface": "לִבְנֵי",
+      "gloss": "برای پسرانِ"
+    },
+    {
+      "surface": "קֹ֬רַח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "מִזְמֽוֹר",
+      "gloss": "مزمور"
+    }
+  ],
+  "timestamp": "2026-08-13T22:43:58.342296089Z",
+  "model": "glm-5.2"
+}

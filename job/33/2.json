@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 33:2",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "اینک، دهانِ مرا گشوده‌ام، زبانِ من در کامِ من سخن گفت.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اکنون"
+    },
+    {
+      "surface": "פתחתי",
+      "gloss": "گشوده‌ام"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دهانِ مرا"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "سخن گفت"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "زبانِ من"
+    },
+    {
+      "surface": "בחכי",
+      "gloss": "در کامِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T23:13:01.126379900Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "چون همچنان‌که در جانِ خویش حساب می‌کند، چنین است او؛ «بخور و بیوشام» به تو خواهد گفت، و دلِ او با تو نیست.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "همانند"
+    },
+    {
+      "surface": "שער",
+      "gloss": "حساب می‌کند"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "در جانِ خویش"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوست"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "بخور"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "و بیوشام"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "خواهد گفت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "به تو"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "و دلِ او"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "با تو"
+    }
+  ],
+  "timestamp": "2026-08-15T04:27:33.595024042Z",
+  "model": "glm-5.3"
+}

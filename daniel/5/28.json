@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "daniel 5:28",
+  "book": "daniel",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "پَرِس — پادشاهیِ‌تو بخش شده و به مادها و پارس‌ها داده.",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "پَرِس"
+    },
+    {
+      "surface": "פריסת",
+      "gloss": "بخش شده"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "پادشاهیِ‌تو"
+    },
+    {
+      "surface": "ויהיבת",
+      "gloss": "و داده"
+    },
+    {
+      "surface": "למדי",
+      "gloss": "به مادها"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "و پارس‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T23:24:53.427237760Z",
+  "model": "glm-5.2"
+}

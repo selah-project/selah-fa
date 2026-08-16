@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "سنگینیِ سنگ و ⟨این⟩ بارِ شن، اما خشمِ احمق از هر دو سنگین‌تر است.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "سنگینیِ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "سنگ"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "و بارِ"
+    },
+    {
+      "surface": "החול",
+      "gloss": "شن"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "اما خشمِ"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "احمق"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "سنگین‌تر"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "از هر دو"
+    }
+  ],
+  "timestamp": "2026-08-15T04:27:53.419024338Z",
+  "model": "glm-5.3"
+}

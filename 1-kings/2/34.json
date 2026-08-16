@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-kings 2:34",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و بْنایاهو پسرِ یهویاداع بالا رفت و بر او یورش برد و او را کشت؛ و ⟨او⟩ را در خانه‌اش در بیابان دفن کرد.",
+  "tokens": [
+    {
+      "surface": "ושבו",
+      "gloss": ""
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": ""
+    },
+    {
+      "surface": "בראש",
+      "gloss": ""
+    },
+    {
+      "surface": "יואב",
+      "gloss": ""
+    },
+    {
+      "surface": "ובראש",
+      "gloss": ""
+    },
+    {
+      "surface": "זרעו",
+      "gloss": ""
+    },
+    {
+      "surface": "לעלם",
+      "gloss": ""
+    },
+    {
+      "surface": "ולדוד",
+      "gloss": ""
+    },
+    {
+      "surface": "ולזרעו",
+      "gloss": ""
+    },
+    {
+      "surface": "ולביתו",
+      "gloss": ""
+    },
+    {
+      "surface": "ולכסאו",
+      "gloss": ""
+    },
+    {
+      "surface": "יהיה",
+      "gloss": ""
+    },
+    {
+      "surface": "שלום",
+      "gloss": ""
+    },
+    {
+      "surface": "עד",
+      "gloss": ""
+    },
+    {
+      "surface": "עולם",
+      "gloss": ""
+    },
+    {
+      "surface": "מעם",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": ""
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "و بالا رفت"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "بْنایاهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "یهویاداع"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "و بر او یورش برد"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در او"
+    },
+    {
+      "surface": "וימתהו",
+      "gloss": "و او را کشت"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "و دفن کرد"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "در خانه‌اش"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "در بیابان"
+    }
+  ],
+  "timestamp": "2026-08-13T21:24:38.227777552Z",
+  "model": "glm-5.2"
+}

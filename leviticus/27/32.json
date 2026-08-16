@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 27:32",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و هر دهکِ گاو و گوسفند، هر آنچه زیر چوب بگذرد، دهمین، قدس برای یاهوه باشد.",
+  "tokens": [
+    {
+      "surface": "וְכָל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "מַעְשַׂר",
+      "gloss": "دهک"
+    },
+    {
+      "surface": "בָּקָר",
+      "gloss": "گاو"
+    },
+    {
+      "surface": "וָצֹאן",
+      "gloss": "و گوسفند"
+    },
+    {
+      "surface": "כֹּל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "آنچه"
+    },
+    {
+      "surface": "יַעֲבֹר",
+      "gloss": "بگذرد"
+    },
+    {
+      "surface": "תַּחַת",
+      "gloss": "زیر"
+    },
+    {
+      "surface": "הַשָּׁבֶט",
+      "gloss": "چوب"
+    },
+    {
+      "surface": "הָעֲשִׂירִי",
+      "gloss": "دهمین"
+    },
+    {
+      "surface": "יִהְיֶה",
+      "gloss": "باشد"
+    },
+    {
+      "surface": "קֹדֶשׁ",
+      "gloss": "قدس"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "برای یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:30:14.645671357Z",
+  "model": "glm-5.2"
+}

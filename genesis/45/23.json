@@ -1,0 +1,77 @@
+{
+  "tier": "hand",
+  "verse": 23,
+  "ref": "genesis 45:23",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 45,
+  "translation": "و برای پدرش بدین‌گونه فرستاد: ده الاغِ حاملِ از نیکوییِ مِصر، و ده ماده‌الاغِ حاملِ غلّه و نان و توشه برای پدرش برای راه.",
+  "tokens": [
+    {
+      "surface": "ולאביו",
+      "gloss": "و برای پدرش"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "فرستاد"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "بدین‌گونه"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ده"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "الاغ"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "حاملِ"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "از نیکوییِ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِصر"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "و ده"
+    },
+    {
+      "surface": "אתנת",
+      "gloss": "ماده‌الاغ"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "حاملِ"
+    },
+    {
+      "surface": "בר",
+      "gloss": "غلّه"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "و نان"
+    },
+    {
+      "surface": "ומזון",
+      "gloss": "و توشه"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "برای پدرش"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "برای راه"
+    }
+  ],
+  "timestamp": "2026-08-14T17:47:39Z",
+  "model": "claude-fable-5/hand"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "nehemiah 7:68",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "شتران، چهارصد سی‌وَپنج؛ الاغان نر، شش هزار، هفتصد وَ بیست",
+  "tokens": [
+    {
+      "surface": "גמלים",
+      "gloss": "شتران"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "وَ پنج"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "الاغانِ نر"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "شش"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "وَ بیست"
+    }
+  ],
+  "timestamp": "2026-08-13T23:33:15.366034656Z",
+  "model": "glm-5.2"
+}

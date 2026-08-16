@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 32:34",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "آیا ⟨آن⟩ نزدِ من فرو سپرده نشده است، مُهرشده در خزانه‌هایم؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨آن⟩"
+    },
+    {
+      "surface": "כמס",
+      "gloss": "فرو سپرده نشده است"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "نزدِ من"
+    },
+    {
+      "surface": "חתם",
+      "gloss": "مُهرشده"
+    },
+    {
+      "surface": "באוצרתי",
+      "gloss": "در خزانه‌هایم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:53:08.652046912Z",
+  "model": "glm-5.2"
+}

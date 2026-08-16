@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 78:66",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 78,
+  "translation": "و دشمنانش را به پشت زد؛ ننگی همیشگی بر آنان نهاد.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "و زد"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "دشمنانش را"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "به پشت"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "ننگی"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "همیشگی"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "نهاد"
+    },
+    {
+      "surface": "למו",
+      "gloss": "بر آنان"
+    }
+  ],
+  "timestamp": "2026-08-13T22:48:29.499458975Z",
+  "model": "glm-5.2"
+}

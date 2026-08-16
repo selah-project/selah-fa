@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 21:18",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و بعد از همهٔ این، یاهوه او را در روده‌اش به بیماریای بی‌دوا زد.",
+  "tokens": [
+    {
+      "surface": "וְאַחֲרֵ֖י",
+      "gloss": "و بعد از"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "זֹ֑את",
+      "gloss": "این"
+    },
+    {
+      "surface": "נְגָפ֨וֹ",
+      "gloss": "زد"
+    },
+    {
+      "surface": "יְהוָ֧ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בְּמֵעָ֛יו",
+      "gloss": "در روده‌اش"
+    },
+    {
+      "surface": "לָחֳלִ֖י",
+      "gloss": "به بیماری"
+    },
+    {
+      "surface": "לְאֵ֥ין",
+      "gloss": "بی"
+    },
+    {
+      "surface": "מַרְפֵּֽא",
+      "gloss": "دوا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:48:28.418035065Z",
+  "model": "glm-5.2"
+}

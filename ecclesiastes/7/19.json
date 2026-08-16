@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "حکمت برای حکیم قوّت ⟨می‌بخشد⟩ بیش از ده حاکم که در شهر بودند.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "قوّت ⟨می‌بخشد⟩"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "برای حکیم"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "بیش از ده"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "حاکم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بودند"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "در شهر"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:08.468715797Z",
+  "model": "glm-5.2"
+}

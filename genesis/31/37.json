@@ -1,0 +1,86 @@
+{
+  "tier": "hand",
+  "verse": 37,
+  "ref": "genesis 31:37",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "زیرا ⟨את⟩ همهٔ اسبابم را لمس کردی، از همهٔ اسبابِ خانه‌ات چه یافتی؟ این‌جا پیشِ برادرانم و برادرانت بگذار، و میانِ ما دو تن داوری کنند.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "מששת",
+      "gloss": "لمس کردی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همهٔ اسبابم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "اسبابم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "یافتی"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "از همهٔ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "اسبابِ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "خانه‌ات"
+    },
+    {
+      "surface": "שים",
+      "gloss": "بگذار"
+    },
+    {
+      "surface": "כה",
+      "gloss": "این‌جا"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "پیشِ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برادرانم"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "و برادرانت"
+    },
+    {
+      "surface": "ויוכיחו",
+      "gloss": "و داوری کنند"
+    },
+    {
+      "surface": "בין",
+      "gloss": "میانِ"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "ما دو تن"
+    }
+  ],
+  "timestamp": "2026-08-14T17:47:39Z",
+  "model": "claude-fable-5/hand"
+}

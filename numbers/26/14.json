@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 26:14",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "این‌ها خانواده‌های شیمونی‌اند، بیست‌ودو هزار و دویست.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خانواده‌های"
+    },
+    {
+      "surface": "השמעני",
+      "gloss": "شیمونی"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "وبیست"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ودویست"
+    }
+  ],
+  "timestamp": "2026-08-13T20:39:07.283901275Z",
+  "model": "glm-5.2"
+}

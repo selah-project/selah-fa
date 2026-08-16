@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 10:17",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "اَدونیاه، بیگْوای، عادین،",
+  "tokens": [
+    {
+      "surface": "אדניה",
+      "gloss": "اَدونیاه"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "بیگْوای"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "عادین"
+    }
+  ],
+  "timestamp": "2026-08-14T00:17:20.757856521Z",
+  "model": "glm-5.2"
+}

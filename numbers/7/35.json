@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.3",
+  "verse": 35,
+  "ref": "numbers 7:35",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و برای قربانیِ شلامیم، دو گاو، پنج قوچ، پنج بزنر، پنج برهٔ یک‌ساله؛ این بود قربانِ اَلیتسور پسر شِدِئور.",
+  "tokens": [
+    {
+      "surface": "ולזבח",
+      "gloss": "و برای قربانی"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "شلامیم"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "گاو"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "قوچ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "עתדים",
+      "gloss": "بزنر"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "بره"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "یک سال"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "قربان"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "اَلیتسور"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "شِدِئور"
+    }
+  ],
+  "timestamp": "2026-08-15T03:52:22.066990200Z",
+  "model": "glm-5.3"
+}

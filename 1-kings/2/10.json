@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و داوود با پدرانش خوابید، و در شهرِ داوود دفن شد.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "و خوابید"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "پدرانش"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "و دفن شد"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "در شهرِ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    }
+  ],
+  "timestamp": "2026-08-13T21:24:12.370736190Z",
+  "model": "glm-5.2"
+}

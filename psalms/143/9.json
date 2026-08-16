@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 143:9",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 143,
+  "translation": "برهانم از دشمنانم، ای یاهوه؛ نزد تو پناه داده شدم.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "برهانم"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "از دشمنانم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ای یاهوه"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "نزد تو"
+    },
+    {
+      "surface": "כסתי",
+      "gloss": "پناه داده شدم"
+    }
+  ],
+  "timestamp": "2026-08-13T22:58:07.784359253Z",
+  "model": "glm-5.2"
+}

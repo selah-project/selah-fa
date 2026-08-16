@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "leviticus 13:48",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "یا در تار، یا در پود، از کتان و از پشم، یا در پوست، یا در هر کارِ پوست.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "در تار"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "در پود"
+    },
+    {
+      "surface": "לפשתים",
+      "gloss": "از کتان"
+    },
+    {
+      "surface": "ולצמר",
+      "gloss": "و از پشم"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "در پوست"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "در هر"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "کارِ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "پوست"
+    }
+  ],
+  "timestamp": "2026-08-13T20:24:55.922693462Z",
+  "model": "glm-5.2"
+}

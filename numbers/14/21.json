@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "اما، به جانِ زندهٔ من که تمامِ زمین از شکوهِ یاهوه پر خواهد شد",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "اما"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زنده"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "و پر خواهد شد"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شکوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تمامِ زمین"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-15T17:35:16.501964134Z",
+  "model": "glm-5.3"
+}

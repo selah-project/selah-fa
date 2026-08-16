@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 25:9",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و بیرون آمد قرعهٔ اول برای اَساف به یوسف؛ دوم گَدَلیاهو؛ ⟨او⟩ و برادرانش و پسرانش، دوازده.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "و بیرون آمد"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "قرعه"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "اول"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "برای اَساف"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "به یوسف"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "گَدَلیاهو"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨او⟩"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "و برادرانش"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "و پسرانش"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ده"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:22.006786424Z",
+  "model": "glm-5.2"
+}

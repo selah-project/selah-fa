@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 2:47",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و پسرانِ یَهْدای: رَگَم و یُوتام و گِیشان و فَلِت و عِیفه و شَعَف.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "יהדי",
+      "gloss": "یَهْدای"
+    },
+    {
+      "surface": "רגם",
+      "gloss": "رَگَم"
+    },
+    {
+      "surface": "ויותם",
+      "gloss": "و یُوتام"
+    },
+    {
+      "surface": "וגישן",
+      "gloss": "و گِیشان"
+    },
+    {
+      "surface": "ופלט",
+      "gloss": "و فَلِت"
+    },
+    {
+      "surface": "ועיפה",
+      "gloss": "و عِیفه"
+    },
+    {
+      "surface": "ושעף",
+      "gloss": "و شَعَف"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:18.005894154Z",
+  "model": "glm-5.2"
+}

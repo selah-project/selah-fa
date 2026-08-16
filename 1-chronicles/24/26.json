@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 24:26",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "پسرانِ مراری: مَحلی و موشی؛ پسرانِ یعزیاهو، بِنو.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مراری"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "مَحلی"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "و موشی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "יעזיהו",
+      "gloss": "یعزیاهو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "بِنو"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:20.956787625Z",
+  "model": "glm-5.2"
+}

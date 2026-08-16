@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و یوآو پاسخ داد و گفت: دور باد، دور باد از من، اگر ببلعم، و اگر هلاک کنم.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "و پاسخ داد"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآو"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "دور باد"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "دور باد"
+    },
+    {
+      "surface": "לי",
+      "gloss": "از من"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "ببلعم"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "هلاک کنم"
+    }
+  ],
+  "timestamp": "2026-08-13T21:22:22.506821272Z",
+  "model": "glm-5.2"
+}

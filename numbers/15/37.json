@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 15:37",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و یاهوه به موشه گفت، به‌ سخن‌:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به‌ سخن‌"
+    }
+  ],
+  "timestamp": "2026-08-13T20:36:05.156268569Z",
+  "model": "glm-5.2"
+}

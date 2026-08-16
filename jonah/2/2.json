@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و یونّه به سوی یاهوه، الوهیمِ خود، دعا کرد، از احشای ماهی.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "و دعا کرد"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "یونّه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سویِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "الوهیمِ خود"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "از احشایِ"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "ماهی"
+    }
+  ],
+  "timestamp": "2026-08-13T22:31:00.278325158Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 46:24",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 46,
+  "translation": "خجالت‌زده شد دختر مصر، داده شد در دستِ قومِ شمال.",
+  "tokens": [
+    {
+      "surface": "הֹבִ֖ישָׁה",
+      "gloss": "خجالت‌زده شد"
+    },
+    {
+      "surface": "בַּת",
+      "gloss": "دختر"
+    },
+    {
+      "surface": "מִצְרַ֑יִם",
+      "gloss": "مصر"
+    },
+    {
+      "surface": "נִתְּנָ֖ה",
+      "gloss": "داده شد"
+    },
+    {
+      "surface": "בְיַ֥ד",
+      "gloss": "در دست"
+    },
+    {
+      "surface": "עַם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "צָפֽוֹן",
+      "gloss": "شمال"
+    }
+  ],
+  "timestamp": "2026-08-13T22:08:14.993661570Z",
+  "model": "glm-5.2"
+}

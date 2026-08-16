@@ -1,0 +1,37 @@
+{
+  "ref": "psalms 119:164",
+  "lang": "fa",
+  "book": "psalms",
+  "chapter": 119,
+  "verse": 164,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:47:12Z",
+  "translation": "هفت بار در روز تو را می‌ستایم، به‌سببِ داوری‌هایِ عدالتِ تو.",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "هفت بار"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روز"
+    },
+    {
+      "surface": "הללתיך",
+      "gloss": "تو را می‌ستایم"
+    },
+    {
+      "surface": "על",
+      "gloss": "به‌سببِ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "داوری‌هایِ"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "عدالتِ تو"
+    }
+  ]
+}

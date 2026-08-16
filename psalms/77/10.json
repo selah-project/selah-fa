@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 77:10",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 77,
+  "translation": "آیا فراموش کرده اِل بخشایش را؟ اگر در خشم بسته باشد رحمت‌هایش؟ سِلا.",
+  "tokens": [
+    {
+      "surface": "השכח",
+      "gloss": "آیا فراموش کرده"
+    },
+    {
+      "surface": "חנות",
+      "gloss": "بخایش"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "קפץ",
+      "gloss": "بسته باشد"
+    },
+    {
+      "surface": "באף",
+      "gloss": "در خشم"
+    },
+    {
+      "surface": "רחמיو",
+      "gloss": "رحمت‌هایش"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلا"
+    }
+  ],
+  "timestamp": "2026-08-15T04:25:00.149301954Z",
+  "model": "glm-5.3"
+}

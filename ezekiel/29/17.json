@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 29:17",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و شد در بیست و هفت سال، در اول، در یکم ⟨از⟩ ماه، بود دفتر یاهوه به من به گفتن:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "בעשרים",
+      "gloss": "در بیست"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "و هفت"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "در اول"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "در یکم"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "به ماه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دفتر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به گفتن"
+    }
+  ],
+  "timestamp": "2026-08-13T22:19:42.749618010Z",
+  "model": "glm-5.2"
+}

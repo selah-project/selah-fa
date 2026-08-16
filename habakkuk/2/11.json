@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "که سنگی از دیوار فریاد برمی‌آورد، و تیرِ چوبی ⟨او را⟩ پاسخ می‌دهد.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "سنگی"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "از دیوار"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "فریاد برمی‌آورد"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "و تیرِ چوبی"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "از چوب"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "پاسخ می‌دهد"
+    }
+  ],
+  "timestamp": "2026-08-13T22:32:09.668874654Z",
+  "model": "glm-5.2"
+}

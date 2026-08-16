@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 135,
+  "translation": "هر آنچه خواست یاهوه، کرد در آسمان‌ها و در زمین، در دریاها و همهٔ تهای عمیق.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنچه"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "خواست"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرد"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "در آسمان‌ها"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "و در زمین"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "در دریاها"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و همهٔ"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "تهای عمیق"
+    }
+  ],
+  "timestamp": "2026-08-13T22:57:15.866321755Z",
+  "model": "glm-5.2"
+}

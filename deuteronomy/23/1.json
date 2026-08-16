@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "مردی زنِ پدرش را نگیرد و ⟨او⟩ دامنِ پدرش را برنکشد.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יִקַּח",
+      "gloss": "بگیرد"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "زنِ پدرش"
+    },
+    {
+      "surface": "אֵשֶׁת",
+      "gloss": "زنِ"
+    },
+    {
+      "surface": "אָבִיו",
+      "gloss": "پدرش"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "יְגַלֶּה",
+      "gloss": "برنکشد\/برنهد"
+    },
+    {
+      "surface": "כְּנַף",
+      "gloss": "دامنِ"
+    },
+    {
+      "surface": "אָבִיו",
+      "gloss": "پدرش"
+    }
+  ],
+  "timestamp": "2026-08-13T20:50:23.767156709Z",
+  "model": "glm-5.2"
+}

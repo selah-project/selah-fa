@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 8:11",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "زیرا که خوب است حکمت از مرواریدها، و هر چیزِ خواستنی‌ها با او برابر نمی‌شوند.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا که"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "خوب است"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "از مرواریدها"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "חפצים",
+      "gloss": "چیزِ خواستنی‌ها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישוו",
+      "gloss": "برابر می‌شوند"
+    },
+    {
+      "surface": "בה",
+      "gloss": "با او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:00:44.401327861Z",
+  "model": "glm-5.2"
+}

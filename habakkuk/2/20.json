@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و یاهوه در هیکلِ قدسِ خود ⟨ایستاده است⟩؛ خاموش شوید از رویِ او، تمامِ زمین!",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و",
+      "marks": "یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "در هیکل"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "قدسِ"
+    },
+    {
+      "surface": "הס",
+      "gloss": "خاموش شوید"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "از رویِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-14T00:10:49.941411910Z",
+  "model": "glm-5.2"
+}

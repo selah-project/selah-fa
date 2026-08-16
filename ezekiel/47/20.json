@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 47:20",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 47,
+  "translation": "و سمت دریا، دریای بزرگ، از سرحد تا روبه‌رویِ راهِ ورود حَماة. این ⟨است⟩ سمت دریا.",
+  "tokens": [
+    {
+      "surface": "ופאת",
+      "gloss": "و سمت"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دریای"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "מגבול",
+      "gloss": "از سرحد"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "روبه‌رویِ"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "راهِ ورود"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حَماة"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "سمت"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دریا"
+    }
+  ],
+  "timestamp": "2026-08-13T22:24:53.553540577Z",
+  "model": "glm-5.2"
+}

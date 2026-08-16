@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 39:8",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 39,
+  "translation": "اینک می‌آید و ⟨شدنی است⟩، نُم اَدونای یاهوه؛ آن ⟨است⟩ روزی که من از آن سخن گفتم.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "באה",
+      "gloss": "می‌آید"
+    },
+    {
+      "surface": "ונהיתה",
+      "gloss": "و ⟨شدنی است⟩"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نُم"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آن ⟨است⟩"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روزی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "من از آن سخن گفتم"
+    }
+  ],
+  "timestamp": "2026-08-14T00:09:11.967010704Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 15:23",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "شادی است برای مرد در پاسخِ دهانِ او، و سخن در زمانِ خودش — چه نیکو!",
+  "tokens": [
+    {
+      "surface": "שמחה",
+      "gloss": "شادی است"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "برای مرد"
+    },
+    {
+      "surface": "במענה",
+      "gloss": "در پاسخِ"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "دهانِ او"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "و سخن"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "در زمانِ خودش"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیکو"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:22.331694137Z",
+  "model": "glm-5.2"
+}

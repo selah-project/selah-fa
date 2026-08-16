@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "به‌راستی که شما قوم هستید و با شما حکمت خواهد مُرد!",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "به‌راستی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "شما"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "و با شما"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "خواهد مُرد"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:08:53.590641252Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و شَلّوم ⟨את⟩ یَقَمْیا را زاد، و یَقَمْیا ⟨את⟩ اَلِیشامَع را زاد.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "و شَلّوم"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یَقَمْیا"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "یَقَمْیا"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "و یَقَمْیا"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَلِیشامَع"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "اَلِیشامَع"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:05.992602110Z",
+  "model": "glm-5.2"
+}

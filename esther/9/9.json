@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 9:9",
+  "book": "esther",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و ⟨את⟩ پَرمَشتا و ⟨את⟩ اَریسای و ⟨את⟩ اَریدای و ⟨את⟩ وایزاتا",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "پَرمَشتا"
+    },
+    {
+      "surface": "פרמשתא",
+      "gloss": "پَرمَشتا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "اَریسای"
+    },
+    {
+      "surface": "אריסי",
+      "gloss": "اَریسای"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "اَریدای"
+    },
+    {
+      "surface": "ארדי",
+      "gloss": "اَریدای"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "وایزاتا"
+    },
+    {
+      "surface": "ויזתא",
+      "gloss": "وایزاتا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:23:27.121280675Z",
+  "model": "glm-5.2"
+}

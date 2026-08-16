@@ -1,0 +1,69 @@
+{
+  "tier": "hand",
+  "verse": 43,
+  "ref": "numbers 4:43",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "از سی‌ساله و بالاتر، و تا ⟨پسرِ⟩ پنجاه‌ساله: هر که به لشکر می‌آید، برای خدمت در خیمهٔ موعد.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "از"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساله"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "و بالاتر"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨پسرِ⟩"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساله"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "که می‌آید"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "به لشکر"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "برای خدمت"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "در خیمهٔ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "موعد"
+    }
+  ],
+  "timestamp": "2026-08-14T17:46:57Z",
+  "model": "claude-fable-5/hand"
+}

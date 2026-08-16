@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "proverbs 16:2",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "همهٔ راه‌های مرد در چشم‌های او پاک ⟨است⟩، و توزانِ روح‌ها ⟨ نزد ⟩ یاهوه.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "راه‌های"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "זך",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "در چشم‌های او"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "و توزانِ"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "روح‌ها"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-15T04:27:40.211726121Z",
+  "model": "glm-5.3"
+}

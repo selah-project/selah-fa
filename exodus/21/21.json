@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "اکنون اگر ⟨او⟩ یک روز یا دو روز بایستد، انتقام نشود، چون او مالِ نقرهٔ ⟨او⟩ است.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "اکنون"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יום",
+      "gloss": "یک روز"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "دو روز"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "بایستد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "انتقام نشود"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "مالِ نقرهٔ او"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او است"
+    }
+  ],
+  "timestamp": "2026-08-13T20:15:51.149804677Z",
+  "model": "glm-5.2"
+}

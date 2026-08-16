@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "گواهِ دروغ‌ها بی‌گناه نگردد، و فوت‌کنندهٔ دروغ‌ها هلاک شود.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "گواهِ"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "دروغ‌ها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "بی‌گناه گردد"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "و فوت‌کنندهٔ"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "دروغ‌ها"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "هلاک شود"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:37.658009070Z",
+  "model": "glm-5.2"
+}

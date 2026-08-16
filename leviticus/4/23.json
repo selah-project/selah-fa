@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 4:23",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "یا گناهش که با آن گناه کرده به او شناسانده شود، و ⟨את⟩ قربانِ خود را درآورد، بزِ نَر، بی‌نقص،",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "شناسانده شود"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "گناهش"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گناه کرده"
+    },
+    {
+      "surface": "בה",
+      "gloss": "با آن"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "و درآورد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قربانِ خود را"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "قربانِ او"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "بزِ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بزها"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نَر"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "بی‌نقص"
+    }
+  ],
+  "timestamp": "2026-08-13T20:22:33.176179824Z",
+  "model": "glm-5.2"
+}

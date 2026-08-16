@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "ثروتِ از پوچی کم می‌شود، و جمع‌کننده بر دست، بسیار خواهد کرد.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "ثروتِ"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "از پوچی"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "کم می‌شود"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "و جمع‌کننده"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دست"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "بسیار خواهد کرد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:01:42.601991488Z",
+  "model": "glm-5.2"
+}

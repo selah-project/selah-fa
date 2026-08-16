@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "nehemiah 7:48",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "پسرانِ لِوانا، پسرانِ حَگَبا، پسرانِ شَلْمای",
+  "tokens": [
+    {
+      "surface": "בְּנֵי",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "לְבָנָ֥ה",
+      "gloss": "لِوانا"
+    },
+    {
+      "surface": "בְנֵי",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "חֲגָבָ֖ה",
+      "gloss": "حَگَبا"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "שַׁלְמָֽי",
+      "gloss": "شَلْمای"
+    }
+  ],
+  "timestamp": "2026-08-13T23:33:05.088089461Z",
+  "model": "glm-5.2"
+}

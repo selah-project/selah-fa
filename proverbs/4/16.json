@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 4:16",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "زیرا اگر شر نکنند، نمی‌خوابند، و خواب از آنان گرفته می‌شود، اگر کسی را بلغزانند.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "می‌خوابند"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "شر کنند"
+    },
+    {
+      "surface": "ונגזלה",
+      "gloss": "و گرفته می‌شود"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "خوابِ آنان"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יכשולו",
+      "gloss": "بلغزانند"
+    }
+  ],
+  "timestamp": "2026-08-13T22:59:43.524845064Z",
+  "model": "glm-5.2"
+}

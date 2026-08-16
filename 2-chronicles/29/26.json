@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-chronicles 29:26",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و لاویان با سازهای داوید ایستادند، و کاهنان با شیپورها.",
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "و ایستادند"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاویان"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "با سازهای"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوید"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "و کاهنان"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "با شیپورها"
+    }
+  ],
+  "timestamp": "2026-08-14T00:18:59.002018293Z",
+  "model": "glm-5.2"
+}

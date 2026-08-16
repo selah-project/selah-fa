@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "اَخی، پسر عَودی‌اِل، پسر گونی، سرِ بیت پدرانشان.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "اَخی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "عَودی‌اِل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "گونی"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "به بیت"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "پدرانشان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:18.262641643Z",
+  "model": "glm-5.2"
+}

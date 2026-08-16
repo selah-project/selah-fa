@@ -1,0 +1,73 @@
+{
+  "ref": "deuteronomy 32:41",
+  "lang": "fa",
+  "book": "deuteronomy",
+  "chapter": 32,
+  "verse": 41,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:55:53Z",
+  "translation": "اگر برقِ شمشیرم را تیز کنم و دستم ⟨برای⟩ داوری بگیرد، انتقام را به دشمنانم بازگردانم و به نفرت‌کنندگانم جزا دهم.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر",
+      "marks": ""
+    },
+    {
+      "surface": "שנותי",
+      "gloss": "تیز کنم",
+      "marks": ""
+    },
+    {
+      "surface": "ברק",
+      "gloss": "برقِ",
+      "marks": "شمشیرم"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "شمشیرم",
+      "marks": ""
+    },
+    {
+      "surface": "ותאחז",
+      "gloss": "و دستم بگیرد",
+      "marks": ""
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "⟨برای⟩ داوری",
+      "marks": ""
+    },
+    {
+      "surface": "ידי",
+      "gloss": "دستم",
+      "marks": ""
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "بازگردانم",
+      "marks": ""
+    },
+    {
+      "surface": "נקם",
+      "gloss": "انتقام",
+      "marks": ""
+    },
+    {
+      "surface": "לצרי",
+      "gloss": "به دشمنانم",
+      "marks": ""
+    },
+    {
+      "surface": "ולמשנאי",
+      "gloss": "و به نفرت‌کنندگانم",
+      "marks": ""
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "جزا دهم",
+      "marks": ""
+    }
+  ]
+}

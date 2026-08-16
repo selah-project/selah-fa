@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "1-chronicles 16:26",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "زیرا همهٔ خدایانِ مردمان بت‌اند، و یاهوه آسمان‌ها را ساخت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "خدایانِ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "مردمان"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "بت‌اند"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "و یاهوه"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمان‌ها"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ساخت"
+    }
+  ],
+  "timestamp": "2026-08-15T04:33:50.345070155Z",
+  "model": "glm-5.3"
+}

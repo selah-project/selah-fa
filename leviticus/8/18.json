@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "leviticus 8:18",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و ⟨את⟩ قوچِ عولا را نزدیک آورد؛ و اهارون و پسرانش دست‌هایشان را بر سرِ آن قوچ نهادند.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "نزدیک آورد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوچِ عولا"
+    },
+    {
+      "surface": "איל",
+      "gloss": "قوچ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "عولا"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "نهادند"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "و پسرانش"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دست‌هایشان"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "دست‌هایشان"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سرِ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "آن قوچ"
+    }
+  ],
+  "timestamp": "2026-08-15T20:52:53.868360122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "بیرون شو از تابه، تو و زنِت و پسرانت و زنانِ پسرانت ⟨את⟩ تو.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "بیرون شو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "تابه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "و زنِت"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "و پسرانت"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "و زنانِ"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "پسرانت"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:23.208384004Z",
+  "model": "glm-5.2"
+}

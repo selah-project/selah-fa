@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezra 2:26",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "پسرانِ رامه و گَبَع، ششصد و بیست و یک.",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֤י",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "הָרָמָה֙",
+      "gloss": "رامه"
+    },
+    {
+      "surface": "וָגָ֔בַע",
+      "gloss": "و گَبَع"
+    },
+    {
+      "surface": "שֵׁ֥שׁ",
+      "gloss": "شش"
+    },
+    {
+      "surface": "מֵא֖וֹת",
+      "gloss": "صد"
+    },
+    {
+      "surface": "עֶשְׂרִ֥ים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "וְאֶחָֽד",
+      "gloss": "و یک"
+    }
+  ],
+  "timestamp": "2026-08-13T23:28:18.699279732Z",
+  "model": "glm-5.2"
+}

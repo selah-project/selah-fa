@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "او ⟨את⟩ فلسطینیان را تا عزّه و ⟨את⟩ مرزهایش را بزد؛ از برجِ نگهبانان تا شهرِ دژ.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "بزد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فلسطینیان"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلسطینیان را"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "عزّه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مرزهایش"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "مرزهایش را"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "از برجِ"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "نگهبانان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شهرِ"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "دژ"
+    }
+  ],
+  "timestamp": "2026-08-13T21:37:34.928263703Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "زیرا شما دانستید ⟨את⟩ آنکه ما در زمینِ مِصرایم نشستیم و ⟨את⟩ آنکه ما در میانِ امت‌ها عبور کردیم که شما عبور کردید",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "شما"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "دانستید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آنکه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "نشستیم"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "در زمینِ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِصرایم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "آنکه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "عبور کردیم"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "در میانِ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "امت‌ها"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "عبور کردید"
+    }
+  ],
+  "timestamp": "2026-08-13T20:51:57.370173768Z",
+  "model": "glm-5.2"
+}

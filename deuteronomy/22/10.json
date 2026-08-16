@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "نه شخم‌زنی با گاو و با الاغ با هم.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תַחֲרֹשׁ",
+      "gloss": "شخم‌زنی"
+    },
+    {
+      "surface": "בְּשׁוֹר",
+      "gloss": "با گاو"
+    },
+    {
+      "surface": "וּבַחֲמֹר",
+      "gloss": "و با الاغ"
+    },
+    {
+      "surface": "יַחְדָּו",
+      "gloss": "با هم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:48:57.785158923Z",
+  "model": "glm-5.2"
+}

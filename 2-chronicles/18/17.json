@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 18:17",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و پادشاهِ یسرائیل به یهوشافات گفت: آیا به تو نگفتم که او دربارهٔ من نبوت نخواهد کرد — خیر، بلکه بد؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "یهوشافات"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "نگفتم"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "به تو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יתנבא",
+      "gloss": "نبوت خواهد کرد"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "دربارهٔ من"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خیر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلکه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨اگر⟩"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "بد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:47:12.317352516Z",
+  "model": "glm-5.2"
+}

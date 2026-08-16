@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و بر لوح‌ها ⟨את⟩ سخنان را که بر لوح‌های نخستین بودند که شکستی، بنویسم و آن‌ها را در صندوق بگذاری.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "و بنویسم"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "لوح‌ها"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سخنان را"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "سخنان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بودند"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "لوح‌های"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "نخستین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "شکستی"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "و بگذاری"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "در صندوق"
+    }
+  ],
+  "timestamp": "2026-08-13T20:46:28.442238783Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و بگیرد کاهن از لوگِ روغن، و بریزد بر کفِ ⟨دستِ⟩ کاهنِ چپ.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "و بگیرد"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "از لوگِ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "روغن"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "و بریزد"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כף",
+      "gloss": "کفِ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "چپ"
+    }
+  ],
+  "timestamp": "2026-08-13T20:25:42.347414353Z",
+  "model": "glm-5.2"
+}

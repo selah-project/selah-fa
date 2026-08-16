@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "nahum 3:9",
+  "book": "nahum",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "کوش نیرومند بود و مصر، و پایانی نبود؛ پوت و لوبیم در یاریِ تو بودند.",
+  "tokens": [
+    {
+      "surface": "כוש",
+      "gloss": "کوش"
+    },
+    {
+      "surface": "עצמה",
+      "gloss": "نیرومند بود"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "و مصر"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نبود"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "پایانی"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "پوت"
+    },
+    {
+      "surface": "ולובים",
+      "gloss": "و لوبیم"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بودند"
+    },
+    {
+      "surface": "בעזרתך",
+      "gloss": "در یاریِ تو"
+    }
+  ],
+  "timestamp": "2026-08-15T04:20:44.645331062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 120,
+  "translation": "تیزِ تکاورِ برنده، با زغال‌های بازِ رُتَم",
+  "tokens": [
+    {
+      "surface": "חִצֵּ֣י",
+      "gloss": "تیزِ"
+    },
+    {
+      "surface": "גִבּ֣וֹר",
+      "gloss": "تکاور"
+    },
+    {
+      "surface": "שְׁנוּנִ֑ים",
+      "gloss": "برنده"
+    },
+    {
+      "surface": "עִ֝֗ם",
+      "gloss": "با"
+    },
+    {
+      "surface": "גַּחֲלֵ֥י",
+      "gloss": "زغال‌های"
+    },
+    {
+      "surface": "רְתָמִֽים",
+      "gloss": "رُتَم"
+    }
+  ],
+  "timestamp": "2026-08-14T00:13:28.882487975Z",
+  "model": "glm-5.2"
+}

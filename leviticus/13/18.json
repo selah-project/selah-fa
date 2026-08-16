@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 13:18",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "وگوشتی چون در پوستِ آن دملی باشد، وبهبود یابد،",
+  "tokens": [
+    {
+      "surface": "וּבָשָׂ֕ר",
+      "gloss": "و‌گوشتی"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "יִהְיֶ֥ה",
+      "gloss": "باشد"
+    },
+    {
+      "surface": "בֽוֹ",
+      "gloss": "در‌آن"
+    },
+    {
+      "surface": "בְעֹר֖וֹ",
+      "gloss": "در‌پوستِ‌آن"
+    },
+    {
+      "surface": "שְׁחִ֑ין",
+      "gloss": "دملی"
+    },
+    {
+      "surface": "וְנִרְפָּֽא",
+      "gloss": "و‌بهبود‌یابد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:55:47.555754424Z",
+  "model": "glm-5.2"
+}

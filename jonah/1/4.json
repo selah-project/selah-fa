@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و یاهوه بادِ بزرگی را به دریا افکند، و بود توفانی بزرگ در دریا، و کشتی گمان کرد که بشکند.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "و یاهوه"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "افکند"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "بادِ"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "بزرگی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "סער",
+      "gloss": "توفانی"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "בים",
+      "gloss": "در دریا"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "و کشتی"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "گمان کرد"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "که بشکند"
+    }
+  ],
+  "timestamp": "2026-08-13T22:31:03.471972553Z",
+  "model": "glm-5.2"
+}

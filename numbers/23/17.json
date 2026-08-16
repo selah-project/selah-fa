@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 23:17",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "وآمد نزد او، واینک ایستاده بر عُلَّتِ خود، وسران موآب ⟨את⟩ او؛ وقال او را بالاق: چه سخن گفته یاهوه؟",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "وآمد"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "نزد او"
+    },
+    {
+      "surface": "והנו",
+      "gloss": "واینک"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "ایستاده"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "عُلَّتِ خود"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "وسران"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "او"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "او را"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخن گفته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:38:58.117697676Z",
+  "model": "glm-5.2"
+}

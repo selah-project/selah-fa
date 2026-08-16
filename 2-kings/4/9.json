@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "2-kings 4:9",
+  "book": "2-kings",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و او به شوهرش گفت: اینک ⟨نالا⟩ می‌دانم که مردِ الوهیمِ قدّوسی است، که پیوسته بر ما می‌گذرد.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "و او گفت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "شوهرش"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨نالا⟩"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "می‌دانم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردِ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "قدّوس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "است"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "می‌گذرد"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "بر ما"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "پیوسته"
+    }
+  ],
+  "timestamp": "2026-08-15T04:05:17.721500806Z",
+  "model": "glm-5.3"
+}

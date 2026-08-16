@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 89,
+  "translation": "و رحمتم را از او برنخواهم شکست، و در امانتم دروغ نخواهم گفت",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "و رحمتِ من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "برنخواهم شکست"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "از او"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "دروغ نخواهم گفت"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "در امانتِ من"
+    }
+  ],
+  "timestamp": "2026-08-15T20:54:01.078818464Z",
+  "model": "glm-5.3+hand"
+}

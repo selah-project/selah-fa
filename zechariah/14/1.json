@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 14:1",
+  "book": "zechariah",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "اینک روزی برای یاهوه می‌آید، و غنیمتِ تو در میانِ تو تقسیم ⟨می‌شود⟩.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روزی"
+    },
+    {
+      "surface": "בא",
+      "gloss": "می‌آید"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "برای یاهوه"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "و تقسیم ⟨می‌شود⟩"
+    },
+    {
+      "surface": "שללך",
+      "gloss": "غنیمتِ تو"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "در میانِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:36:57.472877185Z",
+  "model": "glm-5.2"
+}

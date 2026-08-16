@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 8:36",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و اهارون و پسرانش ⟨את⟩ همهٔ سخنان را که یاهوه به دستِ موشه فرمان داده بود، انجام دادند",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و انجام داد"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "و پسرانش"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همهٔ سخنان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "سخنان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فرمان داده بود"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "به دستِ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:23:50.989180109Z",
+  "model": "glm-5.2"
+}

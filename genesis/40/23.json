@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 40,
+  "translation": "و سَرِ ساقیان یاد نکرد ⟨את⟩ یوسف را، و او را فراموش کرد.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "یاد کرد"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سَرِ"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "ساقیان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوسف"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "و او را فراموش کرد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:05:31.195883941Z",
+  "model": "glm-5.2"
+}

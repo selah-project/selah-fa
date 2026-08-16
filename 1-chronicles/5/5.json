@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 5:5",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "میکاه پسرِ او، رِآیاه پسرِ او، بَعَل پسرِ او.",
+  "tokens": [
+    {
+      "surface": "מיכה",
+      "gloss": "میکاه"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرِ او"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "رِآیاه"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرِ او"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بَعَل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:02.671165716Z",
+  "model": "glm-5.2"
+}

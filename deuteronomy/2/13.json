@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "اکنون برخیزید و برای خودان عبور کنید ⟨את⟩ وادی زرد، و ما عبور کردیم ⟨את⟩ وادی زرد.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "اکنون"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "برخیزید"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "وعبور کنید"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "برایِ شما"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وادی"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "وادی"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "زرد"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "وما عبور کردیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وادی"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "وادی"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "زرد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:43:00.243983899Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "judges 15:8",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و ⟨את⟩ آنها را ران بر ران ضربتی بزرگ زد، و پایین رفت و در شکافِ صخرهٔ عِیتام نشست.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "و زد"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "آنها"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "ران"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ران"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ضربت"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "و پایین رفت"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "و نشست"
+    },
+    {
+      "surface": "בסעיף",
+      "gloss": "در شکافِ"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "صخرهٔ"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "عِیتام"
+    }
+  ],
+  "timestamp": "2026-08-15T03:59:30.874452143Z",
+  "model": "glm-5.3"
+}

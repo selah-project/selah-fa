@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 22:17",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "زیرا بسیار گرامی خواهم کردت و هر آنچه که بگویی به من، خواهم کرد؛ و بیا، الآن لعنت کن برای من ⟨את⟩ این قوم را.»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "گرامی داشتن"
+    },
+    {
+      "surface": "אכבדך",
+      "gloss": "خواهم کردت"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "بگویی"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "خواهم کرد"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "و بیا"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "لعنت کن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برای من"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "این قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    }
+  ],
+  "timestamp": "2026-08-13T20:38:15.752340208Z",
+  "model": "glm-5.2"
+}

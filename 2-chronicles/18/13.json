@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 18:13",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "وَ میکایاهو گفت: زنده است یاهوه، که ⟨את⟩ آنچه الوهیمِ من بگوید، آن را خواهم گفت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وَ گفت"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "میکایاهو"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زنده است"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آنچه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "می‌گوید"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوهیمِ من"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "آن را"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "خواهم گفت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:47:11.962597875Z",
+  "model": "glm-5.2"
+}

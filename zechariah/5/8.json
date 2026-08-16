@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و گفت: این است ←این→ آن شرارت؛ و او را انداخت ⟨את⟩ به میانِ اِیفه، و انداخت ⟨את⟩ سنگِ سرب را بر دهانهٔ آن.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "آن شرارت"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "و انداخت"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "او را (آن شرارت)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "میانِ"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "اِیفه"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "و انداخت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سنگِ سرب"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "سنگ"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "سرب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "دهانهٔ آن"
+    }
+  ],
+  "timestamp": "2026-08-15T04:21:23.782639564Z",
+  "model": "glm-5.3"
+}

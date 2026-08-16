@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 27:2",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "در آن روز، «تاکستانِ دل‌انگیز» سرود بدهید ⟨به⟩ او.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "در روز"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "تاکستان"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "دل‌انگیز"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "سرود بدهید"
+    },
+    {
+      "surface": "לה",
+      "gloss": "به او"
+    }
+  ],
+  "timestamp": "2026-08-13T21:46:16.517738206Z",
+  "model": "glm-5.2"
+}

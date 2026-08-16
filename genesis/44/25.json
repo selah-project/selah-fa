@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 44,
+  "translation": "و پدر ما گفت: بازگردید، برای ما خوراکی کمی بخرید.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "پدر ما"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "بازگردید"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "بخرید"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "برای ما"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "کمی"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "خوراکی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:08:04.698803238Z",
+  "model": "glm-5.2"
+}

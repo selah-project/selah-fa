@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "بترسد از یاهوه همهٔ زمین؛ از او هراسان شود همهٔ ساکنانِ جهان.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "بترسد"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "از یاهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "از او"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "هراسان شود"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ساکنانِ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "جهان"
+    }
+  ],
+  "timestamp": "2026-08-13T22:41:23.324580157Z",
+  "model": "glm-5.2"
+}

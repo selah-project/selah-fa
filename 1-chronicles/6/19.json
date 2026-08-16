@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 6:19",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "پسرِ اَلقَنه، پسرِ یِروحام، پسرِ اِلی‌اِیل، پسرِ توَح.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "اَلقَنه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "یِروحام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "اِلی‌اِیل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "תוח",
+      "gloss": "توَح"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:59.443510076Z",
+  "model": "glm-5.2"
+}

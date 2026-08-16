@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "بیوه، و رانده‌شده، و ناپاک، روسپی — ⟨את⟩ این‌ها را نگیرد، که اگر باکره‌ای از قومِ خود زنی را بگیرد",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "بیوه"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "و رانده‌شده"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "و ناپاک"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "روسپی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "این‌ها"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "بگیرد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "باکره‌ای"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "از قومِ خود"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "بگیرد"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زنی را"
+    }
+  ],
+  "timestamp": "2026-08-13T20:27:35.355977727Z",
+  "model": "glm-5.2"
+}

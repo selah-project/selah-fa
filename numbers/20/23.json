@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 20:23",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و یاهوه به موشه و به اَهارون در هورِ کوه، بر مرزِ زمینِ اَدوم گفت، بی‌آنکه بگوید:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و به"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اَهارون"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "در"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "هورِ کوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "مرزِ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینِ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اَدوم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بی‌آنکه بگوید"
+    }
+  ],
+  "timestamp": "2026-08-13T20:37:19.230441205Z",
+  "model": "glm-5.2"
+}

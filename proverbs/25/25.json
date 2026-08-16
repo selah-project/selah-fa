@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "آب‌های سرد بر نفسِ خسته، و خبرِ نیکو ⟨از⟩ زمینی دور.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "آب‌های"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "سرد"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفسِ"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "خسته"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "و خبرِ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "نیکو"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "⟨از⟩ زمین"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "دور"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:41.926546742Z",
+  "model": "glm-5.2"
+}

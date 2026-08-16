@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 35,
+  "ref": "1-chronicles 11:35",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "اَخیام پسرِ ساکار هَهَراری، اِلیفال پسرِ اور",
+  "tokens": [
+    {
+      "surface": "אחיאם",
+      "gloss": "اَخیام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ساکار"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "هَهَراری"
+    },
+    {
+      "surface": "אליפל",
+      "gloss": "اِلیفال"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "اور"
+    }
+  ],
+  "timestamp": "2026-08-15T04:34:05.115126893Z",
+  "model": "glm-5.3"
+}

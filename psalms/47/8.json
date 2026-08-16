@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 47,
+  "translation": "زیرا الوهیم پادشاهِ تمامِ زمین است؛ با فهمِ عمیق بزنید.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "بزنید"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "با فهمِ عمیق"
+    }
+  ],
+  "timestamp": "2026-08-13T22:43:56.139597966Z",
+  "model": "glm-5.2"
+}

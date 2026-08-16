@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 121,
+  "translation": "یاهوه تو را از همه بدی نگاه دارد، ⟨את⟩ جانِ تو را نگاه دارد.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "تو را نگاه دارد"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "از همه"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "نگاه دارد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جانِ تو را"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "جانِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:56:28.457474563Z",
+  "model": "glm-5.2"
+}

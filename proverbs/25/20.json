@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "proverbs 25:20",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "برداشتنِ جامه در روزِ سرد، و سرکه بر نطرون — و آن‌که سرودها می‌خواند بر دلی رنجور.",
+  "tokens": [
+    {
+      "surface": "מעדה",
+      "gloss": "برداشتنِ"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "جامه"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "קרה",
+      "gloss": "سرد"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "سرکه"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "נתר",
+      "gloss": "نطرون"
+    },
+    {
+      "surface": "ושר",
+      "gloss": "و آن‌که می‌خواند"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "سرودها"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دلی"
+    },
+    {
+      "surface": "רע",
+      "gloss": "رنجور"
+    }
+  ],
+  "timestamp": "2026-08-15T04:28:22.016860710Z",
+  "model": "glm-5.3"
+}

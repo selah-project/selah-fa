@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و اَحیتوو ⟨את⟩ تْسادوک را زایید، و تْسادوک ⟨את⟩ شَلّوم را زایید.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "و اَحیتوو"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زایید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تْسادوک"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "تْسادوک"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "و تْسادوک"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زایید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شَلّوم"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شَلّوم"
+    }
+  ],
+  "timestamp": "2026-08-15T04:33:25.943689888Z",
+  "model": "glm-5.3"
+}

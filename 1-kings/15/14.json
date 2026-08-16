@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 15:14",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و باموت‌ها کناره نگرفتند؛ تنها دلِ اَسا با یاهوه تمامِ روزهایش کامل بود.",
+  "tokens": [
+    {
+      "surface": "והבמות",
+      "gloss": "و باموت‌ها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "کناره گرفتند"
+    },
+    {
+      "surface": "רק",
+      "gloss": "تنها"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دلِ"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "اَسا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "کامل"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "روزهایش"
+    }
+  ],
+  "timestamp": "2026-08-13T21:29:44.300438148Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 19:14",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "خانه و ثروت، میراثِ پدران‌اند، و از یاهوه، زنِ فهمیده.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "خانه"
+    },
+    {
+      "surface": "והון",
+      "gloss": "و ثروت"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "میراثِ"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "پدران"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "و از یاهوه"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زنِ"
+    },
+    {
+      "surface": "משכלת",
+      "gloss": "فهمیده"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:52.115219372Z",
+  "model": "glm-5.2"
+}

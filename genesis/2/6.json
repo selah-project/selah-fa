@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و بخاری از زمین بالا می‌رفت و تمام رویِ خاک را سیراب می‌کرد.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "و بخاری"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "بالا می‌رفت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "و سیراب می‌کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تمام روی خاک"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رویِ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "خاک"
+    }
+  ],
+  "timestamp": "2026-08-13T19:54:59.410457642Z",
+  "model": "glm-5.2"
+}

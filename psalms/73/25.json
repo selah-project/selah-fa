@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 73,
+  "translation": "چه کسی برای من در آسمان‌ها ⟨است⟩؟ و با تو، در زمین خواستار نشدم.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "چه کسی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برای من"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "در آسمان‌ها"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "و با تو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "خواستار شدم"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "در زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T22:47:46.783698858Z",
+  "model": "glm-5.2"
+}

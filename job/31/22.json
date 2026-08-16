@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 31:22",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "دوشم از کتفش بیفتد، و بازویم از استخوانش بشکند،",
+  "tokens": [
+    {
+      "surface": "כתפי",
+      "gloss": "دوشم"
+    },
+    {
+      "surface": "משכמה",
+      "gloss": "از کتفش"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "بیفتد"
+    },
+    {
+      "surface": "ואזרעי",
+      "gloss": "و بازویم"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "از استخوانش"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "بشکند"
+    }
+  ],
+  "timestamp": "2026-08-13T23:12:06.918047932Z",
+  "model": "glm-5.2"
+}

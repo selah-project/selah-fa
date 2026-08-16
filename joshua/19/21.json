@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 19:21",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و رَمَت، و عین گَنّیم، و عین حَدّه، و بیت پَصِّص.",
+  "tokens": [
+    {
+      "surface": "וְרֶ֧מֶת",
+      "gloss": "و رَمَت"
+    },
+    {
+      "surface": "וְעֵין",
+      "gloss": "و عین"
+    },
+    {
+      "surface": "גַּנִּ֛ים",
+      "gloss": "گَنّیم"
+    },
+    {
+      "surface": "וְעֵ֥ין",
+      "gloss": "و عین"
+    },
+    {
+      "surface": "חַדָּ֖ה",
+      "gloss": "حَدّه"
+    },
+    {
+      "surface": "וּבֵ֥ית",
+      "gloss": "و بیت"
+    },
+    {
+      "surface": "פַּצֵּֽץ",
+      "gloss": "پَصِّص"
+    }
+  ],
+  "timestamp": "2026-08-13T20:58:54.143896493Z",
+  "model": "glm-5.2"
+}

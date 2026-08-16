@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 26:23",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "نقره‌یِ سرباره روکش‌شده بر سفال، لب‌هایِ افروخته و دلِ بد ⟨است⟩.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "نقره‌یِ"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "سرباره"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "روکش‌شده"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "سفال"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "لب‌هایِ"
+    },
+    {
+      "surface": "דלקים",
+      "gloss": "افروخته"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "و دلِ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:05:11.880234558Z",
+  "model": "glm-5.2"
+}

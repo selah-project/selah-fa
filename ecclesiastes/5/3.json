@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "چون نذری به الوهیم می‌گزاری، در ادا کردنِ آن درنگ مکن، زیرا در نادانان خرسندی‌ای نیست؛ آنچه نذر می‌کنی ادا کن.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "چون"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "نذری می‌گزاری"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "نذر"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "به الوهیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "درنگ مکن"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "در ادا کردنِ آن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "خرسندی"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "در نادانان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آنچه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "نذر می‌کنی"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "ادا کن"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:28.665514617Z",
+  "model": "glm-5.2"
+}

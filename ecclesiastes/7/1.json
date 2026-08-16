@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "نام، بهتر از روغنِ ناب است، و روزِ مرگ، از روزِ زاده‌شدن.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بهتر"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "از روغنِ ناب"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خوب"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "و روزِ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "مرگ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "از روزِ"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "زاده‌شدن"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:56.517996782Z",
+  "model": "glm-5.2"
+}

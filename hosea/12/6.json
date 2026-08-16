@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 12:6",
+  "book": "hosea",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و یاهوه، الوهیمِ صبایوت، یاهوه یادِ اوست.",
+  "tokens": [
+    {
+      "surface": "ואהוה",
+      "gloss": "و یاهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوهیمِ"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "صبایوت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "یادِ اوست"
+    }
+  ],
+  "timestamp": "2026-08-13T22:26:56.510007220Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 7:10",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و اینک زنی ⟨به⟩ دیدارِ او، پوششِ زناکار، و نگهبانِ دل.",
+  "tokens": [
+    {
+      "surface": "וְהִנֵּ֣ה",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "אִ֭שָּׁה",
+      "gloss": "زنی"
+    },
+    {
+      "surface": "לִקְרָאת֑וֹ",
+      "gloss": "به دیدارِ او"
+    },
+    {
+      "surface": "שִׁ֥ית",
+      "gloss": "پوششِ"
+    },
+    {
+      "surface": "זוֹנָ֗ה",
+      "gloss": "زناکار"
+    },
+    {
+      "surface": "וּנְצֻ֥רַת",
+      "gloss": "و نگهبانِ"
+    },
+    {
+      "surface": "לֵֽב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-08-13T23:00:24.023849824Z",
+  "model": "glm-5.2"
+}

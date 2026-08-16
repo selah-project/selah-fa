@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "خواست شریر تورِ بدان است، و ریشهٔ صالحان می‌دهد.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "خواست"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شریر"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "تورِ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "بدان"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "و ریشهٔ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "صالحان"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "می‌دهد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:01:23.845545811Z",
+  "model": "glm-5.2"
+}

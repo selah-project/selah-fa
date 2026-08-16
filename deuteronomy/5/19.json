@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 5:19",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و دزدی نکن.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "دزدی کن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:44:06.796772777Z",
+  "model": "glm-5.2"
+}

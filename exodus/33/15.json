@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "و گفت به او: اگر رویِ تو نمی‌رود، ما را بالا مبر از ⟨این⟩ جایگاهِ این!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "رویِ تو"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "می‌رود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مبر"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "ما را بالا"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "از این"
+    }
+  ],
+  "timestamp": "2026-08-13T20:19:44.866666634Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 31:53",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "(زیرا مردانِ جنگ غارت کرده بودند، هر مردی برای خود.)",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "مردانِ"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "غارت کرده بودند"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر مردی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برای خود"
+    }
+  ],
+  "timestamp": "2026-08-13T20:40:40.899045311Z",
+  "model": "glm-5.2"
+}

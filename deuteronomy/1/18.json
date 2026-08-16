@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و ⟨את⟩ شما را فرمان دادم در آنِ زمان ⟨את⟩ همهٔ امور را که باید انجام دهید،",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "و فرمان دادم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ شما را"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "در زمانِ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همهٔ امور"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "امور"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "انجام دهید"
+    }
+  ],
+  "timestamp": "2026-08-13T20:43:34.686511979Z",
+  "model": "glm-5.2"
+}

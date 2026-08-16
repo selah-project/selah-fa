@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "خانه‌ها بسازید و ساکن شوید و باغ‌ها بکارید و میوهٔ ⟨את⟩ آنها را بخورید،",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "بسازید"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "خانه‌ها"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "و ساکن شوید"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "و بکارید"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "باغ‌ها"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "و بخورید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میوهٔ آنها"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "میوهٔ آنها"
+    }
+  ],
+  "timestamp": "2026-08-13T22:04:34.717159647Z",
+  "model": "glm-5.2"
+}

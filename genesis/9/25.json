@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و گفت: نفرین‌باد بر کنعان، غلامِ غلامان برای برادرانش باشد.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "نفرین‌باد"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلامِ"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "غلامان"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "باشد"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "برای برادرانش"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:28.134000964Z",
+  "model": "glm-5.2"
+}

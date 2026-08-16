@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 10:18",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و پادشاه تختِ بزرگی از عاج ساخت و آن را با زرِ رفت‌رفته پوشاند.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و ساخت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تختِ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "عاج"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "و آن را پوشاند"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زرِ"
+    },
+    {
+      "surface": "מופז",
+      "gloss": "رفت‌رفته"
+    }
+  ],
+  "timestamp": "2026-08-13T21:27:37.648568436Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و رفت مردی از خانهٔ لِوی، و گرفت ⟨את⟩ دخترِ لِوی را.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "و رفت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "از خانهٔ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لِوی"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "و گرفت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دخترِ لِوی"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دخترِ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لِوی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:10:15.269561Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 27:2",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "این‌چنین گفت یاهوه به من: برای خود بندهایی و یوگ‌هایی بساز، و آن‌ها را بر گردنِ خود بگذار.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "این‌چنین"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بساز"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برای خود"
+    },
+    {
+      "surface": "מוסרות",
+      "gloss": "بندهایی"
+    },
+    {
+      "surface": "ומטות",
+      "gloss": "و یوگ‌هایی"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "و بگذار"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "گردنِ خود"
+    }
+  ],
+  "timestamp": "2026-08-13T22:03:40.261495266Z",
+  "model": "glm-5.2"
+}

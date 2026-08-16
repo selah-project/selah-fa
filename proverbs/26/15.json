@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 26:15",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "تنبل دستش را در تشت پنهان کرد، برآن راست آوردنش به دهانش دشوار است.",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "پنهان کرد"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "تنبل"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دستش را"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "در تشت"
+    },
+    {
+      "surface": "נלאה",
+      "gloss": "دشوار است"
+    },
+    {
+      "surface": "להשיבה",
+      "gloss": "بازآوردنش"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "دهانش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:05:02.186876244Z",
+  "model": "glm-5.2"
+}

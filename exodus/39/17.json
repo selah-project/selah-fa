@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 39:17",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 39,
+  "translation": "و دو زنجیرِ پیچانِ طلا را بر دو حلقه گذاشتند، بر انتهای‌های پوشینهٔ سینه.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "و گذاشتند"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "زنجیرِ پیچان"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "طلا"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "حلقه"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "انتهای‌های"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "پوشینهٔ سینه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:21:33.181274339Z",
+  "model": "glm-5.2"
+}

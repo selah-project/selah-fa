@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 28:10",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "ببین، اکنون که یاهوه تو را برگزیده تا خانه‌ای برای مقدّس‌خانه بسازی؛ قوی باش و انجام بده!",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ببین"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "اکنون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "برگزیده"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تو را"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "تا بسازی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانه‌ای"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "برای مقدّس‌خانه"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "قوی باش"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "و انجام بده"
+    }
+  ],
+  "timestamp": "2026-08-13T23:43:01.720060512Z",
+  "model": "glm-5.2"
+}

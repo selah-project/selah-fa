@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 23:23",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "آیا الوهیمِ نزدیک ⟨هستم⟩ من، نئوم یاهوه، و نه الوهیمِ دور؟",
+  "tokens": [
+    {
+      "surface": "הַאֱלֹהֵ֧י",
+      "gloss": "آیا الوهیمِ"
+    },
+    {
+      "surface": "מִקָּרֹ֛ב",
+      "gloss": "نزدیک"
+    },
+    {
+      "surface": "אָ֖נִי",
+      "gloss": "من"
+    },
+    {
+      "surface": "נְאֻ֝ם",
+      "gloss": "نئوم"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "אֱלֹהֵ֖י",
+      "gloss": "الوهیمِ"
+    },
+    {
+      "surface": "מֵרָחֹֽק",
+      "gloss": "دور"
+    }
+  ],
+  "timestamp": "2026-08-14T00:06:38.671889514Z",
+  "model": "glm-5.2"
+}

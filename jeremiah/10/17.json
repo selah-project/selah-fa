@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 10:17",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "بستهٔ خود را از زمین گردآور، ای ساکن ⟨در⟩ محاصره!",
+  "tokens": [
+    {
+      "surface": "אספי",
+      "gloss": "گردآور"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "از زمین"
+    },
+    {
+      "surface": "כנעתך",
+      "gloss": "بستهٔ تو"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "ای ساکن"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "در محاصره"
+    }
+  ],
+  "timestamp": "2026-08-13T21:58:22.085208362Z",
+  "model": "glm-5.2"
+}

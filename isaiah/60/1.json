@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 60:1",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 60,
+  "translation": "برخیز، روشن شو، که نورت آمده، و بُزورگ‌منشی یاهوه بر تو تابید.",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "برخیز"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "روشن شو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آمده"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "نورت"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "و بُزورگ‌منشی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "بر تو"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "تابید"
+    }
+  ],
+  "timestamp": "2026-08-13T21:54:20.156108369Z",
+  "model": "glm-5.2"
+}

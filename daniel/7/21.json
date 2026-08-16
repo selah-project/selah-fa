@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 7:21",
+  "book": "daniel",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "من می‌دیدم، و آن قرون همین‌گونه با قدیشین جنگ می‌کرد، و بر آن‌ها چیره می‌شد.",
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "می‌دیدم"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "بودم"
+    },
+    {
+      "surface": "וקרנא",
+      "gloss": "و قرون"
+    },
+    {
+      "surface": "דכן",
+      "gloss": "این"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "می‌کرد"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "קדישין",
+      "gloss": "قدیشین"
+    },
+    {
+      "surface": "ויכלה",
+      "gloss": "و چیره شد"
+    },
+    {
+      "surface": "להון",
+      "gloss": "بر آن‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T23:26:48.023967668Z",
+  "model": "glm-5.2"
+}

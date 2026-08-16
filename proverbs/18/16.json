@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 18:16",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "بخششِ آدمی برایش راه می‌گشاید، و او را به پیشگاهِ بزرگ‌ها می‌برد.",
+  "tokens": [
+    {
+      "surface": "מתן",
+      "gloss": "بخششِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "راه می‌گشاید"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برایش"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "و به پیشگاهِ"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "بزرگ‌ها"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "می‌برد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:13.487691032Z",
+  "model": "glm-5.2"
+}

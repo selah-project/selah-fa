@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 47,
+  "translation": "وَ پارعō گفت به یوسف، به‌قولِ: پدرت و برادرانت به‌سوی تو آمده‌اند.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وَ گفت"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پارعō"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به‌قولِ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "پدرت"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "و برادرانت"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آمده‌اند"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "به‌سوی تو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:08:45.189698936Z",
+  "model": "glm-5.2"
+}

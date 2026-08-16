@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "وَحَام، پدرِ کنعان، ⟨את⟩ برنگیِ پدرش را دید و به دو برادرش بیرون خبر داد.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "دید"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حَام"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پدرِ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "برنگی"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "برنگی"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پدرش"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "وخبر داد"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "به دو"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برادرش"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "بیرون"
+    }
+  ],
+  "timestamp": "2026-08-15T17:34:29.916986897Z",
+  "model": "glm-5.3"
+}

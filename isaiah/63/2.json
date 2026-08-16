@@ -1,0 +1,37 @@
+{
+  "ref": "isaiah 63:2",
+  "lang": "fa",
+  "book": "isaiah",
+  "chapter": 63,
+  "verse": 2,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:46:46Z",
+  "translation": "چرا سرخ ⟨است⟩ پوشاکِ تو، و جامه‌هایت مانندِ پای‌مال‌کننده در چرخُشت؟",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "سرخ"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "پوشاکِ تو"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "و جامه‌هایت"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "مانندِ پای‌مال‌کننده"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "در چرخُشت"
+    }
+  ]
+}

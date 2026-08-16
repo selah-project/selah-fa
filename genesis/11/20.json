@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و زیست رَعو سی و دو سال، و ⟨את⟩ سَروگ را زاد.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "و زیست"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "رَعو"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "و سی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سَروگ"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "سَروگ"
+    }
+  ],
+  "timestamp": "2026-08-13T19:57:33.818511343Z",
+  "model": "glm-5.2"
+}

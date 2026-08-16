@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "وَ عیسو گفت: فراوانی برای من هست، برادرم؛ آنچه برای توست برای تو باشد.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وَ گفت"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "יש",
+      "gloss": "هست"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برای من"
+    },
+    {
+      "surface": "רב",
+      "gloss": "فراوانی"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برادرم"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "باشد"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برای تو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنچه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برای توست"
+    }
+  ],
+  "timestamp": "2026-08-13T20:03:54.232905026Z",
+  "model": "glm-5.2"
+}

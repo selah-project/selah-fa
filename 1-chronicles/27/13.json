@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 27:13",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "دهم برای ماهِ دهم، مَهَرایِ نَتوفاتی‌ِ زَرْحی، و بر بخشِ او بیست‌و‌چهار هزار.",
+  "tokens": [
+    {
+      "surface": "העשירי",
+      "gloss": "دهم"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "برایِ ماهِ"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "دهم"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "مَهَرای"
+    },
+    {
+      "surface": "הנטופתי",
+      "gloss": "نَتوفاتی"
+    },
+    {
+      "surface": "לזרחי",
+      "gloss": "زَرْحی"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "بخشِ او"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "و‌چهار"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    }
+  ],
+  "timestamp": "2026-08-13T23:42:35.659001031Z",
+  "model": "glm-5.2"
+}

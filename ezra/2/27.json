@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 2:27",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "مردانِ مِخماس، صد و بیست و دو.",
+  "tokens": [
+    {
+      "surface": "אַנְשֵׁ֣י",
+      "gloss": "مردانِ"
+    },
+    {
+      "surface": "מִכְמָ֔ס",
+      "gloss": "مِخماس"
+    },
+    {
+      "surface": "מֵאָ֖ה",
+      "gloss": "صد"
+    },
+    {
+      "surface": "עֶשְׂרִ֥ים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "וּשְׁנָֽיִם",
+      "gloss": "و دو"
+    }
+  ],
+  "timestamp": "2026-08-13T23:28:18.699430978Z",
+  "model": "glm-5.2"
+}

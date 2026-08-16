@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و گفت: کدامین است این راه که بالا برویم؟ و گفت: راهِ بیابانِ اَدوم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אי",
+      "gloss": "کجا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "راه"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "بالا برویم"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راهِ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بیابانِ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اَدوم"
+    }
+  ],
+  "timestamp": "2026-08-13T21:33:05.198648484Z",
+  "model": "glm-5.2"
+}

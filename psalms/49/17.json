@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 49,
+  "translation": "نترس چون مردی ثروتمند شود، چون شکوهِ خانهٔ او بسیار گردد،",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "بترس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "ثروتمند شود"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "بسیار گردد"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شکوهِ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "خانهٔ او"
+    }
+  ],
+  "timestamp": "2026-08-13T22:43:54.112837036Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "judges 9:50",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و اَویمِلِخ به تِبِص رفت، و بر تِبِص اردو زد، و آن را گرفت.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "و رفت"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "اَویمِلِخ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "תבץ",
+      "gloss": "تِبِص"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "و اردو زد"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "بر تِبِص"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "و آن را گرفت"
+    }
+  ],
+  "timestamp": "2026-08-13T21:03:15.466582679Z",
+  "model": "glm-5.2"
+}

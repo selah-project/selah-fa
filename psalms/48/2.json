@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 48,
+  "translation": "بزرگ است یاهوه و بسیار ستوده، در شهرِ الوهیمِ ما، کوهِ قدسِ او.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "و ستوده"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "در شهرِ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "الوهیمِ ما"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کوهِ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "قدسِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T22:44:08.141929802Z",
+  "model": "glm-5.2"
+}

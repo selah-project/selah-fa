@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 5:34",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و اَحیتوب ⟨את⟩ تزادوق را زاد، و تزادوق ⟨את⟩ اَحیمَعَتز را زاد.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "و اَحیتوب"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تزادوق"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "تزادوق"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "و تزادوق"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَحیمَعَتز"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "اَحیمَعَتز"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:26.704324480Z",
+  "model": "glm-5.2"
+}

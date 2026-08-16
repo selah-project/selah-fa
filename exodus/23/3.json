@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "و فقیر را در دعوایش گرامی مدار.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "و فقیر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "گرامی بدار"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "در دعوایش"
+    }
+  ],
+  "timestamp": "2026-08-15T03:48:35.174062982Z",
+  "model": "glm-5.3"
+}

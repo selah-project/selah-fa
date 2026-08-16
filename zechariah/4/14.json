@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "zechariah 4:14",
+  "book": "zechariah",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و گفت: اینان دو پسرِ روغن‌اند، ایستاده بر ⟨کنارِ⟩ سرورِ همهٔ زمین.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اینان"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "روغن"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ایستاده"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "سرورِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-15T04:21:25.882838185Z",
+  "model": "glm-5.3"
+}

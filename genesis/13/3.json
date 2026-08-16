@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 13:3",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "و به مسیرهایِ خود رفت از نِگِب و تا بیت اِل، تا مکانِ آنجا خیمهٔ او در ابتدا بود، میان بیت اِل و میان ها-عای.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "و رفت"
+    },
+    {
+      "surface": "למסעיו",
+      "gloss": "به مسیرهایِ خود"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "از نِگِب"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "مکانِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آنجا"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "خیمهٔ او"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "در ابتدا"
+    },
+    {
+      "surface": "בין",
+      "gloss": "میان"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "و میان"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ها-عای"
+    }
+  ],
+  "timestamp": "2026-08-13T19:57:41.207388361Z",
+  "model": "glm-5.2"
+}

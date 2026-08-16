@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 6:5",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "همهٔ روزهای نذرِ نذریِ او، تیغ بر سرش نگذرد، تا پری روزهایی که برای یاهوه نذر می‌گزیند، مقدّس باشد؛ مویِ سرش را آزاد بگذارد رشد کند.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روزهای"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "نذرِ"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "نذریِ او"
+    },
+    {
+      "surface": "תער",
+      "gloss": "تیغ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "گذرد"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "سرش"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "پری"
+    },
+    {
+      "surface": "הימם",
+      "gloss": "روزهای"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יזיר",
+      "gloss": "نذر می‌گزیند"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "برای یاهوه"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدّس"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "باشد"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "بگذارد رشد کند"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "آزادِ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "مویِ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "سرش"
+    }
+  ],
+  "timestamp": "2026-08-13T20:32:18.894977157Z",
+  "model": "glm-5.2"
+}

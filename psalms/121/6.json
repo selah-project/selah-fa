@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 121,
+  "translation": "روزانه خورشید تو را نزند و ماه در شب.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "روزانه"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "خورشید"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "تو را نزند"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "و ماه"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "در شب"
+    }
+  ],
+  "timestamp": "2026-08-13T22:56:28.457357995Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 26:18",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "چون دیوانه‌ای که پرتاب می‌کند جرقه‌ها، تیرها و مرگ را —",
+  "tokens": [
+    {
+      "surface": "כמתלהלה",
+      "gloss": "چون دیوانه‌ای"
+    },
+    {
+      "surface": "הירה",
+      "gloss": "که پرتاب می‌کند"
+    },
+    {
+      "surface": "זקים",
+      "gloss": "جرقه‌ها"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "تیرها"
+    },
+    {
+      "surface": "ומות",
+      "gloss": "و مرگ را"
+    }
+  ],
+  "timestamp": "2026-08-13T23:05:07.681182635Z",
+  "model": "glm-5.2"
+}

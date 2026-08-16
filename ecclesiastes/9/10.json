@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 9:10",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "هر آنچه دست تو بیابد برای انجام، با توانت انجام ده، که کار و حساب و دانش و حکمت در شئول نیست، که تو به آنجا می‌روی.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنچه"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "بیابد"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "دست تو"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "برای انجام"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "با توانت"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "انجام ده"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کاری"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "و حسابی"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "و دانشی"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "و حکمتی"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "در شئول"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "می‌روی"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "به آنجا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:48.226822235Z",
+  "model": "glm-5.2"
+}

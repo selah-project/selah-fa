@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 17:18",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "چه بیفزاید داوود هنوز نزد تو برای شکوهِ ⟨את⟩ بنده‌ات؟ و تو، ⟨את⟩ بنده‌ات را می‌شناختی.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "بیفزاید"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "هنوز"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "نزد تو"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "برای شکوهِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بندهٔ تو"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "بندهٔ تو"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "و تو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بندهٔ تو"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "بندهٔ تو"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "می‌شناختی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:13.023959552Z",
+  "model": "glm-5.2"
+}

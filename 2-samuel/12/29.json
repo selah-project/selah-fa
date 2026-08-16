@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 12:29",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و داوود ⟨את⟩ همهٔ مردم را گرد آورد و به رَبّه رفت و با او جنگید و او را گرفت.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "و گرد آورد"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همهٔ مردم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "و رفت"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "به رَبّه"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "و جنگید"
+    },
+    {
+      "surface": "בה",
+      "gloss": "با او"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "و او را گرفت"
+    }
+  ],
+  "timestamp": "2026-08-13T21:19:03.080715589Z",
+  "model": "glm-5.2"
+}

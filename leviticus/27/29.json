@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "هر چیزی حریم‌شده که از میان انسان‌ها حریم شود، بازخریدیده نگردد؛ مرگ کشته شود.",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "חֵרֶם",
+      "gloss": "حریم‌شده"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יָחֳרַם",
+      "gloss": "حریم شود"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הָאָדָם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יִפָּדֶה",
+      "gloss": "بازخریدیده شود"
+    },
+    {
+      "surface": "מוֹת",
+      "gloss": "مرگ"
+    },
+    {
+      "surface": "יוּמָת",
+      "gloss": "کشته شود"
+    }
+  ],
+  "timestamp": "2026-08-13T20:30:14.645132311Z",
+  "model": "glm-5.2"
+}

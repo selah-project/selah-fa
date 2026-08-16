@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 6:9",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "تَحَت پسرش، اوری‌اِل پسرش، عُزیّاه پسرش، و شائول پسرش.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "تَحَت"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    },
+    {
+      "surface": "אוריאל",
+      "gloss": "اوری‌اِل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    },
+    {
+      "surface": "עזיה",
+      "gloss": "عُزیّاه"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "و شائول"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:35.528310694Z",
+  "model": "glm-5.2"
+}

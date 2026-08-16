@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 24:17",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "حقِ بیگانه و یتیم را کج نکنی، و رختِ بیوه را در گرو نگیری.",
+  "tokens": [
+    {
+      "surface": "לֹ֣א",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תַטֶּ֔ה",
+      "gloss": "کج کنی"
+    },
+    {
+      "surface": "מִשְׁפַּ֖ט",
+      "gloss": "حقِ"
+    },
+    {
+      "surface": "גֵּ֣ר",
+      "gloss": "بیگانه"
+    },
+    {
+      "surface": "יָת֑וֹם",
+      "gloss": "یتیم"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תַחֲבֹ֔ל",
+      "gloss": "در گرو گیری"
+    },
+    {
+      "surface": "בֶּ֖גֶד",
+      "gloss": "رختِ"
+    },
+    {
+      "surface": "אַלְמָנָֽה",
+      "gloss": "بیوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:50:48.408979705Z",
+  "model": "glm-5.2"
+}

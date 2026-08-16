@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "هر خزنده‌ای که او زنده است، برای خوراکِ شما خواهد بود؛ مانند گیاهِ سبز، همهِ ⟨את⟩ را به شما داده‌ام.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "خزنده‌ای"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زنده است"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "برای شما"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "خواهد بود"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "برای خوراک"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "مانند گیاهِ"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "سبز"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "داده‌ام"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "به شما"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همهِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهِ"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:44.534866625Z",
+  "model": "glm-5.2"
+}

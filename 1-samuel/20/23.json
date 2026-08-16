@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 20:23",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و اما سخنِ آنکه ما، من و تو، سخن گفتیم — اینک، یاهوه میان من و توست تا ابد.",
+  "tokens": [
+    {
+      "surface": "והדבר",
+      "gloss": "و اما سخن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنکه"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "سخن گفتیم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "و تو"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "میان من"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "و تو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ابد"
+    }
+  ],
+  "timestamp": "2026-08-13T21:12:39.551834311Z",
+  "model": "glm-5.2"
+}

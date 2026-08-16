@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و یاهوه الوهیم باغی در عِدِن، در سمتِ خاور کاشت، و آنجا ⟨את⟩ اَدَم را که ساخته بود، گذاشت.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "و کاشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "גן",
+      "gloss": "باغی"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "در عِدِن"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "در سمتِ خاور"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "و گذاشت"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آنجا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَدَم"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "اَدَم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ساخته بود"
+    }
+  ],
+  "timestamp": "2026-08-13T19:54:59.410922741Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 17:27",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "و همهٔ مردانِ خانه‌اش زادهٔ خانه و خریدِ نقره از ⟨את⟩ پسرِ بیگانه ختنه شدند با ⟨את⟩ او.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و همهٔ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "مردانِ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "خانهٔ او"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "زادهٔ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانه"
+    },
+    {
+      "surface": "ומקנת",
+      "gloss": "و خریدِ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "نقره"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "پسرِ بیگانه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "بیگانه"
+    },
+    {
+      "surface": "נמלו",
+      "gloss": "ختنه شدند"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ او"
+    }
+  ],
+  "timestamp": "2026-08-13T19:58:29.363326820Z",
+  "model": "glm-5.2"
+}

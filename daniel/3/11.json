@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 3:11",
+  "book": "daniel",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و هر که نیفتد و پرستش نکند، به میان کورهٔ آتشِ سوزان انداخته شود.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "די",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "بیفتد"
+    },
+    {
+      "surface": "ויסגד",
+      "gloss": "و پرستش کند"
+    },
+    {
+      "surface": "יתרמא",
+      "gloss": "انداخته شود"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "به میان"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "کورهٔ"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "آتش"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "سوزان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:25:04.520196947Z",
+  "model": "glm-5.2"
+}

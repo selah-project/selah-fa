@@ -1,0 +1,62 @@
+{
+  "ref": "joshua 6:7",
+  "lang": "fa",
+  "book": "joshua",
+  "chapter": 6,
+  "verse": 7,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:46:46Z",
+  "translation": "و به قوم گفتند: «بگذرید و ⟨את⟩ شهر را دور بزنید، و سلاح‌بردار پیشِ تابوتِ یاهوه بگذرد.»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "و گفتند"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "بگذرید"
+    },
+    {
+      "surface": "וסבו",
+      "gloss": "و دور بزنید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شهر"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "והחלוץ",
+      "gloss": "و سلاح‌بردار"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "بگذرد"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشِ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "تابوتِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 20:32",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و در راهِ آسا، پدرِ خود رفت و از آن روی برنگشت، تا انجام‌دهندهٔ راست در چشم‌های یاهوه باشد.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "و رفت"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "در راهِ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پدرِ خود"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "آسا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "סר",
+      "gloss": "برگشت"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "از آن"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "به انجام‌دادنِ"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "راست"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "در چشم‌های"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:48:12.220543349Z",
+  "model": "glm-5.2"
+}

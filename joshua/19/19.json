@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 19:19",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و حَفَرایِم و شیعُن و عَناهَرات.",
+  "tokens": [
+    {
+      "surface": "וַחֲפָרַ֥יִם",
+      "gloss": "و حَفَرایِم"
+    },
+    {
+      "surface": "וְשִׁיאֹ֖ן",
+      "gloss": "و شیعُن"
+    },
+    {
+      "surface": "וַאֲנָחֲרַֽת",
+      "gloss": "و عَناهَرات"
+    }
+  ],
+  "timestamp": "2026-08-13T20:58:56.959858457Z",
+  "model": "glm-5.2"
+}

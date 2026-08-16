@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "چون اردو بر دشمنانت ببروی، خود را از هر چیزِ بد نگاه داری.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "תֵצֵ֥א",
+      "gloss": "ببروی"
+    },
+    {
+      "surface": "מַחֲנֶ֖ה",
+      "gloss": "اردو"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "אֹיְבֶ֑יךָ",
+      "gloss": "دشمنانت"
+    },
+    {
+      "surface": "וְנִ֨שְׁמַרְתָּ֔",
+      "gloss": "و خود را نگاه داری"
+    },
+    {
+      "surface": "מִכֹּ֖ל",
+      "gloss": "از هر"
+    },
+    {
+      "surface": "דָּבָ֥ר",
+      "gloss": "چیزِ"
+    },
+    {
+      "surface": "רָֽע",
+      "gloss": "بد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:49:59.688262657Z",
+  "model": "glm-5.2"
+}

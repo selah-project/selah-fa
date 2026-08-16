@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "joshua 19:44",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و اَلتِقه و گِبَّتون و بَعَله.",
+  "tokens": [
+    {
+      "surface": "ואלתקה",
+      "gloss": "و اَلتِقه"
+    },
+    {
+      "surface": "וגבתון",
+      "gloss": "و گِبَّتون"
+    },
+    {
+      "surface": "ובעלת",
+      "gloss": "و بَعَله"
+    }
+  ],
+  "timestamp": "2026-08-13T20:58:44.573009410Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 3:6",
+  "book": "zechariah",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و فرشتهٔ یاهوه در یهوشوع گواهی داد، به این سخن:",
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "و گواهی داد"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشتهٔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ביהושע",
+      "gloss": "در یهوشوع"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به این سخن"
+    }
+  ],
+  "timestamp": "2026-08-13T22:35:37.877554536Z",
+  "model": "glm-5.2"
+}

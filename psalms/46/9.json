@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 46,
+  "translation": "بیایید، بنگرید کارهای یاهوه را، که ویرانی‌ها نهاده است در زمین.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "بیایید"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "بنگرید"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "کارهای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نهاده است"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ویرانی‌ها"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "در زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T22:43:33.969107154Z",
+  "model": "glm-5.2"
+}

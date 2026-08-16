@@ -1,0 +1,53 @@
+{
+  "ref": "2-chronicles 33:20",
+  "lang": "fa",
+  "book": "2-chronicles",
+  "chapter": 33,
+  "verse": 20,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:47:37Z",
+  "translation": "و مَنَشه با پدرانش خوابید و او را در خانه‌اش دفن کردند؛ و اَمون پسرش به جای او پادشاه شد.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "و خوابید"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مَنَشه"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "پدرانش"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "و او را دفن کردند"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "در خانه‌اش"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "و پادشاه شد"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "اَمون"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "به جای او"
+    }
+  ]
+}

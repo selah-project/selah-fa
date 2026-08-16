@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 40:14",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 40,
+  "translation": "و ⟨את⟩ ستون‌ها را شصت اَمّه ساخت، و به ستونِ حیاط، دروازه گرداگرد گرداگرد.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و ساخت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ستون‌ها"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "ستون‌ها"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "شصت"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "اَمّه"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و به"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ستون"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "حیاط"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دروازه"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "گرداگرد"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "گرداگرد"
+    }
+  ],
+  "timestamp": "2026-08-13T22:22:45.517801138Z",
+  "model": "glm-5.2"
+}

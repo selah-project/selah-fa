@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 5:8",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و بِلَع پسرِ عَزاز پسرِ شِمَع پسرِ یوئِل؛ ⟨او⟩ ساکن در عَرُوعِر و تا نَبو و بَعَل-مِعون.",
+  "tokens": [
+    {
+      "surface": "ובלע",
+      "gloss": "و بِلَع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "עזז",
+      "gloss": "عَزاز"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "شِمَع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "یوئِل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ساکن"
+    },
+    {
+      "surface": "בערער",
+      "gloss": "در عَرُوعِر"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "نَبو"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "و بَعَل"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "مِعون"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:02.671759496Z",
+  "model": "glm-5.2"
+}

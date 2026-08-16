@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 2:12",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و اکنون مردی دانا، آگاهِ بینش، به حورامِ پدرم فرستاده‌ام.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و اکنون"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "فرستاده‌ام"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "آگاهِ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "بینش"
+    },
+    {
+      "surface": "לחורם",
+      "gloss": "به حورامِ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پدرم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:44:06.725817682Z",
+  "model": "glm-5.2"
+}

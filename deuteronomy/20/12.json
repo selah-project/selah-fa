@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و اگر شالم نکند با تو، و با تو جنگ کند، پس بر آن محاصره کنی،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "شالم کند"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "با تو"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "و کند"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "با تو"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "و محاصره کنی"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "بر آن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:48:32.220205900Z",
+  "model": "glm-5.2"
+}

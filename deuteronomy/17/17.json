@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 17:17",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "و زنان را برای خود فرا نکند، و دلش منحرف نگردد، و نقره و طلا برای خود بسیار فرا نکند.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "فرا کند"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برای خود"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "زنان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "منحرف گردد"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "دلش"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "و نقره"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "و طلا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "فرا کند"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برای خود"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بسیار"
+    }
+  ],
+  "timestamp": "2026-08-13T20:49:26.458392597Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 10:2",
+  "book": "daniel",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "در آن روزها، من دانیِیل، سه هفته روزها سوگواری می‌کردم.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "در روزها"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "آن"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "دانیِیل"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "بودم"
+    },
+    {
+      "surface": "מתאבל",
+      "gloss": "سوگواری می‌کردم"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سه"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "هفته"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روزها"
+    }
+  ],
+  "timestamp": "2026-08-13T23:27:26.357661689Z",
+  "model": "glm-5.2"
+}

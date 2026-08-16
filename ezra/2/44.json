@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "ezra 2:44",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "پسرانِ قِیروش، پسرانِ سِیعا، پسرانِ پادون.",
+  "tokens": [
+    {
+      "surface": "בְּנֵי",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "קֵרֹס",
+      "gloss": "قِیروش"
+    },
+    {
+      "surface": "בְּֽנֵי",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "סִיעֲהָא",
+      "gloss": "سِیعا"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "פָדוֹן",
+      "gloss": "پادون"
+    }
+  ],
+  "timestamp": "2026-08-13T23:28:55.128187569Z",
+  "model": "glm-5.2"
+}

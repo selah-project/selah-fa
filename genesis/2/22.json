@@ -1,0 +1,66 @@
+{
+  "tier": "4.6",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و یاهوه الوهیم ⟨את⟩ دنده‌ای را که از اَدام گرفته بود زن ساخت و او را نزد اَدام آورد.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "و ساخت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دنده‌ای را"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "دنده‌ای"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "گرفته بود"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "اَدام"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "زن"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "و آورد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نزد"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "اَدام"
+    }
+  ],
+  "timestamp": "2026-08-15T03:29:21.316184500Z",
+  "model": "glm-4.6"
+}

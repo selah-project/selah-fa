@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 42:8",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 42,
+  "translation": "و خواند به یُوحانان پسرِ قارِیح، و به همهٔ سرورانِ توانانِ جنگ که ⟨את⟩ او بودند، و به همهٔ قوم، از کوچک تا بزرگ.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "و خواند"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "یُوحانان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قارِیح"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و به"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سرورانِ"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "توانانِ جنگ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "او"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "و به همهٔ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "למקטן",
+      "gloss": "از کوچک"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "بزرگ"
+    }
+  ],
+  "timestamp": "2026-08-13T22:08:04.584499066Z",
+  "model": "glm-5.2"
+}

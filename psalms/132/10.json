@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 132,
+  "translation": "به سببِ داوود بنده‌ات، رویِ مَشیه‌کت را برمگردان.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "به سببِ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "بنده‌ات"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "برمگردان"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رویِ"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "مَشیه‌کت"
+    }
+  ],
+  "timestamp": "2026-08-13T22:56:42.173929176Z",
+  "model": "glm-5.2"
+}

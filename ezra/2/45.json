@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "ezra 2:45",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "پسرانِ لَوانا، پسرانِ حَگَوا، پسرانِ عَقّوب،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "لَوانا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "حَگَوا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "עקוב",
+      "gloss": "عَقّوب"
+    }
+  ],
+  "timestamp": "2026-08-13T23:28:50.301057072Z",
+  "model": "glm-5.2"
+}

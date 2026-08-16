@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 25:20",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "سیزدهمین ⟨به⟩ شوباَئِل، پسرانش و برادرانش ⟨بودند⟩ دوازده",
+  "tokens": [
+    {
+      "surface": "לִשְׁלֹשָׁ֤ה",
+      "gloss": "سه"
+    },
+    {
+      "surface": "עָשָׂר֙",
+      "gloss": "ده"
+    },
+    {
+      "surface": "שֽׁוּבָאֵ֔ל",
+      "gloss": "شوباَئِل"
+    },
+    {
+      "surface": "בָּנָ֥יو",
+      "gloss": "پسرانش"
+    },
+    {
+      "surface": "וְאֶחָ֖יו",
+      "gloss": "و برادرانش"
+    },
+    {
+      "surface": "שְׁנֵ֥ים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עָשָֽׂר",
+      "gloss": "ده"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:38.703357992Z",
+  "model": "glm-5.2"
+}

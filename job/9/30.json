@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 9:30",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "اگر خود را در برف بشویم و دست‌هایم را با بوراکس پاک کنم،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "התרחצתי",
+      "gloss": "خود را بشویم"
+    },
+    {
+      "surface": "במו",
+      "gloss": "در"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "برف"
+    },
+    {
+      "surface": "והזכותי",
+      "gloss": "و پاک کنم"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "با بوراکس"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "دست‌هایم را"
+    }
+  ],
+  "timestamp": "2026-08-13T23:08:18.821024465Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 16:1",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "و شدّ کلامِ یاهوه به من، به این سخن:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و شدّ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به این سخن"
+    }
+  ],
+  "timestamp": "2026-08-13T22:00:09.667335778Z",
+  "model": "glm-5.2"
+}

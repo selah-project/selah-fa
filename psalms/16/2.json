@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "گفتم به یاهوه: «اَدونای، تو ⟨هستی⟩؛ خوبیِ من، بدون تو چیزی نیست.»",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "گفتم"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "به یاهوه"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "خوبیِ من"
+    },
+    {
+      "surface": "בל",
+      "gloss": "بدون"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تو چیزی نیست"
+    }
+  ],
+  "timestamp": "2026-08-13T22:38:56.376112458Z",
+  "model": "glm-5.2"
+}

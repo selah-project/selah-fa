@@ -1,0 +1,33 @@
+{
+  "tier": "hand",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و مارمولکِ خانگی و بزمجه و مارمولک و مارمولکِ ریگی و آفتاب‌پرست.",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "و مارمولکِ خانگی"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "و بزمجه"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "و مارمولک"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "و مارمولکِ ریگی"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "و آفتاب‌پرست"
+    }
+  ],
+  "timestamp": "2026-08-14T17:46:57Z",
+  "model": "claude-fable-5/hand"
+}

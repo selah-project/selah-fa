@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "سرانِ قوم: پَرْعُوش، پَحَت-موآب، عِیلام، زَتّو، بانی،",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "سرانِ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قومِ"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "پَرْعُوش"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "پَحَتِ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عِیلام"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "زَتّو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بانی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:33:51.302194347Z",
+  "model": "glm-5.2"
+}

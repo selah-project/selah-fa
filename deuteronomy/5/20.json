@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و بر همسایه‌ات شهادت دروغ نده.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "جواب ده \/ شهادت ده"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "در همسایه‌ات \/ علیه همسایه‌ات"
+    },
+    {
+      "surface": "עד",
+      "gloss": "شهادت \/ گواه"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "دروغ \/ باطل"
+    }
+  ],
+  "timestamp": "2026-08-13T20:44:06.797003718Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 43:8",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 43,
+  "translation": "و کلامِ یاهوه به یرمیاهو در تحپنخیس رسید، مبین:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلامِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاهو"
+    },
+    {
+      "surface": "בתחפנחס",
+      "gloss": "در تحپنخیس"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "مبین:"
+    }
+  ],
+  "timestamp": "2026-08-13T22:08:11.558791464Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 2:26",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و بود ⟨زنِ⟩ دیگری برای یَرَحمْئیل، و نامِ او عَطارَه؛ او ⟨بود⟩ مادرِ اونام.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "⟨زنِ⟩"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "دیگری"
+    },
+    {
+      "surface": "לירחמאל",
+      "gloss": "برای یَرَحمْئیل"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "و نامِ او"
+    },
+    {
+      "surface": "עטרה",
+      "gloss": "عَطارَه"
+    },
+    {
+      "surface": "היא",
+      "gloss": "او"
+    },
+    {
+      "surface": "אם",
+      "gloss": "مادرِ"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "اونام"
+    }
+  ],
+  "timestamp": "2026-08-14T00:17:56.736046206Z",
+  "model": "glm-5.2"
+}

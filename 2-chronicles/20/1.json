@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 20:1",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و شد، پس از آن، پسرانِ موآب و پسرانِ عمّون و با آن‌ها از عمّونی‌ها بر یهوشافاط برای جنگ آمدند.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پس از"
+    },
+    {
+      "surface": "כן",
+      "gloss": "آن"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آمدند"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمّون"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "و با آن‌ها"
+    },
+    {
+      "surface": "מהעמונים",
+      "gloss": "از عمّونی‌ها"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "یهوشافاط"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "برای جنگ"
+    }
+  ],
+  "timestamp": "2026-08-13T23:48:04.287307005Z",
+  "model": "glm-5.2"
+}

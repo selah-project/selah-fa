@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "پسرم، توراتِ مرا فراموش مکن و فرمان‌هایم را دلِ تو نگاه دارد.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرم"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "توراتِ مرا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مکن"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "فراموش"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "و فرمان‌هایم را"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "نگه دارد"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "دلِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:59:34.195458297Z",
+  "model": "glm-5.2"
+}

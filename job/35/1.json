@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 35:1",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "و اَلیهو پاسخ داد و گفت:",
+  "tokens": [
+    {
+      "surface": "וַיַּ֥עַן",
+      "gloss": "و پاسخ داد"
+    },
+    {
+      "surface": "אֱלִיה֗וּ",
+      "gloss": "اَلیهو"
+    },
+    {
+      "surface": "וַיֹּאמַֽר",
+      "gloss": "و گفت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:13:12.930703756Z",
+  "model": "glm-5.2"
+}

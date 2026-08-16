@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 22:30",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "که با تو لشکری را می‌دوم؛ با الوهیمِ من بر دیوار می‌جهم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "با تو"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "می‌دوم"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "لشکری را"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "با الوهیمِ"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "می‌جهم"
+    },
+    {
+      "surface": "שור",
+      "gloss": "بر دیوار"
+    }
+  ],
+  "timestamp": "2026-08-13T21:23:03.021932284Z",
+  "model": "glm-5.2"
+}

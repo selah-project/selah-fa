@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 20:5",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "آب‌های عمیق، مشورت در دل انسان، و انسانِ فهم آن را بالا می‌کشد.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "آب‌های"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "عمیق"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "مشورت"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "در دل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "و انسانِ"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "فهم"
+    },
+    {
+      "surface": "ידלנה",
+      "gloss": "آن را بالا می‌کشد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:15.685813058Z",
+  "model": "glm-5.2"
+}

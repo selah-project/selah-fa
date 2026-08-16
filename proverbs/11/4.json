@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "دارایی سودی نمی‌بخشد در روزِ خشم، و عدالت از مرگ رهایی می‌بخشد.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نمی‌"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "بخشدِ سودِ"
+    },
+    {
+      "surface": "הון",
+      "gloss": "دارایی"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "خشم"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "و عدالت"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "رهایی می‌بخشدِ"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "از مرگ"
+    }
+  ],
+  "timestamp": "2026-08-13T23:01:34.613736750Z",
+  "model": "glm-5.2"
+}

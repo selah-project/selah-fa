@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 21:30",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و گفت: «زیرا ⟨את⟩ هفت مِشْه را از دستِ من بگیری، تا برای من باشد به ⟨عنوانِ⟩ گواهی که من ⟨את⟩ این چاه را کندم.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هفت مِشْه"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "مِشْه"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "بگیری"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "از دستِ من"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "تا"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "باشد"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برای من"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "به گواهی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "חפרתי",
+      "gloss": "کندم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "این چاه"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "چاه"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "این"
+    }
+  ],
+  "timestamp": "2026-08-13T19:59:48.079769446Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "numbers 7:75",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "یک گاوِ نر، پسرِ گله، یک قوچ، یک بره، پسرِ سالِ او، برای سوختنی.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "گاوِ نر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "گله"
+    },
+    {
+      "surface": "איל",
+      "gloss": "قوچ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "بره"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "سالِ او"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "برای سوختنی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:33:24.492457254Z",
+  "model": "glm-5.2"
+}

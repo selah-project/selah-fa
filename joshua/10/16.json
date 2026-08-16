@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 10:16",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و آن پنج پادشاه گریختند و در غاری در ماکِداه پنهان شدند.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "و گریختند"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "آن"
+    },
+    {
+      "surface": "ויחבאו",
+      "gloss": "و پنهان شدند"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "در غاری"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "در ماکِداه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:56:19.753341935Z",
+  "model": "glm-5.2"
+}

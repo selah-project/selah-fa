@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 33:7",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "اینک وحشتِ من تو را نترساند، و فشارِ من بر تو سنگین نباشد.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "وحشتِ من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תבעתך",
+      "gloss": "ترساند تو را"
+    },
+    {
+      "surface": "ואכפי",
+      "gloss": "و فشارِ من"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "بر تو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "سنگین باشد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:13:03.317110092Z",
+  "model": "glm-5.2"
+}

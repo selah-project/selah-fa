@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 22:28",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "مرزِ ازلی را که پدرانت ساخته‌اند، متحرّک مکن.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "مکن"
+    },
+    {
+      "surface": "תַּ֭סֵּג",
+      "gloss": "متحرّک"
+    },
+    {
+      "surface": "גְּבוּל",
+      "gloss": "مرزِ"
+    },
+    {
+      "surface": "עוֹלָ֑ם",
+      "gloss": "ازلی"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "که"
+    },
+    {
+      "surface": "עָשׂ֣וּ",
+      "gloss": "ساخته‌اند"
+    },
+    {
+      "surface": "אֲבוֹתֶֽיךָ",
+      "gloss": "پدرانت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:17.598638553Z",
+  "model": "glm-5.2"
+}

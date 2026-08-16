@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "در دلِ خود گفت: هرگز تکان نخواهم خورد، نسلاً نسل، ⟨که⟩ در بدی نخواهم بود.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "در دلِ خود"
+    },
+    {
+      "surface": "בל",
+      "gloss": "هرگز"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "تکان خواهم خورد"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "نسلاً"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨که⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "در بدی"
+    }
+  ],
+  "timestamp": "2026-08-13T22:38:47.359412192Z",
+  "model": "glm-5.2"
+}

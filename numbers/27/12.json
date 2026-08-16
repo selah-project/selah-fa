@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 27:12",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و یاهوه به موشه گفت: بالا برو به کوهِ هاعواریمِ این، و ⟨את⟩ سرزمین را ببین که من به پسرانِ یسرایل داده‌ام.",
+  "tokens": [
+    {
+      "surface": "وיאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "بالا برو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کوهِ"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "هاعواریم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "و ببین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سرزمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "سرزمین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "من داده‌ام"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "به پسرانِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرايل"
+    }
+  ],
+  "timestamp": "2026-08-13T20:40:00.363257377Z",
+  "model": "glm-5.2"
+}

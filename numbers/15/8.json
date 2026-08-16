@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 15:8",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و چون گوسال‌ای، هولوکاست یا ذبیحه‌ای بکنی، برای اِدا کردنِ نذر یا سلامتی‌ها، برای یاهوه،",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "و چون"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "بکنی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "گوسال"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "گاو"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "هولوکاست"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ذبیحه"
+    },
+    {
+      "surface": "לפלא",
+      "gloss": "برای اِدا کردن"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "نذر"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "سلامتی‌ها"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "برای یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:36:00.655335865Z",
+  "model": "glm-5.2"
+}

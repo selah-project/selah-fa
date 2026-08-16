@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 10:32",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "بِنیامین، مَلوک، شِمَریا.",
+  "tokens": [
+    {
+      "surface": "בִּנְיָמִ֥ן",
+      "gloss": "بِنیامین"
+    },
+    {
+      "surface": "מַלּ֖וּךְ",
+      "gloss": "مَلوک"
+    },
+    {
+      "surface": "שְׁמַרְיָֽה",
+      "gloss": "شِمَریا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:30:26.208651273Z",
+  "model": "glm-5.2"
+}

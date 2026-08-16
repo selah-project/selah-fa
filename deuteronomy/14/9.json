@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 14:9",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "⟨את⟩ این را بخورید از همه‌ی آن‌که در آب‌هاست: همه‌ی آن‌که برایش باله و فلس است، بخورید.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "این"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "بخورید"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "از همهٔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "במים",
+      "gloss": "در آب‌ها"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برایش"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "باله"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "و فلس"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "بخورید"
+    }
+  ],
+  "timestamp": "2026-08-13T20:46:51.295542931Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "و عمالِق آمد و با یِسرائیل در رَفیدیم جنگید.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "و آمد"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عَمالِق"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "و جنگید"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "در رَفیدیم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:14:58.393119284Z",
+  "model": "glm-5.2"
+}

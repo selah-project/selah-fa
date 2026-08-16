@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 66,
+  "translation": "بیایید و ⟨את⟩ کارهای الوهیم را ببینید؛ وحشتناک ⟨است⟩ کارِ بزرگ بر پسران آدم.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "بیایید"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "و ببینید"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "کارهای"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "وحشتناک"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "کارِ بزرگ"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسران"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    }
+  ],
+  "timestamp": "2026-08-13T22:46:10.501921330Z",
+  "model": "glm-5.2"
+}

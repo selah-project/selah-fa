@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و ستودم من ⟨את⟩ مرگان را که پیش از این مرده‌اند، از زنده‌انی که ایشان زنده‌اند تا کنون.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "و ستودم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مرگان"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "مرگان"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "که پیش از این"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "مرده‌اند"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "زنده‌انی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ایشان"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زنده‌اند"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "تا کنون"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:26.563389115Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 6:1",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و یاهوه با موشه سخن گفت، به ⟨این که⟩ بگوید:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "با"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به ⟨این که⟩ بگوید"
+    }
+  ],
+  "timestamp": "2026-08-13T20:33:03.543354874Z",
+  "model": "glm-5.2"
+}

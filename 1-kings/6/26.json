@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 6:26",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "بلندای کروبِ یکم ده به اَمّه بود، و نیز ⟨كذلك⟩ کروبِ دوم.",
+  "tokens": [
+    {
+      "surface": "קומת",
+      "gloss": "بلندای"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "کروب"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یکم"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ده"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "به اَمّه"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "و نیز"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "کروب"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوم"
+    }
+  ],
+  "timestamp": "2026-08-13T21:26:11.047866741Z",
+  "model": "glm-5.2"
+}

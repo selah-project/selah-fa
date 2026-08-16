@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 16:27",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "و در روزِ هفتم شد، که برخی از قوم بیرون رفتند برایِ جمع‌کردن، و نیافتند.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "هفتم"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "بیرون رفتند"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قومِ"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "برایِ جمع‌کردن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و ن"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "یافتند"
+    }
+  ],
+  "timestamp": "2026-08-13T20:14:18.530749828Z",
+  "model": "glm-5.2"
+}

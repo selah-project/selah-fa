@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 10:11",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و ⟨شد⟩ در سالِ دوم، در ماهِ دوم، در بیستِ ⟨روزِ⟩ ماه، که ابر بالا رفت از فرازِ مسکنِ شهادت.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و ⟨شد⟩"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "در سالِ"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "دوم"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "در ماهِ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوم"
+    },
+    {
+      "surface": "בעשרים",
+      "gloss": "در بیستِ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ماه"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "بالا رفت"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ابر"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "از فرازِ"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "مسکنِ"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "شهادت"
+    }
+  ],
+  "timestamp": "2026-08-13T20:33:48.183339524Z",
+  "model": "glm-5.2"
+}

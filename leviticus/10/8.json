@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و یاهوه با اَهارون سخن گفت، به‌قولِ:",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֣ר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֶֽל",
+      "gloss": "با"
+    },
+    {
+      "surface": "אַהֲרֹ֖ן",
+      "gloss": "اَهارون"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "به‌قولِ"
+    }
+  ],
+  "timestamp": "2026-08-13T20:24:15.658561796Z",
+  "model": "glm-5.2"
+}

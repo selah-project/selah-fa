@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و ساکنانِ گیب‌عون شنیدند ⟨את⟩ آنچه یِهوشُع به اِریحو و به عای کرده بود،",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "و ساکنانِ"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "گیب‌عون"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "شنیدند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آنچه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرده بود"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یِهوشُع"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "به اِریحو"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "و به عای"
+    }
+  ],
+  "timestamp": "2026-08-13T20:56:03.810689459Z",
+  "model": "glm-5.2"
+}

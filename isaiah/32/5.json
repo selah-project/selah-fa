@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "دیگر نابخرد نجیب خوانده نمی‌شود، و به خسیس گفته نمی‌شود ⟨او⟩ بخشنده است.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "خوانده می‌شود"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیگر"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "به نابخرد"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "نجیب"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "و به خسیس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "گفته می‌شود"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "بخشنده"
+    }
+  ],
+  "timestamp": "2026-08-13T21:47:09.505813886Z",
+  "model": "glm-5.2"
+}

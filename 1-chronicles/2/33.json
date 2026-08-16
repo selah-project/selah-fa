@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 2:33",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و پسرانِ یوناتان: پَلِت و زازا. این‌ها پسرانِ یَرَحْمِئیل بودند.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "یوناتان"
+    },
+    {
+      "surface": "פלת",
+      "gloss": "پَلِت"
+    },
+    {
+      "surface": "וזזא",
+      "gloss": "و زازا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بودند"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "یَرَحْمِئیل"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:18.599567993Z",
+  "model": "glm-5.2"
+}

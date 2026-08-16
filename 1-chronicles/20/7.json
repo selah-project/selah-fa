@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و او دشنام داد ⟨את⟩ یسراایل، و زد او یِهوناتان پسر شِمْعا برادر داوید.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "و او دشنام داد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یسراایل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسراایل"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "و زد او"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یِهوناتان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "شِمْعا"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برادر"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوید"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:50.398916819Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 15:7",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و شما، قوی شوید و دست‌هایتان سست نباشد، زیرا مزدی برای کردارِ شما هست.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "و شما"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "قوی شوید"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "سست شوند"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "دست‌هایتان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "יש",
+      "gloss": "هست"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "مزدی"
+    },
+    {
+      "surface": "לפעלתכם",
+      "gloss": "برای کردارِ شما"
+    }
+  ],
+  "timestamp": "2026-08-13T23:46:53.884200779Z",
+  "model": "glm-5.2"
+}

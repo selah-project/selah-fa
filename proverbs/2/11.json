@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "مَزمَمه بر تو بیدارباش خواهد بود، تبوُن نگاهت خواهد داشت",
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "مَزمَمه"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "بیدارباش خواهد بود"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "بر تو"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "تبوُن"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "نگاهت خواهد داشت"
+    }
+  ],
+  "timestamp": "2026-08-15T04:26:56.414748942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 32:31",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "و یعقوب نامِ آن مکان را پنی‌اِل نهاد؛ زیرا که الوهیم را رو به رو دیدم، و جانِ من نجات یافت.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "و خواند"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نامِ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "آن مکان"
+    },
+    {
+      "surface": "פניאל",
+      "gloss": "پنی‌اِل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا که"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "دیدم"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "رو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "رو"
+    },
+    {
+      "surface": "ותנצל",
+      "gloss": "و نجات یافت"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "جانِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T20:03:53.133860888Z",
+  "model": "glm-5.2"
+}

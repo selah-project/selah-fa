@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و ده به اَمّه بود کروبِ دوم، یک اندازه و یک قالب برای هر دو کروب.",
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "و ده"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "به اَمّه"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "کروب"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوم"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "اندازه"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "و قالب"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "برای هر دو"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "کروب‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T21:26:11.047690796Z",
+  "model": "glm-5.2"
+}

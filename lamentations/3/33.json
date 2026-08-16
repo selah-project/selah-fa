@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "lamentations 3:33",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "زیرا که ⟨او⟩ از دلِ خود ستم نکرد، و پسرانِ انسان را غمگین نساخت.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "زیرا که"
+    },
+    {
+      "surface": "לֹ֤א",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עִנָּה֙",
+      "gloss": "ستم کرد"
+    },
+    {
+      "surface": "מִלִּבּ֔וֹ",
+      "gloss": "از دلِ خود"
+    },
+    {
+      "surface": "וַיַּגֵּ֖ה",
+      "gloss": "و غمگین ساخت"
+    },
+    {
+      "surface": "בְנֵי",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "אִֽישׁ",
+      "gloss": "انسان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:18:02.339628974Z",
+  "model": "glm-5.2"
+}

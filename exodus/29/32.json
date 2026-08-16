@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و اَهارون و پسرانش ⟨את⟩ گوشتِ قوچ را و ⟨את⟩ نانی که در سبد است را بخورند، در دهانهٔ خیمهٔ موعد.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "و بخورند"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اَهارون"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "و پسرانش"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گوشتِ قوچ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشتِ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "قوچ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "نانِ"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "نانِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "در سبد"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دهانهٔ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمهٔ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "موعد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:18:35.265330774Z",
+  "model": "glm-5.2"
+}

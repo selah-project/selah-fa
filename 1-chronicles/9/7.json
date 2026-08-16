@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 9:7",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و از پسران بینیامین: سَلّو پسر مِشولّام پسر هودَوْیَه پسر هَسَنوعه.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "و از"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسران"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بینیامین"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "سَلّو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مِشولّام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "הודויה",
+      "gloss": "هودَوْیَه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "هَسَنوعه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:38:13.262551886Z",
+  "model": "glm-5.2"
+}

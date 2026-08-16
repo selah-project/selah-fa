@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 117,
+  "translation": "ستایید ⟨את⟩ یاهوه را، ای همهٔ امّت‌ها؛ او را بستایید، ای همهٔ توده‌ها.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ستایید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "امّت‌ها"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "او را بستایید"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "توده‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T22:54:35.659554056Z",
+  "model": "glm-5.2"
+}

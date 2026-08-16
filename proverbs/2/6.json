@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 2:6",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "که یاهوه حکمت را می‌دهد؛ از دهانِ او ⟨است⟩ دانش و فهم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "می‌دهد"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمتِ"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "از دهانِ او"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "دانش"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "و فهم"
+    }
+  ],
+  "timestamp": "2026-08-14T00:13:48.415318021Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "آیا نه چون کَرخَمیش، کَلنُو؟ آیا نه چون اَرفَد، حَمات؟ آیا نه چون دَمشَق، شُمرون؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "آیا نه"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "چون کَرخَمیش"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "کَلنُو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "چون اَرفَد"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حَمات"
+    },
+    {
+      "surface": "אם",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "چون دَمشَق"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شُمرون"
+    }
+  ],
+  "timestamp": "2026-08-13T21:42:56.763491955Z",
+  "model": "glm-5.2"
+}

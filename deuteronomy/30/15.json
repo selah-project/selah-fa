@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "ببین، من نهادم پیشِ رویِ تو امروز ⟨את⟩ زندگی و ⟨את⟩ نیکی را، و ⟨את⟩ مرگ و ⟨את⟩ بدی را.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ببین"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "نهادم"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "پیشِ رویِ تو"
+    },
+    {
+      "surface": "היום",
+      "gloss": "امروز"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زندگی"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "زندگی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "نیکی"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "نیکی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مرگ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "مرگ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "بدی"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "بدی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:52:03.794250098Z",
+  "model": "glm-5.2"
+}

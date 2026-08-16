@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و نیایند تا ببینند، در هنگامِ ببلعیده‌شدنِ ⟨את⟩ قدس، و بمیرند.»",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "بیایند"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "تا ببینند"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "در هنگامِ ببلعیده‌شدنِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قدس"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "قدس"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "و بمیرند"
+    }
+  ],
+  "timestamp": "2026-08-13T20:31:42.620953204Z",
+  "model": "glm-5.2"
+}

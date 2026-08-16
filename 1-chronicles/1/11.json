@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و مِصراییم زاد ⟨את⟩ لودیم و ⟨את⟩ عنامیم و ⟨את⟩ لهاویم و ⟨את⟩ نفتوحیم.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "و مِصراییم"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لودیم"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "لودیم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "عنامیم"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "عنامیم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "لهاویم"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "لهاویم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "نفتوحیم"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "نفتوحیم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:00.996054638Z",
+  "model": "glm-5.2"
+}

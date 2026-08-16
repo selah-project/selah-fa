@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 13:13",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "و فرشتهٔ یاهوه به مَنوح گفت: از هر آنچه به زن گفتم، بپرهیزد.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشتهٔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "مَنوح"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "از همهٔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنچه"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "گفتم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "زن"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "بپرهیزد"
+    }
+  ],
+  "timestamp": "2026-08-13T21:04:30.788954560Z",
+  "model": "glm-5.2"
+}

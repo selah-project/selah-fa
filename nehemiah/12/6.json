@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 12:6",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "شِمَعیا، و یویاریو، یِدَعیا",
+  "tokens": [
+    {
+      "surface": "שְׁמַֽעְיָ֥ה",
+      "gloss": "شِمَعیا"
+    },
+    {
+      "surface": "וְיוֹיָרִ֖יב",
+      "gloss": "و یویاریو"
+    },
+    {
+      "surface": "יְדַֽעְיָֽה",
+      "gloss": "یِدَعیا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:34.178824364Z",
+  "model": "glm-5.2"
+}

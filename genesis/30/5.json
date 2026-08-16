@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "و بیلها باردار شد و برای یَعقوو پسری زایید.",
+  "tokens": [
+    {
+      "surface": "וַתַּ֣הַר",
+      "gloss": "و باردار شد"
+    },
+    {
+      "surface": "בִּלְהָ֔ה",
+      "gloss": "بیلها"
+    },
+    {
+      "surface": "וַתֵּ֥לֶד",
+      "gloss": "و زایید"
+    },
+    {
+      "surface": "לְיַעֲקֹ֖ב",
+      "gloss": "برای یَعقوو"
+    },
+    {
+      "surface": "בֵּֽן",
+      "gloss": "پسر"
+    }
+  ],
+  "timestamp": "2026-08-13T20:02:54.892872317Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 8:20",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و اِلی‌عِنای، و صِلْتای، و اِلی‌اِل.",
+  "tokens": [
+    {
+      "surface": "וֶאֱלִיעֵנַ֥י",
+      "gloss": "و اِلی‌عِنای"
+    },
+    {
+      "surface": "וְצִלְּתַ֖י",
+      "gloss": "و صِلْتای"
+    },
+    {
+      "surface": "וֶאֱלִיאֵֽל",
+      "gloss": "و اِلی‌اِل"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:24.694358427Z",
+  "model": "glm-5.2"
+}

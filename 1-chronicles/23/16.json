@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 23:16",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "پسرانِ گِرشُم: شِووئیل، ⟨آن⟩ سر.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "گِرشُم"
+    },
+    {
+      "surface": "שבואל",
+      "gloss": "شِووئیل"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سر"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:25.668180018Z",
+  "model": "glm-5.2"
+}

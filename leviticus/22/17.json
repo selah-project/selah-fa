@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 22:17",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "و یاهوه با موشه سخن گفت، به‌سانِ گفتن:",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "با"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "לֵּאמֹר",
+      "gloss": "به‌سانِ گفتن"
+    }
+  ],
+  "timestamp": "2026-08-13T23:56:17.890963265Z",
+  "model": "glm-5.2"
+}

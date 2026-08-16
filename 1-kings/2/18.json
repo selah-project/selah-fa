@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و بَت‌شِبع گفت: «خوب، من از طرفِ تو با پادشاه سخن خواهم گفت.»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بَت"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شِبع"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خوب"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "سخن خواهم گفت"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "از طرفِ تو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "با"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاه"
+    }
+  ],
+  "timestamp": "2026-08-13T21:25:03.663603311Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 25:2",
+  "book": "2-kings",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و شهر در محاصره درآمد تا یازدهمین سالِ پادشاهِ تسیدقیاهو.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "و درآمد"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "در محاصره"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "یازدهمین"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "سالِ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "تسیدقیاهو"
+    }
+  ],
+  "timestamp": "2026-08-14T00:04:38.695364172Z",
+  "model": "glm-5.2"
+}

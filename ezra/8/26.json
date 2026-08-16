@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezra 8:26",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و بر دستِ آنان وزن کردم نقره، تالان ششصد و پنجاه، و ظروفِ نقره، صد به تالان، طلا صد تالان.",
+  "tokens": [
+    {
+      "surface": "ואשקלה",
+      "gloss": "و وزن کردم"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "دستِ آنان"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "نقره"
+    },
+    {
+      "surface": "ככרים",
+      "gloss": "تالان"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صدتایی"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "و پنجاه"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "و ظروفِ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "نقره"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "صد"
+    },
+    {
+      "surface": "לככרים",
+      "gloss": "به تالان"
+    },
+    {
+      "surface": "זהب",
+      "gloss": "طلا"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "صد"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "تالان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:30:32.948630127Z",
+  "model": "glm-5.2"
+}

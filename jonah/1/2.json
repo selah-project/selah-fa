@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "برخیز، به نینوه، شهرِ بزرگ، برو و بر علیه‌اش ندا سر ده، که بدیِ ایشان پیشِ من بالا آمده است.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "برخیز"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "نینوه"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "و ندا سر ده"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "بر علیه‌اش"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "بالا آمده است"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "بدیِ ایشان"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشِ من"
+    }
+  ],
+  "timestamp": "2026-08-15T20:56:39.493259352Z",
+  "model": "glm-5.3+hand"
+}

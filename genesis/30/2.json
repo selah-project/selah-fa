@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 30:2",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "وَ خشم گرفت یَعْقوو به راشِل، وَ گفت: آیا به جایِ الوهیم منم، که بازداشته از تو میوهٔ شکم را؟",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "وَ خشم گرفت"
+    },
+    {
+      "surface": "אף",
+      "gloss": "خشم"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یَعْقوو"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "به راشِل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وَ گفت"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "آیا به جایِ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "منم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "بازداشته"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "از تو"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "میوهٔ"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "شکم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:03:11.798289572Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 28:7",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "تنها، اکنون این سخن را که من به گوش‌هایت و به گوش‌های همهٔ قوم می‌گویم، بشنو!",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "تنها"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "بشنو"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اکنون"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "سخن را"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "می‌گویم"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "به گوش‌هایت"
+    },
+    {
+      "surface": "ובאזני",
+      "gloss": "و به گوش‌های"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    }
+  ],
+  "timestamp": "2026-08-13T22:04:56.809531775Z",
+  "model": "glm-5.2"
+}

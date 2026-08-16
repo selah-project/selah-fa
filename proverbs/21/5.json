@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 21:5",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "اندیشه‌های کوشا، تنها به فراوانی، و هر شتاب‌کننده‌ای، تنها به کمبود.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "اندیشه‌های"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "کوشا"
+    },
+    {
+      "surface": "אך",
+      "gloss": "تنها"
+    },
+    {
+      "surface": "למותר",
+      "gloss": "به فراوانی"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "شتاب‌کننده‌ای"
+    },
+    {
+      "surface": "אך",
+      "gloss": "تنها"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "به کمبود"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:19.983422635Z",
+  "model": "glm-5.2"
+}

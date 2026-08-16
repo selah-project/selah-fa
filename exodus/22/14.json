@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "اگر صاحبش با او باشد، جبران نکند؛ اگر مزدور است، ⟨آن⟩ به ازایِ مزدِ خود می‌آید.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "صاحبش"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "با او"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نکند"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "جبران"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "مزدور"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "است"
+    },
+    {
+      "surface": "בא",
+      "gloss": "می‌آید"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "به ازایِ مزدِ خود"
+    }
+  ],
+  "timestamp": "2026-08-13T20:15:56.756666375Z",
+  "model": "glm-5.2"
+}

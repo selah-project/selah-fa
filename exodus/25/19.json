@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 25:19",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "وَ یک کروب از این سر و یک کروب از آن سر بساز؛ از خودِ کاپورت کروبان را بر دو سرِ آن بسازید.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "وَ بساز"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "کروب"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "از سر"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "از این"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "و کروب"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "از سر"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "از آن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "خودِ کاپورت"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "بسازید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کروبان را"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "کروبان"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "سرِ آن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:17:27.327616784Z",
+  "model": "glm-5.2"
+}

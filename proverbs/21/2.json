@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 21:2",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "هر راهِ مردی راست در چشم‌هایِ اوست، و‌وزن‌کنندهٔ دل‌ها یاهوه ⟨است⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راهِ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "راست"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "در چشم‌هایِ اوست"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "و‌وزن‌کنندهٔ"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "دل‌ها"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-14T00:14:14.824428937Z",
+  "model": "glm-5.2"
+}

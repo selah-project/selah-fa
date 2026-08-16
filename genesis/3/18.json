@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و خار و خاشاک برایت خواهد رویاند، و ⟨את⟩ گیاهِ صحرا را خواهی خورد.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "و خار"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "و خاشاک"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "خواهد رویاند"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برایت"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "و خواهی خورد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گیاه"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "گیاه"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "صحرا"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:39.947811808Z",
+  "model": "glm-5.2"
+}

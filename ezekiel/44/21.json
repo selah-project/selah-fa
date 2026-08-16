@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 44:21",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 44,
+  "translation": "و شرابی نخورند، هیچ کاهنی، در آمدنِ ایشان به داخلی‌ترین دار.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "و شرابی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نخورند"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "نخورند"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هیچ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاهنی"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "در آمدنِ ایشان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "دار"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "داخلی‌ترین"
+    }
+  ],
+  "timestamp": "2026-08-13T22:24:39.348218622Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 12:28",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و یهویاداع، پیشوای ⟨برای⟩ اهارون، و با او سه هزار و هفتصد.",
+  "tokens": [
+    {
+      "surface": "ויהוידע",
+      "gloss": "و یهویاداع"
+    },
+    {
+      "surface": "הנגיד",
+      "gloss": "پیشوای"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "برای اهارون"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "و با او"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "سه"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "و هفت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:39:01.992911843Z",
+  "model": "glm-5.2"
+}

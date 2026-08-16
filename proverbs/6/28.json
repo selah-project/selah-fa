@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 6:28",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "یا اگر مردی بر رویِ زغال‌های داغ گام نهد، پاهایش داغ نمی‌شوند؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "یا اگر"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "گام نهد"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر رویِ"
+    },
+    {
+      "surface": "הגחלים",
+      "gloss": "زغال‌های داغ"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "و پاهایش"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תכוינה",
+      "gloss": "داغ می‌شوند"
+    }
+  ],
+  "timestamp": "2026-08-13T23:00:39.220639190Z",
+  "model": "glm-5.2"
+}

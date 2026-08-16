@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 92,
+  "translation": "مردِ بهیمی نمی‌داند و نادان نمی‌فهمد ⟨את⟩ این را.",
+  "tokens": [
+    {
+      "surface": "אִֽישׁ",
+      "gloss": "مردِ"
+    },
+    {
+      "surface": "בַּ֭עַר",
+      "gloss": "بهیمی"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "نمی‌داند نه"
+    },
+    {
+      "surface": "יֵדָ֑ע",
+      "gloss": "می‌داند"
+    },
+    {
+      "surface": "וּ֝כְסִ֗יל",
+      "gloss": "و نادان"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "نمی‌فهمد نه"
+    },
+    {
+      "surface": "יָבִ֥ין",
+      "gloss": "می‌فهمد"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "این"
+    },
+    {
+      "surface": "זֹֽאת",
+      "gloss": "این را"
+    }
+  ],
+  "timestamp": "2026-08-13T22:51:17.385905322Z",
+  "model": "glm-5.2"
+}

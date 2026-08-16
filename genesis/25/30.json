@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 25:30",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و عیساو به یعقوو گفت: «به من بخوران، بی‌گه، از ⟨این⟩ سرخِ سرخ! زیرا بی‌رمق هستم.» به این سبب نامش را اَدوم خواندند.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیساو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "הלעיטני",
+      "gloss": "به من بخوران"
+    },
+    {
+      "surface": "נא",
+      "gloss": "بی‌گه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "سرخِ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "سرخ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "بی‌رمق"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "هستمِ من"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "این"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "خواندند"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "نامش را"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اَدوم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:01:31.924318204Z",
+  "model": "glm-5.2"
+}

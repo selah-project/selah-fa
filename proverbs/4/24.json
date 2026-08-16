@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 4:24",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "ببرد از خودت کجیِ دهان، و انحرافِ لب‌ها دور ساز از خودت.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "ببرد"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "از خودت"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "کجیِ"
+    },
+    {
+      "surface": "פה",
+      "gloss": "دهان"
+    },
+    {
+      "surface": "ולזות",
+      "gloss": "و انحرافِ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "لب‌ها"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "دور ساز"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "از خودت"
+    }
+  ],
+  "timestamp": "2026-08-13T22:59:51.707257012Z",
+  "model": "glm-5.2"
+}

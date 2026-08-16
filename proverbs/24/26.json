@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 24:26",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "لب‌ها می‌بوسد ⟨کسی که⟩ سخنانِ راستین بازمی‌گرداند.",
+  "tokens": [
+    {
+      "surface": "שפתים",
+      "gloss": "لب‌ها"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "می‌بوسد"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "بازمی‌گرداند"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "سخنانِ"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "راستین"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:32.789544057Z",
+  "model": "glm-5.2"
+}

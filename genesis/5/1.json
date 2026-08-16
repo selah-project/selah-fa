@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "این کتابِ توفّردهای آدم است. در روزی که الوهیم آدم را آفرید، به شباهتِ الوهیم، او را ساخت.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "کتابِ"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "توفّردهای"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "آفرید"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "בדמות",
+      "gloss": "به شباهتِ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ساخت"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "او را"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:56.643146105Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "که در دست‌هایشان شرارت است، و دستِ راستشان از رشوه پر است.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "در دست‌هایشان"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "شرارت"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "و دستِ راستشان"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "پر است"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "از رشوه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:40:22.570755615Z",
+  "model": "glm-5.2"
+}

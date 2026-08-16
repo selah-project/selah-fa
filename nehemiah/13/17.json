@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "nehemiah 13:17",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "و با سرورانِ یهودا ستیزیدم و به آنان گفتم: این کارِ بد که شما می‌کنید و روزِ شَبات را می‌میرید، چیست؟",
+  "tokens": [
+    {
+      "surface": "ואריבה",
+      "gloss": "ستیزیدم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سرورانِ یهودا"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "سرورانِ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "و گفتم"
+    },
+    {
+      "surface": "لהם",
+      "gloss": "به آنان"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چیست"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "کارِ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "بدِ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "شما"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "می‌کنید"
+    },
+    {
+      "surface": "ומחללים",
+      "gloss": "و می‌میرید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "روزِ شبات"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روزِ"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "شَبات"
+    }
+  ],
+  "timestamp": "2026-08-15T04:32:59.126882239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 2:10",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و هر آنچه چشمانم خواستند، از ایشان دریغ نکردم؛ دلِ خود را از هیچ شادی باز نداشتم، زیرا دلِ من از همهٔ رنجِ من شاد بود، و این بود بهرهٔ من از همهٔ رنجِ من.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنچه"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "خواستند"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "چشمانم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אצלתי",
+      "gloss": "دریغ کردم"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "از ایشان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מנעתי",
+      "gloss": "باز داشتم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دلِ خود را"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دلِ من"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "از هیچ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "شادی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "لבי",
+      "gloss": "دلِ من"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "شاد بود"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "از همهٔ"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "رنجِ من"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "و این"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "بهرهٔ من"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "از همهٔ"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "رنجِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T23:19:56.880152743Z",
+  "model": "glm-5.2"
+}

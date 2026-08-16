@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 1:41",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "پسرانِ عَناه: دیشون. و پسرانِ دیشون: حَمران و اِشبان و یِتران و کِران.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "عَناه"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "دیشون"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "دیشون"
+    },
+    {
+      "surface": "חמרן",
+      "gloss": "حَمران"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "و اِشبان"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "و یِتران"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "و کِران"
+    }
+  ],
+  "timestamp": "2026-08-14T00:17:39.872630080Z",
+  "model": "glm-5.2"
+}

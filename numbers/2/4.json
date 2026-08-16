@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و لشکرش و شمرده‌شدگانشان هفتاد و چهار هزار و ششصد.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "و لشکرش"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "و شمرده‌شدگانشان"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "و هفتاد"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "و شش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:31:00.449864006Z",
+  "model": "glm-5.2"
+}

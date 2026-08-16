@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "و زبانِ من هَجی کند عدالتِ تو را، همهٔ روز ستایشِ تو را.",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "و زبانِ من"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "هَجی کند"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "عدالتِ تو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ستایشِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:42:07.558375452Z",
+  "model": "glm-5.2"
+}

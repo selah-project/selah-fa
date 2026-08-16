@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 15:25",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و حاصورِ نو، و قَریوت، حصرون — او حاصور است.",
+  "tokens": [
+    {
+      "surface": "וחצור",
+      "gloss": "و حاصور"
+    },
+    {
+      "surface": "חדתה",
+      "gloss": "نو"
+    },
+    {
+      "surface": "וקריות",
+      "gloss": "و قَریوت"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "حصرون"
+    },
+    {
+      "surface": "היא",
+      "gloss": "او"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "حاصور"
+    }
+  ],
+  "timestamp": "2026-08-13T20:58:05.472043405Z",
+  "model": "glm-5.2"
+}

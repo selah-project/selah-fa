@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "چه، ای پسرم؟ و چه، پسرِ شکمِ من؟ و چه، پسرِ نذرهایم؟",
+  "tokens": [
+    {
+      "surface": "מַה",
+      "gloss": "چه،"
+    },
+    {
+      "surface": "בְּ֭רִי",
+      "gloss": "ای پسرم؟"
+    },
+    {
+      "surface": "וּמַֽה",
+      "gloss": "و چه،"
+    },
+    {
+      "surface": "בַּר",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "בִּטְנִ֑י",
+      "gloss": "شکمِ من؟"
+    },
+    {
+      "surface": "וּ֝מֶה",
+      "gloss": "و چه،"
+    },
+    {
+      "surface": "בַּר",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "נְדָרָֽי",
+      "gloss": "نذرهایم؟"
+    }
+  ],
+  "timestamp": "2026-08-13T23:06:28.958878296Z",
+  "model": "glm-5.2"
+}

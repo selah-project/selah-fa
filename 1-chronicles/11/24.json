@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 11:24",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "این‌ها را کرد بِنایاهو پسر یِهویاداع، و برای او نامی بود در میان سه ⟨ه⟩قهرمانان.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرد"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "بِنایاهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "یِهویاداع"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "و برای او"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نامی"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "در میان سه"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "⟨ه⟩قهرمانان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:38:33.573901781Z",
+  "model": "glm-5.2"
+}

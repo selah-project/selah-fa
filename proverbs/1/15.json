@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "پسرم، در راهی با ⟨את⟩ آنان نرو، پایت را از مسیرشان بازدار،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نَه"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "برو"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "در راهی"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "آنان"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "بازدار"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "پایت را"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "از مسیرشان"
+    }
+  ],
+  "timestamp": "2026-08-13T22:59:05.978616703Z",
+  "model": "glm-5.2"
+}

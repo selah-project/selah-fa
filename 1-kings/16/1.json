@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "و کلام یاهوه بر یِهوو پسرِ حَنانی دربارهٔ بَعشا بود، به این سخن:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "یِهوو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "حَنانی"
+    },
+    {
+      "surface": "על",
+      "gloss": "دربارهٔ"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "بَعشا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به این سخن"
+    }
+  ],
+  "timestamp": "2026-08-13T21:30:10.672376541Z",
+  "model": "glm-5.2"
+}

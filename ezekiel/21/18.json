@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 21:18",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "که آزمایشی است؛ و چه، اگر حتی چوبدستیِ ناپسند نیز باشد — نخواهد بود، وحیِ اَدونای یاهوه.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "בחן",
+      "gloss": "آزمایشی است"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "و چه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "גם",
+      "gloss": "حتی"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "چوبدستیِ"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "ناپسند"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "خواهد بود"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "وحیِ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:17:13.759529401Z",
+  "model": "glm-5.2"
+}

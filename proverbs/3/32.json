@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "زیرا کژرو نزد یاهوه مکروه است، اما رازِ او با ⟨את⟩ راستان است.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "مکروه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "کژرو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اما ⟨את⟩"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "راستان"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "رازِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T22:59:39.035822860Z",
+  "model": "glm-5.2"
+}

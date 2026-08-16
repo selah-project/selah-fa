@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 20:30",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و پادشاهیِ یِهوشافات آرام شد و الوهیمِ او به او از هر سو آسودگی داد.",
+  "tokens": [
+    {
+      "surface": "ותשקט",
+      "gloss": "و آرام شد"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "پادشاهیِ"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "یِهوشافات"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "و آسودگی داد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "الوهیمِ او"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "از هر سو"
+    }
+  ],
+  "timestamp": "2026-08-13T23:48:12.220264434Z",
+  "model": "glm-5.2"
+}

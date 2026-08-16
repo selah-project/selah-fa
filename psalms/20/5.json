@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "بدهد به تو مانندِ دلِ تو، و تمامِ مشورتِ تو را پُر کند.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "بدهد"
+    },
+    {
+      "surface": "לך",
+      "gloss": "به تو"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "مثلِ دلِ تو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و تمامِ"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "مشورتِ تو"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "پُر کند"
+    }
+  ],
+  "timestamp": "2026-08-13T22:39:48.967071415Z",
+  "model": "glm-5.2"
+}

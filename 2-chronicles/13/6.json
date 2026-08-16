@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 13:6",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "و برخاست یَرووَعام بن نَوات، غلامِ شِلوموه بن داوید، و طغیان کرد بر سرورِ خویش.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "و برخاست"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "یَرووَعام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "نَوات"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلامِ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شِلوموه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوید"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "و طغیان کرد"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "سرورِ خویش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:46:50.415091900Z",
+  "model": "glm-5.2"
+}

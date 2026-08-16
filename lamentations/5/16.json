@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "افتاد تاجِ سرِ ما. اَی بگذار بر ما، که گناه کردیم.",
+  "tokens": [
+    {
+      "surface": "נָפְלָה",
+      "gloss": "افتاد"
+    },
+    {
+      "surface": "עֲטֶרֶת",
+      "gloss": "تاجِ"
+    },
+    {
+      "surface": "רֹאשֵׁנוּ",
+      "gloss": "سرِ ما"
+    },
+    {
+      "surface": "אוֹי",
+      "gloss": "اَی"
+    },
+    {
+      "surface": "נָא",
+      "gloss": "بگذار"
+    },
+    {
+      "surface": "לָנוּ",
+      "gloss": "بر ما"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "که"
+    },
+    {
+      "surface": "חָטָאנוּ",
+      "gloss": "گناه کردیم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:19:27.650322416Z",
+  "model": "glm-5.2"
+}

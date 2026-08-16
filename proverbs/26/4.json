@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 26:4",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "به نادان برابرِ نادانیِ او پاسخ مده، مبادا ⟨تو⟩ نیز مانندِ او شوی، حتی تو.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مده (نفی)"
+    },
+    {
+      "surface": "תען",
+      "gloss": "پاسخ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "به نادان"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "برابرِ نادانیِ او"
+    },
+    {
+      "surface": "פן",
+      "gloss": "مبادا"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "شوی مانندِ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "او"
+    },
+    {
+      "surface": "גם",
+      "gloss": "حتی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    }
+  ],
+  "timestamp": "2026-08-14T00:14:25.361252762Z",
+  "model": "glm-5.2"
+}

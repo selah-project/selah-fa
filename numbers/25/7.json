@@ -1,0 +1,65 @@
+{
+  "tier": "hand",
+  "verse": 7,
+  "ref": "numbers 25:7",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و پینْحاس، پسرِ اَلعازار، پسرِ اَهارونِ کاهن، دید و از میانِ جماعت برخاست و نیزه‌ای در دستش گرفت.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "و دید"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "پینْحاس"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "اَلعازار"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اَهارون"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "و برخاست"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "از میانِ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "و گرفت"
+    },
+    {
+      "surface": "רמח",
+      "gloss": "نیزه‌ای"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "در دستش"
+    }
+  ],
+  "timestamp": "2026-08-14T17:46:57Z",
+  "model": "claude-fable-5/hand"
+}

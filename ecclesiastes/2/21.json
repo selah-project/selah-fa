@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "ecclesiastes 2:21",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "زیرا انسانی هست که رنجش با حکمت و با دانش و با مهارت باشد، و به انسانی که در آن رنج نکشیده، بخش او را بدهد؛ این نیز هبَل و بدی بزرگی است.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "יש",
+      "gloss": "هست"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسانی"
+    },
+    {
+      "surface": "שעמלו",
+      "gloss": "که رنجش"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "با حکمت"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "و با دانش"
+    },
+    {
+      "surface": "ובכשרון",
+      "gloss": "و با مهارت"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "و به انسانی"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "که ... نکشیده"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "رنج"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در آن"
+    },
+    {
+      "surface": "יתננו",
+      "gloss": "بدهد"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "بخش او"
+    },
+    {
+      "surface": "גם",
+      "gloss": "نیز"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هَبَل"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "و بدی"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "بزرگی"
+    }
+  ],
+  "timestamp": "2026-08-15T04:30:01.032692830Z",
+  "model": "glm-5.3"
+}

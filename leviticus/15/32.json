@@ -1,0 +1,53 @@
+{
+  "tier": "hand",
+  "verse": 32,
+  "ref": "leviticus 15:32",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "این ⟨است⟩ تعلیمِ صاحبِ جریان، و آن‌که بیرون می‌رود از او خفتنِ نطفه، برای نجاست در آن.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تعلیمِ"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "صاحبِ جریان"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "و آن‌که"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "بیرون می‌رود"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "از او"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "خفتنِ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "نطفه"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "برای نجاست"
+    },
+    {
+      "surface": "בה",
+      "gloss": "در آن"
+    }
+  ],
+  "timestamp": "2026-08-14T17:46:57Z",
+  "model": "claude-fable-5/hand"
+}

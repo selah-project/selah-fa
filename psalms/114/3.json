@@ -1,0 +1,37 @@
+{
+  "ref": "psalms 114:3",
+  "lang": "fa",
+  "book": "psalms",
+  "chapter": 114,
+  "verse": 3,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:47:12Z",
+  "translation": "دریا دید و گریخت؛ یَردَن به عقب برگشت.",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "دید"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "و گریخت"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یَردَن"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "برگشت"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "به عقب"
+    }
+  ]
+}

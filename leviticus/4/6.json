@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و کاهن ⟨את⟩ انگشتِ خود را در خون فرو برد و از خون هفت بار به پیشانیِ یاهوه بپاشد — بر رویِ پردهٔ مقدس.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "و فرو برد"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "انگشتِ او"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "انگشتِ او"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "در خون"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "و بپاشد"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "بار"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "به پیشانیِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رویِ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رویِ"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "پردهٔ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس"
+    }
+  ],
+  "timestamp": "2026-08-13T20:22:47.744069650Z",
+  "model": "glm-5.2"
+}

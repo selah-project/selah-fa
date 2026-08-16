@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 68,
+  "translation": "پدرِ یتیمان، و داورِ بیوه‌گان، الوهیم است، در مسکنِ قدسِ خود.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "پدرِ"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "یتیمان"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "و داورِ"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "بیوه‌گان"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "در مسکنِ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "قدسِ خود"
+    }
+  ],
+  "timestamp": "2026-08-13T22:46:36.365919322Z",
+  "model": "glm-5.2"
+}

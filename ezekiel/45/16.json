@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 45:16",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 45,
+  "translation": "تمامِ مردمِ زمین به این هداده برای رئیس در یِسرائیل ⟨خواهند داد⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "خواهند بود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "هداده"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "לנשיא",
+      "gloss": "برای رئیس"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "در یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-13T22:24:21.592963856Z",
+  "model": "glm-5.2"
+}

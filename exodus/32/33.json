@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 32:33",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "و یاهوه به موشه گفت: هر کس که به گناه کرد مرا، او را از کتابِ من پاک خواهم کرد.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "מי",
+      "gloss": "هر کس"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گناه کرد"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مرا"
+    },
+    {
+      "surface": "אמחנו",
+      "gloss": "او را پاک خواهم کرد"
+    },
+    {
+      "surface": "מספרי",
+      "gloss": "از کتابِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T23:55:25.416008858Z",
+  "model": "glm-5.2"
+}

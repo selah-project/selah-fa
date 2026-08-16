@@ -1,0 +1,45 @@
+{
+  "tier": "4.6",
+  "verse": 31,
+  "ref": "1-chronicles 25:31",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "برای بیست و چهارم، برای رومَمتی-عَزِر، پسرانش و برادرانش، دوازده.",
+  "tokens": [
+    {
+      "surface": "לארבעה",
+      "gloss": "برای چهار"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "و بیست"
+    },
+    {
+      "surface": "לרוממתי",
+      "gloss": "برای رومَمتی"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "عَزِر"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "پسرانش"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "و برادرانش"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ده"
+    }
+  ],
+  "timestamp": "2026-08-15T04:34:38.642887449Z",
+  "model": "glm-4.6"
+}

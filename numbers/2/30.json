@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و لشکرِ او و شمرده‌شدگانِ ایشان: سه و پنجاه هزار و چهار صد.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "و لشکرِ او"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "و شمرده‌شدگانِ ایشان"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سه"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "و پنجاه"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "و چهار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:31:18.758301769Z",
+  "model": "glm-5.2"
+}

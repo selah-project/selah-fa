@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 5:3",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "زیرا لبانِ بیگانه چون عسلِ چکیدنی می‌چکد، و کامِ او نرم‌تر از روغن است.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "عسلِ چکیدنی"
+    },
+    {
+      "surface": "תטפנה",
+      "gloss": "می‌چکد"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "لبانِ"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "بیگانه"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "و نرم‌تر"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "از روغن"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "کامِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:00:05.257620528Z",
+  "model": "glm-5.2"
+}

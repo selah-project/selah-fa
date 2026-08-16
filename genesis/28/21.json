@@ -1,0 +1,49 @@
+{
+  "tier": "4.6",
+  "verse": 21,
+  "ref": "genesis 28:21",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "و بازآیم ⟨در⟩ سلامت به خانهٔ پدرم، و یاهوه برای من الوهیم ⟨باشد⟩",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "و بازآیم"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "⟨در⟩ سلامت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانهٔ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پدرم"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "و"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برای من"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "الوهیم ⟨باشد⟩"
+    }
+  ],
+  "timestamp": "2026-08-15T03:36:55.448227249Z",
+  "model": "glm-4.6"
+}

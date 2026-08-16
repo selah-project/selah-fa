@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 2:32",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و سیحون به دیدارِ ما بیرون آمد، او و تمامِ قومِش، برای جنگ، یاهصه.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "و بیرون آمد"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "سیحون"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "به دیدارِ ما"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و تمامِ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "قومِش"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "برای جنگ"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "یاهصه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:43:18.998661672Z",
+  "model": "glm-5.2"
+}

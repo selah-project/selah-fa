@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و بوعَز ⟨את⟩ عُوِید را زاد، و عُوِید ⟨את⟩ یِشای را زاد.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "و بوعَز"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عُوِید"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "عُوِید"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "و عُوِید"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِشای"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "یِشای"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:15.798387008Z",
+  "model": "glm-5.2"
+}

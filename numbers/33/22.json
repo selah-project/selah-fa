@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 33:22",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "و کوچ کردند از ریسّه، و اردو زدند در قِهِلاته.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "و کوچ کردند"
+    },
+    {
+      "surface": "מרסה",
+      "gloss": "از ریسّه"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "و اردو زدند"
+    },
+    {
+      "surface": "בקהלתה",
+      "gloss": "در قِهِلاته"
+    }
+  ],
+  "timestamp": "2026-08-13T20:41:53.113379715Z",
+  "model": "glm-5.2"
+}

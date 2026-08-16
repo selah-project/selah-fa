@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و ببیند همه گوشت که منم یاهوه، برانگیخته‌امش — نه خاموش گردد.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "و ببیند"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همه"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אני",
+      "gloss": "منم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "برانگیخته‌امش"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "خاموش گردد"
+    }
+  ],
+  "timestamp": "2026-08-13T22:17:08.856986226Z",
+  "model": "glm-5.2"
+}

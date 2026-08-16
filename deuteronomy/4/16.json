@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 4:16",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "مبادا شما تباه کنید و برایِ خودان بتِ تراشیده بسازید، صورتِ هر شبیه، الگوی نر یا ماده.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "مبادا"
+    },
+    {
+      "surface": "תשחתון",
+      "gloss": "شما تباه کنید"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "و شما بسازید"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "برایِ شما"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "بتِ تراشیده"
+    },
+    {
+      "surface": "תמונת",
+      "gloss": "صورتِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "סמל",
+      "gloss": "شبیه"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "الگو"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ماده"
+    }
+  ],
+  "timestamp": "2026-08-13T20:44:29.624354847Z",
+  "model": "glm-5.2"
+}

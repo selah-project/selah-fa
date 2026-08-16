@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 40:22",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 40,
+  "translation": "و ⟨את⟩ سَرِ نان‌پزان دار زد، همان‌گونه که یوسف برای آنان تعبیر کرد.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "سَرِ نان‌پزان"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سَرِ"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "نان‌پزان"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "دار زد"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "همان‌گونه که"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "تعبیر کرد"
+    },
+    {
+      "surface": "להם",
+      "gloss": "برای آنان"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    }
+  ],
+  "timestamp": "2026-08-13T20:05:31.195736509Z",
+  "model": "glm-5.2"
+}

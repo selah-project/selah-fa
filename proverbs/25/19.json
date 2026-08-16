@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "proverbs 25:19",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "دندانی شکسته و پایی دررفته — توکل بر خائن در روزِ تنگی.",
+  "tokens": [
+    {
+      "surface": "שן",
+      "gloss": "دندانی"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "شکسته"
+    },
+    {
+      "surface": "ורגל",
+      "gloss": "و پایی"
+    },
+    {
+      "surface": "מועדת",
+      "gloss": "دررفته"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "توکل"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "خائن"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "تنگی"
+    }
+  ],
+  "timestamp": "2026-08-15T04:28:22.016495395Z",
+  "model": "glm-5.3"
+}

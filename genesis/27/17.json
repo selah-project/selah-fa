@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 27:17",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و داد ⟨את⟩ خوراکِ خوش‌طعم و ⟨את⟩ نانی را که ساخته بود، به دستِ یاعکوو، پسرش.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "و داد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خوراکِ خوش‌طعم"
+    },
+    {
+      "surface": "המטעמים",
+      "gloss": "خوراکِ خوش‌طعم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "نان"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ساخته بود"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "به دستِ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعکوو"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "پسرش"
+    }
+  ],
+  "timestamp": "2026-08-13T20:02:55.382160842Z",
+  "model": "glm-5.2"
+}

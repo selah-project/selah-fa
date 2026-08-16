@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "ezekiel 16:23",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "و چنین شد: پس از تمام بدیِ تو، وای، وای بر تو — نئوم اَدونای یاهوه.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و چنین شد"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پس از"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "بدیِ تو"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "وای"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "وای"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بر تو"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نئوم (خواستِ)"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-15T04:14:57.498484058Z",
+  "model": "glm-5.3"
+}

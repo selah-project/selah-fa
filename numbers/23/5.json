@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "و یاهوه دَبَری در دهانِ بِلعام نهاد و گفت: به سوی بالاق بازگرد و این‌چنین سخن بگو.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "و نهاد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دَبَر"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "در دهانِ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بِلعام"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "بازگرد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "و این‌چنین"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "سخن بگو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:38:39.310488211Z",
+  "model": "glm-5.2"
+}

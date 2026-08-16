@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "پدیدآوردهٔ آنان برای سبط گاد: پنج و چهل هزار و ششصد و پنجاه.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "پدیدآوردهٔ آنان"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "برای سبط"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "و چهل"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "و شش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "و پنجاه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:30:44.513602472Z",
+  "model": "glm-5.2"
+}

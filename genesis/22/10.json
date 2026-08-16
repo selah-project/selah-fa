@@ -1,0 +1,56 @@
+{
+  "tier": "4.6",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "و دراز کرد اوراهام ⟨את⟩ دستش و گرفت ⟨את⟩ چاقو ⟨برای⟩ ذبح کردن ⟨את⟩ پسرش",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "و دراز کرد"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اوراهام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دستش"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دستش"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "و گرفت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چاقو"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "چاقو"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "⟨برای⟩ ذبح کردن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پسرش"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    }
+  ],
+  "timestamp": "2026-08-15T03:35:39.704913206Z",
+  "model": "glm-4.6"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "تحقیرِ همراهِ خود، بی‌خردیِ ⟨کامل⟩ است، و مردِ فهمیدگی سکوت می‌کند.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "تحقیرِ"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "همراهِ او"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "بی‌خرد"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "و مردِ"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "فهمیدگی‌ها"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "سکوت می‌کند"
+    }
+  ],
+  "timestamp": "2026-08-13T23:01:24.103303611Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "numbers 33:10",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "و از اِیلیم کوچیدند و کنار دریای نیزار اردو زدند.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "کوچیدند"
+    },
+    {
+      "surface": "מאילם",
+      "gloss": "از اِیلیم"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "و اردو زدند"
+    },
+    {
+      "surface": "על",
+      "gloss": "کنارِ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دریای"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "نیزار"
+    }
+  ],
+  "timestamp": "2026-08-15T03:53:59.766695215Z",
+  "model": "glm-5.3"
+}

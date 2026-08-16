@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 4:25",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "دیدم و اینک ⟨هیچ⟩ انسانی نبود، و تمام پرندگان آسمان‌ها پر کشیده بودند.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "دیدم"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨هیچ⟩ نبود"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و تمام"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "پرندگان"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمان‌ها"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "پر کشیده بودند"
+    }
+  ],
+  "timestamp": "2026-08-13T21:57:19.227669980Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 4:16",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و پسرانِ یِهَلِّل‌اِل: زیف، و زیفه، تیریا و آسَر‌اِل.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "יהללאל",
+      "gloss": "یِهَلِّل‌اِل"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "زیف"
+    },
+    {
+      "surface": "וזיפה",
+      "gloss": "و زیفه"
+    },
+    {
+      "surface": "תיריא",
+      "gloss": "تیریا"
+    },
+    {
+      "surface": "ואשראל",
+      "gloss": "و آسَر‌اِل"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:26.925505238Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "از آن چشم بپوش، از آن نگذر؛ از آن کناره بگیر و عبور کن.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "از آن چشم بپوش"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "بگذر"
+    },
+    {
+      "surface": "בו",
+      "gloss": "از آن"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "کناره بگیر"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "از آن"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "و عبور کن"
+    }
+  ],
+  "timestamp": "2026-08-13T22:59:43.524704999Z",
+  "model": "glm-5.2"
+}

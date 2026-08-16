@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 66,
+  "translation": "ملت‌ها، الوهیمِ ما را برکت دهید؛ و صدا برآورید ستایشِ او را.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "برکت دهید"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ملت‌ها"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "الوهیمِ ما"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "و برآورید"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صدا"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ستایشِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T22:46:10.502362041Z",
+  "model": "glm-5.2"
+}

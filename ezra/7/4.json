@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "پسرِ زِرَحیاه، پسرِ عُزّی، پسرِ بُکّی.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "زِرَحیاه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "عُزّی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "بُکّی"
+    }
+  ],
+  "timestamp": "2026-08-14T20:47:53.494838348Z",
+  "model": "glm-5.3"
+}

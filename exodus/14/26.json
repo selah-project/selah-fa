@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 14:26",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و یاهوه به موشه گفت: «دستِ خود را بر دریا بگستر، تا آب‌ها بر مِصر، بر گردونه‌اش و بر سوارانش بازگردند.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "بگستر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دستِ خود"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "دستِ تو"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "و بازگردند"
+    },
+    {
+      "surface": "המים",
+      "gloss": "آب‌ها"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِصر"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "گردونه‌اش"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "פרשיו",
+      "gloss": "سوارانش"
+    }
+  ],
+  "timestamp": "2026-08-13T20:13:33.034059019Z",
+  "model": "glm-5.2"
+}

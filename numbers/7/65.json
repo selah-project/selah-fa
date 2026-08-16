@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "numbers 7:65",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و برای قربانیِ شَلَمیم، دو گاو، پنج قوچ، پنج بزِ نر، پنج برّهٔ یک‌ساله؛ این است قربانِ اَویدان پسرِ گیدعونی.",
+  "tokens": [
+    {
+      "surface": "ולזבח",
+      "gloss": "و برای قربانی"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "شَلَمیم"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "گاو"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "قوچ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "עתדים",
+      "gloss": "بز نر"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "برّه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "قربانِ"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "اَویدان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "گیدعونی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:33:41.092034460Z",
+  "model": "glm-5.2"
+}

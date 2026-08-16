@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "jeremiah 21:3",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و ییرمیاهو به آنان گفت: «بدین‌سان به تسیدکیاهو بگویید:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ییرمیاهو"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "به آنان"
+    },
+    {
+      "surface": "כה",
+      "gloss": "بدین‌سان"
+    },
+    {
+      "surface": "תאמרן",
+      "gloss": "بگویید"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "تسیدکیاهو"
+    }
+  ],
+  "timestamp": "2026-08-15T17:38:01.083884649Z",
+  "model": "glm-5.3"
+}

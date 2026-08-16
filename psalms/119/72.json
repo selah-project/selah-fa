@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 119,
+  "translation": "نیکوست برای من توراتِ دهانِ تو، از هزارها زر و سیم.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "نیکوست"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برای من"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "توراتِ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "دهانِ تو"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "از هزارها"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زر"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "و سیم"
+    }
+  ],
+  "timestamp": "2026-08-13T22:56:11.414395233Z",
+  "model": "glm-5.2"
+}

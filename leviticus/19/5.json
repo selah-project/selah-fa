@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و چون قربانیِ سلامت برای یاهوه ذبح کنید، برای خشنودیِ خود ذبحش کنید.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "و چون"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "ذبح کنید"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قربانیِ"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "سلامت"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "برای یاهوه"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "برای خشنودیِ شما"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "ذبحش کنید"
+    }
+  ],
+  "timestamp": "2026-08-13T20:27:10.037469413Z",
+  "model": "glm-5.2"
+}

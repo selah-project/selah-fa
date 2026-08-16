@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "پسرانِ مَگبیش، صد و پنجاه و شش.",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "מַגְבִּ֔ישׁ",
+      "gloss": "مَگبیش"
+    },
+    {
+      "surface": "מֵאָ֖ה",
+      "gloss": "صد"
+    },
+    {
+      "surface": "חֲמִשִּׁ֥ים",
+      "gloss": "پنجاه"
+    },
+    {
+      "surface": "וְשִׁשָּֽׁה",
+      "gloss": "و شش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:28:32.675327939Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "و یاهوه گفت: اینک جایی نزدِ ⟨את⟩ من است، و تو بر صخره بایستی.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جایی"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "من"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "و بایستی"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "صخره"
+    }
+  ],
+  "timestamp": "2026-08-13T20:19:07.021750301Z",
+  "model": "glm-5.2"
+}

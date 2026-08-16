@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "«و من پادشاهِ خود را بر تسیون، کوهِ قدسِ خود، تثبیت کرده‌ام.»",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "و من"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "تثبیت کرده‌ام"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "پادشاهِ من را"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "تسیون"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کوهِ"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "قدسِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T22:37:43.112840570Z",
+  "model": "glm-5.2"
+}

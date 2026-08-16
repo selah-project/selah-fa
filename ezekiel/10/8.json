@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 10:8",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و دیده شد برِ کروبیم، شبیهِ دستِ آدمی، زیرِ بال‌های آنان.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "و دیده شد"
+    },
+    {
+      "surface": "לכרבים",
+      "gloss": "برِ کروبیم"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "شبیهِ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دستِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "زیرِ"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "بال‌های آنان"
+    }
+  ],
+  "timestamp": "2026-08-13T22:13:50.994138751Z",
+  "model": "glm-5.2"
+}

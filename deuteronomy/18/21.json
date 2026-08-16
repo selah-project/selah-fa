@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و چون در دلِ خود بگویی: چگونه خواهیم دانست ⟨את⟩ کلامی را که یاهوه آن را نگفته است؟",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "و چون"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "بگویی"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "در دلِ تو"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "چگونه"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "خواهیم دانست"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کلام"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "او نگفته است"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:48:29.688854290Z",
+  "model": "glm-5.2"
+}

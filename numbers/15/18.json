@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 15:18",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "سخن بگو به بنی یِسرائیل، و به ایشان بگو: در آمدنِ شما به زمینی که من شما را به آنجا می‌آورم ⟨את⟩ شما،",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "سخن بگو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "و بگو"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "به ایشان"
+    },
+    {
+      "surface": "בבאכם",
+      "gloss": "در آمدنِ شما"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "مביא",
+      "gloss": "می‌آورم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ شما",
+      "marks": "شما"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "به آنجا"
+    }
+  ],
+  "timestamp": "2026-08-13T20:36:14.719477208Z",
+  "model": "glm-5.2"
+}

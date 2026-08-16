@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "من گلِ حاشارونم، نیلوفرِ دره‌ها.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "گل"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "حاشارون"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "نیلوفر"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "دره‌ها"
+    }
+  ],
+  "timestamp": "2026-08-15T04:29:39.347561388Z",
+  "model": "glm-5.3"
+}

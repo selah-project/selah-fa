@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 1:48",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و یاهوه با موشه سخن گفت، به‌قولِ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "با"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به‌قولِ:"
+    }
+  ],
+  "timestamp": "2026-08-13T20:30:28.476132303Z",
+  "model": "glm-5.2"
+}

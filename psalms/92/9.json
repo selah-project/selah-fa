@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 92,
+  "translation": "و تو برفرازی برای همیشه، ای یاهوه",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "و تو"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "برفرازی"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "برای همیشه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ای یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:50:59.423697659Z",
+  "model": "glm-5.2"
+}

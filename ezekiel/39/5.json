@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "ezekiel 39:5",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 39,
+  "translation": "بر رویِ دشت خواهی افتاد، زیرا من سخن گفته‌ام، وحیِ اَدونای یاهوه.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رویِ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "دشت"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "خواهی افتاد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "سخن گفته‌ام"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "وحیِ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-15T04:16:49.988011903Z",
+  "model": "glm-5.3"
+}

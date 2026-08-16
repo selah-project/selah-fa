@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 14:23",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "در هر رنج سودی هست، و سخنِ لب‌ها تنها به کمبود.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "در هر"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "رنج"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هست"
+    },
+    {
+      "surface": "מותר",
+      "gloss": "سودی"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "و سخنِ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "لب‌ها"
+    },
+    {
+      "surface": "אך",
+      "gloss": "تنها"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "به کمبود"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:06.593468315Z",
+  "model": "glm-5.2"
+}

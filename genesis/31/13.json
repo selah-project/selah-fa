@@ -1,0 +1,105 @@
+{
+  "tier": "4.6",
+  "verse": 13,
+  "ref": "genesis 31:13",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "من اِلِ بیت‌اِل هستم، آنجا که ستون را مسح کردی و نذر ٔ نذری را به من بست. اکنون برخیز، از این زمین بیرون رو، و به زمین مولد خود بازگرد.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "האל",
+      "gloss": "اِلِ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "مسح کردی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آنجا"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "ستون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "נדרת",
+      "gloss": "نذر بستی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آنجا"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "نذر ٔ نذری"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "اکنون"
+    },
+    {
+      "surface": "קום",
+      "gloss": "برخیز"
+    },
+    {
+      "surface": "צא",
+      "gloss": "بیرون رو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨این⟩ زمین"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": ""
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "و بازگرد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "מולדתך",
+      "gloss": "مولد خود"
+    }
+  ],
+  "timestamp": "2026-08-15T03:39:20.480314157Z",
+  "model": "glm-4.6"
+}

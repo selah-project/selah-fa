@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و روی برگرداند پارع و ⟨به⟩ خانهٔ خود آمد و دل خود را نه گذاشت حتی بر این هم",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "و روی برگرداند"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پارع"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "و آمد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨به⟩"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "خانهٔ خود"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "שת",
+      "gloss": "گذاشت"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دل خود را"
+    },
+    {
+      "surface": "גם",
+      "gloss": "حتی"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "بر این هم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:11:08.678986803Z",
+  "model": "glm-5.2"
+}

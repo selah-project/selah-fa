@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 88,
+  "translation": "محاصره‌ام کردند مانند آب‌ها تمامِ روز، گرد آمدند بر من یک‌جا.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "محاصره‌ام کردند"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "مانند آب‌ها"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "گرد آمدند"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "یک‌جا"
+    }
+  ],
+  "timestamp": "2026-08-14T00:12:31.502282547Z",
+  "model": "glm-5.2"
+}

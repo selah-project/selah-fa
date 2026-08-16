@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 24:39",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و به سرورم گفتم: شاید زن نرود دنبالِ من.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "و گفتم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "سرورم"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "شاید"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "برود"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "زن"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "دنبالِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T20:00:54.516571556Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 32:26",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "و کلامِ یاهوه به یِرمِیاهو شد، به این بیان:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلامِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمِیاهو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به این بیان"
+    }
+  ],
+  "timestamp": "2026-08-13T22:05:48.615729515Z",
+  "model": "glm-5.2"
+}

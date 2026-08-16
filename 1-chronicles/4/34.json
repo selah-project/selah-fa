@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 4:34",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و مَشوباب، و یَملِخ، و یوشَه پُسرِ اَمَتسیا.",
+  "tokens": [
+    {
+      "surface": "ומשובב",
+      "gloss": "و مَشوباب"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "و یَملِخ"
+    },
+    {
+      "surface": "ויושה",
+      "gloss": "و یوشَه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُسرِ"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "اَمَتسیا"
+    }
+  ],
+  "timestamp": "2026-08-14T00:17:51.569228888Z",
+  "model": "glm-5.2"
+}

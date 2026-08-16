@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 14:3",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و داوود زنانِ دیگری در یِروشالَییم گرفت، و داوود پسران و دخترانِ دیگری پدید آورد.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "و گرفت"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیگری"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "زنانِ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "در یِروشالَییم"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و پدید آورد"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیگری"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پسران"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "و دختران"
+    }
+  ],
+  "timestamp": "2026-08-13T23:39:33.529182251Z",
+  "model": "glm-5.2"
+}

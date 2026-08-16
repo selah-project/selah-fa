@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 29:3",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و بگذار ⟨את⟩ ایشان را بر یک سبد، و نزدیک بیاور ⟨את⟩ ایشان را در سبد، و ⟨את⟩ گاو نر را و ⟨את⟩ دو قوچ را.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "و بگذار"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ایشان را"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "סל",
+      "gloss": "سبد"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": "و نزدیک بیاور"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ایشان را"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "در سبد"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "گاو نر را"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "گاو نر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "دو قوچ را"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "قوچ"
+    }
+  ],
+  "timestamp": "2026-08-13T20:18:21.336376861Z",
+  "model": "glm-5.2"
+}

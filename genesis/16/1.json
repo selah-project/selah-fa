@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 16:1",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "وَ سارای، زنِ اَورام، برایش زاده نکرد. و برای او کنیزِ مِصری بود، و نامِ او هاگار.",
+  "tokens": [
+    {
+      "surface": "ושרי",
+      "gloss": "وَ سارای"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زنِ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "اَورام"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "زد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برایش"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "و برای او"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "کنیز"
+    },
+    {
+      "surface": "مצרית",
+      "gloss": "مِصری"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "و نامِ او"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "هاگار"
+    }
+  ],
+  "timestamp": "2026-08-13T19:59:08.341007952Z",
+  "model": "glm-5.2"
+}

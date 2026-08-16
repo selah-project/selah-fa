@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 58,
+  "translation": "زهرِ ایشان مانندِ زهرِ ماری است، مانندِ کبرای کَری که گوشِ خود را می‌بندد،",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "زهرِ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ایشان"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "مانندِ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "زهرِ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ماری"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "مانندِ"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "کبرای"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "کَری"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "می‌بندد"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "گوشِ خود را"
+    }
+  ],
+  "timestamp": "2026-08-13T22:45:18.863130863Z",
+  "model": "glm-5.2"
+}

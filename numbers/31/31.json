@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 31:31",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و موشه و اَلعازار کاهن کردند، چنانکه یاهوه به موشه فرمان داد.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و کردند"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "و اَلعازار"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چنانکه"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فرمان داد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:41:05.663160572Z",
+  "model": "glm-5.2"
+}

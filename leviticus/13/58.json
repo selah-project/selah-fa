@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "leviticus 13:58",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "و ⟨آن⟩ جامه یا تار یا پود یا هر ظرفِ پوست را که بشویی، و آفت از آن‌ها برود، ⟨آن⟩ بارِ دیگر شسته شود و پاک گردد.",
+  "tokens": [
+    {
+      "surface": "והבגד",
+      "gloss": "و جامه"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "השתי",
+      "gloss": "تار"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "پود"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ظرف"
+    },
+    {
+      "surface": "העור",
+      "gloss": "پوست"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "תכבס",
+      "gloss": "بشویی"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "و برود"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "از آن‌ها"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "آفت"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "و شسته شود"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "بارِ دیگر"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "و پاک گردد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:25:03.164454260Z",
+  "model": "glm-5.2"
+}

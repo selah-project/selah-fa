@@ -1,0 +1,65 @@
+{
+  "tier": "hand",
+  "verse": 38,
+  "ref": "genesis 31:38",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "این بیست سال من با تو ⟨بودم⟩؛ میش‌هایت و بزهایت بچه نینداختند، و قوچ‌هایِ گله‌ات را نخوردم.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "با تو"
+    },
+    {
+      "surface": "רחליך",
+      "gloss": "میش‌هایت"
+    },
+    {
+      "surface": "ועזיך",
+      "gloss": "و بزهایت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שכלו",
+      "gloss": "بچه نینداختند"
+    },
+    {
+      "surface": "ואילי",
+      "gloss": "و قوچ‌هایِ"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "گله‌ات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "نخوردم"
+    }
+  ],
+  "timestamp": "2026-08-14T17:47:39Z",
+  "model": "claude-fable-5/hand"
+}

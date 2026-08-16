@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 24:19",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و ⟨هر⟩ مردی چون نقصی بگذارد در هم‌کیشِ ⟨او⟩، چنان‌که کرده، چنین به ⟨او⟩ انجام شود،",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "و مردی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "بگذارد"
+    },
+    {
+      "surface": "מום",
+      "gloss": "نقصی"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "در هم‌کیشِ او"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چنان‌که"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرده"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "انجام شود"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:56:32.019544074Z",
+  "model": "glm-5.2"
+}

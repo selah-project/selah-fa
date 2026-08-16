@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "امروز شما بیرون می‌روید، در ماهِ اَبیو.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "امروز"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "شما"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "بیرون می‌روید"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "در ماهِ"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "اَبیو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:13:32.721448281Z",
+  "model": "glm-5.2"
+}

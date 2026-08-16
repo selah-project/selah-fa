@@ -1,0 +1,37 @@
+{
+  "ref": "joel 2:4",
+  "lang": "fa",
+  "book": "joel",
+  "chapter": 2,
+  "verse": 4,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:46:46Z",
+  "translation": "مانند منظرِ اسبان ⟨است⟩ منظرشان، و مانند سواران، چنین می‌دوند.",
+  "tokens": [
+    {
+      "surface": "כמראה",
+      "gloss": "مانند منظرِ"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "اسبان"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "منظرشان"
+    },
+    {
+      "surface": "וכפרשים",
+      "gloss": "و مانند سواران"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "می‌دوند"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 16:32",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "زنِ زناکار، به‌جای شوهرِ خود، ⟨את⟩ بیگانگان را می‌گیری!",
+  "tokens": [
+    {
+      "surface": "האשה",
+      "gloss": "زنِ"
+    },
+    {
+      "surface": "המנאפת",
+      "gloss": "زناکار"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "به‌جایِ"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "شوهرِ او"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "می‌گیرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بیگانگان"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "بیگانگان"
+    }
+  ],
+  "timestamp": "2026-08-13T22:14:54.169654582Z",
+  "model": "glm-5.2"
+}

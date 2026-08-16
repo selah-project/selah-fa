@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 23:14",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "زاری کنید، کشتی‌های تَرشیش، که دژِ شما غارت شده است.",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "زاری کنید"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "کشتی‌های"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "تَرشیش"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "غارت شده است"
+    },
+    {
+      "surface": "מעזכן",
+      "gloss": "دژِ شما"
+    }
+  ],
+  "timestamp": "2026-08-13T21:45:58.220061755Z",
+  "model": "glm-5.2"
+}

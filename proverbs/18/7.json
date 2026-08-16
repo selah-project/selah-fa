@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 18:7",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "دهانِ احمق ویرانیِ اوست، و لب‌هایش تلهٔ جانِ او.",
+  "tokens": [
+    {
+      "surface": "פִּי",
+      "gloss": "دهانِ"
+    },
+    {
+      "surface": "כְסִיל",
+      "gloss": "احمق"
+    },
+    {
+      "surface": "מְחִתָּה",
+      "gloss": "ویرانیِ"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "او"
+    },
+    {
+      "surface": "וּשְׂפָתָיו",
+      "gloss": "و لب‌هایش"
+    },
+    {
+      "surface": "מוֹקֵשׁ",
+      "gloss": "تلهٔ"
+    },
+    {
+      "surface": "נַפְשׁוֹ",
+      "gloss": "جانِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:59.052599283Z",
+  "model": "glm-5.2"
+}

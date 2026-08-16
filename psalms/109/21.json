@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 109,
+  "translation": "و تو، یاهوه اَدونای، با من کن ⟨את⟩، به خاطرِ نامت، زیرا خوب است حُسنت، مرا بربای.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "و تو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کن"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "با من"
+    },
+    {
+      "surface": "למען",
+      "gloss": "به خاطرِ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "نامت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خوب است"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "حُسنت"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "مرا بربای"
+    }
+  ],
+  "timestamp": "2026-08-13T22:53:49.128428572Z",
+  "model": "glm-5.2"
+}

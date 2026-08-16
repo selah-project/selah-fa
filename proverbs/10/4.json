@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "تهی‌دستیِ کسی که با کفِ خیانت کار می‌کند، و دستِ کوشا توانگر می‌سازد.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "تهی‌دستیِ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کار می‌کند"
+    },
+    {
+      "surface": "כף",
+      "gloss": "با کفِ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "خیانت"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "و دستِ"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "کوشا"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "توانگر می‌سازد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:01:10.872149310Z",
+  "model": "glm-5.2"
+}

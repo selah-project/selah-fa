@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 30:19",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "و لِئه باز باردار شد، و پسرِ ششمین را برای یَعقُوو زایید.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "و باردار شد"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "باز"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لِئه"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "و زایید"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "ششمین"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "برای یَعقُوو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:02:56.880460915Z",
+  "model": "glm-5.2"
+}

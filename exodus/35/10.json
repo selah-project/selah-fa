@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "و هر خردمندِ دلی در میانِ شما بیاید و ⟨את⟩ همهٔ آن را که یاهوه فرمان داده بسازد",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "خردمند"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "در میانِ شما"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "بیاید"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "و بسازد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آن را که"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فرمان داده"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:20:02.732455356Z",
+  "model": "glm-5.2"
+}

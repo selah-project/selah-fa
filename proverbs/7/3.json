@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "آنها را بر انگشتانت ببند، بر لوحِ دلِت بنویس.",
+  "tokens": [
+    {
+      "surface": "קָשְׁרֵ֥ם",
+      "gloss": "ببند"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "אֶצְבְּעֹתֶ֑יךָ",
+      "gloss": "انگشتانت"
+    },
+    {
+      "surface": "כָּ֝תְבֵ֗ם",
+      "gloss": "بنویس"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ל֥וּחַ",
+      "gloss": "لوح"
+    },
+    {
+      "surface": "לִבֶּֽךָ",
+      "gloss": "دلِت"
+    }
+  ],
+  "timestamp": "2026-08-14T00:13:53.693915798Z",
+  "model": "glm-5.2"
+}

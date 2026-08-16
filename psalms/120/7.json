@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 120,
+  "translation": "من صلح‌ام، و آنگاه که سخن می‌گویم، آنان برای جنگند.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "صلح"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "و آنگاه که"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "سخن می‌گویم"
+    },
+    {
+      "surface": "המה",
+      "gloss": "آنان"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "برای جنگ"
+    }
+  ],
+  "timestamp": "2026-08-13T22:56:12.316098312Z",
+  "model": "glm-5.2"
+}

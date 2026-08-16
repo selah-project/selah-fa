@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 21:22",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "شهرِ جبّاران را حکیم بالا رفت، و نیرویِ اطمینانِ ⟨آن⟩ را فرو افکند.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "شهرِ"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "جبّاران"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "بالا رفت"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حکیم"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "و فرو افکند"
+    },
+    {
+      "surface": "עז",
+      "gloss": "نیرویِ"
+    },
+    {
+      "surface": "מבטחה",
+      "gloss": "اطمینانِ آن"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:32.992303008Z",
+  "model": "glm-5.2"
+}

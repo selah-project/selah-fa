@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 9:22",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "وَ اَویملِخ بر یِسرائیل فرمان‌راند — سه سال.",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "وَ فرمان‌راند"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "اَویملِخ"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سه"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-08-13T21:02:57.562395007Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 40:30",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 40,
+  "translation": "و ایوان‌ها دورادور، طول بیست‌وپنج اَماه، و عرض پنج اَماه.",
+  "tokens": [
+    {
+      "surface": "ואלמות",
+      "gloss": "و ایوان‌ها"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "دور"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ادور"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "طول"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "و بیست"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "اَماه"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "و عرض"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "اَماه"
+    }
+  ],
+  "timestamp": "2026-08-14T00:09:10.304554929Z",
+  "model": "glm-5.2"
+}

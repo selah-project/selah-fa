@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "زیرا ⟨او⟩ بر دریاها آن را بنیاد گذاشت، و بر نهرها او آن را استوار می‌سازد.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دریاها"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "بنیاد گذاشتِ آن"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "نهرها"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "استوار می‌سازدِ آن"
+    }
+  ],
+  "timestamp": "2026-08-13T22:40:50.204016651Z",
+  "model": "glm-5.2"
+}

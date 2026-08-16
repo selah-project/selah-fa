@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "عُلّهٔ شَبات، در شَباتِ او، برِ عُلّهٔ همیشگی و نذورِ آن.",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "عُلّهٔ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "شَبات"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "در شَباتِ او"
+    },
+    {
+      "surface": "על",
+      "gloss": "برِ"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "عُلّهٔ"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "همیشگی"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "و نذورِ آن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:39:59.933419723Z",
+  "model": "glm-5.2"
+}

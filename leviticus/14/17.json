@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 14:17",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و از بقیهٔ روغنی که بر کف اوست، کاهن بر لالهٔ گوش راستِ پاک‌شونده بگذارد، و بر شستِ دستِ راستِ او، و بر شستِ پایِ راستِ او، بر خونِ گناه‌آور:",
+  "tokens": [
+    {
+      "surface": "ומיתר",
+      "gloss": "و از بقیهٔ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "روغن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "کفِ او"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "بگذارد"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "תנוך",
+      "gloss": "لالهٔ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "گوش"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "پاک‌شونده"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "راست"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "شستِ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دستِ او"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "راست"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "شستِ"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "پایِ او"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "راست"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خونِ"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "گناه‌آور"
+    }
+  ],
+  "timestamp": "2026-08-13T20:25:23.816291642Z",
+  "model": "glm-5.2"
+}

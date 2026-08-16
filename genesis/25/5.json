@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "وَاِبراهیم داد ⟨את⟩ همهٔ آنچه ⟨از آنِ⟩ او را به‌ییتسحاک.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "وَداد"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَبراهام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنچه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨از آنِ⟩ او"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "به‌ییتسحاک"
+    }
+  ],
+  "timestamp": "2026-08-13T20:01:14.864233883Z",
+  "model": "glm-5.2"
+}

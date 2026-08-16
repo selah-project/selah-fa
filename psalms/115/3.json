@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 115,
+  "translation": "و الوهیمِ ما در آسمان‌هاست؛ هر آنچه را خواست، کرده است.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "و الوهیمِ ما"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "در آسمان‌ها"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنچه را"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "خواست"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرده است"
+    }
+  ],
+  "timestamp": "2026-08-13T22:54:16.970833190Z",
+  "model": "glm-5.2"
+}

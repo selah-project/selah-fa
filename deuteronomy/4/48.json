@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 4:48",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "از عَروعِر که بر لبِ وادیِ اَرنون، و تا کوهِ سیعون، او هِرمون است.",
+  "tokens": [
+    {
+      "surface": "מערער",
+      "gloss": "از عَروعِر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "لبِ"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "وادیِ"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "اَرنون"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کوهِ"
+    },
+    {
+      "surface": "שיאן",
+      "gloss": "سیعون"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "هِرمون"
+    }
+  ],
+  "timestamp": "2026-08-13T20:45:10.213222946Z",
+  "model": "glm-5.2"
+}

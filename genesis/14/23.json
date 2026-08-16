@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 14:23",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "اگر از نخِ تا بندِ کفش، و اگر چیزی از آنچه از آنِ توست بردارم، و تو نگویدی: من اَوراهام را ثروتمند کردم — ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "מחוט",
+      "gloss": "از نخِ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "שרוך",
+      "gloss": "بندِ"
+    },
+    {
+      "surface": "נעל",
+      "gloss": "کفش"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "بردارم"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "چیزی از"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنچه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "از آنِ توست"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "بگویی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "העשרתי",
+      "gloss": "ثروتمند کردم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَوراهام"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "اَوراهام را"
+    }
+  ],
+  "timestamp": "2026-08-13T19:57:53.384989690Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 10:27",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و اَحیَه، حَنان، عَنان",
+  "tokens": [
+    {
+      "surface": "וַאֲחִיָּ֥ה",
+      "gloss": "و اَحیَه"
+    },
+    {
+      "surface": "חָנָ֖ן",
+      "gloss": "حَنان"
+    },
+    {
+      "surface": "עָנָֽן",
+      "gloss": "عَنان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:33:53.748298125Z",
+  "model": "glm-5.2"
+}

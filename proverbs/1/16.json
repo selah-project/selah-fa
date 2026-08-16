@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "زيرا پاهای آنان به بدی می‌دوند و می‌شتابند به ریختنِ خون،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "پاهای آنان"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "به بدی"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "می‌دوند"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "و می‌شتابند"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "به ریختنِ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خون"
+    }
+  ],
+  "timestamp": "2026-08-13T22:59:05.978739744Z",
+  "model": "glm-5.2"
+}

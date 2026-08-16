@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 36,
+  "ref": "numbers 7:36",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "در روزِ پنجم، نسیءِ بنی‌شیمئون، شِلومی‌اِل پسرِ تسوری‌شَدّای.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "در روز"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "پنجم"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "نسیء"
+    },
+    {
+      "surface": "لבני",
+      "gloss": "برای بنی"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شیمئون"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "شِلومی‌اِل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "تسوری‌شَدّای"
+    }
+  ],
+  "timestamp": "2026-08-15T03:52:22.067226894Z",
+  "model": "glm-5.3"
+}

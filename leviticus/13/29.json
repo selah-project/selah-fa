@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "و مردی یا زنی چون در او نا‌گاهی باشد، در سر یا در ریش،",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "و مردی"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زنی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "باشد"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در او"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ناگاهی"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "در سر"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "در ریش"
+    }
+  ],
+  "timestamp": "2026-08-13T20:25:44.023950592Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "وَ آوی‌مِلِخ به اَوراهام گفت: «چه دیدی، که ⟨את⟩ این کار را کردی؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "آوی‌مِلِخ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراهام"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "دیدی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "کردی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "این کار را"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "کارِ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    }
+  ],
+  "timestamp": "2026-08-13T19:59:40.184067722Z",
+  "model": "glm-5.2"
+}

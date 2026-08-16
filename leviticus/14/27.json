@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 14:27",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و کاهون با انگشتِ راستِ خود از روغنی که بر کفِ چپِ اوست، هفت بار به حضورِ یاهوه پاشید.",
+  "tokens": [
+    {
+      "surface": "והזה",
+      "gloss": "و پاشید"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهون"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "با انگشتِ او"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "راست"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "روغن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "کفِ او"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "چپ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "بار"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "به حضورِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:25:37.136916126Z",
+  "model": "glm-5.2"
+}

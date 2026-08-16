@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 5:3",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "پسرانِ رئووَن، بِکورِ یِسرائیل: حَنوخ و پَلو، حِتصرون و کارمی.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئووَن"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "بِکورِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "حَنوخ"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "و پَلو"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "حِتصرون"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "و کارمی"
+    }
+  ],
+  "timestamp": "2026-08-14T00:17:55.148154101Z",
+  "model": "glm-5.2"
+}

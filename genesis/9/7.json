@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و شما، بارور شوید و بسیار شوید؛ بر روی زمین بجوشان و در آن بسیار شوید.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "و شما"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "بارور شوید"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "و بسیار شوید"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "بجوشان"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "بر روی زمین"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "و بسیار شوید"
+    },
+    {
+      "surface": "בה",
+      "gloss": "در آن"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:13.505620622Z",
+  "model": "glm-5.2"
+}

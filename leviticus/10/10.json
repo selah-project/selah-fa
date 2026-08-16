@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و ⟨برای⟩ جدا ساختن میان مقدَّس و میان نامقدَّس، و میان ناپاک و میان پاک —",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "و ⟨برای⟩ جدا ساختن"
+    },
+    {
+      "surface": "בין",
+      "gloss": "میان"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدَّس"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "و میان"
+    },
+    {
+      "surface": "החל",
+      "gloss": "نامقدَّس"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "و میان"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "و میان"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "پاک"
+    }
+  ],
+  "timestamp": "2026-08-13T20:23:55.078502761Z",
+  "model": "glm-5.2"
+}

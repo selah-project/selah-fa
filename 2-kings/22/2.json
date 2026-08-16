@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 22:2",
+  "book": "2-kings",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "و کرد راست را در چشم‌های یاهوه، و رفت در همهٔ راهِ داوود پدرش، و منحرف نشد راست یا چپ.",
+  "tokens": [
+    {
+      "surface": "ושמאול",
+      "gloss": "و چپ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "راست"
+    },
+    {
+      "surface": "סר",
+      "gloss": "منحرف شد"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پدرش"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راهِ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "در همهٔ"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "و چپ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "و رفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "در چشم‌های"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "راست"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "و کرد"
+    }
+  ],
+  "timestamp": "2026-08-13T21:39:39.772961589Z",
+  "model": "glm-5.2"
+}

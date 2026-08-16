@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-chronicles 6:40",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "اکنون، الوهیمِ من، بادا چشمانِت باز و گوش‌هایت گردون به دعای این مکان،",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "اکنون"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوهیمِ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بادا"
+    },
+    {
+      "surface": "נא",
+      "gloss": "التماهاً"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "چشمانِت"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "باز"
+    },
+    {
+      "surface": "ואזניך",
+      "gloss": "و گوش‌هایت"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "گردون"
+    },
+    {
+      "surface": "לתפלת",
+      "gloss": "به دعای"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "این مکان"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    }
+  ],
+  "timestamp": "2026-08-13T23:44:36.884760592Z",
+  "model": "glm-5.2"
+}

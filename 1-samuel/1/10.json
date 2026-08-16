@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و او تلخِ نَفَش بود، و بر یاهوه دعا کرد، و بسیار گریستِ گریه‌کردن.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "و او"
+    },
+    {
+      "surface": "مרת",
+      "gloss": "تلخِ"
+    },
+    {
+      "surface": "نפש",
+      "gloss": "نَفَش"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "و دعا کرد"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "و گریستِ"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "گریه‌کردن"
+    }
+  ],
+  "timestamp": "2026-08-13T21:07:24.534278051Z",
+  "model": "glm-5.2"
+}

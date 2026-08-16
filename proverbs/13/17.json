@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "فرستادهٔ بد در بدی خواهد افتاد، و فرستادهٔ امین شفا است.",
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "فرستادهٔ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "خواهد افتاد"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "در بدی"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "و فرستادهٔ"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "امین"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "شفا است"
+    }
+  ],
+  "timestamp": "2026-08-13T23:01:56.589837113Z",
+  "model": "glm-5.2"
+}

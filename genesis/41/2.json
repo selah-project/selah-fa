@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 41:2",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 41,
+  "translation": "و اینک از رود بالا می‌آیند هفت گاو، زیبای منظر و فربهٔ گوشت، و چرا می‌کنند در نیزار.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "رود"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "بالا می‌آیند"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "گاو"
+    },
+    {
+      "surface": "יפות",
+      "gloss": "زیبا"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "منظر"
+    },
+    {
+      "surface": "ובריאת",
+      "gloss": "و فربهٔ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "ותרעינה",
+      "gloss": "و چرا می‌کنند"
+    },
+    {
+      "surface": "באחו",
+      "gloss": "در نیزار"
+    }
+  ],
+  "timestamp": "2026-08-13T20:06:37.650321825Z",
+  "model": "glm-5.2"
+}

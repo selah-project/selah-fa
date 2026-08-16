@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 25:8",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و بشماری برای تو هفت شَبّاتِ سال، هفت سال هفت بار؛ و خواهند بود برای تو روزهایِ هفت شَبّاتِ سال — نه و چهل سال.",
+  "tokens": [
+    {
+      "surface": "וספרת",
+      "gloss": "و بشماری"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برای تو"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "שבתת",
+      "gloss": "شَبّات"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "بار"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "و خواهند بود"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برای تو"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روزهایِ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "שבתת",
+      "gloss": "شَبّات"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نه"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "و چهل"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-08-13T20:29:22.169954693Z",
+  "model": "glm-5.2"
+}

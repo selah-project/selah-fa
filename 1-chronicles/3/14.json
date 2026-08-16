@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 3:14",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "آمون پسرش، یوشیاهو پسرش.",
+  "tokens": [
+    {
+      "surface": "אָמ֥וֹן",
+      "gloss": "آمون"
+    },
+    {
+      "surface": "בְּנ֖וֹ",
+      "gloss": "پسرِ او"
+    },
+    {
+      "surface": "יֹאשִׁיָּ֥הוּ",
+      "gloss": "یوشیاهو"
+    },
+    {
+      "surface": "בְנֽוֹ",
+      "gloss": "پسرِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:09.608220015Z",
+  "model": "glm-5.2"
+}

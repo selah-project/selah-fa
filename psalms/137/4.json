@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 137,
+  "translation": "چگونه بخوانیم ⟨את⟩ سرودِ یاهوه را، بر خاکِ بیگانه؟",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "چگونه"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "بخوانیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سرودِ یاهوه"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "سرودِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "خاکِ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "بیگانه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:57:24.513430328Z",
+  "model": "glm-5.2"
+}

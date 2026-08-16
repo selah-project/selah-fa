@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و خود را قدّس کنید، و قدّس باشید، که من یاهوه الوهیمِ شما هستم.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "و خود را قدّس کنید"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "و باشید"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "قدّس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "الوهیمِ شما"
+    }
+  ],
+  "timestamp": "2026-08-13T20:27:55.504174871Z",
+  "model": "glm-5.2"
+}

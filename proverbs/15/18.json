@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 15:18",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "مردِ خشم، برمی‌انگیزد کشمکش را؛ و کندخشم، آرام می‌کند دعوا را.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "خشم"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "برمی‌انگیزد"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "کشمکش را"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "و کند"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "خشم"
+    },
+    {
+      "surface": "ישקיט",
+      "gloss": "آرام می‌کند"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "دعوا را"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:38.767957666Z",
+  "model": "glm-5.2"
+}

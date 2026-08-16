@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و الوهیم ⟨את⟩ آن‌ها را در گسترهٔ آسمان‌ها گذاشت تا بر زمین بتابانند.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "و گذاشت"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "آن‌ها"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "در گسترهٔ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمان‌ها"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "تا بتابانند"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:19.735000333Z",
+  "model": "glm-5.2"
+}

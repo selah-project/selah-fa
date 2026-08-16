@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "در مردانِ بد حرص مبر، و در آرزومندِ بودنِ ⟨את⟩ ایشان مباش.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "حرص ببر"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "در مردانِ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بد"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "آرزومند باش"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "به بودنِ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ایشان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:49.803095280Z",
+  "model": "glm-5.2"
+}

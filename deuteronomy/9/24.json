@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "سرکش بودید با یاهوه، از روزِ دانستنم ⟨את⟩ شما را.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "سرکش"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "بودید"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "از روزِ"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "دانستنم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ شما را"
+    }
+  ],
+  "timestamp": "2026-08-13T20:45:37.882655796Z",
+  "model": "glm-5.2"
+}

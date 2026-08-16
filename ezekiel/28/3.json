@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 28:3",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "هین، تو از دانی‌اِل حکیمتری؛ هیچ پنهانی از تو پوشیده نمانده است.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "هین"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حکیمتری"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "מדנאל",
+      "gloss": "از دانی‌اِل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هیچ"
+    },
+    {
+      "surface": "סתום",
+      "gloss": "پنهانی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עממוך",
+      "gloss": "از تو پوشیده ماند"
+    }
+  ],
+  "timestamp": "2026-08-13T22:19:53.603718016Z",
+  "model": "glm-5.2"
+}

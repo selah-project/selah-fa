@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 7:25",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "پسرانِ جیبعون، نود و پنج.",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "גִבְע֖וֹן",
+      "gloss": "جیبعون"
+    },
+    {
+      "surface": "תִּשְׁעִ֥ים",
+      "gloss": "نود"
+    },
+    {
+      "surface": "וַחֲמִשָּֽׁה",
+      "gloss": "و پنج"
+    }
+  ],
+  "timestamp": "2026-08-13T23:33:00.609796780Z",
+  "model": "glm-5.2"
+}

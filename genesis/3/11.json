@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 3:11",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و گفت: «چه کسی به تو خبر داد که برهنه‌ای؟ آیا از آن درخت که تو را فرمان دادم از آن نخوری، خورده‌ای؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "מי",
+      "gloss": "چه کسی"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "خبر داد"
+    },
+    {
+      "surface": "לך",
+      "gloss": "به تو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "برهنه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "המן",
+      "gloss": "از"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "درخت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "به تو فرمان دادم"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "تا نه"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "خوردن"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "از آن"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "خورده‌ای"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:02.872246223Z",
+  "model": "glm-5.2"
+}

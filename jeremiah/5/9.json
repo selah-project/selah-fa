@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 5:9",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "آیا بر این‌ها پاداش ندهم؟ — خروش یاهوه — و در ملتی چون این جانِ من انتقام نستاند؟",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "آیا بر"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "پاداش دهم"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "خروش"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "و آیا"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "در ملتی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "چون این"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תתנקם",
+      "gloss": "انتقام ستاند"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "جانِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T21:56:47.748059507Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و گفت به او اَوراهام: مراقب باش خودت، مبادا بازگردانی ⟨את⟩ پسرم به آنجا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراهام"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "مراقب باش"
+    },
+    {
+      "surface": "לך",
+      "gloss": "خودت"
+    },
+    {
+      "surface": "פן",
+      "gloss": "مبادا"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "بازگردانی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پسرم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرم"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "به آنجا"
+    }
+  ],
+  "timestamp": "2026-08-13T20:00:42.423900700Z",
+  "model": "glm-5.2"
+}

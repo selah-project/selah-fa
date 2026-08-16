@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و ⟨את⟩ گوشت و ⟨את⟩ پوست را در آتش سوزاند، بیرون از اردوگاه.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "گوشت"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "پوست"
+    },
+    {
+      "surface": "העור",
+      "gloss": "پوست"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "سوزاند"
+    },
+    {
+      "surface": "באש",
+      "gloss": "در آتش"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "بیرون"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "از اردوگاه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:23:50.048508981Z",
+  "model": "glm-5.2"
+}

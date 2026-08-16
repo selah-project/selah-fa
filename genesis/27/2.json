@@ -1,0 +1,45 @@
+{
+  "tier": "4.6",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و گفت، اینک، اکنون پیر شده‌ام، روز مرگم را نمی‌دانم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اکنون"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "پیر شده‌ام"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "می‌دانم"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "مرگم"
+    }
+  ],
+  "timestamp": "2026-08-15T03:40:23.849828162Z",
+  "model": "glm-4.6"
+}

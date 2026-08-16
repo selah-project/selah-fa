@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "شش روز کار کنی و تمام کارِ تو را بکنی،",
+  "tokens": [
+    {
+      "surface": "שֵׁ֤שֶׁת",
+      "gloss": "ششِ"
+    },
+    {
+      "surface": "יָמִים֙",
+      "gloss": "روزها"
+    },
+    {
+      "surface": "תַּֽעֲבֹ֔ד",
+      "gloss": "کار کنی"
+    },
+    {
+      "surface": "וְעָשִׂ֖יתָ",
+      "gloss": "و بکنی"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "מְלַאכְתֶּֽךָ",
+      "gloss": "کارِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:15:17.914627530Z",
+  "model": "glm-5.2"
+}

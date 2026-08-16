@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 14:1",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "آنکه بود کلامِ یاهوه به یِرمِیاهو بر سرِ سخنانِ خشکسالی‌ها.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "آنکه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمِیاهو"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر سرِ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "سخنانِ"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "خشکسالی‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T21:59:46.819751039Z",
+  "model": "glm-5.2"
+}

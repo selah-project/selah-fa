@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 5:14",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "این‌ها پسران اَویخاییل، پسر حوری، پسر یاروَح، پسر گیلعاد، پسر میکائیل، پسر یِشیشای، پسر یَحْدو، پسر بوز بودند.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسران"
+    },
+    {
+      "surface": "אביחיל",
+      "gloss": "اَویخاییل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "حوری"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "ירוח",
+      "gloss": "یاروَح"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گیلعاد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "میکائیل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "ישישי",
+      "gloss": "یِشیشای"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "یَحْدو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "بوز"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:18.262438606Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 7:6",
+  "book": "esther",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و اِستِر گفت: مردی دشمن و ستمکار، هامانِ شریرِ این. و هامان ترسید از حضور پادشاه و ملکه.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "اِستِر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "צר",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "و ستمکار"
+    },
+    {
+      "surface": "המן",
+      "gloss": "هامان"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "شریر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "و هامان"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "ترسید"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "از حضور"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "והמלכה",
+      "gloss": "و ملکه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:24:16.537258336Z",
+  "model": "glm-5.2"
+}

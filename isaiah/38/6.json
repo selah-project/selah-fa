@@ -1,0 +1,58 @@
+{
+  "ref": "isaiah 38:6",
+  "lang": "fa",
+  "book": "isaiah",
+  "chapter": 38,
+  "verse": 6,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:46:46Z",
+  "translation": "و از دستِ پادشاهِ اَشّور تو را رهایی خواهم داد و ⟨את⟩ این شهر را، و بر این شهر نگاهبانی خواهم کرد.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "و از دستِ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اَشّور"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "⟨تو را⟩ رهایی خواهم داد"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "این شهر"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "و نگاهبانی خواهم کرد"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "این"
+    }
+  ]
+}

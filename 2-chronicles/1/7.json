@@ -1,0 +1,57 @@
+{
+  "tier": "4.6",
+  "verse": 7,
+  "ref": "2-chronicles 1:7",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "در آن شب الوهيم برای شلومه ظاهر شد، و به او گفت: بخواه، چه بدهم به تو؟",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "در شب"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ظاهر شد"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهيم"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "برای شلومه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "بخواه"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "بدهم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "به تو"
+    }
+  ],
+  "timestamp": "2026-08-15T04:40:35.781230402Z",
+  "model": "glm-4.6"
+}

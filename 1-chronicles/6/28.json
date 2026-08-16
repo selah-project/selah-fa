@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 6:28",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "پسرِ یَحَت، پسرِ گِرْشُم، پسرِ لِوی.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "یَحَت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "گِرْشُم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لِوی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:06.930051982Z",
+  "model": "glm-5.2"
+}

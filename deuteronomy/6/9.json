@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و آن‌ها را بر ستون‌های درِ خانه‌ات و بر دروازه‌هایت بنویسی.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "و بنویسی‌شان"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "ستون‌های درِ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "خانه‌ات"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "و بر دروازه‌هایت"
+    }
+  ],
+  "timestamp": "2026-08-13T20:44:22.138041587Z",
+  "model": "glm-5.2"
+}

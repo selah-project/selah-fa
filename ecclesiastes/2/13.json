@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 2:13",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و دیدم من که هست برتری برای حکمت از نادانی، مانند برتری نور از تاریکی.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "و دیدم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "שיש",
+      "gloss": "که هست"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "برتری"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "برای حکمت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הסכלות",
+      "gloss": "نادانی"
+    },
+    {
+      "surface": "כיתרון",
+      "gloss": "مانند برتری"
+    },
+    {
+      "surface": "האור",
+      "gloss": "نور"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "تاریکی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:18.970402772Z",
+  "model": "glm-5.2"
+}

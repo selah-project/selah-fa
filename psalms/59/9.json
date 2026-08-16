@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 59,
+  "translation": "و تو، یاهوه، بر آنان خواهی خندید؛ به همهٔ امّت‌ها خواهی ریشخند کرد.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "و تو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "خواهی خندید"
+    },
+    {
+      "surface": "למו",
+      "gloss": "بر آنان"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "خواهی ریشخند کرد"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "به همهٔ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "امّت‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T22:45:25.413511Z",
+  "model": "glm-5.2"
+}

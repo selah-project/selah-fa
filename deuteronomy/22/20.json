@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "و اگر راستی بود این امر، که دختربکی برای آن دختر یافت نشد،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "امرِ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "یافت شد"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "دختربکی"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "برای دختر"
+    }
+  ],
+  "timestamp": "2026-08-13T20:49:54.852169618Z",
+  "model": "glm-5.2"
+}

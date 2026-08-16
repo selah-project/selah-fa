@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "بازایستاد شادیِ دلِ ما، دگرگون شد به سوگواری رقصِ ما.",
+  "tokens": [
+    {
+      "surface": "שָׁבַת",
+      "gloss": "بازایستاد"
+    },
+    {
+      "surface": "מְשׂוֹשׂ",
+      "gloss": "شادیِ"
+    },
+    {
+      "surface": "לִבֵּנוּ",
+      "gloss": "دلِ ما"
+    },
+    {
+      "surface": "נֶהְפַּךְ",
+      "gloss": "دگرگون شد"
+    },
+    {
+      "surface": "לְאֵבֶל",
+      "gloss": "به سوگواری"
+    },
+    {
+      "surface": "מְחֹלֵנוּ",
+      "gloss": "رقصِ ما"
+    }
+  ],
+  "timestamp": "2026-08-13T23:19:27.650209354Z",
+  "model": "glm-5.2"
+}

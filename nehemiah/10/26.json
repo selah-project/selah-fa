@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 10:26",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "رِحوم، حَشَوْنا، مَعَسیَه",
+  "tokens": [
+    {
+      "surface": "רְח֥וּם",
+      "gloss": "رِحوم"
+    },
+    {
+      "surface": "חֲשַׁבְנָ֖ה",
+      "gloss": "حَشَوْنا"
+    },
+    {
+      "surface": "מַעֲשֵׂיָֽה",
+      "gloss": "مَعَسیَه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:33:53.748184343Z",
+  "model": "glm-5.2"
+}

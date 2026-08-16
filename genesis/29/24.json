@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و لابان به او ⟨את⟩ زِلپه، کنیزِ خویش را — برایِ لِئه دخترِ خویش — کنیز داد.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "و داد"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "לה",
+      "gloss": "به او"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زِلپه را"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "زِلپه"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "کنیزِ خویش"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "برایِ لِئه"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "دخترِ خویش"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "کنیز"
+    }
+  ],
+  "timestamp": "2026-08-13T20:02:07.659367610Z",
+  "model": "glm-5.2"
+}

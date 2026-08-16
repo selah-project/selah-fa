@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 105,
+  "translation": "و خورد هر علفی را در زمینِ ایشان، و خورد میوهٔ خاکِ ایشان را.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "و خورد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "علفی"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "در زمینِ ایشان"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "و خورد"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "میوهٔ"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "خاکِ ایشان"
+    }
+  ],
+  "timestamp": "2026-08-13T22:52:34.359225827Z",
+  "model": "glm-5.2"
+}

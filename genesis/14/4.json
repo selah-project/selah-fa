@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "دوازده سال ⟨آنها⟩ ⟨את⟩ کَدَرلاعومِر را خدمت کردند، و سیزده سال عصیان کردند.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ده"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "خدمت کردند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کَدَرلاعومِر"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "کَدَرلاعومِر"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "و سه"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ده"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "عصیان کردند"
+    }
+  ],
+  "timestamp": "2026-08-13T19:57:56.525848759Z",
+  "model": "glm-5.2"
+}

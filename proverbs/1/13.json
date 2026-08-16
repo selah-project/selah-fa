@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 1:13",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "همهٔ ثروتِ ارزشمند می‌یابیم، خانه‌هایمان را از غنیمت پر می‌کنیم،",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ثروت"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ارزشمند"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "می‌یابیم"
+    },
+    {
+      "surface": "נמלא",
+      "gloss": "پر می‌کنیم"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "خانه‌هایمان"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "از غنیمت"
+    }
+  ],
+  "timestamp": "2026-08-13T22:59:05.978256617Z",
+  "model": "glm-5.2"
+}

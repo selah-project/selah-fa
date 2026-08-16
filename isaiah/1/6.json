@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "isaiah 1:6",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "از کفِ پا و تا سر، سالمتی‌ای در او نیست؛ زخم و کبودی و تازیانهٔ تازه؛ فشرده نشده و بسته نشده و با روغن نرم نشده است.",
+  "tokens": [
+    {
+      "surface": "מכף",
+      "gloss": "از کفِ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پا"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در او"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "سالمتی‌ای"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "زخم"
+    },
+    {
+      "surface": "וחבורה",
+      "gloss": "و کبودی"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "و تازیانهٔ"
+    },
+    {
+      "surface": "טריה",
+      "gloss": "تازه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "فشرده نشده"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "بسته نشده"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "רככה",
+      "gloss": "نرم نشده"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "با روغن"
+    }
+  ],
+  "timestamp": "2026-08-15T04:07:04.689156731Z",
+  "model": "glm-5.3"
+}

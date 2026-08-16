@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 1:1",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "مردی بود در زمینِ عوض، نامِ او ایّوب؛ و بود آن مرد بی‌گزشت و راست و ترسِ الوهیم، و دور از شر.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "در زمینِ"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "عوض"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ایّوب"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "نامِ او"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "آن مرد"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "תם",
+      "gloss": "بی‌گزشت"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "و راست"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "و ترسِ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "و دور از"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "شر"
+    }
+  ],
+  "timestamp": "2026-08-13T23:07:02.606323525Z",
+  "model": "glm-5.2"
+}

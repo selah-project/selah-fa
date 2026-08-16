@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 23:29",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "چون هر نَفَسی که در عینِ همین روز خود را تَذَلُّل ندهد، از میانِ قومِ خود بریده خواهد شد.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "نَفَسی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "خود را تَذَلُّل ندهد"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "در عینِ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "همین"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "بریده خواهد شد"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "از میانِ قومِ خود"
+    }
+  ],
+  "timestamp": "2026-08-13T20:29:16.379333856Z",
+  "model": "glm-5.2"
+}

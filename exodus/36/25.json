@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "و برای پهلوی دومِ مسکن، به سویِ شمال، بیست تخته ساخت،",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "و برای پهلو"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "دوم"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "به سویِ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "شمال"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ساخت"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "تخته‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T20:20:23.694028985Z",
+  "model": "glm-5.2"
+}

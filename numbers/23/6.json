@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 23:6",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "و به سوی او بازگشت، و اینک ایستاده است بر عُلایتِ خود، او و همهٔ سَرهای موآب.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "و بازگشت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "به سوی او"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "ایستاده است"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "عُلایتِ او"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و همهٔ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سَرهای"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    }
+  ],
+  "timestamp": "2026-08-13T20:38:39.310733541Z",
+  "model": "glm-5.2"
+}

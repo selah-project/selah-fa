@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "و غرید تمامِ جماعتِ پسرانِ یِسرائیل بر موشه و بر اَهارون در بیابان.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "و غریدند"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "جماعتِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اَهارون"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "در بیابان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:14:07.815688815Z",
+  "model": "glm-5.2"
+}

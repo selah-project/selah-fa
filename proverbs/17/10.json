@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "proverbs 17:10",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "سرزنش در جانِ فهمیده فرود می‌آید، بیش از صد ضربه بر نابخرد.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "فرود می‌آید"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "سرزنش"
+    },
+    {
+      "surface": "במבין",
+      "gloss": "در فهمیده"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "از زدنِ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نابخرد"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "صد"
+    }
+  ],
+  "timestamp": "2026-08-15T04:27:24.431525914Z",
+  "model": "glm-5.3"
+}

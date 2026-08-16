@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "leviticus 15:12",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و ظرفِ سفالی که صاحبِ جریان آن را لمس کند شکسته شود، و هر ظرفِ چوبی در آب شسته شود.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "و ظرفِ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "سفالی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "لمس کند"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آن را"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "صاحبِ جریان"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "شکسته شود"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ظرفِ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "چوبی"
+    },
+    {
+      "surface": "ישטף",
+      "gloss": "شسته شود"
+    },
+    {
+      "surface": "במים",
+      "gloss": "در آب"
+    }
+  ],
+  "timestamp": "2026-08-15T03:51:04.077463048Z",
+  "model": "glm-5.3"
+}

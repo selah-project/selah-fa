@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 24:9",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "نقشۀِ نادانی گناه است، و ریشخندگر برای آدمی مکروه است.",
+  "tokens": [
+    {
+      "surface": "זִמַּת",
+      "gloss": "نقشۀ"
+    },
+    {
+      "surface": "אִוֶּלֶת",
+      "gloss": "نادانی"
+    },
+    {
+      "surface": "חַטָּאת",
+      "gloss": "گناه"
+    },
+    {
+      "surface": "וְתוֹעֲבַת",
+      "gloss": "و مکروه"
+    },
+    {
+      "surface": "לְאָדָם",
+      "gloss": "برای آدمی"
+    },
+    {
+      "surface": "לֵץ",
+      "gloss": "ریشخندگر"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:35.416103961Z",
+  "model": "glm-5.2"
+}

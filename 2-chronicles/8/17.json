@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 8:17",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "آنگاه شلومه به عَصیون‌گِبِر و به اَییلوت رفت، بر کرانهٔ دریا در زمینِ اَدوم.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "آنگاه"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "رفت"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومه"
+    },
+    {
+      "surface": "לעציון",
+      "gloss": "به عَصیون‌"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "گِبِر"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و به"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "اَییلوت"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "کرانهٔ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "در زمینِ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اَدوم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:44:59.421892673Z",
+  "model": "glm-5.2"
+}

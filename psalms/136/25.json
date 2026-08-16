@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 136,
+  "translation": "دهندهٔ نان به همهٔ گوشت است، که تا به دورانِ همیشگی است محبّتِ او.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "دهندهٔ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "به همهٔ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "تا به دورانِ همیشگی"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "محبّتِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T22:57:22.573480172Z",
+  "model": "glm-5.2"
+}

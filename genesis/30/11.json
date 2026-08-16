@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "و گفت لِیّا: «بَگَد!» و خواند ⟨את⟩ نامِ او را گاد.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لِیّا"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "بَگَد"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "و خواند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نام او"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "نامِ او"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:02:08.884267865Z",
+  "model": "glm-5.2"
+}

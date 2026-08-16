@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 69,
+  "translation": "پاک شوند از کتابِ زندگان، و با صدیقان نوشته نشوند.",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "پاک شوند"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "از کتابِ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگان"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "و با"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "صدیقان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نـ"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "نوشته شوند"
+    }
+  ],
+  "timestamp": "2026-08-13T22:47:16.809003891Z",
+  "model": "glm-5.2"
+}

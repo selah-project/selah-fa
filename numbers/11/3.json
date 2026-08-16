@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و خواند نامِ جایِ آن تَب‌عِیرَه، زیرا سوخت در میانِ آنان آتشِ یاهوه.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "و خواند"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نامِ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "جایِ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "تَب‌عِیرَه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "سوخت"
+    },
+    {
+      "surface": "בם",
+      "gloss": "در میانِ آنان"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آتشِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:34:28.504495058Z",
+  "model": "glm-5.2"
+}

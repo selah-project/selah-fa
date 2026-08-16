@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 12:12",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و بیش از آن‌ها، ای پسرم، برحذر باش: ساختنِ کتاب‌های بسیار را، پایان نیست، و لَغویدنِ بسیار، خستگیِ تن است.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "و بیش از آن"
+    },
+    {
+      "surface": "מהמה",
+      "gloss": "آن‌ها"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ای پسرم"
+    },
+    {
+      "surface": "הזהר",
+      "gloss": "برحذر باش"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ساختنِ"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "کتاب‌های"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "پایان"
+    },
+    {
+      "surface": "وלהג",
+      "gloss": "و لَغویدنِ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "خستگیِ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "تن"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:56.483357147Z",
+  "model": "glm-5.2"
+}

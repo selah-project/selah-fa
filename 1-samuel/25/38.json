@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و شد پس از ده روز، و یاهوه ⟨את⟩ نابال را زد، و او مُرد.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "پس از ده"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "روز"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "و زد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نابال"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نابال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و مُرد"
+    }
+  ],
+  "timestamp": "2026-08-13T21:15:18.001420782Z",
+  "model": "glm-5.2"
+}

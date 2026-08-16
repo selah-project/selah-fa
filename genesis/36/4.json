@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "و عادَه برای عیسو ⟨את⟩ اِلیفاز را زاد، و بَسمَت ⟨את⟩ رعو‌ئیل را زاد.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "و زاد"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "عادَه"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "برای عیسو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِلیفاز"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "اِلیفاز"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "و بَسمَت"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رعو‌ئیل"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رعو‌ئیل"
+    }
+  ],
+  "timestamp": "2026-08-13T20:04:43.549853710Z",
+  "model": "glm-5.2"
+}

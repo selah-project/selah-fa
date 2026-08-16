@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 12:21",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "برای حیلقیا، حَشَبْیا؛ برای یدعیا، نَتَنْاِئیل.",
+  "tokens": [
+    {
+      "surface": "לחלקיה",
+      "gloss": "برای حیلقیا"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "حَشَبْیا"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "برای یدعیا"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "نَتَنْاِئیل"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:29.925918827Z",
+  "model": "glm-5.2"
+}

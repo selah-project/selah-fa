@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 19:8",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و سوزانندهٔ ⟨את⟩ او جامه‌هایش را در آب بشوید و بدنش را در آب بشوید و ناپاک است تا غروب.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "و سوزانندهٔ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "او"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "بشوید"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "جامه‌هایش"
+    },
+    {
+      "surface": "במים",
+      "gloss": "در آب"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "و بشوید"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "بدنش"
+    },
+    {
+      "surface": "במים",
+      "gloss": "در آب"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "و ناپاک است"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "غروب"
+    }
+  ],
+  "timestamp": "2026-08-13T20:37:14.334819813Z",
+  "model": "glm-5.2"
+}

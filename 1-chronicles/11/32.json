@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 11:32",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "حورایِ از دره‌های گاعَش، اَوی‌اِیلِ عَربَتی،",
+  "tokens": [
+    {
+      "surface": "חוּרַי",
+      "gloss": "حورای"
+    },
+    {
+      "surface": "מִנַּחֲלֵי",
+      "gloss": "از دره‌هایِ"
+    },
+    {
+      "surface": "גַּעַשׁ",
+      "gloss": "گاعَش"
+    },
+    {
+      "surface": "אֲבִיאֵל",
+      "gloss": "اَوی‌اِیل"
+    },
+    {
+      "surface": "הָעַרְבָתִי",
+      "gloss": "عَربَتی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:43.843018962Z",
+  "model": "glm-5.2"
+}

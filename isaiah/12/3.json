@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 12:3",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و شما با شادی آب خواهید کشید، از چشمه‌هایِ رستگاری.",
+  "tokens": [
+    {
+      "surface": "ושאבתם",
+      "gloss": "و شما خواهید کشید"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آب"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "با شادی"
+    },
+    {
+      "surface": "ממעיני",
+      "gloss": "از چشمه‌هایِ"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "رستگاری"
+    }
+  ],
+  "timestamp": "2026-08-13T21:42:53.824291818Z",
+  "model": "glm-5.2"
+}

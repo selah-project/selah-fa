@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 18:6",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "انسان انسان، به هیچ خویشاوندِ جسمِ خود، نزدیک نشوید تا برهنه‌گی را آشکار کنید؛ من یاهوه هستم.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "איש",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هیچ"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "خویشاوند"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "جسمِ خود"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תקרבו",
+      "gloss": "نزدیک نشوید"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "تا آشکار کنید"
+    },
+    {
+      "surface": "ערוה",
+      "gloss": "برهنه‌گی را"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:26:13.391760387Z",
+  "model": "glm-5.2"
+}

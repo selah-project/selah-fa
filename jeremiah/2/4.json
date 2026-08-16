@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 2:4",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "بشنوید کلام یاهوه را، ای خانهٔ یاعکوو، و تمامِ خاندان‌هایِ خانهٔ یسرائیل!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "بشنوید"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانهٔ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعکوو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و تمامِ"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "خاندان‌هایِ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانهٔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-13T21:55:46.868977875Z",
+  "model": "glm-5.2"
+}

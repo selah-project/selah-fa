@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 4:17",
+  "book": "hosea",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "پیوسته‌ی بت‌هاست اَفرایم، واگذار او را.",
+  "tokens": [
+    {
+      "surface": "חֲבוּר",
+      "gloss": "پیوسته‌ی"
+    },
+    {
+      "surface": "עֲצַבִּים",
+      "gloss": "بت‌ها"
+    },
+    {
+      "surface": "אֶפְרַיִם",
+      "gloss": "اَفرایم"
+    },
+    {
+      "surface": "הַנַּח",
+      "gloss": "واگذار"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "او را"
+    }
+  ],
+  "timestamp": "2026-08-13T22:25:16.424370136Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 132,
+  "translation": "زیرا یاهوه صهیون را برگزید، آن را برای نشیمنِ خویش خواست.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "برگزید"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "صهیون را"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "خواست"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "برای نشیمنِ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "خویش"
+    }
+  ],
+  "timestamp": "2026-08-15T04:26:15.104530455Z",
+  "model": "glm-5.3"
+}

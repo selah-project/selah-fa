@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 4:26",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و به شِت نیز او پُسری زاییده شد، و ⟨את⟩ نامِ او را اَنوش نهاد. آن‌گاه آغاز شد به خواندن به نامِ یاهوه.",
+  "tokens": [
+    {
+      "surface": "ולשת",
+      "gloss": "و به شِت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "نیز"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "زاییده شد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "و خواند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نامِ او را"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "نامِ او"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "اَنوش"
+    },
+    {
+      "surface": "אז",
+      "gloss": "آن‌گاه"
+    },
+    {
+      "surface": "הוחל",
+      "gloss": "آغاز شد"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "به خواندن"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "به نامِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T19:54:54.033411092Z",
+  "model": "glm-5.2"
+}

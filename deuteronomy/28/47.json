@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "deuteronomy 28:47",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "به‌سببِ آنکه نه بندگی کردی ⟨את⟩ یاهوه الوهیمِ خود را در شادمانی و در نیکیِ دل از فراوانیِ همه‌چیز،",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "به‌سببِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنکه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "بندگی کردی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "الوهیمِ تو"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "در شادمانی"
+    },
+    {
+      "surface": "ובטוב",
+      "gloss": "و در نیکی"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "از فراوانیِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همه‌چیز"
+    }
+  ],
+  "timestamp": "2026-08-13T20:51:42.608482232Z",
+  "model": "glm-5.2"
+}

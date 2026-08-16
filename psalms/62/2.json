@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 62,
+  "translation": "تنها نزد الوهیم ⟨است⟩ سکوتِ جانِ من؛ از او ⟨می‌آید⟩ رستگاریِ من.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "تنها"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نزد"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "سکوت"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "جانِ من"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "از او"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "رستگاریِ من"
+    }
+  ],
+  "timestamp": "2026-08-15T04:23:56.544039993Z",
+  "model": "glm-5.3"
+}

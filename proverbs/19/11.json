@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 19:11",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "داناییِ آدمیِ خشمش را دراز کند، و شکوهِ او عبور کردن بر گناه.",
+  "tokens": [
+    {
+      "surface": "שכל",
+      "gloss": "داناییِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمیِ"
+    },
+    {
+      "surface": "האריך",
+      "gloss": "دراز کند"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "خشمش را"
+    },
+    {
+      "surface": "ותפארתו",
+      "gloss": "و شکوهِ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "او"
+    },
+    {
+      "surface": "על",
+      "gloss": "عبور کردن"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "بر"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:37.658423943Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و نور شیرین است، و نیکوست برای چشم‌ها که ⟨آنان⟩ ⟨את⟩ خورشید را ببینند.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "و شیرین"
+    },
+    {
+      "surface": "האור",
+      "gloss": "نور"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "و نیکو است"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "برای چشم‌ها"
+    },
+    {
+      "surface": "لראות",
+      "gloss": "که ببینند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خورشید"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "خورشید را"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:32.857393680Z",
+  "model": "glm-5.2"
+}

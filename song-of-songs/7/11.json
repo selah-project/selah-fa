@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "من برای دودیِ هستم، و بر من ⟨است⟩ تاشوقاتو.",
+  "tokens": [
+    {
+      "surface": "אֲנִי",
+      "gloss": "من"
+    },
+    {
+      "surface": "לְדוֹדִי",
+      "gloss": "برای دودیِ"
+    },
+    {
+      "surface": "וְעָלַי",
+      "gloss": "و بر من"
+    },
+    {
+      "surface": "תְּשׁוּקָתֽוֹ",
+      "gloss": "تاشوقاتو"
+    }
+  ],
+  "timestamp": "2026-08-13T23:16:45.733510862Z",
+  "model": "glm-5.2"
+}

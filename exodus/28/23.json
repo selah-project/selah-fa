@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "و بکن بر سینه‌بند دو انگشتری زر، و بده ⟨את⟩ دو انگشتری را بر دو سرِ سینه‌بند.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "و بکن"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "سینه‌بند"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "انگشتری"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زر"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "و بده"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دو انگشتری"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": "انگشتری را"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "سرِ"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "سینه‌بند"
+    }
+  ],
+  "timestamp": "2026-08-13T20:17:54.444282022Z",
+  "model": "glm-5.2"
+}

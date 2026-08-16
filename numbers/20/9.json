@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و موشه ⟨את⟩ عصا را از حضورِ یاهوه برداشت، چنان‌که به او فرمان داده بود.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "و برداشت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عصا"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "عصا"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "از حضورِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چنان‌که"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "به او فرمان داده بود"
+    }
+  ],
+  "timestamp": "2026-08-13T20:37:52.213339050Z",
+  "model": "glm-5.2"
+}

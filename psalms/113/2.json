@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 113,
+  "translation": "باشد نامِ یاهوه برکت‌خورده، از این‌زمان و تا ⟨تا⟩ ابد.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "باشد"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نامِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "برکت‌خورده"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "از این‌زمان"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ابد"
+    }
+  ],
+  "timestamp": "2026-08-15T04:25:18.671196378Z",
+  "model": "glm-5.3"
+}

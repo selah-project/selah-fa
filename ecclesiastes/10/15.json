@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "رنجِ نادانان او را خسته می‌کند، که راهِ رفتن به سوی شهر را نمی‌داند.",
+  "tokens": [
+    {
+      "surface": "עֲמַ֥ל",
+      "gloss": "رنجِ"
+    },
+    {
+      "surface": "הַכְּסִילִ֖ים",
+      "gloss": "نادانان"
+    },
+    {
+      "surface": "תְּיַגְּעֶ֑נּוּ",
+      "gloss": "او را خسته می‌کند"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "نمی‌داند"
+    },
+    {
+      "surface": "יָדַ֖ע",
+      "gloss": "نه"
+    },
+    {
+      "surface": "לָלֶ֥כֶת",
+      "gloss": "رفتنِ راهِ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "עִֽיר",
+      "gloss": "شهر"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:54.253365169Z",
+  "model": "glm-5.2"
+}

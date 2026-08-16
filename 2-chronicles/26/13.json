@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 26:13",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "و زیر دستِ آنان سپاهِ جنگی، سیصدهزار و هفتهزار و پانصد، انجام‌دهندگانِ جنگ با قدرتِ توان، برای یاریِ پادشاه بر دشمن.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "دستِ آنان"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "نیرو"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "سپاه"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "و هفت"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "و پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "עושי",
+      "gloss": "کنندگانِ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "با قدرتِ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "توان"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "برای یاریِ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "האויב",
+      "gloss": "دشمن"
+    }
+  ],
+  "timestamp": "2026-08-13T23:50:01.859663852Z",
+  "model": "glm-5.2"
+}

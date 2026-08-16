@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 2:39",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "پسرانِ حاریم، هزار و هفده.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "حاریم"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "و هفت"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ده"
+    }
+  ],
+  "timestamp": "2026-08-13T23:28:20.645324608Z",
+  "model": "glm-5.2"
+}

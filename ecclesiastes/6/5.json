@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "همچنین خورشید را ندیده و نشناخته است؛ آرامشِ این از آن بیشتر است.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "همچنین"
+    },
+    {
+      "surface": "שֶׁ֥מֶשׁ",
+      "gloss": "خورشید"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "רָאָ֖ה",
+      "gloss": "دیده"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "יָדָ֑ע",
+      "gloss": "شناخته"
+    },
+    {
+      "surface": "נַ֥חַת",
+      "gloss": "آرامش"
+    },
+    {
+      "surface": "לָזֶ֖ה",
+      "gloss": "برایِ این"
+    },
+    {
+      "surface": "מִזֶּֽה",
+      "gloss": "از آن"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:27.002220506Z",
+  "model": "glm-5.2"
+}

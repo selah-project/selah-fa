@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "و یَعقُوو ساکن شد در زمینِ کوچ‌گاه‌های پدرش، در زمینِ کَناعان.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "و ساکن شد"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یَعقُوو"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "در زمینِ"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "کوچ‌گاه‌های"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پدرش"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "در زمینِ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کَناعان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:53:21.644156Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 26:35",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "و آنان تلخیِ روح شدند برای ییتسحاق و برای رِبکَه.",
+  "tokens": [
+    {
+      "surface": "ותהיין",
+      "gloss": "و آنان شدند"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "تلخیِ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "برای ییتسحاق"
+    },
+    {
+      "surface": "ולרבקה",
+      "gloss": "و برای رِبکَه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:01:33.113033279Z",
+  "model": "glm-5.2"
+}

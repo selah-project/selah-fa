@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 12:12",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و چون خاضع شد، خشمِ یاهوه از او بازگشت، تا او را به کلی هلاک نکند؛ و نیز در یِهودا چیزهای نیک بود.",
+  "tokens": [
+    {
+      "surface": "ובהכנעו",
+      "gloss": "و چون خاضع شد"
+    },
+    {
+      "surface": "שב",
+      "gloss": "بازگشت"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "از او"
+    },
+    {
+      "surface": "אף",
+      "gloss": "خشمِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "تا هلاک کند"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "به کلی"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "و نیز"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "در یِهودا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "چیزها"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "نیک"
+    }
+  ],
+  "timestamp": "2026-08-14T00:18:38.334374911Z",
+  "model": "glm-5.2"
+}

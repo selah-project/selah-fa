@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 25:26",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "نوزدهم برای مَلّوتی، پسرانش و برادرانش دوازده",
+  "tokens": [
+    {
+      "surface": "לְתִשְׁעָ֤ה",
+      "gloss": "نُه"
+    },
+    {
+      "surface": "עָשָׂר֙",
+      "gloss": "−ده"
+    },
+    {
+      "surface": "לְמַלּ֔וֹתִי",
+      "gloss": "برای مَلّوتی"
+    },
+    {
+      "surface": "בָּנָ֥יו",
+      "gloss": "پسرانش"
+    },
+    {
+      "surface": "וְאֶחָ֖יו",
+      "gloss": "و برادرانش"
+    },
+    {
+      "surface": "שְׁנֵ֥ים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עָשָֽׂר",
+      "gloss": "−ده"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:27.790228975Z",
+  "model": "glm-5.2"
+}

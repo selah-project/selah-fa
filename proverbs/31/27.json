@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 31:27",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "نگهبانِ رفت‌وآمدهای خانهٔ خود، و نانِ تنبلی نمی‌خورد.",
+  "tokens": [
+    {
+      "surface": "צופיה",
+      "gloss": "نگهبان"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "رفت‌وآمدهای"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "خانهٔ خود"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "و نانِ"
+    },
+    {
+      "surface": "עצלות",
+      "gloss": "تنبلی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نمی"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "خورد"
+    }
+  ],
+  "timestamp": "2026-08-14T00:14:59.538098428Z",
+  "model": "glm-5.2"
+}

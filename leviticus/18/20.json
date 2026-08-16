@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و به‌سویِ زنِ همنشینت خوابیدنِ خود را برایِ زرِ آوری ندهی، برایِ ناپاک شدن با او.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "و به‌سویِ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زنِ"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "همنشینت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دهی"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "خوابیدنِ تو"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "برایِ زرِ آوری"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "برایِ ناپاک شدن"
+    },
+    {
+      "surface": "בה",
+      "gloss": "با او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:26:52.037990489Z",
+  "model": "glm-5.2"
+}

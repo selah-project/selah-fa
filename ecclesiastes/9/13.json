@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "همچنین این را دیدم: حکمتی زیر خورشید، و بزرگ است بر من.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "همچنین"
+    },
+    {
+      "surface": "זֹ֛ה",
+      "gloss": "این"
+    },
+    {
+      "surface": "רָאִ֥יתִי",
+      "gloss": "دیدم"
+    },
+    {
+      "surface": "חָכְמָ֖ה",
+      "gloss": "حکمتی"
+    },
+    {
+      "surface": "תַּ֣חַת",
+      "gloss": "زیر"
+    },
+    {
+      "surface": "הַשָּׁ֑מֶשׁ",
+      "gloss": "خورشید"
+    },
+    {
+      "surface": "וּגְדוֹלָ֥ה",
+      "gloss": "و بزرگ ⟨است⟩"
+    },
+    {
+      "surface": "הִ֖יא",
+      "gloss": "او"
+    },
+    {
+      "surface": "אֵלָֽי",
+      "gloss": "بر من"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:19.091343685Z",
+  "model": "glm-5.2"
+}

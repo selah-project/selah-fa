@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 27:15",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و موشه با یاهوه سخن گفت، به‌قولِ:",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֣ר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "מֹשֶׁ֔ה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "با"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "به‌قولِ"
+    }
+  ],
+  "timestamp": "2026-08-13T20:40:16.383467660Z",
+  "model": "glm-5.2"
+}

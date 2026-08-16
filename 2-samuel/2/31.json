@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 2:31",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "وَ بندگان داوود زدند از بِنیامین و از مردان اَونِیر؛ سه‌صد و شصت مرد مردند.",
+  "tokens": [
+    {
+      "surface": "ועבדי",
+      "gloss": "وَ بندگان"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوید"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "زدند"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "از بِنیامین"
+    },
+    {
+      "surface": "ובאנשי",
+      "gloss": "و از مردان"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "اَونِیر"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "−صد"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "و شصت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "مردند"
+    }
+  ],
+  "timestamp": "2026-08-13T21:17:08.698554481Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "بشنوید ⟨את⟩ کلامی که یاهوه به شما سخن گفت، ای بیت یِسرائیل.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "بشنوید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کلام"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "کلامِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخن گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "به شما"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیتِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-13T21:58:52.632915843Z",
+  "model": "glm-5.2"
+}

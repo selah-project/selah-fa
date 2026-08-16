@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 7:40",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "یک بزِ نر، برای خطیّت:",
+  "tokens": [
+    {
+      "surface": "שְׂעִיר",
+      "gloss": "یک بزِ نر"
+    },
+    {
+      "surface": "עִזִּ֥ים",
+      "gloss": "بز"
+    },
+    {
+      "surface": "אֶחָ֖ד",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "לְחַטָּֽאת",
+      "gloss": "برای خطیّت"
+    }
+  ],
+  "timestamp": "2026-08-13T20:32:22.473060756Z",
+  "model": "glm-5.2"
+}

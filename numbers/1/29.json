@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 1:29",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "پكدیشان برای سبطِ ییساسخار: چهار و پنجاه هزار و چهار صد.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "پكدیشان"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "برای سبطِ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ییساسخار"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "و پنجاه"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "و چهار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:30:21.746924473Z",
+  "model": "glm-5.2"
+}

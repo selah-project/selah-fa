@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و هر آن‌که باله و فلس ندارد، نخورید؛ ناپاک ⟨است⟩ او برای شما.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برایش"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "باله"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "و فلس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "خورید"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "برای شما"
+    }
+  ],
+  "timestamp": "2026-08-13T20:46:51.295741048Z",
+  "model": "glm-5.2"
+}

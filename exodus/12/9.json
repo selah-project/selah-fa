@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 12:9",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": " نخورید از آن ناخورسته، و آب‌پزِ پخته‌شده در آب، که اگر ⟨نه⟩، بریانِ آتش، سرِ او بر پاهایِش و بر درون‌اش",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "بخورید"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "از آن"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ناخورسته"
+    },
+    {
+      "surface": "ובשל",
+      "gloss": "و آب‌پز"
+    },
+    {
+      "surface": "מבשל",
+      "gloss": "پخته‌شده"
+    },
+    {
+      "surface": "במים",
+      "gloss": "در آب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "بریان"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آتش"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "سرِ او"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "پاهایش"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "درونِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:12:45.395353799Z",
+  "model": "glm-5.2"
+}

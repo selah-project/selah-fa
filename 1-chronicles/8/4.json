@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 8:4",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و اَوی‌شوع و نَعمان و اَحُوعَح.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "و اَوی‌شوع"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "و نَعمان"
+    },
+    {
+      "surface": "ואחוח",
+      "gloss": "و اَحُوعَح"
+    }
+  ],
+  "timestamp": "2026-08-14T00:17:49.132728107Z",
+  "model": "glm-5.2"
+}

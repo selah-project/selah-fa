@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 2:35",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "تنها به‌هیمه را برای خود غارت کردیم و غنایم شهرهایی را که گرفتیم،",
+  "tokens": [
+    {
+      "surface": "רַק",
+      "gloss": "تنها"
+    },
+    {
+      "surface": "הַבְּהֵמָה",
+      "gloss": "به‌هیمه"
+    },
+    {
+      "surface": "בָּזַזְנוּ",
+      "gloss": "غارت کردیم"
+    },
+    {
+      "surface": "לָנוּ",
+      "gloss": "برای خود"
+    },
+    {
+      "surface": "וּשְׁלַל",
+      "gloss": "و غنایم"
+    },
+    {
+      "surface": "הֶעָרִים",
+      "gloss": "شهرها"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לָכַדְנוּ",
+      "gloss": "گرفتیم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:58:04.428301029Z",
+  "model": "glm-5.2"
+}

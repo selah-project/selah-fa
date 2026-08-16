@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 30:10",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "و نذرِ زنِ بیوه و زنِ طلاقه — هر آنچه بر نفسِ خود بسته، بر او برپا می‌ایستد.",
+  "tokens": [
+    {
+      "surface": "ונדר",
+      "gloss": "و نذرِ"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "زنِ بیوه"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "و زنِ طلاقه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنچه"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "بسته"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "نفسِ خود"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "برپا می‌ایستد"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "بر او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:41:34.921068098Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 22:17",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "گوشت را خم کن و سخنان خردمندان را بشنو، و دلت را بر دانشِ من بگذار.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "خم کن"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "و بشنو"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "سخنان"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "خردمندان"
+    },
+    {
+      "surface": "ולבך",
+      "gloss": "و دلت"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "بگذار"
+    },
+    {
+      "surface": "לדעתי",
+      "gloss": "بر دانشِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:56.391386122Z",
+  "model": "glm-5.2"
+}

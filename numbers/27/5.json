@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و موشه ⟨את⟩ داوریِ آنان را به حضورِ یاهوه نزدیک کرد.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "و نزدیک کرد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داوریِ آنان"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "داوریِ آنان"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "به حضورِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:40:25.559879325Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 36:26",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "و این‌ها پسرانِ دیشان: حمدان و اِشبان و یِتران و کران.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "و این‌ها"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "دیشان"
+    },
+    {
+      "surface": "חמדן",
+      "gloss": "حمدان"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "و اِشبان"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "و یِتران"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "و کران"
+    }
+  ],
+  "timestamp": "2026-08-13T20:04:47.176904635Z",
+  "model": "glm-5.2"
+}

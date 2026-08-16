@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و تکذیب‌کرد ساره، به‌قولِ: نخندیدم، که ترسید؛ و گفت: نه، بلکه تو خندیدی.",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "و تکذیب‌کرد"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ساره"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به‌قولِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "خندیدم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ترسید"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلکه"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "تو خندیدی"
+    }
+  ],
+  "timestamp": "2026-08-13T19:58:58.372244599Z",
+  "model": "glm-5.2"
+}

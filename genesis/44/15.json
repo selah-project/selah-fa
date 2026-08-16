@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 44:15",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 44,
+  "translation": "و گفت یوسف به ایشان: چه است این کارِ که کردید؟ آیا نمی‌دانید که فال می‌گیرد فالِ مردی که چون من است؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "به ایشان"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "است کارِ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "کردید"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "نمی‌دانید"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "فال می‌گیرد"
+    },
+    {
+      "surface": "یנחש",
+      "gloss": "فالِ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "כמני",
+      "gloss": "چون من است"
+    }
+  ],
+  "timestamp": "2026-08-13T20:07:39.952312945Z",
+  "model": "glm-5.2"
+}

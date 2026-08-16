@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 43,
+  "translation": "و ⟨آن⟩ مرد چنان کرد که یوسف گفت، و ⟨آن⟩ مرد ⟨את⟩ مردها را به‌خانهٔ یوسف آورد.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و کرد"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨آن⟩ مرد"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چنان‌که"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "و آورد"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨آن⟩ مرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مردها"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "مردها"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "به‌خانه"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    }
+  ],
+  "timestamp": "2026-08-13T20:07:20.910317247Z",
+  "model": "glm-5.2"
+}

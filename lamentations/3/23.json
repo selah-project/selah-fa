@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "lamentations 3:23",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "تازه‌اند در صبح‌ها؛ فراوان است امانتِ تو.",
+  "tokens": [
+    {
+      "surface": "חדשים",
+      "gloss": "تازه"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "در صبح‌ها"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "فراوان"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "امانتِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T23:17:58.234209348Z",
+  "model": "glm-5.2"
+}

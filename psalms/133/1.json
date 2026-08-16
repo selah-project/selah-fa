@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 133,
+  "translation": "سرودِ مَعَلوت، از داوود. اینک، چه نیکو و چه دلپذیر است نشستنِ برادران، حتی یک‌جا.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "سرودِ"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "مَعَلوت"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "از داوود"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیکو"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "و چه"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "دلپذیر"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "نشستنِ"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "برادران"
+    },
+    {
+      "surface": "גם",
+      "gloss": "حتی"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "یک‌جا"
+    }
+  ],
+  "timestamp": "2026-08-15T04:25:48.117222485Z",
+  "model": "glm-5.3"
+}

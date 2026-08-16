@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 6:1",
+  "book": "daniel",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و دارْیاوُشِ مادی پادشاهی را دریافت کرد، ⟨او⟩ نزدیک به شصت و دو ساله بود.",
+  "tokens": [
+    {
+      "surface": "ודריוש",
+      "gloss": "و دارْیاوُش"
+    },
+    {
+      "surface": "מדיא",
+      "gloss": "مادی"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "دریافت کرد"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "پادشاهی"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "نزدیک به"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "سال"
+    },
+    {
+      "surface": "שתין",
+      "gloss": "شصت"
+    },
+    {
+      "surface": "ותרתין",
+      "gloss": "و دو"
+    }
+  ],
+  "timestamp": "2026-08-13T23:26:47.028069150Z",
+  "model": "glm-5.2"
+}

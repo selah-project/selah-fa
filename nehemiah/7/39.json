@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "nehemiah 7:39",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "كاهنان: پسرانِ یَدَعیا، برایِ خانهِ یِشوع، نه‌صد و هفتاد و سه.",
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهنان:"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "یَدَعیا"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "برایِ خانهِ"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "یِشوع"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "هفتاد"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "و سه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:33:08.637246781Z",
+  "model": "glm-5.2"
+}

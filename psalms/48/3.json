@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 48,
+  "translation": "زیبایِ بلندی، شادمانیِ همهٔ زمین، کوهِ تسیون، پهلوهایِ شمال، شهرِ پادشاهِ بزرگ.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "زیبایِ"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "بلندی"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "شادمانیِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کوهِ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "تسیون"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "پهلوهایِ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "شمال"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "شهرِ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بزرگ"
+    }
+  ],
+  "timestamp": "2026-08-13T22:44:08.142091909Z",
+  "model": "glm-5.2"
+}

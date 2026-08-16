@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 40:37",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 40,
+  "translation": "و اگر بالا نرود ابر، حرکت نمی‌کنند تا روزِ بالا رفتنِ آن.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "بالا برود"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ابر"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "حرکت کنند"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روزِ"
+    },
+    {
+      "surface": "העלתו",
+      "gloss": "بالا رفتنِ آن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:21:24.136857817Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 2:21",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "پسرانِ بیت‌لحم، یکصد و بیست و سه.",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "בֵֽית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לָ֔חֶם",
+      "gloss": "لحم"
+    },
+    {
+      "surface": "מֵאָ֖ה",
+      "gloss": "یکصد"
+    },
+    {
+      "surface": "עֶשְׂרִ֥ים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "וּשְׁלֹשָֽׁה",
+      "gloss": "و سه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:27:44.448828374Z",
+  "model": "glm-5.2"
+}

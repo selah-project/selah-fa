@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "ezra 8:9",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "از پسرانِ یوآو: عُوَدیه پسرِ یِحی‌اِل، و با او دویست و هجده مرد.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "از پسرانِ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآو"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "عُوَدیه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "یِحی‌اِل"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "و با او"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دویست"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "و هجده"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "مرد"
+    }
+  ],
+  "timestamp": "2026-08-15T04:32:19.430446872Z",
+  "model": "glm-5.3"
+}

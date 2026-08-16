@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 20:8",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "این‌ها زاده‌شدند به هَرافا در گَت، و افتادند به دست داوید و به دست بنده‌گانش.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "این‌ها"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "زاده‌شدند"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "به هَرافا"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "در گَت"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "و افتادند"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "به دست"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوید"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "و به دست"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "بنده‌گانش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:50.399041162Z",
+  "model": "glm-5.2"
+}

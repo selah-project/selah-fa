@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و شما می‌دانید که با تمامِ توانِ خود ⟨את⟩ پدرتان را خدمت کردم.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "و شما"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "می‌دانید"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "با تمامِ"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "توانِ خود"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "خدمت کردم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پدرتان"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "پدرتان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:03:51.923554020Z",
+  "model": "glm-5.2"
+}

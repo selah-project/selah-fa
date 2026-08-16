@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 18:22",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و دیگر پسرانِ یِسرائیل به خیمهٔ مُوعِد نزدیک نشوند، تا گناه را برند و بمیرند.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "יקרבו",
+      "gloss": "نزدیک شوند"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیگر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمهٔ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مُوعِد"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "تا برند"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گناه را"
+    },
+    {
+      "surface": "למות",
+      "gloss": "و بمیرند"
+    }
+  ],
+  "timestamp": "2026-08-13T20:37:16.638437468Z",
+  "model": "glm-5.2"
+}

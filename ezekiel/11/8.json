@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "ezekiel 11:8",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "شمشیر را ترسیدید و شمشیری بر شما خواهم آورد — خواستِ ⟨⟩ اَدونای یاهوه.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "شمشیر"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "ترسیدید"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "و شمشیر"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "خواهم آورد"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "بر شما"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "خواستِ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-15T04:15:19.229177450Z",
+  "model": "glm-5.3"
+}

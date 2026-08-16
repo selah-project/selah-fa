@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و پسرِ شَمّای مَعون بود، و مَعون پدرِ بیت-صور ⟨بود⟩.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "و پسرِ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "شَمّای"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "مَعون"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "و مَعون"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پدرِ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "صور"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:18.005227020Z",
+  "model": "glm-5.2"
+}

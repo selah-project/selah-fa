@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 36:31",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "و کرد میله‌هایی از چوب شطیم، پنج برای تخته‌های پهلوی یک مسکن.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و کرد"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "میله‌هایی"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "از چوب"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شطیم"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "לקרשי",
+      "gloss": "برای تخته‌های"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "پهلوی"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکنِ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-08-13T20:20:32.985421815Z",
+  "model": "glm-5.2"
+}

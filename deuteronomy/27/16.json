@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "نفرین‌شده ⟨است⟩ کسی که پدرش و مادرش را سبک می‌شمارد؛ و تمامِ قوم خواهد گفت: آمین.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "نفرین‌شده"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "کسی که سبک می‌شمارد"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پدرش"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "و مادرش"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و خواهد گفت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمین"
+    }
+  ],
+  "timestamp": "2026-08-13T20:50:53.758204829Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 29:28",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و چنین کرد یاعکوو، و بفرمود تا آخرِ این هفته را، و او داد به او ⟨את⟩ راخِل دخترش را، به او به ⟨همسر⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و چنین کرد"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعکوو"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "و بفرمود تا آخر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "هفته"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "و داد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "راخِل"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راخِل"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "دخترش"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "به همسر"
+    }
+  ],
+  "timestamp": "2026-08-13T20:02:39.825139109Z",
+  "model": "glm-5.2"
+}

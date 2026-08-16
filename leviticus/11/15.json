@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "⟨את⟩ همهٔ کلاغ‌ها به گونهٔ خود،",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همهٔ کلاغ‌ها"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "کلاغ"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "به گونهٔ خود"
+    }
+  ],
+  "timestamp": "2026-08-13T20:23:49.877348768Z",
+  "model": "glm-5.2"
+}

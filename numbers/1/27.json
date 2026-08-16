@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 1:27",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "پدیدآوردهٔ آنان برای سبط یهوداه: چهار و هفتاد هزار و ششصد.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "پدیدآوردهٔ آنان"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "برای سبط"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهوداه"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "و هفتاد"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "و شش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:30:44.513961846Z",
+  "model": "glm-5.2"
+}

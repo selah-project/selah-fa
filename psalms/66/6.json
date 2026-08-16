@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 66,
+  "translation": "دریا را به خشکی برگرداند؛ در نهر با پَی بگذرند؛ آن‌جا در او شاد خواهیم شد.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "برگرداند"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "به خشکی"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "در نهر"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "بگذرند"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "با پَی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آن‌جا"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "شاد خواهیم شد"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در او"
+    }
+  ],
+  "timestamp": "2026-08-13T22:46:10.502122303Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 4:20",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و پسرانِ شیمون اَمنون و رینّه، بِن‌حانان وتیلون؛ و پسرانِ ییشعِی زوحِت و بِن‌زوحِت.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "שימון",
+      "gloss": "شیمون"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "اَمنون"
+    },
+    {
+      "surface": "ורנה",
+      "gloss": "و رینّه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِنِ"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "حانان"
+    },
+    {
+      "surface": "ותולון",
+      "gloss": "وتیلون"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ییشعِی"
+    },
+    {
+      "surface": "זוחת",
+      "gloss": "زوحِت"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "و بِنِ"
+    },
+    {
+      "surface": "זוחת",
+      "gloss": "زوحِت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:41.045107601Z",
+  "model": "glm-5.2"
+}

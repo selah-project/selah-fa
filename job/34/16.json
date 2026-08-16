@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 34:16",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 34,
+  "translation": "و حال، اگر فهم داری، این را بشنو؛ به صدای سخنانِ من گوش بسپار.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "فهم"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "بشنو"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "این را"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "گوش بسپار"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "به صدای"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "سخنانِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T23:13:41.815264525Z",
+  "model": "glm-5.2"
+}

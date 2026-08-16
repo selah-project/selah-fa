@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 64,
+  "translation": "برای رهبرِ موسیقی، مزموری از داوود.",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּחַ",
+      "gloss": "برای رهبرِ موسیقی"
+    },
+    {
+      "surface": "מִזְמוֹר",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "از داوود"
+    }
+  ],
+  "timestamp": "2026-08-13T22:45:55.399947274Z",
+  "model": "glm-5.2"
+}

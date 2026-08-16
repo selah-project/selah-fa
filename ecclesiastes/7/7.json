@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "چون ستم، حکیم را دیوانه می‌کند و بخشش ⟨את⟩ دل را هلاک می‌کند.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "ستم"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "دیوانه می‌کند"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حکیم را"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "و هلاک می‌کند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دل"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "بخشش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:38.999045026Z",
+  "model": "glm-5.2"
+}

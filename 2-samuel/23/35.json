@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 23:35",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "حَتْسْرو کارمِلی، فَعَرای اَربی،",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "حَتْسْرو"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "کارمِلی"
+    },
+    {
+      "surface": "פערי",
+      "gloss": "فَعَرای"
+    },
+    {
+      "surface": "הארבי",
+      "gloss": "اَربی"
+    }
+  ],
+  "timestamp": "2026-08-13T21:23:15.292832879Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "hand",
+  "verse": 9,
+  "ref": "numbers 6:9",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و اگر مرده‌ای به‌ناگاه ناگهان نزدِ او بمیرد و سرِ نذیره‌اش را نجس کند، سرش را در روزِ طهارتش بتراشد؛ در روزِ هفتم آن را بتراشد.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "بمیرد"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مرده‌ای"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "نزدِ او"
+    },
+    {
+      "surface": "בפתע",
+      "gloss": "به‌ناگاه"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ناگهان"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "و نجس کند"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سرِ"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "نذیره‌اش را"
+    },
+    {
+      "surface": "וגלח",
+      "gloss": "بتراشد"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "سرش را"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "طهارتش"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "هفتم"
+    },
+    {
+      "surface": "יגלחנו",
+      "gloss": "آن را بتراشد"
+    }
+  ],
+  "timestamp": "2026-08-14T17:46:57Z",
+  "model": "claude-fable-5/hand"
+}

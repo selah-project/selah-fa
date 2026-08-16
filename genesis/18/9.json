@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و گفتند به او: کجاست سارا همسر تو؟ و گفت: اینک در چادر.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "و گفتند"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "איה",
+      "gloss": "کجاست"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "همسرِ تو"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "در چادر"
+    }
+  ],
+  "timestamp": "2026-08-13T19:58:55.987236446Z",
+  "model": "glm-5.2"
+}

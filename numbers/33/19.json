@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 33:19",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "و کوچ کردند از رِتْمَه، و اردو زدند در رِمّون-فِرِص.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "و کوچ کردند"
+    },
+    {
+      "surface": "מרתמה",
+      "gloss": "از رِتْمَه"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "و اردو زدند"
+    },
+    {
+      "surface": "ברמן",
+      "gloss": "در رِمّون"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "فِرِص"
+    }
+  ],
+  "timestamp": "2026-08-13T20:42:02.146290989Z",
+  "model": "glm-5.2"
+}

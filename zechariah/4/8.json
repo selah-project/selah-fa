@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 4:8",
+  "book": "zechariah",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و شد دبَر یاهوه به من، به‌سخنِ:",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֥י",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "דְבַר",
+      "gloss": "دبَرِ"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֵלַ֥י",
+      "gloss": "به من"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "به‌سخنِ"
+    }
+  ],
+  "timestamp": "2026-08-13T22:35:17.662322931Z",
+  "model": "glm-5.2"
+}

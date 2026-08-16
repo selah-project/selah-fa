@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "پسرانِ اَوراهام: ییتسحاق و ییشْمَعِیل.",
+  "tokens": [
+    {
+      "surface": "בְּנֵי֙",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "אַבְרָהָ֔ם",
+      "gloss": "اَوراهام"
+    },
+    {
+      "surface": "יִצְחָ֖ק",
+      "gloss": "ییتسحاق"
+    },
+    {
+      "surface": "וְיִשְׁמָעֵֽאל",
+      "gloss": "و ییشْمَعِیل"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:50.342338074Z",
+  "model": "glm-5.2"
+}

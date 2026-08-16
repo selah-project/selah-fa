@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 44:26",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 44,
+  "translation": "و ⟨پس از⟩ پاکیِ او، هفت روز را برای او بشمارند.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "و ⟨پس از⟩"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "پاکیِ او"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روز"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "بشمارند"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برای او"
+    }
+  ],
+  "timestamp": "2026-08-13T22:24:15.554017170Z",
+  "model": "glm-5.2"
+}

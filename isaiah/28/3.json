@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 28:3",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "با پاها پایمال خواهد شد تاجِ گردنکشیِ مستانِ اَفرایم.",
+  "tokens": [
+    {
+      "surface": "ברגלים",
+      "gloss": "با پاها"
+    },
+    {
+      "surface": "תרמסנה",
+      "gloss": "پایمال خواهد شد"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "تاجِ"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "گردنکشیِ"
+    },
+    {
+      "surface": "שכורי",
+      "gloss": "مستانِ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اَفرایم"
+    }
+  ],
+  "timestamp": "2026-08-13T21:46:32.562065483Z",
+  "model": "glm-5.2"
+}

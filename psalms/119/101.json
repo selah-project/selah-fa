@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 119,
+  "translation": "از هر راهِ بد پاهایم را بازداشتم، تا سخنِ تو را نگاه دارم.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "از هر"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "راه"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "بازداشتم"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "پاهایم را"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تا"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "نگاه دارم"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "سخنِ تو را"
+    }
+  ],
+  "timestamp": "2026-08-13T22:55:43.314980390Z",
+  "model": "glm-5.2"
+}

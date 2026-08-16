@@ -1,0 +1,53 @@
+{
+  "tier": "4.6",
+  "verse": 17,
+  "ref": "genesis 41:17",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 41,
+  "translation": "وپارؤع بـِیوسف گفت: در خوابم، اینک من بر لبهٔ یِؤر ⟨ایستاده‌ام⟩.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وگفت"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پارؤع"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بـِ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "در خوابم"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "اینک من"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ایستاده"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "لبه"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "یِؤر"
+    }
+  ],
+  "timestamp": "2026-08-15T03:46:01.329946314Z",
+  "model": "glm-4.6"
+}

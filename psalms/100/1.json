@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 100,
+  "translation": "مزموری برای سپاس؛ فریاد بزنید به یاهوه، تمامِ زمین.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "برایِ سپاس"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "فریاد بزنید"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بهِ یاهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T22:51:48.215267012Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 19:22",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "بشتاب، به آنجا بگریز، زیرا نمی‌توانم کاری کنم تا ⟨تو⟩ به آنجا بیایی. از این سبب نامِ آن شهر را تسوع خواندند.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "بشتاب"
+    },
+    {
+      "surface": "המלט",
+      "gloss": "بگریز"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "به آنجا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "می‌توانم"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کردن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کاری"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "באך",
+      "gloss": "به آنجا بیایی"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "به آنجا"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "این"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "خواندند"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نامِ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "آن شهر را"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "تسوع"
+    }
+  ],
+  "timestamp": "2026-08-13T19:59:18.558669307Z",
+  "model": "glm-5.2"
+}

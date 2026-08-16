@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و در آن هنگام به شما گفتم، به‌گفتنِ: نه، نمی‌توانم به‌تنهایی برداشتنِ ⟨את⟩ شما را،",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "و گفتم"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "به شما"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "در هنگام"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به‌گفتنِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "می‌توانم"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "به‌تنهایی"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "برداشتنِ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ شما را"
+    }
+  ],
+  "timestamp": "2026-08-15T03:54:33.014185629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 12:12",
+  "book": "daniel",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "خوشا به حالِ آنکه می‌منتَد و برسد به هزار و سیصد و سی و پنج روز.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "خوشا به حالِ"
+    },
+    {
+      "surface": "המחכה",
+      "gloss": "آنکه می‌منتَد"
+    },
+    {
+      "surface": "ומגיע",
+      "gloss": "و برسد"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "به"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "و سیصد"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "و سیصد"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "و سی"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "و پنج"
+    }
+  ],
+  "timestamp": "2026-08-13T23:27:55.234653194Z",
+  "model": "glm-5.2"
+}

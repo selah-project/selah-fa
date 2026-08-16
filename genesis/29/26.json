@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 29:26",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و گفت لابان: نه، چنین نشود در جایِ ما، دادنِ کوچک‌تر را پیش از بزرگ‌تر.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "شود"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "במקומנו",
+      "gloss": "در جایِ ما"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "دادنِ"
+    },
+    {
+      "surface": "הצעירה",
+      "gloss": "کوچک‌تر"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیش از"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "بزرگ‌تر"
+    }
+  ],
+  "timestamp": "2026-08-13T20:02:39.824749798Z",
+  "model": "glm-5.2"
+}

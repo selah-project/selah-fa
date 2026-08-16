@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 11:28",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "عیرا، پسرِ عِقِش، هتقوعی؛ اَبیعِزِر، هعَنَتوتی.",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "عیرا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "عِقِش"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "هتقوعی"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "اَبیعِزِر"
+    },
+    {
+      "surface": "הענתותי",
+      "gloss": "هعَنَتوتی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:38:00.390683510Z",
+  "model": "glm-5.2"
+}

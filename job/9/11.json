@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 9:11",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "اینک اگر بر من بگذرد نمی‌بینمش، و بگذرد و برایش درک نکنم",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "اگر بگذرد"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "نمی‌"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "بینمش"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "و بگذرد"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نکنم"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "درک"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برایش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:07:52.739972145Z",
+  "model": "glm-5.2"
+}

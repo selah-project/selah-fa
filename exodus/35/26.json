@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 35:26",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "و تمامِ زنانِ که دلشان آنان را به خردی برانگیخت، موی بزها را ریسیدند.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و تمامِ"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "زنانِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "برانگیخت"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "دلشان"
+    },
+    {
+      "surface": "אתנה",
+      "gloss": "⟨את⟩ آنان را",
+      "marks": "به خردی"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "به خردی"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "ریسیدند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موی بزها"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "موی بزها را"
+    }
+  ],
+  "timestamp": "2026-08-13T20:20:18.304943774Z",
+  "model": "glm-5.2"
+}

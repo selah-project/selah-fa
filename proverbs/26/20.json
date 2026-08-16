@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 26:20",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "در نبودِ هیزم، آتش خاموش می‌شود؛ و در نبودِ غیبت‌کن، دعوا فرو می‌نشیند.",
+  "tokens": [
+    {
+      "surface": "באפס",
+      "gloss": "در نبودِ"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "هیزم"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "خاموش می‌شود"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آتش"
+    },
+    {
+      "surface": "ובאין",
+      "gloss": "و در نبودِ"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "غیبت‌کنی"
+    },
+    {
+      "surface": "ישתק",
+      "gloss": "فرو می‌نشیند"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "دعوا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:05:07.681447554Z",
+  "model": "glm-5.2"
+}

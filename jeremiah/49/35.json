@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 49:35",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 49,
+  "translation": "چنین گفت یاهوه صَبایوت: اینک من می‌شکنم ⟨את⟩ کمانِ عِیلام را، آغازِ توانِ آنان.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صَبایوت"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "اینک من"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "می‌شکنم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کمان"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "کمانِ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عِیلام"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "آغازِ"
+    },
+    {
+      "surface": "גבורתם",
+      "gloss": "توانِ آنان"
+    }
+  ],
+  "timestamp": "2026-08-13T22:10:08.454672563Z",
+  "model": "glm-5.2"
+}

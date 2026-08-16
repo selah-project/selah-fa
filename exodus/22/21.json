@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "هر بیوه و یتیمی را آزار ندهید.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "بیوه"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "و یتیم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "آزار دهید"
+    }
+  ],
+  "timestamp": "2026-08-13T20:15:40.496704634Z",
+  "model": "glm-5.2"
+}

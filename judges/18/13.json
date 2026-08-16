@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 18:13",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و از آنجا گذشتند به سوی کوهِ اِفرایم، و آمدند تا خانهٔ میخا.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "و گذشتند"
+    },
+    {
+      "surface": "משם",
+      "gloss": "از آنجا"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کوه"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اِفرایم"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "و آمدند"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانهٔ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "میخا"
+    }
+  ],
+  "timestamp": "2026-08-13T21:06:17.161263568Z",
+  "model": "glm-5.2"
+}

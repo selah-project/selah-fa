@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 9:8",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و موشه به ایشان گفت: بایستید، تا بشنوم چه فرمانی یاهوه دربارهٔ شما می‌دهد.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "به ایشان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "بایستید"
+    },
+    {
+      "surface": "ואשמעה",
+      "gloss": "تا بشنوم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "فرمانی می‌دهد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "دربارهٔ شما"
+    }
+  ],
+  "timestamp": "2026-08-13T20:33:54.605964940Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و هر مِنحهٔ کاهن تماماً خواهد بود؛ خورده نخواهد شد.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "مِنحهٔ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "تماماً"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "خواهد بود"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "خورده خواهد شد"
+    }
+  ],
+  "timestamp": "2026-08-15T17:35:24.295129057Z",
+  "model": "glm-5.3"
+}

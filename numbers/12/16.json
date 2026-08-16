@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 12:16",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و پس از آن قوم حرکت کردند از حَصِروت، و ارد زدند در بیابانِ پاران.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "و پس از آن"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "حرکت کردند"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "מחצרות",
+      "gloss": "از حَصِروت"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "و ارد زدند"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "در بیابانِ"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "پاران"
+    }
+  ],
+  "timestamp": "2026-08-13T20:34:37.153850382Z",
+  "model": "glm-5.2"
+}

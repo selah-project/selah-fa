@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 3:17",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و دورافکند از سلامتیِ نفسِ من، فراموش کردم خیر را.",
+  "tokens": [
+    {
+      "surface": "וַתִּזְנַח",
+      "gloss": "و دورافکند"
+    },
+    {
+      "surface": "מִשָּׁלוֹם",
+      "gloss": "از سلامتی"
+    },
+    {
+      "surface": "נַפְשִׁי",
+      "gloss": "نفسِ من"
+    },
+    {
+      "surface": "נָשִׁיתִי",
+      "gloss": "فراموش کردم"
+    },
+    {
+      "surface": "טוֹבָה",
+      "gloss": "خیر را"
+    }
+  ],
+  "timestamp": "2026-08-13T23:18:13.799854492Z",
+  "model": "glm-5.2"
+}

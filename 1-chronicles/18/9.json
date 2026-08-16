@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "وَ توعو، پادشاهِ حَمات، شنید که داوِد ⟨את⟩ تمامِ لشکرِ هَدَد‌عِزِر، پادشاهِ صوبه را زد.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "و شنید"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "توعو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حَمات"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "زد"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تمامِ لشکرِ هَدَد‌عِزِر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "لشکرِ"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "هَدَد‌عِزِر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "صوبه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:36.048956213Z",
+  "model": "glm-5.2"
+}

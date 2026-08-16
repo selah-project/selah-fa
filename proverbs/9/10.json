@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 9:10",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "آغازِ حکمت، ترسِ یاهوه است؛ و شناختِ قدوسیان، فهم است.",
+  "tokens": [
+    {
+      "surface": "תְּחִלַּת",
+      "gloss": "آغازِ"
+    },
+    {
+      "surface": "חָכְמָה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "יִרְאַת",
+      "gloss": "ترسِ"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "וְדַעַת",
+      "gloss": "و شناختِ"
+    },
+    {
+      "surface": "קְדֹשִׁים",
+      "gloss": "قدوسیان"
+    },
+    {
+      "surface": "בִּינָה",
+      "gloss": "فهم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:00:21.466974157Z",
+  "model": "glm-5.2"
+}

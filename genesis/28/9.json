@@ -1,0 +1,82 @@
+{
+  "tier": "hand",
+  "verse": 9,
+  "ref": "genesis 28:9",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "و عیسو نزدِ ییشماعیل رفت و ⟨את⟩ مَحَلات دخترِ ییشماعیل پسرِ اَوراهام، خواهرِ نَبایوت را گرفت، افزون بر زنانِ خود، برای خود به زنی.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "و رفت"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نزدِ"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "ییشماعیل"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "و گرفت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مَحَلات"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "مَحَلات"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دخترِ"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "ییشماعیل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراهام"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "خواهرِ"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "نَبایوت"
+    },
+    {
+      "surface": "על",
+      "gloss": "افزون بر"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "زنانِ خود"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برای خود"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "به زنی"
+    }
+  ],
+  "timestamp": "2026-08-14T17:47:39Z",
+  "model": "claude-fable-5/hand"
+}

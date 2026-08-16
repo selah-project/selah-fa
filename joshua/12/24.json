@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "پادشاهِ تیرتسه، یکی؛ همهٔ پادشاهان، سی‌ویک.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "تیرتسه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "پادشاهان"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ویک"
+    }
+  ],
+  "timestamp": "2026-08-13T20:56:38.942742198Z",
+  "model": "glm-5.2"
+}

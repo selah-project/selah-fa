@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 2:33",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و لویان شمرده نشدند در میان بنیاسرائیل، چنانکه یاهوه به موشه فرمود ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "و لویان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "התפקדו",
+      "gloss": "شمردگی شدند"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "در میان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چنانکه"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فرمود"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:31:02.693843117Z",
+  "model": "glm-5.2"
+}

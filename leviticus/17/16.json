@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "و اگر نشوید و گوشتِ خود را نشوید، گناهِ خود را بر خواهد داشت.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "بشوید"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "و گوشتِ او"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "غسل کند"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "بر خواهد داشت"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "گناهِ خود را"
+    }
+  ],
+  "timestamp": "2026-08-13T20:26:55.818573258Z",
+  "model": "glm-5.2"
+}

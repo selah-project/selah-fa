@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 5:13",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "شش روز کار کنی و تمام کارِ تو را بکنی،",
+  "tokens": [
+    {
+      "surface": "שֵׁ֤שֶׁת",
+      "gloss": "شش"
+    },
+    {
+      "surface": "יָמִים֙",
+      "gloss": "روز"
+    },
+    {
+      "surface": "תַּֽעֲבֹ֔ד",
+      "gloss": "کاری کنی"
+    },
+    {
+      "surface": "וְעָשִׂ֖יתָ",
+      "gloss": "و کردی"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "מְלַאכְתֶּֽךָ",
+      "gloss": "کارِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:45:13.519409514Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "1-samuel 14:32",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و خوشید قوم ⟨بر⟩ غنیمت، و گرفتند گوسفند و گاو و گوساله‌ها، و کشتند ⟨بر⟩ زمین؛ و خورد قوم با خون.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و خوشید"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "غنیمت"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "و گرفتند"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "گوسفند"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "و گاو"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "و گوساله‌ها"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "گاو"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "و کشتند"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "بر زمین"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "و خورد"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "על",
+      "gloss": "با"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خون"
+    }
+  ],
+  "timestamp": "2026-08-15T04:01:51.614950818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "proverbs 3:21",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "پسرم، مباد از چشمانت بگذرند؛ تدبیرِ استوار و خوش‌اندیشی را نگاه دار.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مباد"
+    },
+    {
+      "surface": "ילזו",
+      "gloss": "بگذرند"
+    },
+    {
+      "surface": "מעיניך",
+      "gloss": "از چشمانت"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "نگاه دار"
+    },
+    {
+      "surface": "תשיה",
+      "gloss": "تدبیرِ استوار"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "و خوش‌اندیشی"
+    }
+  ],
+  "timestamp": "2026-08-15T04:26:47.168166583Z",
+  "model": "glm-5.3"
+}

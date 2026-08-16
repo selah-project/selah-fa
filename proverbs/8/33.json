@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 8:33",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "بشنوید آموزتار را و دانا شوید و آن را رد نکنید.",
+  "tokens": [
+    {
+      "surface": "שִׁמְעוּ",
+      "gloss": "بشنوید"
+    },
+    {
+      "surface": "מוּסָר",
+      "gloss": "آموزتار"
+    },
+    {
+      "surface": "וַחֲכָמוּ",
+      "gloss": "و دانا شوید"
+    },
+    {
+      "surface": "וְאַל",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תִּפְרָֽעוּ",
+      "gloss": "رد کنید"
+    }
+  ],
+  "timestamp": "2026-08-13T23:00:57.328131315Z",
+  "model": "glm-5.2"
+}

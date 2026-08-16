@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 135,
+  "translation": "که یاعکوو را یاه برای خویش برگزید، یِسرائیل را به مالِ خاصِ خویش.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعکوو را"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "برگزید"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برای خویش"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل را"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "به مالِ خاصِ خویش"
+    }
+  ],
+  "timestamp": "2026-08-13T22:57:11.578283110Z",
+  "model": "glm-5.2"
+}

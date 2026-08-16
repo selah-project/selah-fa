@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 7:17",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و پسرانِ اولام: بدان. این‌ها پسرانِ گیلعاد، پسرِ ماکیر، پسرِ منشه بودند.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "اولام"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "بدان"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گیلعاد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "ماکیر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:16.296331050Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 5:16",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "ترکش‌دانِ ⟨آن⟩ چون گوری گشوده است؛ همگی آنان دلاوران‌اند.",
+  "tokens": [
+    {
+      "surface": "אשפתו",
+      "gloss": "ترکش‌دانِ"
+    },
+    {
+      "surface": "כקבר",
+      "gloss": "چون گوری"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "گشوده"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "همگی"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "دلاوران"
+    }
+  ],
+  "timestamp": "2026-08-13T21:57:09.309757691Z",
+  "model": "glm-5.2"
+}

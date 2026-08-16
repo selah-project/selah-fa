@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 22:28",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "و یاهوه دهانِ الاغ را گشود، و الاغ به بیلعام گفت: چه کردم به تو که تو مرا این سه بار زده‌ای؟",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "و گشود"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دهانِ الاغ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دهانِ"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "الاغ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "به بیلعام"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "کردم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "به تو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "הכיתני",
+      "gloss": "مرا زده‌ای"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سه"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "بار"
+    }
+  ],
+  "timestamp": "2026-08-13T23:57:31.667438632Z",
+  "model": "glm-5.2"
+}

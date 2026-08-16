@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 33,
+  "ref": "exodus 30:33",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "مردی که مانند آن بسازد و کسی که از آن بر بیگانه‌ای بگذارد، از قومش بریده خواهد شد.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "ירקח",
+      "gloss": "بسازد"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "مانند آن"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "و کسی که"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "بگذارد"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "از آن"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "זר",
+      "gloss": "بیگانه‌ای"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "و بریده خواهد شد"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "از قومش"
+    }
+  ],
+  "timestamp": "2026-08-15T03:48:12.520567860Z",
+  "model": "glm-5.3"
+}

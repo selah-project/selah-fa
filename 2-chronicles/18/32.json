@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 18:32",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و چاپس شد چون دیدند سرانِ ارابه‌ها که او پادشاهِ یِسرائیل نبود، و بازگشتند از پیِ او.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و چاپس شد"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "چون دیدند"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سرانِ"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ارابه‌ها"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "و بازگشتند"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "از پیِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:47:42.797854124Z",
+  "model": "glm-5.2"
+}

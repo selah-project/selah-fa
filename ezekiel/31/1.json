@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 31:1",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و چنین شد در یازدهمین سال، در سومی، در یکمِ ماه، کلامِ یاهوه به ⟨من⟩ بود، به‌قولِ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و چنین شد"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "در یک"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ده"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "בשלישי",
+      "gloss": "در سومی"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "در یکم"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "به‌ماه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به‌قول"
+    }
+  ],
+  "timestamp": "2026-08-13T22:20:04.197138752Z",
+  "model": "glm-5.2"
+}

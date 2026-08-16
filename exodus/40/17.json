@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 40:17",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 40,
+  "translation": "و چنین شد در ماهِ نخست، در سالِ دوم، در یکمِ ماه، مسکَن برپا شد.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و چنین شد"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "در ماه"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "نخست"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "در سال"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "دوم"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "در یکم"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ماه"
+    },
+    {
+      "surface": "הוקם",
+      "gloss": "برپا شد"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکَن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:22:00.324240006Z",
+  "model": "glm-5.2"
+}

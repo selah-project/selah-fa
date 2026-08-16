@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 121,
+  "translation": "اینک، نه خوابَود است و نه خوابیده است، نگهبانِ یِسرائیل.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "خوابَود است"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "خوابیده است"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "نگهبانِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-13T22:56:12.986818618Z",
+  "model": "glm-5.2"
+}

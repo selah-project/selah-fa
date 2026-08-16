@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "amos 7:5",
+  "book": "amos",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و گفتم: اَدونای یاهوه، بازایست ⟨لطفاً⟩؛ چگونه برخیزد یاعکوو؟ زیرا کوچک است او.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "و گفتم"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "بازایست"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨لطفاً⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "چگونه"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "برخیزد"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعکوو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "کوچک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوست"
+    }
+  ],
+  "timestamp": "2026-08-15T04:20:13.189704527Z",
+  "model": "glm-5.3"
+}

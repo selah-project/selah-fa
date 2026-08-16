@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "آنگاه یسرائیل این سرود را خواند: برآی، ای چاه! برایش سرود بخوانید",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "آنگاه"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "خواند"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "این سرود"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "سرود"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "برآی"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ای چاه"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "سرود بخوانید"
+    },
+    {
+      "surface": "לה",
+      "gloss": "برایش"
+    }
+  ],
+  "timestamp": "2026-08-15T03:53:06.621319666Z",
+  "model": "glm-5.3"
+}

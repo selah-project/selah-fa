@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و گفت قایین به یاهوه: «بزرگ است گناهِ من از ⟨اینکه⟩ تحمّل شود.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قایین"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "بزرگ است"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "گناهِ من"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "از ⟨اینکه⟩ تحمّل شود"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:40.575929412Z",
+  "model": "glm-5.2"
+}

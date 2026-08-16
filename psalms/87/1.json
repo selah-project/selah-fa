@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 87,
+  "translation": "برای پسرانِ قورَخ. مزمور. سرود. بنیادِ او ⟨است⟩ در کوه‌هایِ قدس.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "برای پسرانِ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورَخ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "سرود"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "بنیادِ او"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "در کوه‌هایِ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قدس"
+    }
+  ],
+  "timestamp": "2026-08-13T22:50:08.732246333Z",
+  "model": "glm-5.2"
+}

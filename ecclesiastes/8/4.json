@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "زیرا که سخنِ پادشاه حاکمیتی ⟨است⟩، و چه کسی به او بگوید: «چه می‌کنی؟»",
+  "tokens": [
+    {
+      "surface": "בַּאֲשֶׁר",
+      "gloss": "در آنجا که \/ زیرا که"
+    },
+    {
+      "surface": "דְּבַר",
+      "gloss": "سخنِ"
+    },
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "שִׁלְטוֹן",
+      "gloss": "حاکمیتی"
+    },
+    {
+      "surface": "וּמִי",
+      "gloss": "و چه کسی"
+    },
+    {
+      "surface": "יֹאמַר",
+      "gloss": "بگوید"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "به او"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "תַּעֲשֶׂה",
+      "gloss": "می‌کنی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:25.204698151Z",
+  "model": "glm-5.2"
+}

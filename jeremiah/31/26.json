@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 31:26",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "بر این ⟨پایه⟩ بیدار شدم و ⟨آن را⟩ دیدم، و خوابم بر من گوارا بود.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "بیدار شدم"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "و دیدم"
+    },
+    {
+      "surface": "ושנתי",
+      "gloss": "و خوابم"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "گوارا بود"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بر من"
+    }
+  ],
+  "timestamp": "2026-08-13T22:03:59.638827125Z",
+  "model": "glm-5.2"
+}

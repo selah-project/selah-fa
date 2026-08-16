@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 30:11",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "که این فرمان که من امروز به تو می‌فرمام، نه از تو رفيع‌تر است و نه دور است.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "این فرمان"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "به تو می‌فرمام"
+    },
+    {
+      "surface": "היום",
+      "gloss": "امروز"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "رفيع‌تر است"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨او⟩"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "از تو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "دور است"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨او⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T23:58:37.958934793Z",
+  "model": "glm-5.2"
+}

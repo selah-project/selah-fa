@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "آنگاه یارَت بِیَرعَت یاهوه را، و دانشِ الوهیم را بیابی.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "آنگاه"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "بِیَرعَت"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "یارَت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "و دانشِ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "بیابی"
+    }
+  ],
+  "timestamp": "2026-08-14T00:13:48.415136294Z",
+  "model": "glm-5.2"
+}

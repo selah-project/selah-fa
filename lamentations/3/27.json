@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "نکو است برایِ مردی که یوغ را بر دارد در جوانیِ ⟨خودش⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "نکو است"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "برایِ مردی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "بر دارد"
+    },
+    {
+      "surface": "על",
+      "gloss": "یوغ"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "در جوانیِ خودش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:18:17.550693913Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "نفرین‌باد ⟨کسی که⟩ با زنِ پدرش می‌خوابد، زیرا دامنِ پدرش را برمی‌دارد، و همهٔ قوم بگویند آمین.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "نفرین‌باد"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "می‌خوابد"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زنِ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پدرش"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "برمی‌دارد"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "دامنِ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پدرش"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و بگویند"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمین"
+    }
+  ],
+  "timestamp": "2026-08-13T20:51:13.723617354Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 12:15",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "برایِ حاریم، عَدنا؛ برایِ مِرایوت، حِلقی.",
+  "tokens": [
+    {
+      "surface": "לְחָרִ֣ם",
+      "gloss": "برایِ حاریم"
+    },
+    {
+      "surface": "עַדְנָ֔א",
+      "gloss": "عَدنا"
+    },
+    {
+      "surface": "לִמְרָי֖וֹת",
+      "gloss": "برایِ مِرایوت"
+    },
+    {
+      "surface": "חֶלְקָֽי",
+      "gloss": "حِلکی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:07.297404639Z",
+  "model": "glm-5.2"
+}

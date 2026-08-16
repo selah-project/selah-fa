@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 36:17",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "و ⟨את⟩ باروخ را پرسیده، گفتند: بیان کن اکنون برای ما چگونه نوشتی ⟨את⟩ همهٔ این سخنان را از دهانِ او.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "باروخ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "باروخ"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "پرسیده"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "گفتند"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "بیان کن"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اکنون"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "برای ما"
+    },
+    {
+      "surface": "איך",
+      "gloss": "چگونه"
+    },
+    {
+      "surface": "כתבת",
+      "gloss": "نوشتی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "سخنان"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "این"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "از دهانِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T22:06:39.450107919Z",
+  "model": "glm-5.2"
+}

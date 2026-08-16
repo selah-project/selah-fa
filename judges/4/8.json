@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و بَراک به او گفت: «اگر با من بیایی، خواهم رفت؛ و اگر با من نیایی، نخواهم رفت.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "به او"
+    },
+    {
+      "surface": "بרק",
+      "gloss": "بَراک"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "بیایی"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "با من"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "خواهم رفت"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "بیایی"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "با من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نخواهم"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "رفت"
+    }
+  ],
+  "timestamp": "2026-08-13T21:02:31.359048214Z",
+  "model": "glm-5.2"
+}

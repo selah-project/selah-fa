@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 42,
+  "translation": "همهٔ ما پسرانِ یک مرد هستیم؛ راستگویان هستیم، بندگانِ تو جاسوس نیستند.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "همهٔ ما"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردِ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "هستیم"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "راستگویان"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "היו",
+      "gloss": "هستند\/بوده‌اند"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "بندگانِ تو"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "جاسوس"
+    }
+  ],
+  "timestamp": "2026-08-13T20:07:03.603447301Z",
+  "model": "glm-5.2"
+}

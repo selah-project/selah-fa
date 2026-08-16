@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 24:17",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "ترس و گودال و دام بر توست، ای ساکن زمین.",
+  "tokens": [
+    {
+      "surface": "פַּחַד",
+      "gloss": "ترس"
+    },
+    {
+      "surface": "וָפַחַת",
+      "gloss": "و گودال"
+    },
+    {
+      "surface": "וָפָח",
+      "gloss": "و دام"
+    },
+    {
+      "surface": "עָלֶיךָ",
+      "gloss": "بر توست"
+    },
+    {
+      "surface": "יוֹשֵׁב",
+      "gloss": "ای ساکن"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T21:46:13.919805550Z",
+  "model": "glm-5.2"
+}

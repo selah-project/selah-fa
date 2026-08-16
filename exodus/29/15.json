@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و ⟨את⟩ یک قوچ را بردار، و اهارون و پسرانش دست‌هایشان را بر سرِ آن قوچ بگذارند.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "یک قوچ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "قوچ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "بردار"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "بگذارند"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اَهارون"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "و پسرانش"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دست‌هایشان"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "دست‌هایشان"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "آن قوچ"
+    }
+  ],
+  "timestamp": "2026-08-15T03:48:33.422805593Z",
+  "model": "glm-5.3"
+}

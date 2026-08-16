@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 71,
+  "translation": "در تو، ای یاهوه، پناه گرفته‌ام؛ مبادا تا ⟨به⟩ ابد شرمنده شوم.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "در تو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ای یاهوه"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "پناه گرفته‌ام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مبادا"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "شرمنده شوم"
+    },
+    {
+      "surface": "لעולם",
+      "gloss": "تا ابد"
+    }
+  ],
+  "timestamp": "2026-08-15T20:54:14.118187222Z",
+  "model": "glm-5.3"
+}

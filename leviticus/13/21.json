@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "leviticus 13:21",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "و اگر کاهن آن را ببیند و اینک موی سفید در آن نیست و از پوست فرودسته نیست و ⟨او⟩ کمرنگ است، کاهن او را هفت روز بازخواهد داشت.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "יראנה",
+      "gloss": "ببیند"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "בה",
+      "gloss": "در آن"
+    },
+    {
+      "surface": "שער",
+      "gloss": "موی"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "سفید"
+    },
+    {
+      "surface": "ושפלה",
+      "gloss": "و فرودسته نیست"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "העור",
+      "gloss": "پوست"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "و ⟨او⟩"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "کمرنگ"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "بازخواهد داشت"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روز"
+    }
+  ],
+  "timestamp": "2026-08-15T03:49:50.877675885Z",
+  "model": "glm-5.3"
+}

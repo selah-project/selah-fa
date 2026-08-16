@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 31:24",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "پیراهنِ کتان ساخت و فروخت، و کمربندی به تاجر داد.",
+  "tokens": [
+    {
+      "surface": "סדין",
+      "gloss": "پیراهنِ کتان"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ساخت"
+    },
+    {
+      "surface": "ותמכר",
+      "gloss": "و فروخت"
+    },
+    {
+      "surface": "וחגור",
+      "gloss": "و کمربندی"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "داد"
+    },
+    {
+      "surface": "לכנעני",
+      "gloss": "به تاجر"
+    }
+  ],
+  "timestamp": "2026-08-13T23:06:09.974670137Z",
+  "model": "glm-5.2"
+}

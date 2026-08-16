@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "و زن گفت: ⟨את⟩ چه‌کس برایت بالا بیاورم؟ و گفت: ⟨את⟩ شموئیل، برایم بالا بیاور.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "زن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چه‌کس"
+    },
+    {
+      "surface": "מי",
+      "gloss": "چه‌کس"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "بالا بیاورم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برایت"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شموئیل"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئیل"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "بالا بیاور"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برایم"
+    }
+  ],
+  "timestamp": "2026-08-13T21:15:19.346291847Z",
+  "model": "glm-5.2"
+}

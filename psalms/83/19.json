@@ -1,0 +1,53 @@
+{
+  "tier": "4.6",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 83,
+  "translation": "و بدانند که تو، که نام تو یاهوه است، به‌تنهایی، ⟨هستی⟩ عالی بر تمام زمین.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "و بدانند"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "که نام تو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "به‌تنهایی"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "عالی"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-15T04:27:45.858888379Z",
+  "model": "glm-4.6"
+}

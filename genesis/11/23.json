@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 11:23",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و سروگ پس از زایاندنِ او ⟨את⟩ ناحور، دویست سال زیست، و پسران و دختران زایاند.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "و زیست"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "سروگ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پس از"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "زایاندنِ او"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناحور"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ناحور"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دویست"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و زایاند"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پسران"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "و دختران"
+    }
+  ],
+  "timestamp": "2026-08-13T19:57:07.991227720Z",
+  "model": "glm-5.2"
+}

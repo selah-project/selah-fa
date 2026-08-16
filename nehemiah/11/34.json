@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 11:34",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "حَدید، صَبُوعیم، نِوالَّط،",
+  "tokens": [
+    {
+      "surface": "חָדִ֥יד",
+      "gloss": "حَدید"
+    },
+    {
+      "surface": "צְבֹעִ֖ים",
+      "gloss": "صَبُوعیم"
+    },
+    {
+      "surface": "נְבַלָּֽט",
+      "gloss": "نِوالَّط"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:07.013981039Z",
+  "model": "glm-5.2"
+}

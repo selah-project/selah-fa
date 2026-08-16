@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 9:9",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "سازندهٔ عَش و کسیل و کیماه و اتاق‌هایِ جنوب",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "سازندهٔ"
+    },
+    {
+      "surface": "עש",
+      "gloss": "عَش"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "کسیل"
+    },
+    {
+      "surface": "וכימה",
+      "gloss": "و کیماه"
+    },
+    {
+      "surface": "וחדרי",
+      "gloss": "و اتاق‌هایِ"
+    },
+    {
+      "surface": "תמן",
+      "gloss": "جنوب"
+    }
+  ],
+  "timestamp": "2026-08-13T23:07:52.739484862Z",
+  "model": "glm-5.2"
+}

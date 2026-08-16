@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "زیباییِ او را در دلِ خود مشتاق مباش، و مبادا تو را با پلک‌هایش بگیرد.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مباش"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "مشتاق"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "زیباییِ او"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "در دلِ تو"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و مبادا"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "بگیرد تو را"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "با پلک‌هایش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:00:39.220131836Z",
+  "model": "glm-5.2"
+}

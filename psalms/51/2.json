@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 51,
+  "translation": "در آمدنِ ناتانِ نبی به نزدِ او، چونکه نزدِ بَت-شَبَع آمد.",
+  "tokens": [
+    {
+      "surface": "בְּבוֹא",
+      "gloss": "در آمدنِ"
+    },
+    {
+      "surface": "אֵלָיו",
+      "gloss": "به نزدِ او"
+    },
+    {
+      "surface": "נָתָן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "הַנָּבִיא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "כַּאֲשֶׁר",
+      "gloss": "چونکه"
+    },
+    {
+      "surface": "בָּא",
+      "gloss": "آمد"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "نزدِ"
+    },
+    {
+      "surface": "בַּת",
+      "gloss": "بَت-"
+    },
+    {
+      "surface": "שָׁבַע",
+      "gloss": "شَبَع"
+    }
+  ],
+  "timestamp": "2026-08-13T22:44:46.946454560Z",
+  "model": "glm-5.2"
+}

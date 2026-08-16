@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و مرد شائول و سه تن از پسرانش، و تمامِ خانهٔ او، همگی مُردند.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "و سه تنِ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "پسرانش"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و تمامِ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "خانهٔ او"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "همگی"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "مُردند"
+    }
+  ],
+  "timestamp": "2026-08-13T23:38:27.958496276Z",
+  "model": "glm-5.2"
+}

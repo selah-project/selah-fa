@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.3",
+  "verse": 86,
+  "ref": "numbers 7:86",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "دوازده کفِ زرین، پر از بخور، ده ده شکل برای هر کف، به شکلِ قدس؛ تمامِ زرِ کف‌ها بیست و یکصد.",
+  "tokens": [
+    {
+      "surface": "כפות",
+      "gloss": "کف‌ها"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زرین"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ده"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "پر"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "بخور"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ده"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ده"
+    },
+    {
+      "surface": "הכף",
+      "gloss": "هر کف"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "به شکل"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "قدس"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زرِ"
+    },
+    {
+      "surface": "הכפות",
+      "gloss": "کف‌ها"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "و یکصد"
+    }
+  ],
+  "timestamp": "2026-08-15T17:35:21.676477446Z",
+  "model": "glm-5.3"
+}

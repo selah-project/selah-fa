@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "در آغاز، الوهیم ⟨את⟩ آسمان‌ها و ⟨את⟩ زمین را آفرید.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "در آغاز"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "آفرید"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آسمان‌ها"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمان‌ها"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:17.142017798Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 29:21",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و یاعکوو به لابان گفت: بده ⟨את⟩ زنم را، زیرا روزهایم پُر شد، و به نزدِ او بیایم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعکوو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "بده"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زنم را"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "زنم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "پُر شد"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روزهایم"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "و بیایم"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "به نزدِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:02:07.658695507Z",
+  "model": "glm-5.2"
+}

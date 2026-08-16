@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "روحِ یاهوه در من سخن گفت، و واژهٔ او بر زبانِ من است.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "روحِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخن گفت"
+    },
+    {
+      "surface": "בי",
+      "gloss": "در من"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "و واژهٔ او"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "زبانِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T21:23:27.835259944Z",
+  "model": "glm-5.2"
+}

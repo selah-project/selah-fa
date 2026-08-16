@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 3:19",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "یادِ کن فقرِ من و سرگردانیِ مرا، افسنتین و سم را.",
+  "tokens": [
+    {
+      "surface": "זְכָר",
+      "gloss": "یادِ کن"
+    },
+    {
+      "surface": "עָנְיִי",
+      "gloss": "فقرِ من"
+    },
+    {
+      "surface": "וּמְרוּדִי",
+      "gloss": "و سرگردانیِ مرا"
+    },
+    {
+      "surface": "לַעֲנָה",
+      "gloss": "افسنتین"
+    },
+    {
+      "surface": "וָרֹאשׁ",
+      "gloss": "و سم را"
+    }
+  ],
+  "timestamp": "2026-08-13T23:18:13.800185820Z",
+  "model": "glm-5.2"
+}

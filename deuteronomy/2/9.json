@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 2:9",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و یاهوه به من گفت: به ⟨את⟩ موآب فشار مياور و با ايشان جنگ مخواه، که من از زمين او را به تو به ميراث نمی‌دهم، که به پسرانِ لوط ⟨את⟩ عَر را به ميراث داده‌ام.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "فشار مياور"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موآب"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תתגר",
+      "gloss": "تحريک کن"
+    },
+    {
+      "surface": "בם",
+      "gloss": "با ايشان"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "می‌دهم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "به تو"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "از زمين او"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "به ميراث"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زيرا که"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "به پسران"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوط"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "داده‌ام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عَر"
+    },
+    {
+      "surface": "ער",
+      "gloss": "عَر"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "به ميراث"
+    }
+  ],
+  "timestamp": "2026-08-13T20:43:07.108836580Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و ببُری ⟨את⟩ کفِ او؛ چشمت {دریغ} نکند.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "و ببُری"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کفِ او"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "کفِ او"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "دریغ کند"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "چشمت"
+    }
+  ],
+  "timestamp": "2026-08-13T20:50:09.644762532Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و اگر مردِ نیازمندی باشد، با وثیقهٔ او نخواب.",
+  "tokens": [
+    {
+      "surface": "וְאִם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "עָנִ֖י",
+      "gloss": "نیازمند"
+    },
+    {
+      "surface": "ה֑וּא",
+      "gloss": "او"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תִשְׁכַּ֖ב",
+      "gloss": "بخواب"
+    },
+    {
+      "surface": "בַּעֲבֹטֽוֹ",
+      "gloss": "با وثیقهٔ او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:50:13.208273027Z",
+  "model": "glm-5.2"
+}

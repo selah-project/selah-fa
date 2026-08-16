@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 33,
+  "ref": "1-chronicles 16:33",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "آنگاه درختانِ جنگل از پیشِ رویِ یاهوه چون سرایند، که او آمده است تا ⟨את⟩ زمین را داوری کند.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "آنگاه"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "چون سرایند"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "درختانِ"
+    },
+    {
+      "surface": "היער",
+      "gloss": "جنگل"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "از پیشِ رویِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آمده است"
+    },
+    {
+      "surface": "לשפוט",
+      "gloss": "تا داوری کند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-15T04:34:03.686149135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 28:16",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "و ⟨את⟩ طلا وزن برای میزهای پوشش ⟨برای⟩ میز و میز، و نقره برای میزهای نقره.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "طلا"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "طلا"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "وزن"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "برای میزهای"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "پوشش"
+    },
+    {
+      "surface": "לשלחן",
+      "gloss": "برای میز"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "و میز"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "و نقره"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "برای میزهای"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "نقره"
+    }
+  ],
+  "timestamp": "2026-08-14T00:18:25.830077413Z",
+  "model": "glm-5.2"
+}

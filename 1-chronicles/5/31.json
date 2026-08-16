@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و اَویشوع ⟨את⟩ بوکی را زاد، و بوکی ⟨את⟩ عوزی را زاد.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "و اَویشوع"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بوکی"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "بوکی"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "و بوکی"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عوزی"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "عوزی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:36.417860944Z",
+  "model": "glm-5.2"
+}

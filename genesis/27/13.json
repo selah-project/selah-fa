@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 27:13",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و گفت به او مادرش: «بر من باد نفرینِ تو، پسرم؛ تنها به آوازِ من گوش فرادار و برو، برایم بگیر.»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "مادرش"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "קללתך",
+      "gloss": "نفرینِ تو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرم"
+    },
+    {
+      "surface": "אך",
+      "gloss": "تنها"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوش فرادار"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "به آوازِ من"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "و برو"
+    },
+    {
+      "surface": "קח",
+      "gloss": "بگیر"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برایم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:02:42.494857931Z",
+  "model": "glm-5.2"
+}

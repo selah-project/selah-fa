@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و گفت: آیا تو اینی، پسرم عیساو؟ و گفت: منم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "آیا تو"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اینی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرم"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیساو"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אני",
+      "gloss": "منم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:02:02.792213078Z",
+  "model": "glm-5.2"
+}

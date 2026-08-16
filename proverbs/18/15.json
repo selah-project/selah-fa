@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 18:15",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "دلِ فهمیده دانش را می‌گیرد، و گوشِ خردمندان دانش را می‌جوید.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دلِ"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "فهمیده"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "می‌گیرد"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "دانش را"
+    },
+    {
+      "surface": "ואזן",
+      "gloss": "و گوشِ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "خردمندان"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "می‌جوید"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "دانش را"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:13.487462334Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و گفت دامادِ موشه به او: نیکو نیست کاری که تو می‌کنی.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "داماد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیکو"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "آن کار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "می‌کنی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:15:01.092100126Z",
+  "model": "glm-5.2"
+}

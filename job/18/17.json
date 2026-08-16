@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 18:17",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "یادِ او از زمین مفقود شد و نامی برای او بر روی بیرون نیست.",
+  "tokens": [
+    {
+      "surface": "זִֽכְרוֹ",
+      "gloss": "یادِ او"
+    },
+    {
+      "surface": "אָ֭בַד",
+      "gloss": "مفقود شد"
+    },
+    {
+      "surface": "מִנִּי",
+      "gloss": "از"
+    },
+    {
+      "surface": "אָ֑רֶץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "שֵׁ֥ם",
+      "gloss": "نامی"
+    },
+    {
+      "surface": "ל֝֗וֹ",
+      "gloss": "برای او"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "برِ"
+    },
+    {
+      "surface": "פְּנֵי",
+      "gloss": "رویِ"
+    },
+    {
+      "surface": "חֽוּץ",
+      "gloss": "بیرون"
+    }
+  ],
+  "timestamp": "2026-08-13T23:10:00.918595239Z",
+  "model": "glm-5.2"
+}

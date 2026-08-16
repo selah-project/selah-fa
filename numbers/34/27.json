@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 34:27",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 34,
+  "translation": "و برای قبیلهٔ پسران آشر، نَسی، اَخی‌هود پسر شِلومی.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "و برای قبیلهٔ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسران"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آشر"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "نَسی"
+    },
+    {
+      "surface": "אחיהוד",
+      "gloss": "اَخی‌هود"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "شِلومی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:42:04.197912212Z",
+  "model": "glm-5.2"
+}

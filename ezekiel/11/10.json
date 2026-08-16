@@ -1,0 +1,58 @@
+{
+  "ref": "ezekiel 11:10",
+  "lang": "fa",
+  "book": "ezekiel",
+  "chapter": 11,
+  "verse": 10,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:55:53Z",
+  "translation": "به شمشیر خواهید افتاد؛ ⟨بر⟩ مرزِ یِسرائیل ⟨את⟩ شما را داوری خواهم کرد، و خواهید دانست که من یاهوه ⟨هستم⟩.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "به شمشیر"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "خواهید افتاد"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨بر⟩"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "مرزِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "داوری خواهم کرد"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "شما"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "و خواهید دانست"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ]
+}

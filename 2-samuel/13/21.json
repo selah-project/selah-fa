@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "و داوودِ پادشاه ⟨את⟩ همهٔ این سخنان را شنید، و برای او بس بسیار سوزانید.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "و پادشاه"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "شنید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همهٔ سخنان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "سخنان"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "این"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "و سوزانید"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برای او"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بس بسیار"
+    }
+  ],
+  "timestamp": "2026-08-13T21:18:57.273871204Z",
+  "model": "glm-5.2"
+}

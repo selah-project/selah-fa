@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "بهتر است نانِ خشک ⟨و⟩ آسایش با آن، از خانه‌ای پُر از قربانی‌های نزاع.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بهتر است"
+    },
+    {
+      "surface": "פת",
+      "gloss": "نان"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "خشک"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "و آسایش"
+    },
+    {
+      "surface": "בה",
+      "gloss": "با آن"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "از خانه‌ای"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "پُر از"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "قربانی‌های"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "نزاع"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:55.455538489Z",
+  "model": "glm-5.2"
+}

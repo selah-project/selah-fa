@@ -1,0 +1,45 @@
+{
+  "tier": "4.6",
+  "verse": 21,
+  "ref": "numbers 1:21",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "شمارش‌شوندگانِ ایشان برای قبیلهٔ رئو بن شش و چهل هزار و پانصد.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "شمارش‌شندگانِ ایشان"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "برای قبیلهٔ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئو بن"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "شش"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "و چهل"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "و پانصد"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-15T03:54:41.971164110Z",
+  "model": "glm-4.6"
+}

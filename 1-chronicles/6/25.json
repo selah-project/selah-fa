@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 6:25",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "پسرِ میکائیل، پسرِ بَعَسْیا، پسرِ مَلکیّا.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "میکائیل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "בעשיה",
+      "gloss": "بَعَسْیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "مَلکیّا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:06.929470335Z",
+  "model": "glm-5.2"
+}

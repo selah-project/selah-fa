@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 119,
+  "translation": "شتاب کردم و درنگ نکردم تا نگه دارم ⟨את⟩ فرمان‌هایت را.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "شتاب کردم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "درنگ نکردم"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "تا نگه دارم"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "فرمان‌هایت"
+    }
+  ],
+  "timestamp": "2026-08-13T22:55:11.614147616Z",
+  "model": "glm-5.2"
+}

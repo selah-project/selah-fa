@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 7:25",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و رِفَح پسرش، و رِشِف، و تِلَح پسرش، و تَحَن پسرش.",
+  "tokens": [
+    {
+      "surface": "ורפח",
+      "gloss": "و رِفَح"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    },
+    {
+      "surface": "ורשף",
+      "gloss": "و رِشِف"
+    },
+    {
+      "surface": "ותלח",
+      "gloss": "و تِلَح"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    },
+    {
+      "surface": "ותחן",
+      "gloss": "و تَحَن"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:21.432048968Z",
+  "model": "glm-5.2"
+}

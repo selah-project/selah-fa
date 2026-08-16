@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 3:22",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و پس از او، کوهنیم، مردانِ دشت، استوار ساختند.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "و پس از او"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "استوار ساختند"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کوهنیم"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "مردانِ"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "دشت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:31:39.868599858Z",
+  "model": "glm-5.2"
+}

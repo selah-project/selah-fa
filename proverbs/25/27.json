@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 25:27",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "خوردنِ عسلِ فراوان، نه نیکو؛ و جستنِ جلالِ ایشان، جلال.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "خوردنِ"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "عسلِ"
+    },
+    {
+      "surface": "הרבות",
+      "gloss": "فراوان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیکو"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "و جستنِ"
+    },
+    {
+      "surface": "כבדם",
+      "gloss": "جلالِ ایشان"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:41.926940874Z",
+  "model": "glm-5.2"
+}

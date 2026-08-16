@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "الوهیم داورِ دادمند است، و اِل خشمگین در همهٔ روز.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "داور"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "دادمند"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و اِل"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "خشمگین"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "در همهٔ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روز"
+    }
+  ],
+  "timestamp": "2026-08-13T22:37:21.748762743Z",
+  "model": "glm-5.2"
+}

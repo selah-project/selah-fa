@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "نکو است که بپیوند و بی‌صوت ماند برایِ رستگاریِ یاهوه.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "نکو است"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "و بپیوند"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "و بی‌صوت ماند"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "برایِ رستگاریِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:18:17.550525243Z",
+  "model": "glm-5.2"
+}

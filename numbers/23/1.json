@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 23:1",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "وَ بیلعام به بالاق گفت: برای من در این‌جا هفت مذبح بِساز، و برای من در این‌جا هفت گاو و هفت قوچ آماده کن.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وَ گفت"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بیلعام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بِساز"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برای من"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "در این‌جا"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "והכן",
+      "gloss": "وَ آماده کن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برای من"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "در این‌جا"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "گاو"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "وَ هفت"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "قوچ"
+    }
+  ],
+  "timestamp": "2026-08-13T20:38:56.825271357Z",
+  "model": "glm-5.2"
+}

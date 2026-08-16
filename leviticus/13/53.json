@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.3",
+  "verse": 53,
+  "ref": "leviticus 13:53",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "و اگر کوهن ببیند و اینک، ضایعه در جامه یا در تار یا در پود یا در هیچ ابزارِ پوست پهن نشده باشد",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ببیند"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کوهن"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "پهن شده باشد"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ضایعه"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "در جامه"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "در تار"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "در پود"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "در هیچ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ابزار"
+    },
+    {
+      "surface": "עור",
+      "gloss": "پوست"
+    }
+  ],
+  "timestamp": "2026-08-15T03:50:55.856996382Z",
+  "model": "glm-5.3"
+}

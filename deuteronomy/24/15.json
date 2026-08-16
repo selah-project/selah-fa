@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "deuteronomy 24:15",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "در روزِ او مزدش را بده و آفتاب بر او فرو ننشیند، زیرا که تهی‌دست است و او جانش را بر آن برمی‌دارد، و بر تو به یاهوه فریاد نکشد، و در تو گناه شود.",
+  "tokens": [
+    {
+      "surface": "ביומו",
+      "gloss": "در روزِ او"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "بده"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "مزدش را"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و ... نه"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "فرونشیند"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر او"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "آفتاب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا که"
+    },
+    {
+      "surface": "עני",
+      "gloss": "تهی‌دست است"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "ואליו",
+      "gloss": "و به آن"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "برمی‌دارد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جانش"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "جانش را"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و ... نه"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "فریاد بزند"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "بر تو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "و شود"
+    },
+    {
+      "surface": "בך",
+      "gloss": "در تو"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گناه"
+    }
+  ],
+  "timestamp": "2026-08-15T03:55:26.034885379Z",
+  "model": "glm-5.3"
+}

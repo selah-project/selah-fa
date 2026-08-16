@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 27:20",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "دِدان بازرگانِ تو بود در پوشش‌هایِ گسترده برای سواری.",
+  "tokens": [
+    {
+      "surface": "דדן",
+      "gloss": "دِدان"
+    },
+    {
+      "surface": "רכלתך",
+      "gloss": "بازرگانِ تو"
+    },
+    {
+      "surface": "בבגדי",
+      "gloss": "در پوشش‌هایِ"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "گسترده"
+    },
+    {
+      "surface": "לרכבה",
+      "gloss": "برای سواری"
+    }
+  ],
+  "timestamp": "2026-08-13T22:19:09.761231610Z",
+  "model": "glm-5.2"
+}

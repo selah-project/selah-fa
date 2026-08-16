@@ -1,0 +1,61 @@
+{
+  "tier": "4.6",
+  "verse": 6,
+  "ref": "1-samuel 31:6",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و‌مرد شاول و سه پسرش و بر‌دارندهٔ تسلیحاتش و نیز تمام مردانش در روز آن یکجا.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "و‌مرد"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "و سه"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "پسرش"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "و بر‌دارنده"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "تسلیحاتش"
+    },
+    {
+      "surface": "גם",
+      "gloss": "و نیز"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "مردانش"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روز"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "یکجا"
+    }
+  ],
+  "timestamp": "2026-08-15T04:03:07.868622488Z",
+  "model": "glm-4.6"
+}

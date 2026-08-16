@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 1:20",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و به شما گفتم: شما تا کوهِ اَموری رسیده‌اید، که یاهوه الوهیمِ ما به ما می‌دهد.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "و گفتم"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "به شما"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "رسیده‌اید"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کوهِ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "اَموری"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "الوهیمِ ما"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "می‌دهد"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "به ما"
+    }
+  ],
+  "timestamp": "2026-08-13T20:43:34.686904316Z",
+  "model": "glm-5.2"
+}

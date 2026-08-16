@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "و تو ⟨את⟩ ردایِ اِفود را بسازی، همهٔ آن از سرمه‌ای.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "و تو بسازی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ردایِ اِفود را"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "ردایِ"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "اِفود"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "همهٔ آن"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "از سرمه‌ای"
+    }
+  ],
+  "timestamp": "2026-08-13T20:18:16.656178192Z",
+  "model": "glm-5.2"
+}

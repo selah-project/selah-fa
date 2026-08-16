@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 11:19",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و زیست پَلِگ پس از آنکه او ⟨את⟩ رَعو را زاد، نه سال و دویست سال، و پسران و دختران زاد.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "و زیست"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "پَلِگ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پس از"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "آنکه او زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رَعو"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "رَعو"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "و دویست"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و زاد"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پسران"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "و دختران"
+    }
+  ],
+  "timestamp": "2026-08-13T19:57:33.818373393Z",
+  "model": "glm-5.2"
+}

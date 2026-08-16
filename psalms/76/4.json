@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 76,
+  "translation": "آنجا شکست رَشْپِه‌های کمان، سپر و شمشیر و جنگ را. سِلا.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "آنجا"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "شکست"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "رَشْپِه‌های"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "کمان"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "سپر"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "و شمشیر"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "و جنگ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلا"
+    }
+  ],
+  "timestamp": "2026-08-13T22:47:45.020198109Z",
+  "model": "glm-5.2"
+}

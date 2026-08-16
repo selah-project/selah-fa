@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-chronicles 6:60",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و ⟨את⟩ حُکّوق و ⟨את⟩ مراتعش، و ⟨את⟩ رَخُوو و ⟨את⟩ مراتعش را.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "حُکّوق"
+    },
+    {
+      "surface": "חוקק",
+      "gloss": "حُکّوق"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مراتعش"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "مراتعش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "رَخُوو"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "رَخُوو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مراتعش"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "مراتعش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:02.384972783Z",
+  "model": "glm-5.2"
+}

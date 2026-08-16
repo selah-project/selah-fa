@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 27:23",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "حاران و کَنِّه و عَدَن، تجارِ شِوا، اَشّور کِلْماد، تاجرِ تو.",
+  "tokens": [
+    {
+      "surface": "חרן",
+      "gloss": "حاران"
+    },
+    {
+      "surface": "וכנה",
+      "gloss": "و کَنِّه"
+    },
+    {
+      "surface": "ועדן",
+      "gloss": "و عَدَن"
+    },
+    {
+      "surface": "רכלי",
+      "gloss": "تجارِ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شِوا"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اَشّور"
+    },
+    {
+      "surface": "כלמד",
+      "gloss": "کِلْماد"
+    },
+    {
+      "surface": "רכלתך",
+      "gloss": "تاجرِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:18:47.745744652Z",
+  "model": "glm-5.2"
+}

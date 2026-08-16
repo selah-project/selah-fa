@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و موشه گفت: این‌چنین گفت یاهوه: نیمه‌شب من بیرون می‌روم در میان مِصراییم،",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "כה",
+      "gloss": "این‌چنین"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "نیمهٔ"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "شب"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "بیرون می‌روم"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "در میان"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِصراییم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:12:50.713026583Z",
+  "model": "glm-5.2"
+}

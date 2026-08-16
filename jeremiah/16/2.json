@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 16:2",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "زنی نگیر برای خود، و پسران و دختران برای تو در این مکان خواهند بود؟ — نه! نخواهند بود",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "بگیر"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برای تو"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زنی"
+    },
+    {
+      "surface": "وלא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "باشند"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برای تو"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پسران"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "و دختران"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "در مکان"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    }
+  ],
+  "timestamp": "2026-08-13T22:00:09.667618842Z",
+  "model": "glm-5.2"
+}

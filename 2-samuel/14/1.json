@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و یوآو بن تسْرویاه دانست که دل پادشاه ⟨بر⟩ اَوْشالوم ⟨بود⟩.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "و دانست"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "تسْرویاه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "اَوْشالوم"
+    }
+  ],
+  "timestamp": "2026-08-13T21:19:55.168215147Z",
+  "model": "glm-5.2"
+}

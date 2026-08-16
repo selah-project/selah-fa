@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 48:26",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 48,
+  "translation": "و بر کنارِ یِساسخار، از سویِ خاور تا سویِ دریا، زَبولون، یکی ⟨بخش⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "کنارِ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "یِساسخار"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "از سویِ"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "خاور"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "سویِ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زَبولون"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکی"
+    }
+  ],
+  "timestamp": "2026-08-13T22:25:29.069290265Z",
+  "model": "glm-5.2"
+}

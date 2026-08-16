@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "و ساختند پسران گاد ⟨את⟩ دیون و ⟨את⟩ عطاروت و ⟨את⟩ عروعر را.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "و ساختند"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسران"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دیون"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "دیون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "عطاروت"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "عطاروت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "عروعر"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "عروعر"
+    }
+  ],
+  "timestamp": "2026-08-13T20:41:12.412681909Z",
+  "model": "glm-5.2"
+}

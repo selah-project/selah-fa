@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 11:5",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و چون پسران عمون با یسرائیل جنگیدند، زنانِ گیلعاد رفتند تا یفتح را از سرزمین طوب بگیرند،",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چون"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "جنگیدند"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمون"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "و رفتند"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "زنانِ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گیلعاد"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "تا بگیرند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یفتح"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "یفتح"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "از سرزمینِ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "طوب"
+    }
+  ],
+  "timestamp": "2026-08-13T21:04:46.046853588Z",
+  "model": "glm-5.2"
+}

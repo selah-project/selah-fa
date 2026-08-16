@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 41:1",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 41,
+  "translation": "و ⟨بود⟩ پایانِ دو سال، روزها، و فِرعون خواب دید، و اینک ایستاده بر رود.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و ⟨بود⟩"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "پایانِ"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "دو سال"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روزها"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "و فِرعون"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "خواب دید"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ایستاده"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "رود"
+    }
+  ],
+  "timestamp": "2026-08-13T20:06:37.650094676Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 3:30",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و خاضع شد موآب در آن روز زیرِ دستِ ییسْرائِل، و آرام گرفت زمین هشتاد سال.",
+  "tokens": [
+    {
+      "surface": "ותכנע",
+      "gloss": "و خاضع شد"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "زیرِ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دستِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ییسْرائِل"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "و آرام گرفت"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "هشتاد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-08-13T21:01:35.744302897Z",
+  "model": "glm-5.2"
+}

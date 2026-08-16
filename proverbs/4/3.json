@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "زیرا پسرِ پدرم بودم، نرم‌اندام، و یگانه پیش از مادرم.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "בֵ֭ן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "הָיִ֣יתִי",
+      "gloss": "بودم"
+    },
+    {
+      "surface": "לְאָבִ֑י",
+      "gloss": "پدرم"
+    },
+    {
+      "surface": "רַ֥ךְ",
+      "gloss": "نرم‌اندام"
+    },
+    {
+      "surface": "וְ֝יָחִ֗יד",
+      "gloss": "و یگانه"
+    },
+    {
+      "surface": "לִפְנֵ֥י",
+      "gloss": "پیش از"
+    },
+    {
+      "surface": "אִמִּֽי",
+      "gloss": "مادرم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:00:00.884769737Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 45,
+  "ref": "numbers 7:45",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "یک گاو نر، پسرِ گله، یک قوچ، یک بره، پسرِ یک‌ساله، برای عُلّه (قربانی سوختنی).",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "یک گاو نر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "گله"
+    },
+    {
+      "surface": "איל",
+      "gloss": "قوچ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "بره"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "یک‌ساله"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "برای عُلّه (قربانی سوختنی)"
+    }
+  ],
+  "timestamp": "2026-08-15T03:52:37.334061951Z",
+  "model": "glm-5.3"
+}

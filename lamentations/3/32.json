@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "lamentations 3:32",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "زیرا اگر ⟨او⟩ غم می‌گمارد، پس رحمت خواهد کرد — به فراوانیِ طرفداریِ ⟨او⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "غم می‌گمارد"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "و رحمت خواهد کرد"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "به فراوانیِ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "طرفداریِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:17:55.368637643Z",
+  "model": "glm-5.2"
+}

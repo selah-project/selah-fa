@@ -1,0 +1,46 @@
+{
+  "tier": "4.6",
+  "verse": 16,
+  "ref": "genesis 39:16",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 39,
+  "translation": "و ⟨آن را⟩ نهاد ⟨את⟩ رُخت او نزد خودش تا آمدن سرورش به خانهٔ او.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "و ⟨آن را⟩ نهاد"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "⟨את⟩ رُخت او",
+      "marks": "رُخت او"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "نزد خودش"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "آمدن"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "سرورش"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "خانهٔ او"
+    }
+  ],
+  "timestamp": "2026-08-15T03:44:47.278826551Z",
+  "model": "glm-4.6"
+}

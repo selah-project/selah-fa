@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "وَ بیلعام صبح برخاست و ⟨את⟩ الاغ ماده‌اش را زین کرد و با سران موآب رفت.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "وَ برخاست"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بیلعام"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "وَ زین کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الاغ ماده‌اش"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "الاغ ماده‌اش"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "وَ رفت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سران"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    }
+  ],
+  "timestamp": "2026-08-13T20:37:59.411749225Z",
+  "model": "glm-5.2"
+}

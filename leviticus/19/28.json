@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 19:28",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و برای نفس بریدگی در گوشتِ خود ندهید، و نوشتهٔ خالکوبی بر خود ندهید؛ من یاهوه هستم.",
+  "tokens": [
+    {
+      "surface": "ושרט",
+      "gloss": "و بریدگی"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "برای نفس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ندهید"
+    },
+    {
+      "surface": "בבשרכם",
+      "gloss": "در گوشتِ خود"
+    },
+    {
+      "surface": "וכתבת",
+      "gloss": "و نوشتهٔ"
+    },
+    {
+      "surface": "קעקע",
+      "gloss": "خالکوبی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ندهید"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "بر خود"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه هستم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:27:32.221810426Z",
+  "model": "glm-5.2"
+}

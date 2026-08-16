@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 66,
+  "translation": "بی‌ارادی، اگر در دلِ خود دیدم، اَدونای نخواهد شنید.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "بی‌ارادی"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "دیدم"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "در دلِ خود"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "خواهد شنید"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    }
+  ],
+  "timestamp": "2026-08-14T00:12:17.147448133Z",
+  "model": "glm-5.2"
+}

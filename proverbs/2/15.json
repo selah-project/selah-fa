@@ -1,0 +1,33 @@
+{
+  "tier": "hand",
+  "verse": 15,
+  "ref": "proverbs 2:15",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "که راه‌هایشان کج ⟨است⟩ و در مسیرهایشان منحرف‌اند.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "ארחתיהם",
+      "gloss": "راه‌هایشان"
+    },
+    {
+      "surface": "עקשים",
+      "gloss": "کج"
+    },
+    {
+      "surface": "ונלוזים",
+      "gloss": "و منحرف‌اند"
+    },
+    {
+      "surface": "במעגלותם",
+      "gloss": "در مسیرهایشان"
+    }
+  ],
+  "timestamp": "2026-08-14T17:46:57Z",
+  "model": "claude-fable-5/hand"
+}

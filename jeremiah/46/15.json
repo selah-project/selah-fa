@@ -1,0 +1,45 @@
+{
+  "tier": "4.6",
+  "verse": 15,
+  "ref": "jeremiah 46:15",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 46,
+  "translation": "چرا جبارانِ تو جاروب شدند؟ استاد نکرد، زیرا که یاهوه آن‌ها را راند.",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "נסחף",
+      "gloss": "جاروب شدند"
+    },
+    {
+      "surface": "אביריך",
+      "gloss": "جبارانِ تو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نـ"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "استاد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا که"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הדפו",
+      "gloss": "آن‌ها را راند"
+    }
+  ],
+  "timestamp": "2026-08-15T04:25:23.886360529Z",
+  "model": "glm-4.6"
+}

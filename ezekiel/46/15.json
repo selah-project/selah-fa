@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 46,
+  "translation": "و بکنند ⟨את⟩ بره را و ⟨את⟩ هدیه را و ⟨את⟩ روغن را صبح‌به‌صبح، سوختنیِ پیوسته.",
+  "tokens": [
+    {
+      "surface": "وעשו",
+      "gloss": "و بکنند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بره"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "بره"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "هدیه"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "هدیه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "روغن"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "روغن"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "به صبح"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "سوختنیِ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "پیوسته"
+    }
+  ],
+  "timestamp": "2026-08-13T22:24:45.106659523Z",
+  "model": "glm-5.2"
+}

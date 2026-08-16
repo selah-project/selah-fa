@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "بنا کرد بر من و محاصره‌ام کرد، زهر و رنج را.",
+  "tokens": [
+    {
+      "surface": "בָּנָ֥ה",
+      "gloss": "بنا کرد"
+    },
+    {
+      "surface": "עָלַ֛י",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "וַיַּקַּ֖ף",
+      "gloss": "و محاصره‌ام کرد"
+    },
+    {
+      "surface": "רֹ֥אשׁ",
+      "gloss": "زهر"
+    },
+    {
+      "surface": "וּתְלָאָֽה",
+      "gloss": "و رنج"
+    }
+  ],
+  "timestamp": "2026-08-13T23:17:58.768352569Z",
+  "model": "glm-5.2"
+}

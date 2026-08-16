@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 89,
+  "translation": "از آنِ تو بازویِ ⟨خود⟩ با گُهور است؛ دستِ تو ستیزند و یمینِ تو برافراشته.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "از آنِ تو"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "بازو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "گُهور"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "ستیزند"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "دستِ تو"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "برافراشته"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "یمینِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:50:03.699530489Z",
+  "model": "glm-5.2"
+}

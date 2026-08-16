@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 6:27",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "پسرِ اَیتان، پسرِ زیمّا، پسرِ شِمْعی.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "اَیتان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "زیمّا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شِمْعی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:06.929913702Z",
+  "model": "glm-5.2"
+}

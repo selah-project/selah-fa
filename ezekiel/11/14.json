@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 11:14",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و ⟨بود⟩ کلامِ یاهوه به سوی من، به گفتار:",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֥י",
+      "gloss": "و ⟨بود⟩"
+    },
+    {
+      "surface": "דְבַר",
+      "gloss": "کلامِ"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֵלַ֥י",
+      "gloss": "به سوی من"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "به گفتار"
+    }
+  ],
+  "timestamp": "2026-08-14T00:08:15.860278599Z",
+  "model": "glm-5.2"
+}

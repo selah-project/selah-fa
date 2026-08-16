@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 16:1",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "و ⟨بود⟩ سخن یاهوه به من، به‌قولِ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و ⟨بود⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به‌قولِ"
+    }
+  ],
+  "timestamp": "2026-08-13T22:15:03.680867221Z",
+  "model": "glm-5.2"
+}

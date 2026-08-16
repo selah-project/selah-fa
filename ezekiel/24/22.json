@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 24:22",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و چنان کنید که من کردم: بر سَفَم نپوشانید و نانِ مردمان را نخورید.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "و کنید"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چنان که"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "کردم"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "שפם",
+      "gloss": "سَفَم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעטו",
+      "gloss": "نپوشانید"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "و نانِ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "مردمان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "نخورید"
+    }
+  ],
+  "timestamp": "2026-08-13T22:18:27.793507197Z",
+  "model": "glm-5.2"
+}

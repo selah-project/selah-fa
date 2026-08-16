@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 2:11",
+  "book": "song-of-songs",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "زیرا اینک زمستان گذشت، باران به‌سرعت گذشت، به راهِ خود رفت.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "הִנֵּ֥ה",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "הסתו",
+      "gloss": "زمستان"
+    },
+    {
+      "surface": "עָבָ֑ר",
+      "gloss": "گذشت"
+    },
+    {
+      "surface": "הַגֶּ֕שֶׁם",
+      "gloss": "باران"
+    },
+    {
+      "surface": "חָלַ֖ף",
+      "gloss": "به‌سرعت گذشت"
+    },
+    {
+      "surface": "הָלַ֥ךְ",
+      "gloss": "رفت"
+    },
+    {
+      "surface": "לֽוֹ",
+      "gloss": "به راهِ خود"
+    }
+  ],
+  "timestamp": "2026-08-13T23:15:23.124046113Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 11:15",
+  "book": "zechariah",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و یاهوه به من فرمود: «هنوز برای خود اسبابِ چوپانیِ نادان را به دست بگیر.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فرمود"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "هنوز"
+    },
+    {
+      "surface": "קח",
+      "gloss": "بگیر"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برای خود"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "اسباب"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "چوپانی"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "نادان"
+    }
+  ],
+  "timestamp": "2026-08-13T22:36:31.959074612Z",
+  "model": "glm-5.2"
+}

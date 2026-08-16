@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 6:15",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "شِمْعا پسرش، حَگّی‌یا پسرش، عَسا‌یا پسرش.",
+  "tokens": [
+    {
+      "surface": "שמעא",
+      "gloss": "شِمْعا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    },
+    {
+      "surface": "חגיה",
+      "gloss": "حَگّی‌یا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "عَسا‌یا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:54.021316978Z",
+  "model": "glm-5.2"
+}

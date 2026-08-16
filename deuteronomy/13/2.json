@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 13:2",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "هنگامی که در میانِ تو پیامبری برخیزد، یا خوابی خواب ببیند، و به تو نشانه‌ای یا معجزه‌ای بدهد،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "هنگامی که"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "برخیزد"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "در میانِ تو"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "پیامبری"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "خوابی"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "خواب ببیند"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "و بدهد"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "به تو"
+    },
+    {
+      "surface": "אות",
+      "gloss": "نشانه‌ای"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "معجزه‌ای"
+    }
+  ],
+  "timestamp": "2026-08-13T20:47:45.586570415Z",
+  "model": "glm-5.2"
+}

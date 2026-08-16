@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "و تو قدّوسی، ⟨ای⟩ نشینده بر ستایش‌های یِسرائیل.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "و تو"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "قدّوسی"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "نشینده"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "بر ستایش‌های"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-13T22:40:04.006858Z",
+  "model": "glm-5.2"
+}

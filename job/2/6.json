@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و یاهوه به هَسَطان گفت: «اینک او در دستِ توست؛ فقط ⟨את⟩ جانِ او را نگه دار!»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "هَسَطان"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "اینک او"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "در دستِ تو"
+    },
+    {
+      "surface": "אך",
+      "gloss": "فقط"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جانِ او"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "جانِ او"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "نگه دار"
+    }
+  ],
+  "timestamp": "2026-08-13T23:06:49.396238338Z",
+  "model": "glm-5.2"
+}

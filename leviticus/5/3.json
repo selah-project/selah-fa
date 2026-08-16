@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 5:3",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "یا چون به نجاستِ آدمی بساید، به هر نجاستِ او که با آن نجس شود، و از او پنهان مانده باشد، و او دانسته باشد، و مقصر است.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "بساید"
+    },
+    {
+      "surface": "בטמאת",
+      "gloss": "به نجاستِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "به هر"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "نجاستِ او"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "نجس شود"
+    },
+    {
+      "surface": "בה",
+      "gloss": "با آن"
+    },
+    {
+      "surface": "ונעלם",
+      "gloss": "و پنهان مانده"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "از او"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "و او"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "دانسته باشد"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "و مقصر است"
+    }
+  ],
+  "timestamp": "2026-08-13T20:23:14.737708488Z",
+  "model": "glm-5.2"
+}

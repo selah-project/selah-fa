@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 7:9",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و در روز هشتم مجمعی برپا داشتند، زیرا تقدیسِ مذبح را هفت روز انجام دادند و عید هفت روز ⟨بود⟩.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "و انجام دادند"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روز"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "هشتم"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "مجمع"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "تقدیسِ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "انجام دادند"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روز"
+    },
+    {
+      "surface": "והחג",
+      "gloss": "و عید"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روز"
+    }
+  ],
+  "timestamp": "2026-08-13T23:45:10.799813415Z",
+  "model": "glm-5.2"
+}

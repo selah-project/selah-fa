@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و این نیز بدیِ بیماری است: همان‌گونه که آمد، چنین خواهد رفت؛ و چه سودی برای اوست که برای باد رنج برد؟",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "و نیز"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "بیماری"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تماماً"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "همان‌گونه که"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "آمد"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "خواهد رفت"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "و چه"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "سودی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برای او"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "که رنج برد"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "برای باد"
+    }
+  ],
+  "timestamp": "2026-08-15T04:30:50.490305437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "nehemiah 7:53",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "پسرانِ بَقْبوک، پسرانِ حَقوپا، پسرانِ حَرحور،",
+  "tokens": [
+    {
+      "surface": "בְּנֵי",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "בַקְבּ֥וּק",
+      "gloss": "بَقْبوک"
+    },
+    {
+      "surface": "בְּנֵֽי",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "חֲקוּפָ֖א",
+      "gloss": "حَقوپا"
+    },
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "חַרְחֽוּר",
+      "gloss": "حَرحور"
+    }
+  ],
+  "timestamp": "2026-08-13T23:33:08.223915543Z",
+  "model": "glm-5.2"
+}

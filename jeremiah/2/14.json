@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "آیا یِسرائیل غلام است، یا زادگانِ خانه؟ چرا برای غارت شده است؟",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "آیا غلام است"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "אם",
+      "gloss": "یا"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "زادگانِ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "شده است"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "برای غارت"
+    }
+  ],
+  "timestamp": "2026-08-13T21:55:29.335108001Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 27:14",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و لاویان پاسخ خواهند داد و به تمامِ مردانِ یسرائیل با صدایِ بلند خواهند گفت:",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "و پاسخ خواهند داد"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاویان"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "و خواهند گفت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردانِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "קול",
+      "gloss": "با صدایِ"
+    },
+    {
+      "surface": "רם",
+      "gloss": "بلند"
+    }
+  ],
+  "timestamp": "2026-08-13T20:50:53.757875424Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "isaiah 16:13",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "این است سخنی که یاهوه از آن زمان دربارهٔ موآب گفته است.",
+  "tokens": [
+    {
+      "surface": "זֶה",
+      "gloss": "این"
+    },
+    {
+      "surface": "הַדָּבָר",
+      "gloss": "سخن"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "که"
+    },
+    {
+      "surface": "דִּבֶּר",
+      "gloss": "گفته است"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "دربارهٔ \/ به"
+    },
+    {
+      "surface": "מוֹאָב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "מֵאָז",
+      "gloss": "از آن زمان"
+    }
+  ],
+  "timestamp": "2026-08-15T04:07:08.504003215Z",
+  "model": "glm-5.3"
+}

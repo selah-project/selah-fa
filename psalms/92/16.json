@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 92,
+  "translation": "⟨تا⟩ اعلام کنند که راست است یاهوه، صخرهٔ من، و ⟨هیچ⟩ بی‌دادگی در او نیست.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "⟨تا⟩ اعلام کنند"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "راست"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "صخرهٔ من"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و ⟨هیچ⟩"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "بی‌دادگی"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در او"
+    }
+  ],
+  "timestamp": "2026-08-13T22:50:57.216711676Z",
+  "model": "glm-5.2"
+}

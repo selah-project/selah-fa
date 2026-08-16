@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 98,
+  "translation": "دریا و پریِ آن، تِبِل و ساکنانِ ⟨در⟩ آن بغرشند.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "بغرشند"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "و پریِ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "تِبِل"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "و ساکنانِ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "در آن"
+    }
+  ],
+  "timestamp": "2026-08-13T22:51:56.877266900Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 27:11",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و گفت یاعکوو به ریوکا، مادرِ خودش: اینک، عیسو، برادرِ من، مردی پشمینه است، و من مردی لاغز هستم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعکوو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "ریوکا"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "مادرِ خودش"
+    },
+    {
+      "surface": "הן",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برادرِ من"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "שער",
+      "gloss": "پشمینه"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "و من"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "لاغز"
+    }
+  ],
+  "timestamp": "2026-08-13T20:02:30.195474311Z",
+  "model": "glm-5.2"
+}

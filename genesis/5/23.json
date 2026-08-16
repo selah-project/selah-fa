@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 5:23",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و همهٔ روزهایِ خَنوخ سیصد سال و شصت‌ و پنج سال بود.",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֖י",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "יְמֵ֣י",
+      "gloss": "روزهایِ"
+    },
+    {
+      "surface": "חֲנ֑וֹךְ",
+      "gloss": "خَنوخ"
+    },
+    {
+      "surface": "חָמֵ֤שׁ",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "וְשִׁשִּׁים֙",
+      "gloss": "و شصت"
+    },
+    {
+      "surface": "שָׁנָ֔ה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וּשְׁלֹ֥שׁ",
+      "gloss": "و سه"
+    },
+    {
+      "surface": "מֵא֖וֹת",
+      "gloss": "صد"
+    },
+    {
+      "surface": "שָׁנָֽה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:00.100455535Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 39,
+  "translation": "چهارگوش بود دویده؛ ⟨את⟩ حوشن را ساختند؛ یک وجْد طولِ آن و یک وجْد پهنایِ آن، دویده.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "چهارگوش"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "دویده"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ساختند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حوشن"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "حوشن"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "یک وجْد"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "طولِ آن"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "و یک وجْد"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "پهنایِ آن"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "دویده"
+    }
+  ],
+  "timestamp": "2026-08-13T20:20:31.772104225Z",
+  "model": "glm-5.2"
+}

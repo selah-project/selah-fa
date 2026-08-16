@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 17:18",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "و به دستِ او یِهوازاواد، و با او صد و هشتاد هزار، آماده‌ی لشکر",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دستِ او"
+    },
+    {
+      "surface": "יהוזבד",
+      "gloss": "یِهوازاواد"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "و با او"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "صد"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "و هشتاد"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "آمادهٔ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشکر"
+    }
+  ],
+  "timestamp": "2026-08-13T23:46:19.712549089Z",
+  "model": "glm-5.2"
+}

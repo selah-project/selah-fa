@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 6:24",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "یاهوه تو را برکت دهد و تو را نگاه دارد!",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "تو را برکت دهد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "וישמרך",
+      "gloss": "و تو را نگاه دارد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:32:08.971631874Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,92 @@
+{
+  "ref": "judges 9:45",
+  "lang": "fa",
+  "book": "judges",
+  "chapter": 9,
+  "verse": 45,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:46:46Z",
+  "translation": "و آوی‌مِلِک همه‌ی آن روز با شهر جنگید و ⟨את⟩ شهر را گرفت و ⟨את⟩ قومی را که در آن ⟨بودند⟩ کشت، و ⟨את⟩ شهر را ویران کرد و آن را با نمک کاشت.",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "و آوی‌مِلِک"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "جنگید"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "با شهر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همه‌ی"
+    },
+    {
+      "surface": "היום",
+      "gloss": "آن روز"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "همان"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "و گرفت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شهر"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "בה",
+      "gloss": "در آن ⟨بودند⟩"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "کشت"
+    },
+    {
+      "surface": "ויתץ",
+      "gloss": "و ویران کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شهر"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "ויזרעה",
+      "gloss": "و آن را کاشت"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "با نمک"
+    }
+  ]
+}

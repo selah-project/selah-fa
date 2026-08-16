@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 12:6",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و-خم-شدند سرایانِ یِسرائِل و-پادشاه، و-گفتند: عادل ⟨است⟩ یاهوه.",
+  "tokens": [
+    {
+      "surface": "ויכנעו",
+      "gloss": "و-خم-شدند"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سرایانِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائِل"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "و-پادشاه"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "و-گفتند"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "عادل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:45:41.358096250Z",
+  "model": "glm-5.2"
+}

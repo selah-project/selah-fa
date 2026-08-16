@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 116,
+  "translation": "نذرهایم را برای یاهوه ادا می‌کنم، آری، در برابرِ همهٔ قومش.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "نذرهایم"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "برای یاهوه"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ادا می‌کنم"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "در برابر"
+    },
+    {
+      "surface": "נא",
+      "gloss": "آری"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "برای همهٔ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "قومش"
+    }
+  ],
+  "timestamp": "2026-08-13T22:54:53.201517281Z",
+  "model": "glm-5.2"
+}

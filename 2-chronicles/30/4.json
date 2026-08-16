@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 30:4",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "و داور در چشمِ پادشاه و در چشمِ تمامی قَهَل راست و درست بنمود.",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "و راست بنمود"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "داور"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "در چشمِ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "و در چشمِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامی"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "قَهَل"
+    }
+  ],
+  "timestamp": "2026-08-13T23:50:56.245508636Z",
+  "model": "glm-5.2"
+}

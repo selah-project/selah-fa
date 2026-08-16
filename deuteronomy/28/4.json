@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "مبارک میوهٔ شکمِ تو و میوهٔ خاکتِ تو و میوهٔ بهیمهٔ تو، زادهٔ گاوهایت و زادهٔ گله‌هایت.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "مبارک"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "میوهٔ"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "شکمِ تو"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "و میوهٔ"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "خاکتِ تو"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "و میوهٔ"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "بهیمهٔ تو"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "زادهٔ"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "گاوهایت"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "و زادهٔ"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "گله‌هایت"
+    }
+  ],
+  "timestamp": "2026-08-13T20:51:47.751155798Z",
+  "model": "glm-5.2"
+}

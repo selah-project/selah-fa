@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 4:7",
+  "book": "daniel",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و دیدن‌های سرِ من بر بسترِ من؛ دیدم، و اینک درختی در میانِ زمین، و بلندیِ آن بزرگ.",
+  "tokens": [
+    {
+      "surface": "וחזוי",
+      "gloss": "و دیدن‌های"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سرِ من"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "بسترِ من"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "دیدم"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "بود"
+    },
+    {
+      "surface": "ואלו",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "אילן",
+      "gloss": "درختی"
+    },
+    {
+      "surface": "בגוא",
+      "gloss": "در میانِ"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ורומה",
+      "gloss": "و بلندیِ آن"
+    },
+    {
+      "surface": "שגיא",
+      "gloss": "بزرگ"
+    }
+  ],
+  "timestamp": "2026-08-14T00:16:32.541743638Z",
+  "model": "glm-5.2"
+}

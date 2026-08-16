@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 5:19",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "تو، یاهوه، تا به ابد می‌نشینی؛ تختِ تو به نسل‌دَر‌نسل ⟨است⟩.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "تا به ابد"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "می‌نشینی"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "تختِ تو"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "به نسل"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "و نسل"
+    }
+  ],
+  "timestamp": "2026-08-13T23:19:31.644462873Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "خاری که در دستِ مستی بالا رود، و مَثَلی در دهانِ نادانان.",
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "خار"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "بالا رود"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "در دستِ"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "مستی"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "و مَثَلی"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "در دهانِ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "نادانان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:58.640091267Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 21:30",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "هیچ حکمتی و هیچ فهمی و هیچ مشورتی در برابرِ یاهوه ⟨وجود⟩ ندارد.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "هیچ ... ندارد"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمتی"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و هیچ ... ندارد"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "فهمی"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و هیچ ... ندارد"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "مشورتی"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "در برابرِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:48.830131692Z",
+  "model": "glm-5.2"
+}

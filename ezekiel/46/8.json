@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 46:8",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 46,
+  "translation": "و در آمدنِ ناسی، از راهِ ایوانِ دروازه درآید، و از راهِ خود بیرون رود.",
+  "tokens": [
+    {
+      "surface": "ובבוא",
+      "gloss": "و در آمدنِ"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "ناسی"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "از راهِ"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "ایوانِ"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دروازه"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "درآید"
+    },
+    {
+      "surface": "ובדרכו",
+      "gloss": "و از راهِ خود"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "بیرون رود"
+    }
+  ],
+  "timestamp": "2026-08-13T22:24:00.147219766Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 26:2",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "و یاهوه به او ظاهر شد و گفت: به میصر فرود مَرو؛ در زمینی که به تو می‌گویم ساکن شو.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "و ظاهر شد"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "فرود مَرو"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "به میصر"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ساکن شو"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "در زمین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "می‌گویم"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "به تو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:01:51.790649976Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 2:18",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "پسرانِ یورَه، صدِ و دوازده.",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "יוֹרָ֔ה",
+      "gloss": "یورَه"
+    },
+    {
+      "surface": "מֵאָ֖ה",
+      "gloss": "صدِ"
+    },
+    {
+      "surface": "וּשְׁנֵ֥ים",
+      "gloss": "دوازده"
+    },
+    {
+      "surface": "עָשָֽׂר",
+      "gloss": "دوازده"
+    }
+  ],
+  "timestamp": "2026-08-13T23:28:14.964298704Z",
+  "model": "glm-5.2"
+}

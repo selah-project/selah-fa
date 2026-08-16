@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و ⟨به⟩ آنان گفت: بروید سه روز دیگر و نزد من بازگردید. و مردم رفتند.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "به آنان"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "بروید"
+    },
+    {
+      "surface": "עד",
+      "gloss": "دیگر"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سه"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روز"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "و بازگردید"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "نزد من"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "و رفتند"
+    },
+    {
+      "surface": "העם",
+      "gloss": "مردم"
+    }
+  ],
+  "timestamp": "2026-08-13T21:28:40.096246341Z",
+  "model": "glm-5.2"
+}

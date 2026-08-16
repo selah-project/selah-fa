@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 4:3",
+  "book": "zechariah",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و دو درخت زیتون بر آنند، یکی از دستِ راستِ کاسه و یکی بر چپِ آن.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "و دو"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "درخت زیتون"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "بر آنند"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "از دستِ راستِ"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "کاسه"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "و یکی"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "שמאלה",
+      "gloss": "چپِ آن"
+    }
+  ],
+  "timestamp": "2026-08-13T22:35:02.805256240Z",
+  "model": "glm-5.2"
+}

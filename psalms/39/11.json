@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 39,
+  "translation": "بلا را از ⟨روی⟩ من بازگردان؛ از هجومِ دستِ تو من نابود شده‌ام.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "بازگردان"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "از ⟨روی⟩ من"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "بلاِت را"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "از هجوم"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "دستِ تو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "نابود شده‌ام"
+    }
+  ],
+  "timestamp": "2026-08-13T22:42:48.898521422Z",
+  "model": "glm-5.2"
+}

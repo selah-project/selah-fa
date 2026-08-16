@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 32:37",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "و ⟨او⟩ گفت: کجاست الوهیمِ آنان، صخره‌ای که به او پناه بردند؟",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אי",
+      "gloss": "کجاست"
+    },
+    {
+      "surface": "אלהימו",
+      "gloss": "الوهیمِ آنان"
+    },
+    {
+      "surface": "צור",
+      "gloss": "صخره‌ای"
+    },
+    {
+      "surface": "חסיו",
+      "gloss": "که به او پناه بردند"
+    },
+    {
+      "surface": "בו",
+      "gloss": "به او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:52:28.089017261Z",
+  "model": "glm-5.2"
+}

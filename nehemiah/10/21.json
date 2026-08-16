@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 10:21",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "ماگَپیعَش، مِشولّام، خِزیر،",
+  "tokens": [
+    {
+      "surface": "מַגְפִּיעָ֥שׁ",
+      "gloss": "ماگَپیعَش"
+    },
+    {
+      "surface": "מְשֻׁלָּ֖ם",
+      "gloss": "مِشولّام"
+    },
+    {
+      "surface": "חֵזִֽיר",
+      "gloss": "خِزیر"
+    }
+  ],
+  "timestamp": "2026-08-13T23:33:49.821137590Z",
+  "model": "glm-5.2"
+}

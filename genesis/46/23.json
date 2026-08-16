@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 46:23",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 46,
+  "translation": "و پسرانِ دان: حوشیم.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "חשים",
+      "gloss": "حوشیم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:07:59.523641450Z",
+  "model": "glm-5.2"
+}

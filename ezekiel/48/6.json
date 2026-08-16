@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 48:6",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 48,
+  "translation": "و بر مرزِ اِفراییم، از سمتِ خاور و تا سمتِ دریا، رئووبِن، یک.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "مرزِ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اِفراییم"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "از سمتِ"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "خاور"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "سمتِ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئووبِن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-08-13T22:24:57.820203955Z",
+  "model": "glm-5.2"
+}

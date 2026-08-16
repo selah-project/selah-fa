@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "ezekiel 26:1",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "و در یازدهمین سال، در یکمِ ماه، سخنِ یاهوه به من شد، به‌گفتهٔ ⟨این⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "בעשתי",
+      "gloss": "در یازدهمین"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ده"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "در یکم"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "از ماه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخنِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "لאמר",
+      "gloss": "به‌گفتهٔ"
+    }
+  ],
+  "timestamp": "2026-08-15T04:15:39.839676331Z",
+  "model": "glm-5.3"
+}

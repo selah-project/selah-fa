@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 14:26",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و قوم به جنگل آمدند و اینک عسلی روان بود، و کسی دستش را به دهانِ خود نمی‌رساند، زیرا قوم از ⟨את⟩ سوگ می‌ترسیدند.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "و آمد"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "היער",
+      "gloss": "جنگل"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "روان"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "عسل"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نبود"
+    },
+    {
+      "surface": "משיג",
+      "gloss": "می‌رساند"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دستش"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "دهانِ خود"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "می‌ترسید"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سوگ"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "سوگ"
+    }
+  ],
+  "timestamp": "2026-08-13T21:12:16.970092061Z",
+  "model": "glm-5.2"
+}

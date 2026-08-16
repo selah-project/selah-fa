@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 7:8",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و در ماهِ پنجم به یروشالَییم رسید؛ این سالِ هفتمِ پادشاه بود.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "و رسید"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشالَییم"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "در ماهِ"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "پنجم"
+    },
+    {
+      "surface": "היא",
+      "gloss": "این"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "سالِ"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "هفتم"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "پادشاه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:29:34.955630929Z",
+  "model": "glm-5.2"
+}

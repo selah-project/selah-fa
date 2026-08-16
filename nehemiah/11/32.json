@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 11:32",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "عَناتوت، نوو، عَنَنیا",
+  "tokens": [
+    {
+      "surface": "עֲנָת֥וֹת",
+      "gloss": "عَناتوت"
+    },
+    {
+      "surface": "נֹ֖ב",
+      "gloss": "نوو"
+    },
+    {
+      "surface": "עֲנָֽנְיָֽה",
+      "gloss": "عَنَنیا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:21.325920056Z",
+  "model": "glm-5.2"
+}

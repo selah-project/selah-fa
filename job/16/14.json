@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 16:14",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "شکافی مرا شکافته بر روی شکاف، چون دلاور بر من می‌دود.",
+  "tokens": [
+    {
+      "surface": "יפרצני",
+      "gloss": "شکافی مرا"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "شکاف"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "روی"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "شکاف"
+    },
+    {
+      "surface": "ירץ",
+      "gloss": "می‌دود"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "چون دلاور"
+    }
+  ],
+  "timestamp": "2026-08-13T23:09:49.279484448Z",
+  "model": "glm-5.2"
+}

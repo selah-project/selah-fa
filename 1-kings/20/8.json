@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و همهٔ پیران و همهٔ قوم به او گفتند: نشنو و نه خواهی.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "و گفتند"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "پیران"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و همهٔ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نَه"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "بشنو"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "خواهی"
+    }
+  ],
+  "timestamp": "2026-08-13T21:31:16.842983785Z",
+  "model": "glm-5.2"
+}

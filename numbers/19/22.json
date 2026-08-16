@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 19:22",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و هر آنچه که شخصِ نجس به آن دست بزند، نجس شود، و نفسِ تماس‌کننده نجس شود تا غروب.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "بزند"
+    },
+    {
+      "surface": "בו",
+      "gloss": "به آن دست"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "نجس شود"
+    },
+    {
+      "surface": "והנפש",
+      "gloss": "و نفسِ"
+    },
+    {
+      "surface": "הנגעת",
+      "gloss": "تماس‌کننده"
+    },
+    {
+      "surface": "תטמא",
+      "gloss": "نجس شود"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "غروب"
+    }
+  ],
+  "timestamp": "2026-08-13T23:57:04.404964196Z",
+  "model": "glm-5.2"
+}

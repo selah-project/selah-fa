@@ -1,0 +1,65 @@
+{
+  "tier": "hand",
+  "verse": 15,
+  "ref": "hosea 10:15",
+  "book": "hosea",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "چنین بیت-اِل با شما خواهد کرد، به سببِ بدیِ شرارتتان؛ در سپیده‌دم پادشاهِ یِسرائیل یکسره نابود خواهد شد.",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "خواهد کرد"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "با شما"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "به سببِ"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "بدیِ"
+    },
+    {
+      "surface": "רעתכם",
+      "gloss": "شرارتتان"
+    },
+    {
+      "surface": "בשחר",
+      "gloss": "در سپیده‌دم"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "یکسره"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "نابود خواهد شد"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-14T17:47:39Z",
+  "model": "claude-fable-5/hand"
+}

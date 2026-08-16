@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "ثروت دوستانِ بسیار می‌افزاید، و فقیر از دوستِ خود جدا می‌شود.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "ثروت"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "می‌افزاید"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "دوستانِ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "و فقیر"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "از دوستِ خود"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "جدا می‌شود"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:42.013820446Z",
+  "model": "glm-5.2"
+}

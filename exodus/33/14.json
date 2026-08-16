@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 33:14",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "و گفت: رویِ من خواهد رفت و من آرامت خواهم داد به تو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رویِ من"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "خواهد رفت"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "و آرامت خواهم داد"
+    },
+    {
+      "surface": "לך",
+      "gloss": "به تو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:19:44.866538994Z",
+  "model": "glm-5.2"
+}

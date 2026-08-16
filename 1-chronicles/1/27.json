@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 1:27",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "اَورام — ⟨او⟩ اَوراهام است.",
+  "tokens": [
+    {
+      "surface": "אַבְרָ֖ם",
+      "gloss": "اَورام"
+    },
+    {
+      "surface": "ה֥וּא",
+      "gloss": "⟨او⟩"
+    },
+    {
+      "surface": "אַבְרָהָֽם",
+      "gloss": "اَوراهام"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:50.342207168Z",
+  "model": "glm-5.2"
+}

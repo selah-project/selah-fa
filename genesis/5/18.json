@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و یَرِد زیست دو و شصت سال و صد سال، و زایید ⟨את⟩ حَنوک را.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "و زیست"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "یَرِد"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "و شصت"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "و صد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و زایید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حَنوک"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "حَنوک"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:52.515389067Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 24:11",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و داوود در صبح برخاست، و کلامِ یاهوه بود به گد نبی، بینای داوید، به‌قولِ:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "و برخاست"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوید"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "در صبح"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "و کلامِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گد"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "بینای"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوید"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به‌قولِ"
+    }
+  ],
+  "timestamp": "2026-08-13T21:23:41.889064172Z",
+  "model": "glm-5.2"
+}

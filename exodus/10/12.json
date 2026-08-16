@@ -1,0 +1,111 @@
+{
+  "tier": "4.6",
+  "verse": 12,
+  "ref": "exodus 10:12",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و گفت یاهوه به موشه دراز کن دستت بر زمین مصر در ملخ و برآید بر زمین مصر و بخورد ⟨את⟩ تمام گیاه زمین ⟨את⟩ هر آنچه برجای گذاشت تگرگ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "دراز کن"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "دستت"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصر"
+    },
+    {
+      "surface": "בארבה",
+      "gloss": "در ملخ"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "و برآید"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصر"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "و بخورد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تمام گیاه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "گیاه"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هر آنچه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنچه"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "برجای گذاشت"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "تگرگ"
+    }
+  ],
+  "timestamp": "2026-08-15T03:49:52.775343615Z",
+  "model": "glm-4.6"
+}

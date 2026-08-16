@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "2-chronicles 33:21",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "پسرِ بیست‌ودو سال، اَمون، در پادشاهیِ ⟨او⟩ ⟨بود⟩؛ و دو سال در یروشالَییم پادشاهی کرد.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ودو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "اَمون"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "در پادشاهیِ او"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ودو"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهی کرد"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "در یروشالَییم"
+    }
+  ],
+  "timestamp": "2026-08-15T04:35:18.348420139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و شما پاسخِ من را دادید و به من گفتید: «خوب است آن سخن که برای انجام گفتاری.»",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "و پاسخ دادید"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "من"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "و گفتید"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خوب"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "آن سخن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "گفتی"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "برای انجام"
+    }
+  ],
+  "timestamp": "2026-08-13T20:43:37.022413813Z",
+  "model": "glm-5.2"
+}

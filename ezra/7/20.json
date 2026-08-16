@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 7:20",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و بقیهٔ نیازهایِ خانهٔ الوهیمِ تو که برای دادن به تو برسد، از خانهٔ گنج‌هایِ شاه بده.",
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "و بقیهٔ"
+    },
+    {
+      "surface": "חשחות",
+      "gloss": "نیازهایِ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانهٔ"
+    },
+    {
+      "surface": "אלהך",
+      "gloss": "الوهیمِ تو"
+    },
+    {
+      "surface": "די",
+      "gloss": "که"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "برسد"
+    },
+    {
+      "surface": "לך",
+      "gloss": "به تو"
+    },
+    {
+      "surface": "למנתן",
+      "gloss": "برای دادن"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "بده"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانهٔ"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "گنج‌هایِ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "شاه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:31:11.467245602Z",
+  "model": "glm-5.2"
+}

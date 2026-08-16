@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "نفرین‌شده ⟨تو⟩ در شهر، و نفرین‌شده ⟨تو⟩ در صحرا.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "نفرین‌شده"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨تو⟩"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "در شهر"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "و نفرین‌شده"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨تو⟩"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "در صحرا"
+    }
+  ],
+  "timestamp": "2026-08-13T20:51:33.712203363Z",
+  "model": "glm-5.2"
+}

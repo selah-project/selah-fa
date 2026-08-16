@@ -1,0 +1,41 @@
+{
+  "tier": "4.6",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 135,
+  "translation": "تصویرهای⟨های⟩ ملّت‌ها نقره و طلاست، ساختِ دست‌های⟨ِ⟩ انسان.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "تصویرهای"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ملّت‌ها"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "نقره"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "و طلا"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ساخت"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "دست‌های"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    }
+  ],
+  "timestamp": "2026-08-15T04:28:22.589159010Z",
+  "model": "glm-4.6"
+}

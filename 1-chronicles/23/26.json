@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "1-chronicles 23:26",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "و نیز برای لاویان نیست ⟨هیچ⟩ برداشتنِ ⟨את⟩ مسکن و ⟨את⟩ همهٔ اسباب او را برای خدمتِ او",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "و نیز"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "برای لاویان"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "برداشتنِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مسکن"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "همهٔ اسباب او"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "اسباب او"
+    },
+    {
+      "surface": "לעבדתו",
+      "gloss": "برای خدمتِ او"
+    }
+  ],
+  "timestamp": "2026-08-15T04:33:54.392149354Z",
+  "model": "glm-5.3"
+}

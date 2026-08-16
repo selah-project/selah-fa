@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 2:13",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و بر همهٔ سدرانِ لبنان، بلند و برافراشته، و بر همهٔ بلوطانِ باشان،",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "سدرانِ"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "لبنان"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "بلند"
+    },
+    {
+      "surface": "והנשאים",
+      "gloss": "و برافراشته"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "אלוני",
+      "gloss": "بلوطانِ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "باشان"
+    }
+  ],
+  "timestamp": "2026-08-13T21:40:12.727065569Z",
+  "model": "glm-5.2"
+}

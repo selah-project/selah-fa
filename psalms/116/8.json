@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 116,
+  "translation": "زیرا تو جانِ مرا از مرگ رهاندی، ⟨את⟩ چشمِ مرا از اشک، ⟨את⟩ پایِ مرا از لغزش.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "رهاندی"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "جانِ مرا"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "از مرگ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چشمِ مرا"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "چشمِ مرا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "اشک"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پایِ مرا"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "پایِ مرا"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "از لغزش"
+    }
+  ],
+  "timestamp": "2026-08-13T22:55:00.624519672Z",
+  "model": "glm-5.2"
+}

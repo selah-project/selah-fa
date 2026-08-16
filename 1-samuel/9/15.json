@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و یاهوه گشوده بود ⟨את⟩ گوشِ شموئیل را، یک روز پیش از آمدنِ شائول، به گفتن:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "و یاهوه"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "گشوده بود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گوش"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "گوشِ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئیل را"
+    },
+    {
+      "surface": "יום",
+      "gloss": "یک روز"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیش از"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "آمدنِ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به گفتن"
+    }
+  ],
+  "timestamp": "2026-08-13T21:10:17.784648415Z",
+  "model": "glm-5.2"
+}

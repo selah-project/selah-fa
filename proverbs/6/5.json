@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 6:5",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "خود را برهان چون آهو از دست، و چون پرنده از دستِ فخ‌گذار.",
+  "tokens": [
+    {
+      "surface": "הנצל",
+      "gloss": "برهان"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "چون آهو"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "از دست"
+    },
+    {
+      "surface": "וכצפור",
+      "gloss": "و چون پرنده"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "از دست"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "فخ‌گذار"
+    }
+  ],
+  "timestamp": "2026-08-13T23:00:18.146202082Z",
+  "model": "glm-5.2"
+}

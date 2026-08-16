@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "1-chronicles 15:7",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "از پسرانِ گِرِشوم: یوئیل سرور، و برادرانِ او یکصد و سی.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "از پسرانِ"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "گِرِشوم"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "یوئیل"
+    },
+    {
+      "surface": "השר",
+      "gloss": "سرور"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "و برادرانِ او"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "یکصد"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "و سی"
+    }
+  ],
+  "timestamp": "2026-08-15T20:54:29.173639812Z",
+  "model": "glm-5.3+hand"
+}

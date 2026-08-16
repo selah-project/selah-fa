@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 35:23",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "یا با هر سنگی که با آن بمیرد، بدونِ دیدن، و بر او افتاد و مرد، و او دشمنِ او نبود و زیانی را برایش نمی‌جست —",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "با هر"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "سنگی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "بمیرد"
+    },
+    {
+      "surface": "בה",
+      "gloss": "با آن"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بدونِ"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "دیدن"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "و افتاد"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر او"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "و او"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "او را"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "می‌جست"
+    },
+    {
+      "surface": "רעתו",
+      "gloss": "زیانِ او را"
+    }
+  ],
+  "timestamp": "2026-08-13T23:57:44.952233242Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و ⟨بود⟩ غروب و ⟨بود⟩ صبح، روز سوم.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "غروب"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "سوم"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:13.704054316Z",
+  "model": "glm-5.2"
+}

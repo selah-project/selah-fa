@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 46:18",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 46,
+  "translation": "این پسرانِ زِلْپه‌اند که لابان به لِئا، دخترِ خود، داد، و او اینان را برای یَعْقوو زایید — شانزده نفس.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "این"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "زِلْپه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "داد"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "به لِئا"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "دخترِ خود"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "و زایید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اینان"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اینان"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "برای یَعْقوو"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شش"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(و) ده"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    }
+  ],
+  "timestamp": "2026-08-13T23:54:11.577799850Z",
+  "model": "glm-5.2"
+}

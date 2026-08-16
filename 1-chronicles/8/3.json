@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و به بَلَع پسران ⟨بودند⟩: اَدَر و گِرا و اَویهود.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "و بودند"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پسران"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "به بَلَع"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "اَدَر"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "و گِرا"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "و اَویهود"
+    }
+  ],
+  "timestamp": "2026-08-14T00:17:49.132399853Z",
+  "model": "glm-5.2"
+}

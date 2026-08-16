@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 10:23",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و بر سپاهِ سبطِ بنی منسّی، گَملی‌اِل بن پِدَه‌صور.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "سپاهِ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "سبطِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منسّی"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "گَملی‌اِل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "پِدَه"
+    },
+    {
+      "surface": "צור",
+      "gloss": "صور"
+    }
+  ],
+  "timestamp": "2026-08-13T20:33:39.215619544Z",
+  "model": "glm-5.2"
+}

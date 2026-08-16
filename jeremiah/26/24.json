@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 26:24",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "اما دستِ اَخیقام پسر شافان با یرمیاهو بود، ⟨את⟩، تا او را به دستِ قوم ندهند برای کشتنِ او.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "اما"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دستِ"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "اَخیقام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "شافان"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یرمیاهو"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاهو"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "تا"
+    },
+    {
+      "surface": "תת",
+      "gloss": "ندهند"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "او را"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "به دستِ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "برای کشتنِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T22:02:56.266208574Z",
+  "model": "glm-5.2"
+}

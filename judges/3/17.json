@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 3:17",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و ⟨את⟩ هدیه را نزدیک آورد به عِگلون، پادشاه موآب؛ و عِگلون مردی فربهٔ بسیار بود.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "و نزدیک آورد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هدیه"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "هدیه"
+    },
+    {
+      "surface": "לעגלון",
+      "gloss": "به عِگلون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "و عِگلون"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "בריא",
+      "gloss": "فربه"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بسیار"
+    }
+  ],
+  "timestamp": "2026-08-13T21:01:56.586262986Z",
+  "model": "glm-5.2"
+}

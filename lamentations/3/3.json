@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "بی‌گمان به‌سویِ من بازمی‌گردد، دستِ خود را برمی‌گرداند تمامِ روز.",
+  "tokens": [
+    {
+      "surface": "אַךְ",
+      "gloss": "بی‌گمان"
+    },
+    {
+      "surface": "בִּי",
+      "gloss": "به‌سویِ من"
+    },
+    {
+      "surface": "יָשׁוּב",
+      "gloss": "بازمی‌گردد"
+    },
+    {
+      "surface": "יַהֲפֹךְ",
+      "gloss": "برمی‌گرداند"
+    },
+    {
+      "surface": "יָדוֹ",
+      "gloss": "دستِ خود"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "הַיּוֹם",
+      "gloss": "روز"
+    }
+  ],
+  "timestamp": "2026-08-13T23:18:18.034104552Z",
+  "model": "glm-5.2"
+}

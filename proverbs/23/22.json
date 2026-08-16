@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 23:22",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "بشنو از پدرت، این ⟨کسی است که⟩ تو را زاییده، و حقار مشمار، که پیر شده است مادرت.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "بشنو"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "از پدرت"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "زاییده تو را"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "حقار مشمار"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "پیر شده است"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "مادرت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:17.944774398Z",
+  "model": "glm-5.2"
+}

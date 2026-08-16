@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "و موشه گِلعاد را به ماخیرِ پسرِ مَنَسّه داد ⟨את⟩، و در آن ساکن شد.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "و داد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گِلعاد"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "گِلعاد"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "به ماخیر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مَنَسّه"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "و ساکن شد"
+    },
+    {
+      "surface": "בה",
+      "gloss": "در آن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:41:06.585788118Z",
+  "model": "glm-5.2"
+}

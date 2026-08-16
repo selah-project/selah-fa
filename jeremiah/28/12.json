@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "jeremiah 28:12",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "و سخنِ یاهوه به یِرمِیا شد، پس از آنکه حَنَنْیا نبی ⟨את⟩ میله را از بر گردنِ یِرمِیا نبی شکست، به گفتن:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "یِرمِیا"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پس از آنکه"
+    },
+    {
+      "surface": "שבור",
+      "gloss": "شکستن"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "حَنَنْیا"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میله"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "میله"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "از بر"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "گردن"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "یِرمِیا"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به گفتن"
+    }
+  ],
+  "timestamp": "2026-08-15T04:12:36.281658448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "در ارابهٔ نخست اسب‌هایی سرخ، و در ارابهٔ دوم اسب‌هایی سیاه.",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "در ارابهٔ"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "نخست"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "اسب‌هایی"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "سرخ"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "و در ارابهٔ"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "دوم"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "اسب‌هایی"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "سیاه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:35:16.923474938Z",
+  "model": "glm-5.2"
+}

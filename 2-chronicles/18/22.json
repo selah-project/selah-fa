@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 18:22",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و حالا ببین، یاهوه روحِ دروغ را در دهانِ نبیتانِ این‌ها داده است، و یاهوه بر تو سخنِ بد گفته است.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و حالا"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ببین"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "داده است"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روحِ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغ"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "در دهانِ"
+    },
+    {
+      "surface": "נביאיך",
+      "gloss": "نبیتان"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "و یاهوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخن گفت"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "بر تو"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:47:00.926375813Z",
+  "model": "glm-5.2"
+}

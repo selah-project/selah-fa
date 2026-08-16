@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 8:2",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "نُوحَه چهارمی، وَرافا پنجمی.",
+  "tokens": [
+    {
+      "surface": "נוֹחָה֙",
+      "gloss": "نُوحَه"
+    },
+    {
+      "surface": "הָֽרְבִיעִ֔י",
+      "gloss": "چهارمی"
+    },
+    {
+      "surface": "וְרָפָ֖א",
+      "gloss": "وَرافا"
+    },
+    {
+      "surface": "הַחֲמִישִֽׁי",
+      "gloss": "پنجمی"
+    }
+  ],
+  "timestamp": "2026-08-14T00:17:54.662449474Z",
+  "model": "glm-5.2"
+}

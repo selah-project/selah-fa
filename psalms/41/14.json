@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 41,
+  "translation": "مبارک است یاهوه، الوهیمِ یسرائیل، ازکنونِ ازل و تا ابد. آمین و آمین.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "مبارک است"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوهیمِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "ازکنونِ ازل"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "ابد"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمین"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "و آمین"
+    }
+  ],
+  "timestamp": "2026-08-15T17:39:43.509395521Z",
+  "model": "glm-5.3"
+}

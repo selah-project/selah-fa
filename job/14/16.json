@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 14:16",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "چون اکنون قدم‌هایم را می‌شمارید، بر گناهم نظارت نمی‌کنی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "اکنون"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "قدم‌هایم را"
+    },
+    {
+      "surface": "תספור",
+      "gloss": "می‌شمارید"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשמור",
+      "gloss": "نظارت می‌کنی"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "گناهم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:09:29.097628588Z",
+  "model": "glm-5.2"
+}

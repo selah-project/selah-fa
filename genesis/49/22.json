@@ -1,0 +1,57 @@
+{
+  "tier": "4.6",
+  "verse": 22,
+  "ref": "genesis 49:22",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 49,
+  "translation": "یوسُف، پسرِ بارور، پسرِ بارور نزد چشمه؛ دخترانش بر دیوار می‌تازند.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "بارور"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسُف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "بارور"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "نزد"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چشمه"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "دخترانش"
+    },
+    {
+      "surface": "צעדה",
+      "gloss": "بر"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "دیوار"
+    },
+    {
+      "surface": "שור",
+      "gloss": "می‌تازند"
+    }
+  ],
+  "timestamp": "2026-08-15T03:45:49.722936509Z",
+  "model": "glm-4.6"
+}

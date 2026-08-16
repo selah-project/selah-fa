@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "proverbs 25:22",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "زیرا اخگرها بر سرِ او می‌ریزی، و یاهوه ⟨تو را⟩ پاداش می‌دهد",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "اخگرها"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "חתه",
+      "gloss": "می‌ریزی"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "سرِ او"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "و یاهوه"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "پاداش می‌دهد"
+    },
+    {
+      "surface": "לך",
+      "gloss": "به ⟨تو⟩"
+    }
+  ],
+  "timestamp": "2026-08-15T04:28:00.397575430Z",
+  "model": "glm-5.3"
+}

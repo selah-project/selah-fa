@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 12:13",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "یُوخانان هشتم، اَلزاباد نهمین.",
+  "tokens": [
+    {
+      "surface": "יוחנן",
+      "gloss": "یُوخانان"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "هشتم"
+    },
+    {
+      "surface": "אלזבד",
+      "gloss": "اَلزاباد"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "نهمین"
+    }
+  ],
+  "timestamp": "2026-08-13T23:39:24.340683354Z",
+  "model": "glm-5.2"
+}

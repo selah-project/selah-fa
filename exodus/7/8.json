@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و یاهوه به موشه و به اهارون سخن گفت، به‌قولِ:",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֣אמֶר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "به"
+    },
+    {
+      "surface": "מֹשֶׁ֥ה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "וְאֶֽל",
+      "gloss": "و به"
+    },
+    {
+      "surface": "אַהֲרֹ֖ן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "به‌قولِ:"
+    }
+  ],
+  "timestamp": "2026-08-13T20:10:52.996214428Z",
+  "model": "glm-5.2"
+}

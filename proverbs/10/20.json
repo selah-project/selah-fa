@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "کَسِف نِوخار، لِشونِ صَدّیق؛ لِب رَشاعیم، کمِعَت.",
+  "tokens": [
+    {
+      "surface": "כֶּסֶף",
+      "gloss": "کسف"
+    },
+    {
+      "surface": "נִבְחָר",
+      "gloss": "نوخار"
+    },
+    {
+      "surface": "לָשׁוֹן",
+      "gloss": "لشونِ"
+    },
+    {
+      "surface": "צַדִּיק",
+      "gloss": "صدیق"
+    },
+    {
+      "surface": "לֵב",
+      "gloss": "لب"
+    },
+    {
+      "surface": "רְשָׁעִים",
+      "gloss": "رشاعیم"
+    },
+    {
+      "surface": "כִּמְעָט",
+      "gloss": "کمعت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:01:12.993410472Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "بادی پر، از این‌ها برای من خواهد آمد؛ اکنون نیز من سخن خواهم گفت ⟨את⟩ داورانی را ⟨علیه⟩ آنها.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "بادی"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "پر"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "از این‌ها"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "خواهد آمد"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برای من"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "اکنون"
+    },
+    {
+      "surface": "גם",
+      "gloss": "نیز"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "سخن خواهم گفت"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "داورانی"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "داورانی را"
+    }
+  ],
+  "timestamp": "2026-08-13T21:56:50.003802525Z",
+  "model": "glm-5.2"
+}

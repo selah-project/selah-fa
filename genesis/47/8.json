@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 47,
+  "translation": "وَ پارعō گفت به یَعْقو: چند ⟨است⟩ روزهایِ سال‌هایِ زندگانیت؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وَ گفت"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پارعō"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یَعْقو"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "چند"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روزهایِ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "سال‌هایِ"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "زندگانیت"
+    }
+  ],
+  "timestamp": "2026-08-13T20:08:45.190258729Z",
+  "model": "glm-5.2"
+}

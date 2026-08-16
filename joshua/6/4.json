@@ -1,0 +1,86 @@
+{
+  "ref": "joshua 6:4",
+  "lang": "fa",
+  "book": "joshua",
+  "chapter": 6,
+  "verse": 4,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:46:46Z",
+  "translation": "و هفت کاهن هفت شوفارِ شاخِ قوچ پیشِ تابوت بردارند، و در روزِ هفتم ⟨את⟩ شهر را هفت بار دور بزنید، و کاهنان در شوفارها بدمند.",
+  "tokens": [
+    {
+      "surface": "ושבעה",
+      "gloss": "و هفت"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "بردارند"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "שופרות",
+      "gloss": "شوفارِ"
+    },
+    {
+      "surface": "היובלים",
+      "gloss": "شاخِ قوچ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشِ"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "تابوت"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "و در روزِ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "هفتم"
+    },
+    {
+      "surface": "תסבו",
+      "gloss": "دور بزنید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شهر"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "بار"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "و کاهنان"
+    },
+    {
+      "surface": "יתקעו",
+      "gloss": "بدمند"
+    },
+    {
+      "surface": "בשופרות",
+      "gloss": "در شوفارها"
+    }
+  ]
+}

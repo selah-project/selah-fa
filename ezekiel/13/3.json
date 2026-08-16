@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 13:3",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "چنین گفت اَدونای یاهوه: وای بر پیامبرانِ نابخرد، که پیرو روحِ خویش‌اند، و چیزی ندیده‌اند!",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "وای"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "پیامبرانِ"
+    },
+    {
+      "surface": "הנבלים",
+      "gloss": "نابخرد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "پیرو"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "پسِ"
+    },
+    {
+      "surface": "רוחם",
+      "gloss": "روحِ خویش‌اند"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "و آنچه نبود"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "دیدند"
+    }
+  ],
+  "timestamp": "2026-08-13T22:14:35.441556013Z",
+  "model": "glm-5.2"
+}

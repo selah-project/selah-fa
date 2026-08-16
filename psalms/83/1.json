@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 83,
+  "translation": "سرودِ نواخته‌ای از اَساف.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "سرود"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "نواخته"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "از اَساف"
+    }
+  ],
+  "timestamp": "2026-08-13T22:49:08.179437659Z",
+  "model": "glm-5.2"
+}

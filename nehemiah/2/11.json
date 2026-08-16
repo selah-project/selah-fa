@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "وآمدم به یروشالَییم، و بودم آنجا سه روز.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "وآمدم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشالَییم"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "وبودم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آنجا"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روز"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:31:58.503994406Z",
+  "model": "glm-5.2"
+}

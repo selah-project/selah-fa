@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 9:35",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و در گیب‌عون سکونت گزیدند اَبی-گیب‌عون — یِعوائیل — و نامِ زنش مَعاخه.",
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "و در گیب‌عون"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "سکونت گزیدند"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پدرِ"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "گیب‌عون"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "یِعوائیل"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "و نامِ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "زنش"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "مَعاخه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:38:31.280779871Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 26:4",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "و کاهن سبد را از دستِ تو بگیرد و آن را پیشِ مذبحِ یاهوه الوهیمِ تو بگذارد.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "و بگیرد"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "הטנא",
+      "gloss": "سبد را"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "از دستِ تو"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "و آن را بگذارد"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشِ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبحِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "الوهیمِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:50:36.568260209Z",
+  "model": "glm-5.2"
+}

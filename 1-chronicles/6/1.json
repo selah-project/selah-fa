@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "پسرانِ لِوی: گِرِشوم، قِهات، و مِراری.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لِوی"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "گِرِشوم"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قِهات"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "و مِراری"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:46.368959150Z",
+  "model": "glm-5.2"
+}

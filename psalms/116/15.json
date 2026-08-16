@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 116,
+  "translation": "گرامی در پیشِ چشمانِ یاهوه ⟨است⟩ مرگِ قدیسانش.",
+  "tokens": [
+    {
+      "surface": "یקר",
+      "gloss": "گرامی"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "در پیشِ چشمانِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "مرگِ"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "قدیسانش"
+    }
+  ],
+  "timestamp": "2026-08-13T22:54:53.201726720Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و براي او زنانِ سرور هفتصد و صيغه‌ها سيصد بودند، و زنانش ⟨את⟩ دلِ او را منحرف كردند.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "לו",
+      "gloss": "براي او"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "زنان"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "سرور"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "و صيغه‌ها"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "و منحرف كردند"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "زنانش"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دلِ او"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دلِ او"
+    }
+  ],
+  "timestamp": "2026-08-14T00:02:39.914216482Z",
+  "model": "glm-5.2"
+}

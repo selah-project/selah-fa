@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "proverbs 17:12",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "ملاقاتِ خرسِ بچه‌ازدست‌داده با مردی، و نه احمق در نادانی‌اش.",
+  "tokens": [
+    {
+      "surface": "פגוש",
+      "gloss": "ملاقاتِ"
+    },
+    {
+      "surface": "דב",
+      "gloss": "خرس"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "بچه‌ازدست‌داده"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "با مردی"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "احمق"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "در نادانی‌اش"
+    }
+  ],
+  "timestamp": "2026-08-15T04:27:45.870640571Z",
+  "model": "glm-5.3"
+}

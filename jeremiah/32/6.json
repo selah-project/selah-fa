@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 32:6",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "و یِرمیاهو گفت: «دَبَر یاهوه بر من بود، به این مضمون:»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمیاهو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دَبَر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به این مضمون"
+    }
+  ],
+  "timestamp": "2026-08-13T22:05:55.703793089Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 21:28",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "در آنِ زمان، در دیدنِ داوود که پاسخش داد یاهوه در گُرنِ اورنانِ یِبوسی، آنجا ذبح کرد.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "در زمانِ"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "בראות",
+      "gloss": "در دیدنِ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "پاسخش داد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "در گُرنِ"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "اورنانِ"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "یِبوسی"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "و ذبح کرد"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آنجا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:13.857996773Z",
+  "model": "glm-5.2"
+}

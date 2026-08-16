@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 5:15",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و یِوخار، و اِلیشوع، و نِفِگ، و یَفیع؛",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "و یِوخار"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "و اِلیشوع"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "و نِفِگ"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "و یَفیع"
+    }
+  ],
+  "timestamp": "2026-08-13T21:17:30.874160696Z",
+  "model": "glm-5.2"
+}

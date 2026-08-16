@@ -1,0 +1,33 @@
+{
+  "tier": "4.6",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "برای رهبر، بر ⟨موت‌لابن⟩، یک مزمور برای داوود",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "برای رهبر"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "بر"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "⟨موت‌لابن⟩"
+    },
+    {
+      "surface": "مזמור",
+      "gloss": "یک مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "برای داوود"
+    }
+  ],
+  "timestamp": "2026-08-15T04:27:09.833802962Z",
+  "model": "glm-4.6"
+}

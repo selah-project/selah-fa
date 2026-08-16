@@ -1,0 +1,49 @@
+{
+  "ref": "isaiah 43:16",
+  "lang": "fa",
+  "book": "isaiah",
+  "chapter": 43,
+  "verse": 16,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:46:46Z",
+  "translation": "چنین گفت یاهوه، ⟨آن که⟩ در دریا راهی می‌دهد و در آب‌های نیرومند گذرگاهی.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "⟨آن که⟩ می‌دهد"
+    },
+    {
+      "surface": "בים",
+      "gloss": "در دریا"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راهی"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "و در آب‌های"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "نیرومند"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "گذرگاهی"
+    }
+  ]
+}

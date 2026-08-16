@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 4:11",
+  "book": "hosea",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "زنا و شراب و موست، دل را می‌گیرد.",
+  "tokens": [
+    {
+      "surface": "זנות",
+      "gloss": "زنا"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "و شراب"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "و موست"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "می‌گیرد"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل را"
+    }
+  ],
+  "timestamp": "2026-08-13T22:25:21.795656011Z",
+  "model": "glm-5.2"
+}

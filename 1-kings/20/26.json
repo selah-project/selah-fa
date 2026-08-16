@@ -1,0 +1,66 @@
+{
+  "ref": "1-kings 20:26",
+  "lang": "fa",
+  "book": "1-kings",
+  "chapter": 20,
+  "verse": 26,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:47:37Z",
+  "translation": "و واقع شد در بازگشتِ سال، که بن-هَدَد ⟨את⟩ اَرام را سان دید و برای جنگ با یِسرائیل به اَفِق برآمد.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و واقع شد"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "در بازگشتِ"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "که سان دید"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "هَدَد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَرام"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "اَرام"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "و برآمد"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "به اَفِق"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "برای جنگ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ]
+}

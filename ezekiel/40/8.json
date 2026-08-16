@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 40,
+  "translation": "و ⟨او⟩ ⟨את⟩ ایوانِ دروازه را از سویِ خانه اندازه گرفت، یک نی.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "و اندازه گرفت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایوان"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ایوان"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دروازه"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "از سویِ خانه"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "نی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-08-13T22:23:33.843021661Z",
+  "model": "glm-5.2"
+}

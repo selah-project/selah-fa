@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 75,
+  "translation": "زیرا الوهیم داور است: این را پایین می‌آورد و این را بالا می‌برد.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "داور است"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این را"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "پایین می‌آورد"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "و این را"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "بالا می‌برد"
+    }
+  ],
+  "timestamp": "2026-08-15T04:24:25.049630711Z",
+  "model": "glm-5.3"
+}

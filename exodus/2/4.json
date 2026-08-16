@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و خواهرش از دور ایستاد، برای آنکه بداند چه بر سرِ او خواهد آمد.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "و ایستاد"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "خواهرش"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "از دور"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "برای آنکه بداند"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "انجام خواهد شد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برای او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:10:15.270245708Z",
+  "model": "glm-5.2"
+}

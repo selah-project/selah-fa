@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 78:54",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 78,
+  "translation": "و ⟨آنها⟩ را به سرزمین قدس خویش آورد، به این کوه که دست راستش آن را به دست آورد.",
+  "tokens": [
+    {
+      "surface": "ויביאם",
+      "gloss": "و آورد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرزمینِ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "قدسِ خویش"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کوه"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "קנתה",
+      "gloss": "به دست آورد"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "دستِ راستش"
+    }
+  ],
+  "timestamp": "2026-08-13T22:48:35.542051462Z",
+  "model": "glm-5.2"
+}

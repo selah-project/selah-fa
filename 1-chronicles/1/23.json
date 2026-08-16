@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و ⟨את⟩ اوفیر و ⟨את⟩ خاویله و ⟨את⟩ یوواو؛ همهٔ این‌ها پسرانِ یقطان بودند.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "اوفیر"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "اوفیر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "خاویله"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "خاویله"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "یوواو"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "یوواو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "یقطان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:47.011636853Z",
+  "model": "glm-5.2"
+}

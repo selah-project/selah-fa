@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 3:4",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و به من گفت: پسرِ آدم، برو، به خانهِ یِسرائیل بیا، و با سخنانِ من به ایشان سخن بگو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برو"
+    },
+    {
+      "surface": "בא",
+      "gloss": "بیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانهِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "و سخن بگو"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "با سخنانِ من"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "به ایشان"
+    }
+  ],
+  "timestamp": "2026-08-13T22:13:00.865235225Z",
+  "model": "glm-5.2"
+}

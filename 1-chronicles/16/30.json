@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 16:30",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "بلرزید از پیشِ رویِ او، همهٔ زمین؛ حتی ⟨خواهد⟩ ایستادگی یافت جهان، نه ⟨خواهد⟩ لرزید.",
+  "tokens": [
+    {
+      "surface": "חילו",
+      "gloss": "بلرزید"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "از پیشِ رویِ او"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אף",
+      "gloss": "حتی"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "ایستادگی یابد"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "جهان"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "لرزید"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:10.682255833Z",
+  "model": "glm-5.2"
+}

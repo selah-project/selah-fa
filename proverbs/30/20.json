@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 30:20",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "چنین است راهِ زنِ زناکار: خورد و دهانِ خود را پاک کرد و گفت: «بدیِ هیچ کار نکرده‌ام.»",
+  "tokens": [
+    {
+      "surface": "كן",
+      "gloss": "چنین است"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راهِ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زن"
+    },
+    {
+      "surface": "מנאפת",
+      "gloss": "زناکار"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "خورد"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "و پاک کرد"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "دهانِ خود را"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "פעלתי",
+      "gloss": "کار نکرده‌ام"
+    },
+    {
+      "surface": "און",
+      "gloss": "بدیِ"
+    }
+  ],
+  "timestamp": "2026-08-13T23:06:04.967058504Z",
+  "model": "glm-5.2"
+}

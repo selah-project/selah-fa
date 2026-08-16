@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 46,
+  "translation": "از این رو نمی‌ترسیم در دگرگون‌شدنِ زمین، و در لرزیدنِ کوه‌ها به دلِ دریاها.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "این رو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "می‌ترسیم"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "در دگرگون‌شدن"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "و در لرزیدن"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "کوه‌ها"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "به دلِ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دریاها"
+    }
+  ],
+  "timestamp": "2026-08-15T04:23:01.622526778Z",
+  "model": "glm-5.3"
+}

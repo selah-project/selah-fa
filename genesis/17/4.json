@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "من، اینک عهدِ من ⟨את⟩ توست، و تو به پدرِهمهملت‌ها باشی.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "عهدِ من"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ تو",
+      "marks": "تو"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "و باشی"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "به پدرِ"
+    },
+    {
+      "surface": "המון",
+      "gloss": "همهملت‌"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ها"
+    }
+  ],
+  "timestamp": "2026-08-13T19:59:13.614560157Z",
+  "model": "glm-5.2"
+}

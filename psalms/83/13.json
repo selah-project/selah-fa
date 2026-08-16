@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 83,
+  "translation": "که گفتند: «می‌رانیم ⟨את⟩ مراتعِ الوهیم را به سهمِ خود.»",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "گفتند"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "می‌رانیم"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "به سهمِ خود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مراتع"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "مراتع"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-13T22:49:03.791258051Z",
+  "model": "glm-5.2"
+}

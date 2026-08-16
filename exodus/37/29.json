@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 37:29",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "و ⟨את⟩ روغنِ مسحِ مقدس را ساخت، و ⟨את⟩ بخورِ عطریاتِ پاک را — کارِ عطّار.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و ساخت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "روغن"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "روغن"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "مسح"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "بخور"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "بخور"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "عطریات"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "عطّار"
+    }
+  ],
+  "timestamp": "2026-08-13T20:20:15.848259939Z",
+  "model": "glm-5.2"
+}

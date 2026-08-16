@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 10:21",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "چهار چهار روی به یکی، و چهار بال به یکی، و دِموتی دست‌های اَدَم زیر بال‌هایشان.",
+  "tokens": [
+    {
+      "surface": "ארבעה",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "روی"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "به یکی"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "و چهار"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "بال"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "به یکی"
+    },
+    {
+      "surface": "ודמות",
+      "gloss": "و دِموت"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "دست‌های"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "اَدَم"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "زیر"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "بال‌هایشان"
+    }
+  ],
+  "timestamp": "2026-08-13T22:13:34.435104610Z",
+  "model": "glm-5.2"
+}

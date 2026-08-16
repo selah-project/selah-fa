@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "یاهوه خواهد جنگید برای شما، و شما خواهید خاموش ماند.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "خواهد جنگید"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "برای شما"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "و شما"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "خواهید خاموش ماند"
+    }
+  ],
+  "timestamp": "2026-08-13T20:13:56.052486216Z",
+  "model": "glm-5.2"
+}

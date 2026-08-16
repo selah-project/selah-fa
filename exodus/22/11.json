@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "و اگر از نزدِ او دزدیده شود، به صاحبش جبران نماید.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "دزدی"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "دزدیده شود"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "از نزدِ او"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "جبران نماید"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "به صاحبش"
+    }
+  ],
+  "timestamp": "2026-08-13T20:15:42.423977123Z",
+  "model": "glm-5.2"
+}

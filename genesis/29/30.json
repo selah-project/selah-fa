@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 29:30",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و ⟨او⟩ نیز نزد راحِل درآمد، و نیز راحِل را بیش از لِئه دوست داشت، و با او هفت سالِ دیگر نیز کار کرد.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "و درآمد"
+    },
+    {
+      "surface": "גם",
+      "gloss": "نیز"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نزد"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحِل"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "و دوست داشت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "نیز"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "راحِل"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحِل"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "بیش از لِئه"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "و کار کرد"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "با او"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بیشتر\/همچنان"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "دیگر"
+    }
+  ],
+  "timestamp": "2026-08-13T23:53:17.117572620Z",
+  "model": "glm-5.2"
+}

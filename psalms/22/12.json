@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "دور مباش از من، که تنگی نزدیک است، که ⟨هیچ⟩ یاوری نیست.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "مباش"
+    },
+    {
+      "surface": "תִּרְחַ֣ק",
+      "gloss": "دور"
+    },
+    {
+      "surface": "מִ֭מֶּנִּי",
+      "gloss": "از من"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "که"
+    },
+    {
+      "surface": "צָרָ֣ה",
+      "gloss": "تنگی"
+    },
+    {
+      "surface": "קְרוֹבָ֑ה",
+      "gloss": "نزدیک است"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אֵ֥ין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "עוֹזֵֽר",
+      "gloss": "یاور"
+    }
+  ],
+  "timestamp": "2026-08-13T22:39:47.581946772Z",
+  "model": "glm-5.2"
+}

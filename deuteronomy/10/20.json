@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "⟨את⟩ یاهوه الوهیمِ خود بترسید، ⟨את⟩ او را بپرستید، و به او بچسبید، و به نامِ او قسم بخورید.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "الوهیمِ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "بترسید"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ او",
+      "marks": "بپرستید"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "بپرستید"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "و به او"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "بچسبید"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "و به نامِ"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "او قسم بخورید"
+    }
+  ],
+  "timestamp": "2026-08-13T20:46:17.626845012Z",
+  "model": "glm-5.2"
+}

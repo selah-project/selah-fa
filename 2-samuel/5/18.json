@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 5:18",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و فلیشتی‌ها آمدند و پهن شدند در درهٔ رِفائیم.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "و فلیشتی‌ها"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آمدند"
+    },
+    {
+      "surface": "וינטשו",
+      "gloss": "و پهن شدند"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "در درهٔ"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رفائیم"
+    }
+  ],
+  "timestamp": "2026-08-13T21:17:47.214364306Z",
+  "model": "glm-5.2"
+}

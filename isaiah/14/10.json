@@ -1,0 +1,53 @@
+{
+  "tier": "hand",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "همهٔ ایشان پاسخ خواهند داد و به تو خواهند گفت: «تو نیز مانندِ ما سست شده‌ای! به ما مانند گشته‌ای؟»",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "همهٔ ایشان"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "پاسخ خواهند داد"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "و خواهند گفت"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "به تو"
+    },
+    {
+      "surface": "גם",
+      "gloss": "نیز"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "سست شده‌ای"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "مانندِ ما"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "به ما"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "مانند گشته‌ای"
+    }
+  ],
+  "timestamp": "2026-08-14T17:47:39Z",
+  "model": "claude-fable-5/hand"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 24:10",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "اگر در روزِ تنگنا سستی کنی، تنگ است توانِ تو.",
+  "tokens": [
+    {
+      "surface": "הִתְרַפִּיתָ",
+      "gloss": "سستی کردی"
+    },
+    {
+      "surface": "בְּיוֹם",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "צָרָה",
+      "gloss": "تنگنا"
+    },
+    {
+      "surface": "צַר",
+      "gloss": "تنگ"
+    },
+    {
+      "surface": "כֹּחֶכָה",
+      "gloss": "توانِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:35.416304774Z",
+  "model": "glm-5.2"
+}

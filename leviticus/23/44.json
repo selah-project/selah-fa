@@ -1,0 +1,46 @@
+{
+  "tier": "hand",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "و موشه ⟨את⟩ موعدهایِ یاهوه را به فرزندانِ یِسرائیل بازگفت.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و بازگفت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موعدها"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "موعدهایِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "בני",
+      "gloss": "فرزندانِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-14T17:46:57Z",
+  "model": "claude-fable-5/hand"
+}

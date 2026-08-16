@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "با مردی بی‌جهان نزع کن، اگر او بدی به تو نکرده باشد.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "نزع کن"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بی‌جهان"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "به تو کرده باشد"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدی"
+    }
+  ],
+  "timestamp": "2026-08-13T22:59:39.035508395Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 27:7",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "نفسِ سیر، عسلِ صدیده را لگد می‌کند، و نفسِ گرسنه، هر چیز تلخ را شیرین می‌یابد.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "سیر"
+    },
+    {
+      "surface": "תבוס",
+      "gloss": "لگد می‌کند"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "عسلِ صدیده"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "و نفس"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "گرسنه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "מר",
+      "gloss": "تلخ"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "شیرین"
+    }
+  ],
+  "timestamp": "2026-08-13T23:05:30.310873118Z",
+  "model": "glm-5.2"
+}

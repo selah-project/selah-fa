@@ -1,0 +1,65 @@
+{
+  "tier": "4.6",
+  "verse": 17,
+  "ref": "genesis 35:17",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "وَیَهی بِهَقشُوتاه بِلِدتاه وَتُامِر لاه هَمیَلِدِت اَل تِیرای کی گَم زِه لَک بِن",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وَیَهی"
+    },
+    {
+      "surface": "בהקשתה",
+      "gloss": "بِهَقشُوتاه"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "بِلِدتاه"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "وَتُامِر"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لاه"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "هَمیَلِدِت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اَل"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "تِیرای"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "גם",
+      "gloss": "گَم"
+    },
+    {
+      "surface": "זה",
+      "gloss": "زِه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لَک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    }
+  ],
+  "timestamp": "2026-08-15T03:40:17.061113939Z",
+  "model": "glm-4.6"
+}

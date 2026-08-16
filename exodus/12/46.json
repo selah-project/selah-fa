@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 12:46",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "در یک خانه خورده شود؛ گوشت را از خانه بیرون مبرید، به بیرون، و استخوانی در آن نشکنید.",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "در خانه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "خورده شود"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "مبرید"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "خانه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "بیرون"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "و استخوانی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "شکنید"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در آن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:13:08.240678467Z",
+  "model": "glm-5.2"
+}

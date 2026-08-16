@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 9:36",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و پسرش بزرگزادِ عَودون، و تْسور، و قیش، و بَعَل، و نِر، و ناداو.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "و پسرش"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "بزرگزادِ"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "عَودون"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "و تْسور"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "و قیش"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "و بَعَل"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "و نِر"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "و ناداو"
+    }
+  ],
+  "timestamp": "2026-08-13T23:38:31.280908152Z",
+  "model": "glm-5.2"
+}

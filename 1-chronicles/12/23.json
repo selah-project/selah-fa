@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 12:23",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "زیرا به وقتِ روز به روز بر داوید می‌آمدند برای یاریِ او، تا ⟨شد⟩ لشکری بزرگ مانند لشکر الوهیم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "به وقتِ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "به روز"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "می‌آمدند"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوید"
+    },
+    {
+      "surface": "לעזרו",
+      "gloss": "برای یاریِ او"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "لشکری"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "כמחנה",
+      "gloss": "مانند لشکرِ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:39:09.160554484Z",
+  "model": "glm-5.2"
+}

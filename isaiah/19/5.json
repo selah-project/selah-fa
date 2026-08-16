@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و خشک خواهد شد آب از دریا، و رود ویران گردد و خشک شود.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "و خشک خواهد شد"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آب"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "از دریا"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "و رود"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "ویران گردد"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "و خشک شود"
+    }
+  ],
+  "timestamp": "2026-08-13T21:44:31.866618539Z",
+  "model": "glm-5.2"
+}

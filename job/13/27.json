@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 13:27",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "و پای مرا در غل می‌گذاری، و همهٔ راه‌های مرا نگاه می‌بانی؛ بر کفِ پای مرا نقش می‌کَشی.",
+  "tokens": [
+    {
+      "surface": "ותשם",
+      "gloss": "و"
+    },
+    {
+      "surface": "בסד",
+      "gloss": "در"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "غل"
+    },
+    {
+      "surface": "وתשמור",
+      "gloss": "پای"
+    },
+    {
+      "surface": "כל",
+      "gloss": "مرا"
+    },
+    {
+      "surface": "ארחותי",
+      "gloss": "می‌گذاری"
+    },
+    {
+      "surface": "על",
+      "gloss": "و"
+    },
+    {
+      "surface": "שרשי",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "راه‌های"
+    },
+    {
+      "surface": "תתחקה",
+      "gloss": "مرا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:09:03.002120001Z",
+  "model": "glm-5.2"
+}

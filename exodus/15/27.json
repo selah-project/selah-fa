@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 15:27",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و آمدند به اِیلیم، و آن‌جا دوازده چشمهٔ آب و هفتاد نخل بود، و در آن‌جا بر آب‌ها اردو زدند.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "و آمدند"
+    },
+    {
+      "surface": "אילמה",
+      "gloss": "به اِیلیم"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "و آن‌جا"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ده"
+    },
+    {
+      "surface": "עינת",
+      "gloss": "چشمهٔ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آب"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "و هفتاد"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "نخل"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "و اردو زدند"
+    },
+    {
+      "surface": "שם",
+      "gloss": "در آن‌جا"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "המים",
+      "gloss": "آب‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T20:13:31.854343925Z",
+  "model": "glm-5.2"
+}

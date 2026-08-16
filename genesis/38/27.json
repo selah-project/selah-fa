@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 38:27",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 38,
+  "translation": "و چون شد در هنگامِ زاییدنِ او، و اینک دوقلوها در شکمِ ⟨او⟩ بودند،",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و چون شد"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "در هنگامِ"
+    },
+    {
+      "surface": "לדתה",
+      "gloss": "زاییدنِ او"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "תאומים",
+      "gloss": "دوقلوها"
+    },
+    {
+      "surface": "בבטנה",
+      "gloss": "در شکمِ ⟨او⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T20:05:47.497194959Z",
+  "model": "glm-5.2"
+}

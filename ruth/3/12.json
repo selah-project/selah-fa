@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و اکنون، هرچند راست که من گُعِل ⟨هستم⟩، نیز گُعِلی نزدیک‌تر از من هست.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و اکنون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "هرچند"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "راست"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ـ"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "گُعِل"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "همچنین \/ نیز"
+    },
+    {
+      "surface": "יש",
+      "gloss": "هست"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "گُعِلی"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "نزدیک‌تر"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "از من"
+    }
+  ],
+  "timestamp": "2026-08-13T23:16:52.910260719Z",
+  "model": "glm-5.2"
+}

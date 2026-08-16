@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 1:1",
+  "book": "nahum",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "بارِ نینوه، کتابِ رؤیای ناحوم اَلکُشی.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "نینوه"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "کتابِ"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "رؤیا"
+    },
+    {
+      "surface": "נחום",
+      "gloss": "ناحوم"
+    },
+    {
+      "surface": "האלקשי",
+      "gloss": "اَلکُشی"
+    }
+  ],
+  "timestamp": "2026-08-13T22:33:03.849830750Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 6:27",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "بلکه بر یتیم می‌افکنید، و بر یارِ خود ⟨گور⟩ می‌کنید.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "بلکه"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "یتیم"
+    },
+    {
+      "surface": "תפילו",
+      "gloss": "می‌افکنید"
+    },
+    {
+      "surface": "ותכרו",
+      "gloss": "و می‌کنید"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ריעכם",
+      "gloss": "یارِ شما"
+    }
+  ],
+  "timestamp": "2026-08-13T23:07:25.486416616Z",
+  "model": "glm-5.2"
+}

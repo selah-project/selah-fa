@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 15:31",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و شموئیل پس از شاؤل بازگشت، و شاؤل برای یاهوه سجده کرد.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "و بازگشت"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئیل"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پس از"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "و سجده کرد"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "برای یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T21:11:34.586444006Z",
+  "model": "glm-5.2"
+}

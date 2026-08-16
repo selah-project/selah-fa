@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 3:4",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و ⟨את⟩ دو کلیه‌ها و ⟨את⟩ چربیِ که بر آن‌هاست، که بر کمرهاست، و ⟨את⟩ زیاده‌بر کبد، بر کلیه‌ها برمی‌دارد.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "دو کلیه‌ها"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "کلیه‌ها"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "چربی"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "چربیِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "بر آن‌هاست"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "کمرهاست"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "زیاده‌بر کبد"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "زیاده‌بر"
+    },
+    {
+      "surface": "על",
+      "gloss": "برِ"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "کبد"
+    },
+    {
+      "surface": "על",
+      "gloss": "با"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "کلیه‌ها"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "برمی‌دارد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:22:21.063702921Z",
+  "model": "glm-5.2"
+}

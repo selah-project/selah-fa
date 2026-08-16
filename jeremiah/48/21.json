@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 48:21",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 48,
+  "translation": "و داوری ⟨آمده⟩ است بر سرِ زمینِ دشت، بر خولون و بر یاهصه و بر موفعت،",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "و داوری"
+    },
+    {
+      "surface": "בא",
+      "gloss": "⟨آمده⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بر سرِ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینِ"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "دشت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "خولون"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "یاهصه"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "מופעת",
+      "gloss": "موفعت"
+    }
+  ],
+  "timestamp": "2026-08-14T00:07:02.042993724Z",
+  "model": "glm-5.2"
+}

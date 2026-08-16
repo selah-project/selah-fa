@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 29,
+  "ref": "proverbs 15:29",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "یاهوه از شریران دور است، و تمنای صديقان را می‌شنود.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "دور"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "از شریران"
+    },
+    {
+      "surface": "ותפלת",
+      "gloss": "و تمنای"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "صديقان"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "می‌شنود"
+    }
+  ],
+  "timestamp": "2026-08-15T04:27:08.122046554Z",
+  "model": "glm-5.3"
+}

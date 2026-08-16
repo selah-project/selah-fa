@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 21:29",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "⟨את⟩ یَرموت و ⟨את⟩ مراتعش، ⟨את⟩ عِین-گَنّیم و ⟨את⟩ مراتعش؛ شهرها چهار.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یَرموت"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "یَرموت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مراتعش"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "مراتعش"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عِین-گَنّیم"
+    },
+    {
+      "surface": "עין",
+      "gloss": "عِین"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "گَنّیم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مراتعش"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "مراتعش"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شهرها"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چهار"
+    }
+  ],
+  "timestamp": "2026-08-13T20:59:22.035496433Z",
+  "model": "glm-5.2"
+}

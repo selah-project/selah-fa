@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 11:1",
+  "book": "daniel",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و من، در سالِ یکمِ داریوشِ مادی، ایستادم — برای نیروبخشی و برای دژِ او.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "و من"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "در سالِ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یکم"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "داریوش"
+    },
+    {
+      "surface": "המדי",
+      "gloss": "مادی"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ایستادم"
+    },
+    {
+      "surface": "למחזיק",
+      "gloss": "برای نیروبخشی"
+    },
+    {
+      "surface": "ולמעוז",
+      "gloss": "و برای دژ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:28:37.794174427Z",
+  "model": "glm-5.2"
+}

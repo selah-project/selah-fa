@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "همهٔ هدایای تو را به یاد آورد، و عَشیهٔ تو را بپذیرد. سِلاه.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "به یاد آورد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "هدایای تو را"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "و عَشیهٔ تو را"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "بپذیرد"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:39:51.926981137Z",
+  "model": "glm-5.2"
+}

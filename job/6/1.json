@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 6:1",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "وَ ایّوب پاسخ داد و گفت:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "و پاسخ داد"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ایّوب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:07:50.677889526Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "و گفت: ⟨את⟩ برادرانم من می‌جوم. خبر ده الآن به من کجا آنان گله‌داری می‌کنند؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "برادرانم"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برادرانم"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "می‌جوم"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "خبر ده"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "کجا"
+    },
+    {
+      "surface": "הם",
+      "gloss": "آنان"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "گله‌داری می‌کنند"
+    }
+  ],
+  "timestamp": "2026-08-13T20:05:23.748137458Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "سپرِ من بر الوهیم است، نجات‌دهندهٔ راست‌دل‌ها.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "سپرِ من"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "نجات‌دهنده"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "راست"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-08-13T22:37:21.748648870Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 47:17",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 47,
+  "translation": "و ⟨بود⟩ سرحد از دریا حَصَرْ عَینون، سرحد دَمَشَق، و شمال به سوی شمال، و سرحد حَماة؛ و ⟨את⟩ سمت شمال.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "حَصَر"
+    },
+    {
+      "surface": "עינון",
+      "gloss": "عَینون"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "دَمَشَق"
+    },
+    {
+      "surface": "וצפון",
+      "gloss": "و شمال"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "به سوی شمال"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "و سرحد"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حَماة"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سمت"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "سمت"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "شمال"
+    }
+  ],
+  "timestamp": "2026-08-13T22:24:53.552917436Z",
+  "model": "glm-5.2"
+}

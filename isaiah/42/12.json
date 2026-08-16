@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "isaiah 42:12",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 42,
+  "translation": "به یاهوه جلال بنهند و ستایشِ او را در جزایر بگویند.",
+  "tokens": [
+    {
+      "surface": "ישימו",
+      "gloss": "بنهند"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "به یاهوه"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "و ستایشِ او را"
+    },
+    {
+      "surface": "באיים",
+      "gloss": "در جزایر"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "بگویند"
+    }
+  ],
+  "timestamp": "2026-08-15T04:09:54.732368688Z",
+  "model": "glm-5.3"
+}

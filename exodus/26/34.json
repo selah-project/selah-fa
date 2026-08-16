@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "و ⟨את⟩ کاپورت را بر آرونِ گواهی در مقدّسِ مقدّسان بگذار.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "و بگذاری"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کاپورت"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "کاپورت"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "آرونِ"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "گواهی"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "در مقدّسِ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "مقدّسان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:17:34.580222350Z",
+  "model": "glm-5.2"
+}

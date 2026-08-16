@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 75,
+  "translation": "چون من زمانِ مقرّر را برمی‌گیرم، من به درستی داوری می‌کنم. سلا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "برمی‌گیرم"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "زمانِ مقرّر را"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "به درستی"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "داوری می‌کنم"
+    }
+  ],
+  "timestamp": "2026-08-13T22:48:11.024148697Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 14:20",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "شناختیم، یاهوه، بدیِ ما را، گناهِ پدرانِ ما را، که به تو گناه کردیم.",
+  "tokens": [
+    {
+      "surface": "ידענו",
+      "gloss": "شناختیم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "רשענו",
+      "gloss": "بدیِ ما را"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گناهِ"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "پدرانِ ما"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "گناه کردیم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "به تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:00:18.506908141Z",
+  "model": "glm-5.2"
+}

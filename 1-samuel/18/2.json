@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 18:2",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و گرفت او را شائول در آن روز، و نداد او را که بازگردد به خانهٔ پدرِ او.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "و گرفت او را"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "داد او را"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "به بازگشت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانهٔ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پدرِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T21:13:14.486058617Z",
+  "model": "glm-5.2"
+}

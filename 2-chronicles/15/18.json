@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و ⟨את⟩ مقدّساتِ پدرش و مقدّساتِ خود را به درونِ بیتِ الوهیم آورد؛ نقره و طلا و ظروف.",
+  "tokens": [
+    {
+      "surface": "וביא",
+      "gloss": "و آورد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مقدّساتِ پدرش"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "مقدّساتِ"
+    },
+    {
+      "surface": "אביو",
+      "gloss": "پدرش"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "و مقدّساتِ خود"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیتِ"
+    },
+    {
+      "surface": "האلהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "نقره"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "و طلا"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "و ظروف"
+    }
+  ],
+  "timestamp": "2026-08-13T23:46:18.617065783Z",
+  "model": "glm-5.2"
+}

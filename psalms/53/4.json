@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 53,
+  "translation": "همة آنان برگشتند; یکجا فاسد شدند; نیست کنندة نیکی، نیست، حتی یکی.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "همة آنان"
+    },
+    {
+      "surface": "סג",
+      "gloss": "برگشتند"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "یکجا"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "فاسد شدند"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کنندهٔ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیکی"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "גם",
+      "gloss": "حتی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکی"
+    }
+  ],
+  "timestamp": "2026-08-13T22:45:01.487979534Z",
+  "model": "glm-5.2"
+}

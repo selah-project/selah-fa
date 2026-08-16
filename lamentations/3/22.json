@@ -1,0 +1,49 @@
+{
+  "tier": "4.6",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "رحمت‌های یاهوه که ما هلاک نشدیم، زیرا رحم‌های او به انجام نرسیدند.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "رحمت‌های"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "هلاک شدیم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "به انجام رسیدند"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "رحم‌های او"
+    }
+  ],
+  "timestamp": "2026-08-15T04:30:18.501040165Z",
+  "model": "glm-4.6"
+}

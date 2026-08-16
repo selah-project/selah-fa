@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "و دخترِ كاهن چون باشد برای مردِ بیگانه، او از هدایای قدس‌ها نبود بخورد.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "و دخترِ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "كاهن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "باشد"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "برای مردِ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "بیگانه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "از هدایای"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "قدس‌ها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "بخورد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:28:11.539413685Z",
+  "model": "glm-5.2"
+}

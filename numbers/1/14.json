@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "برای گاد، اِلْیاساف بن دِعوئیل.",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "برای گاد"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "اِلْیاساف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "دِعوئیل"
+    }
+  ],
+  "timestamp": "2026-08-13T20:30:28.765971593Z",
+  "model": "glm-5.2"
+}

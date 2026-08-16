@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 1:9",
+  "book": "zechariah",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و گفتم: اینان چیست‌اند، اَدونایِ من؟ و ⟨ملاکِ⟩ گوینده در من، به من گفت: من به تو نشان خواهم داد که اینان چیست‌اند.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "و گفتم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اینان"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونایِ من"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "⟨ملاکِ⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "گوینده"
+    },
+    {
+      "surface": "בי",
+      "gloss": "در من"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "به تو نشان خواهم داد"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اینان"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اینان"
+    }
+  ],
+  "timestamp": "2026-08-14T00:10:44.847885286Z",
+  "model": "glm-5.2"
+}

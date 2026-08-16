@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 16:20",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "و آوشالوم به آحیتوفِل گفت: شما مشورت دهید، چه کنیم؟",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אַבְשָׁלוֹם",
+      "gloss": "آوشالوم"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אֲחִיתֹפֶל",
+      "gloss": "آحیتوفِل"
+    },
+    {
+      "surface": "הָבוּ",
+      "gloss": "دهید"
+    },
+    {
+      "surface": "לָכֶם",
+      "gloss": "برای شما"
+    },
+    {
+      "surface": "עֵצָה",
+      "gloss": "مشورت"
+    },
+    {
+      "surface": "מָה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "נַעֲשֶׂה",
+      "gloss": "کنیم"
+    }
+  ],
+  "timestamp": "2026-08-13T21:20:39.787699526Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "بَزیوَر رائوبِن و نَمیرد، و مَردانِش به شمار.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "بَزیوَر"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رائوبِن"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و نَ"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "میرد"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و باشد"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "مَردانِش"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "به شمار"
+    }
+  ],
+  "timestamp": "2026-08-13T20:53:16.926398891Z",
+  "model": "glm-5.2"
+}

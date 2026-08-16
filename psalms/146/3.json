@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 146,
+  "translation": "توکل نکنید بر نجیب‌زادگان، بر پسرِ انسانِ که نجاتی برای او نیست.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "توکل نکنید"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "بر نجیب‌زادگان"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "بر پسرِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسانِ"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "که نیست"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برای او"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "نجات"
+    }
+  ],
+  "timestamp": "2026-08-13T22:58:35.151477591Z",
+  "model": "glm-5.2"
+}

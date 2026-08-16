@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و موشه به جامعه گفت: این است سخنی که یاهوه فرمود تا انجام شود.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "جامعه"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "سخن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فرمود"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "تا انجام شود"
+    }
+  ],
+  "timestamp": "2026-08-15T03:49:36.941342532Z",
+  "model": "glm-5.3"
+}

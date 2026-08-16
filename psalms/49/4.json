@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 49,
+  "translation": "دهانِ من خواهد گفت حکمت‌ها، و اندیشهٔ دلِ من فهم‌ها.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "دهانِ من"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "خواهد گفت"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "حکمت‌ها"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "و اندیشهٔ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دلِ من"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "فهم‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T22:44:07.577557946Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 107,
+  "translation": "به یاهوه سپاس گویید، زیرا که نیکوست، زیرا که رحمتِ او تا به ابد است",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "سپاس گویید"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "به یاهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا که"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیکوست"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا که"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "تا به ابد"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "رحمتِ او"
+    }
+  ],
+  "timestamp": "2026-08-15T20:54:16.870691630Z",
+  "model": "glm-5.3+hand"
+}

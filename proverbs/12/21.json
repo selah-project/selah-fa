@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "proverbs 12:21",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "به صادق هیچ باکی نمی‌رسد، و شریران از بدی پُر شده‌اند.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יאנה",
+      "gloss": "می‌رسد"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "به صادق"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هیچ"
+    },
+    {
+      "surface": "און",
+      "gloss": "باکی"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "و شریران"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "پُر شده‌اند"
+    },
+    {
+      "surface": "רע",
+      "gloss": "از بدی"
+    }
+  ],
+  "timestamp": "2026-08-15T04:27:30.915986645Z",
+  "model": "glm-5.3"
+}

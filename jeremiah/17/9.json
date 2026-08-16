@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 17:9",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "فریبکار ⟨است⟩ دل از همه، و درمان‌ناپذیر ⟨است⟩ او — چه‌کسی او را خواهد شناخت؟",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "فریبکار"
+    },
+    {
+      "surface": "הלב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "از همه"
+    },
+    {
+      "surface": "ואנש",
+      "gloss": "و درمان‌ناپذیر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "מי",
+      "gloss": "چه‌کسی"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "خواهد شناخت او را"
+    }
+  ],
+  "timestamp": "2026-08-13T22:00:28.702527773Z",
+  "model": "glm-5.2"
+}

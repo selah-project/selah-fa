@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 18:15",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و شاه به او گفت: تا چند بار مرا قسم می‌دهم که با من سخن نگویری، جز راستی به نامِ یاهوه؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وَ گفت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "چند"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "بار"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "משביעך",
+      "gloss": "مرا قسم می‌دهم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "سخن بگوویی"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "با من"
+    },
+    {
+      "surface": "רק",
+      "gloss": "جز"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "به نامِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:47:11.963008869Z",
+  "model": "glm-5.2"
+}

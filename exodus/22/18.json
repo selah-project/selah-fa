@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "هر کس که با بهیمه بخوابد، ⟨او⟩ مرگ کشته خواهد شد.",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "שֹׁכֵב",
+      "gloss": "خوابنده"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "با"
+    },
+    {
+      "surface": "בְּהֵמָה",
+      "gloss": "بهیمه"
+    },
+    {
+      "surface": "מוֹת",
+      "gloss": "مرگ"
+    },
+    {
+      "surface": "יוּמָת",
+      "gloss": "کشته خواهد شد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:15:59.079615439Z",
+  "model": "glm-5.2"
+}

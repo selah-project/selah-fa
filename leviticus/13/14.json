@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "و در روزِ دیده‌شدن در او گوشتِ زندهٔ خام، ناپاک می‌شود.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "و در روزِ"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "دیده‌شدن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در او"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زندهٔ خام"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ناپاک می‌شود"
+    }
+  ],
+  "timestamp": "2026-08-15T03:49:49.715091806Z",
+  "model": "glm-5.3"
+}

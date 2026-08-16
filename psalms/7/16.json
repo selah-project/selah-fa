@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "گودالی حفر کرد و آن را ژرف کرد، و در گودالی که می‌سازد، افتاد.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "گودالی"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "حفر کرد"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "و آن را ژرف کرد"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "و افتاد"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "در گودالی"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "که می‌سازد"
+    }
+  ],
+  "timestamp": "2026-08-13T22:37:44.605599159Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "بشنوید و گوش فرا دهید، مغرور مشوید، زیرا یاهوه سخن گفته است.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "بشنوید"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "و گوش فرا دهید"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "مغرور مشوید"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخن گفته است"
+    }
+  ],
+  "timestamp": "2026-08-13T21:59:49.806451215Z",
+  "model": "glm-5.2"
+}

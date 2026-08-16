@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 14:34",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "عدالت، امتی را برمی‌افرازد، و گناهِ امت‌ها شرم‌آور است.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "عدالت"
+    },
+    {
+      "surface": "תרומם",
+      "gloss": "برمی‌افرازد"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "امتی را"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "و ੍ناحتِ"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "امت‌ها"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "گناه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:08.960309460Z",
+  "model": "glm-5.2"
+}

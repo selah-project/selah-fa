@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "نگاهه‌دارندهٔ فرمان، چیزِ بدی نخواهد دانست، و زمان و داوری را دلِ حکیمانه می‌داند.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "نگاهه‌دارندهٔ"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "فرمان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "خواهد دانست"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چیز"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "و زمان"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "و داوری"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "می‌داند"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دلِ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حکیمانه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:16.380288775Z",
+  "model": "glm-5.2"
+}

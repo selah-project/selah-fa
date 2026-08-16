@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و شکوهید قوم بر موشه، به‌گفتن: «چه بنوشیم؟»",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "و شکوهید"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به‌گفتن"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "بنوشیم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:13:22.120547736Z",
+  "model": "glm-5.2"
+}

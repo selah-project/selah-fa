@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 5:9",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و ⟨او⟩ از خونِ هَتاوت بر دیوارِ مذبح پاشد، و آنچه از خون باقی ماند به پایهٔ مذبح فشرده شود؛ هَتاوت است ⟨آن⟩.",
+  "tokens": [
+    {
+      "surface": "והזה",
+      "gloss": "و پاشد"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "از خون"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "هَتاوت"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "دیوار"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "והנשאר",
+      "gloss": "و آنچه باقی ماند"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "در خون"
+    },
+    {
+      "surface": "ימצה",
+      "gloss": "فشرده شود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "پایه"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "هَتاوت"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او\/آن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:23:11.852575458Z",
+  "model": "glm-5.2"
+}

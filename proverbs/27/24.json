@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "زیرا نه برای همیشه ثروت، و اگر تاجی ⟨باقی نمانَد⟩ تا نسلِ نسل.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "نه"
+    },
+    {
+      "surface": "לְעוֹלָ֣ם",
+      "gloss": "برایِ همیشه"
+    },
+    {
+      "surface": "חֹ֑סֶן",
+      "gloss": "ثروت"
+    },
+    {
+      "surface": "וְאִם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "נֵ֝֗זֶר",
+      "gloss": "تاجی"
+    },
+    {
+      "surface": "לְד֣וֹר",
+      "gloss": "تا نسلِ"
+    },
+    {
+      "surface": "דֽוֹר",
+      "gloss": "نسل"
+    }
+  ],
+  "timestamp": "2026-08-13T23:05:33.838825838Z",
+  "model": "glm-5.2"
+}

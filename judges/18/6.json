@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 18:6",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و کاهن به آنان گفت: به سلامتی بروید؛ راهِ شما که در آن می‌روید برابرِ یاهوه ⟨است⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "به آنان"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "بروید"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "به سلامتی"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "برابرِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "דרככם",
+      "gloss": "راهِ شما"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "می‌روید"
+    },
+    {
+      "surface": "בה",
+      "gloss": "در آن"
+    }
+  ],
+  "timestamp": "2026-08-13T21:06:21.067958961Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 6:20",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "پسرِ صوف، پسرِ اَلقَنه، پسرِ مَحات، پسرِ عَماسی.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "ציף",
+      "gloss": "صوف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "اَلقَنه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "מחת",
+      "gloss": "مَحات"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "عَماسی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:59.443662104Z",
+  "model": "glm-5.2"
+}

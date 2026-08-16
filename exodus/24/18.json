@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "exodus 24:18",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و موشه در میانِ ابر درآمد و به کوه بالا رفت؛ و موشه بر کوه بود چهل روز و چهل شب.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "و درآمد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "در میانِ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ابر"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "و بالا رفت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "کوه"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "بر کوه"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چهل"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "و چهل"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شب"
+    }
+  ],
+  "timestamp": "2026-08-15T20:53:08.957684188Z",
+  "model": "glm-5.3+hand"
+}

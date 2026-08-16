@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 62,
+  "translation": "تنها او ⟨است⟩ صخره‌ی من و رستگاریِ من؛ دژِ من، نمی‌لرزم.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "تنها"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "صخره‌ی من"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "و رستگاریِ من"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "دژِ من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "می‌لرزم"
+    }
+  ],
+  "timestamp": "2026-08-13T22:45:39.411479617Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 17:23",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "و اینک، ای یاهوه، سخن را که بر بندهٔ خود و بر خانهٔ او گفتی، تا جایِ همیشگی استوار بدار، و چنان کن که گفتی!",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ای یاهوه"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "سخن را"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "گفتی"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "بندهٔ خود"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "خانهٔ او"
+    },
+    {
+      "surface": "יאמן",
+      "gloss": "استوار بدار"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "همیشگی"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "و کن"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چنان که"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "گفتی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:32.382743445Z",
+  "model": "glm-5.2"
+}

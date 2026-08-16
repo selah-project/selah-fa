@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 78,
+  "translation": "و دلِ ⟨آنها⟩ استوار نبود با او، و به پیمانِ او ایمان نیاوردند.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "و دلِ ⟨آنها⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "استوار بود"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "با او"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "ایمان آوردند"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "به پیمانِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T22:48:34.478282855Z",
+  "model": "glm-5.2"
+}

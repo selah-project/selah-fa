@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 13:18",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "و یَهصَه و قِدِموت و مِفعات،",
+  "tokens": [
+    {
+      "surface": "וְיַ֥הְצָה",
+      "gloss": "و یَهصَه"
+    },
+    {
+      "surface": "וּקְדֵמֹ֖ת",
+      "gloss": "و قِدِموت"
+    },
+    {
+      "surface": "וּמֵפָֽעַת",
+      "gloss": "و مِفعات"
+    }
+  ],
+  "timestamp": "2026-08-13T20:56:46.294302571Z",
+  "model": "glm-5.2"
+}

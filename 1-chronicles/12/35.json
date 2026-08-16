@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 12:35",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و از نَفتالی، سرانِ هزار، و با ایشان با سپر و نیزه سی و هفت هزار.",
+  "tokens": [
+    {
+      "surface": "ומנפתלי",
+      "gloss": "و از نَفتالی"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "سرانِ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "و با ایشان"
+    },
+    {
+      "surface": "בצנה",
+      "gloss": "با سپر"
+    },
+    {
+      "surface": "וחנית",
+      "gloss": "و نیزه"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "و هفت"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    }
+  ],
+  "timestamp": "2026-08-13T23:39:11.336653725Z",
+  "model": "glm-5.2"
+}

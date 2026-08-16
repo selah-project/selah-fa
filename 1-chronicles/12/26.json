@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 12:26",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "از بنیانِ شیمون، دلاورانِ قدرت برای لشکر، هفت هزار و یکصد.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنیانِ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شیمون"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "دلاورانِ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "قدرت"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "برای لشکر"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "و یکصد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:39:01.992622648Z",
+  "model": "glm-5.2"
+}

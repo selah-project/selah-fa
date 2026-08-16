@@ -1,0 +1,61 @@
+{
+  "ref": "deuteronomy 32:42",
+  "lang": "fa",
+  "book": "deuteronomy",
+  "chapter": 32,
+  "verse": 42,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:55:53Z",
+  "translation": "تیرهایم را از خون مست خواهم ساخت، و شمشیرم گوشت خواهد خورد — از خونِ کشتگان و اسیران، از سرِ سرانِ دشمن.",
+  "tokens": [
+    {
+      "surface": "אשכיר",
+      "gloss": "مست خواهم ساخت"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "تیرهایم را"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "از خون"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "و شمشیرم"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "خواهد خورد"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "از خونِ"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "کشتگان"
+    },
+    {
+      "surface": "ושביה",
+      "gloss": "و اسیران"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "از سرِ"
+    },
+    {
+      "surface": "פרעות",
+      "gloss": "سرانِ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دشمن"
+    }
+  ]
+}

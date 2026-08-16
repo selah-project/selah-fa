@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "تا کی ⟨את⟩ نشان را ببینم؟ صدای شوفار را بشنوم؟",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מָתַ֖י",
+      "gloss": "کی"
+    },
+    {
+      "surface": "אֶרְאֶה",
+      "gloss": "ببینم"
+    },
+    {
+      "surface": "נֵּ֑ס",
+      "gloss": "⟨את⟩",
+      "marks": "نشان"
+    },
+    {
+      "surface": "אֶשְׁמְעָ֖ה",
+      "gloss": "بشنوم"
+    },
+    {
+      "surface": "ק֥וֹל",
+      "gloss": "صدای"
+    },
+    {
+      "surface": "שׁוֹפָֽר",
+      "gloss": "شوفار"
+    }
+  ],
+  "timestamp": "2026-08-13T21:56:48.625561341Z",
+  "model": "glm-5.2"
+}

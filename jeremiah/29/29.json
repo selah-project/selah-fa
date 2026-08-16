@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و تْسِفَنیَه کاهن ⟨את⟩ این نامه را در گوش‌های ییرمیَهو نبی خواند.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "و خواند"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "تْسِفَنیَه"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "این نامه"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "نامه"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "در گوش‌های"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ییرمیَهو"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    }
+  ],
+  "timestamp": "2026-08-15T04:11:51.607809664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 2:2",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "دان، یوسِف، و بینْیامین، نَفْتالی، گاد، و آشِر.",
+  "tokens": [
+    {
+      "surface": "דָּן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "יוֹסֵף",
+      "gloss": "یوسِف"
+    },
+    {
+      "surface": "וּבִנְיָמִן",
+      "gloss": "و بینْیامین"
+    },
+    {
+      "surface": "נַפְתָּלִי",
+      "gloss": "نَفْتالی"
+    },
+    {
+      "surface": "גָּד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "וְאָשֵׁר",
+      "gloss": "و آشِر"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:37.901852845Z",
+  "model": "glm-5.2"
+}

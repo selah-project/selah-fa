@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "که ⟨برای⟩ او فرماندهی نیست، ناظر و فرمان‌روا.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "לה",
+      "gloss": "برای او"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "فرمانده"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "ناظر"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "و فرمان‌روا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:00:18.146554101Z",
+  "model": "glm-5.2"
+}

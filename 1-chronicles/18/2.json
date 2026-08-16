@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و ⟨את⟩ موآب را زد, و موآب были ⟨بودند⟩ بردگانِ داوود، آورندگانِ خراج.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "و زد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موآب"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "و بودند"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "بردگان"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "برایِ داوود"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "آورندگانِ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "خراج"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:17.259141507Z",
+  "model": "glm-5.2"
+}

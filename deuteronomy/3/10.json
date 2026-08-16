@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "همهٔ شهرهای دشت و همهٔ گیلعاد و همهٔ باشان، تا صَلخه و عَدرَعی، شهرهای پادشاهی عوگ در باشان.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شهرهای"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "دشت"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و همهٔ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "گیلعاد"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و همهٔ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "باشان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "صَلخه"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "و عَدرَعی"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شهرهای"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "پادشاهی"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "عوگ"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "در باشان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:43:51.671156945Z",
+  "model": "glm-5.2"
+}

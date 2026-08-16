@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 22:15",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "وَبالاک باز افزود فرستادنِ سرورانی بسیار و گرامی‌تر از این‌ها.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "واباز افزود"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "باز"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاک"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "فرستادنِ"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "سرورانی"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "ונכבדים",
+      "gloss": "وگرامی‌تر"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "از این‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T20:38:11.096261021Z",
+  "model": "glm-5.2"
+}

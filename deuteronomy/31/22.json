@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و موشه ⟨את⟩ این سرود را در آن روز نوشت، و آن را به ⟨את⟩ بنی‌یسْرائیل آموخت.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "و نوشت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "این سرود"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "این سرود"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "را"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن روز"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "و آن را آموخت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بنی‌یسْرائیل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسْرائیل"
+    }
+  ],
+  "timestamp": "2026-08-13T20:53:30.464037310Z",
+  "model": "glm-5.2"
+}

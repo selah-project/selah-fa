@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 13:18",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "و کمان‌ها جوانان را خارشکنند، و میوهٔ شکم را ترحم نکنند، بر فرزندان چشم ن‌سوزد.",
+  "tokens": [
+    {
+      "surface": "וקשתות",
+      "gloss": "و کمان‌ها"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "جوانان"
+    },
+    {
+      "surface": "תרטשנה",
+      "gloss": "خارشکنند"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "و میوهٔ"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "شکم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "ירחמו",
+      "gloss": "ترحم کنند"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "فرزندان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "سوزد"
+    },
+    {
+      "surface": "עינם",
+      "gloss": "چشمِ ایشان"
+    }
+  ],
+  "timestamp": "2026-08-13T21:43:18.504138802Z",
+  "model": "glm-5.2"
+}

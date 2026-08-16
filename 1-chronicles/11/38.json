@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 38,
+  "ref": "1-chronicles 11:38",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "یوئیل برادر ناتان، مِبْحار بن هَگْری.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "یوئیل"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برادر"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "مِبْحار"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "הגרי",
+      "gloss": "هَگْری"
+    }
+  ],
+  "timestamp": "2026-08-15T04:34:10.628139536Z",
+  "model": "glm-5.3"
+}

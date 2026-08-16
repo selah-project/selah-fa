@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 7:17",
+  "book": "daniel",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "این‌ها جانوران بزرگ که چهارند، آن‌ها چهار پادشاهند که از زمین برخواهند خاست.",
+  "tokens": [
+    {
+      "surface": "אלין",
+      "gloss": "این‌ها"
+    },
+    {
+      "surface": "חיותא",
+      "gloss": "جانوران"
+    },
+    {
+      "surface": "רברבתא",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "די",
+      "gloss": "که"
+    },
+    {
+      "surface": "אנין",
+      "gloss": "آن‌ها"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "پادشاهان"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "برخواهند خاست"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T23:26:37.665850634Z",
+  "model": "glm-5.2"
+}

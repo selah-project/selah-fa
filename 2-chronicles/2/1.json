@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 2:1",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و شلومه هفتاد هزار مرد بارکش و هشتاد هزار مرد کندگر در کوه را شمرد، و سرپرستان بر آنان سه هزار و ششصد.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "و شمرد"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومه"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "هفتاد"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "סבל",
+      "gloss": "بارکش"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "و هشتاد"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "کندگر"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "در کوه"
+    },
+    {
+      "surface": "ומנצחים",
+      "gloss": "و سرپرستان"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "بر آنان"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "سه"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "و شش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:43:58.509661657Z",
+  "model": "glm-5.2"
+}

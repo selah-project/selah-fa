@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 3:3",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "فудшنی و راستى تو را رها نکنند، آن‌ها را بر گریبانِ خود ببند، بر لوحِ دلِ خودشان را بنویس.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "فروشنی"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "و راستی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "رها کنندت"
+    },
+    {
+      "surface": "קשרם",
+      "gloss": "ببندشان"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "גרגרותיך",
+      "gloss": "گریبانِ تو"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "بنویسشان"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "لوحِ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "دلِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:59:34.195917767Z",
+  "model": "glm-5.2"
+}

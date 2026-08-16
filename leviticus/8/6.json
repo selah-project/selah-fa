@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و موشه نزدیک آورد ⟨את⟩ اَهارون و ⟨את⟩ پسرانش را، و ⟨את⟩ ایشان را با آب شست.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "و نزدیک آورد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَهارون"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اَهارون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "پسرانش"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "پسرانش"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "و شست"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ایشان را"
+    },
+    {
+      "surface": "במים",
+      "gloss": "با آب"
+    }
+  ],
+  "timestamp": "2026-08-13T20:23:48.795863357Z",
+  "model": "glm-5.2"
+}

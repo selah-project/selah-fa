@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "ولغزه‌ای امروز، وبلغزد نیز نبی با تو در شب، ومن نابود کنم مادرت را.",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "وَلَغزیده‌ای"
+    },
+    {
+      "surface": "היום",
+      "gloss": "امروز"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "وَبلغزد"
+    },
+    {
+      "surface": "גם",
+      "gloss": "نیز"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "با تو"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "در شب"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "وَمن نابود کنم"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "مادرت را"
+    }
+  ],
+  "timestamp": "2026-08-13T22:25:19.147069557Z",
+  "model": "glm-5.2"
+}

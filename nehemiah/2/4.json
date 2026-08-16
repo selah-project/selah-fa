@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 2:4",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و پادشاه به من گفت: بر چه چیز تو درخواست می‌کنی؟ و من به الوهیمِ آسمان‌ها دعا کردم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه چیز"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "درخواست می‌کنی؟"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "و من دعا کردم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوهیمِ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمان‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T23:31:32.120421164Z",
+  "model": "glm-5.2"
+}

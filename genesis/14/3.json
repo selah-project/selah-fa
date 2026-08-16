@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "همهٔ این‌ها به درهٔ صِدّیم پیوستند — همان دریای نمک.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "پیوستند"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "درهٔ"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "صِدّیم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "همان"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دریای"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "نمک"
+    }
+  ],
+  "timestamp": "2026-08-13T19:57:56.525679779Z",
+  "model": "glm-5.2"
+}

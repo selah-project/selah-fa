@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 5:16",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "آیا پخش شوند چشمه‌هایِ تو به بیرون، در خیابان‌ها جوی‌هایِ آب؟",
+  "tokens": [
+    {
+      "surface": "יפוצו",
+      "gloss": "پخش شوند"
+    },
+    {
+      "surface": "מעינתיך",
+      "gloss": "چشمه‌هایِ تو"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "به بیرون"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "در خیابان‌ها"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "جوی‌های"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آب"
+    }
+  ],
+  "timestamp": "2026-08-13T22:59:56.976860541Z",
+  "model": "glm-5.2"
+}

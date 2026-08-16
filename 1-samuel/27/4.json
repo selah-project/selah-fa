@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و خبر داده شد به شاؤل که گریخت داوود به گَت، و دیگر نیفزود بر جست‌و‌جویِ او.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "و خبر داده شد"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "به شاؤل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "گریخت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "גת",
+      "gloss": "به گَت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "افزود"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیگر"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "بر جست‌و‌جویِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T21:16:07.513573405Z",
+  "model": "glm-5.2"
+}

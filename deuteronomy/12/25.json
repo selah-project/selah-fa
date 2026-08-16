@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 12:25",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "نخورش، تا برای تو و برای پسرانت بعد از تو نیکو شود، چون آنچه راست است در چشمان یاهوه می‌کنی.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "نخورش"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تا"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "نیکو شود"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برای تو"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "و برای پسرانت"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "بعد از تو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "می‌کنی"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "آنچه راست است"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "در چشمان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:47:45.443175428Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و بیرون آمد آتش از پیشانیِ یاهوه، و بلعید ⟨את⟩آنان را، و مردند به پیشانیِ یاهوه.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "و بیرون آمد"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آتش"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "از پیشانیِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "و بلعید"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "آنان"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "و مردند"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "به پیشانیِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:24:38.157235499Z",
+  "model": "glm-5.2"
+}

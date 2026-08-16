@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 7:15",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": " پنیر و عسل خواهد خورد، تا بداند که بد را براندازد و نیک را برگزیند.",
+  "tokens": [
+    {
+      "surface": "חמאה",
+      "gloss": "پنیر"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "و عسل"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "خواهد خورد"
+    },
+    {
+      "surface": "לדעתו",
+      "gloss": "تا بداند"
+    },
+    {
+      "surface": "מאוס",
+      "gloss": "براندازد"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "بد را"
+    },
+    {
+      "surface": "ובחור",
+      "gloss": "و برگزیند"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "نیک را"
+    }
+  ],
+  "timestamp": "2026-08-13T21:42:19.536108143Z",
+  "model": "glm-5.2"
+}

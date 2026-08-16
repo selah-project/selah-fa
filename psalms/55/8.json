@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 55,
+  "translation": "اینک، دور می‌شوم، سراب می‌زنم، در بیابان سر می‌کنم. سِلا.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "دور می‌شوم"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "سراب می‌زنم"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "سر می‌کنم"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "در بیابان"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلا"
+    }
+  ],
+  "timestamp": "2026-08-13T22:44:30.025171385Z",
+  "model": "glm-5.2"
+}

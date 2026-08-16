@@ -1,0 +1,87 @@
+{
+  "ref": "1-chronicles 6:50",
+  "lang": "fa",
+  "book": "1-chronicles",
+  "chapter": 6,
+  "verse": 50,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:47:37Z",
+  "translation": "و به قرعه، از سبطِ پسرانِ یهودا و از سبطِ پسرانِ شیمعون و از سبطِ پسرانِ بِنیامین، ⟨את⟩ این شهرها را دادند، که ⟨את⟩ آنها را به نام‌ها خواندند.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "و دادند"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "به قرعه"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "از سبطِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "וממטה",
+      "gloss": "و از سبطِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شیمعون"
+    },
+    {
+      "surface": "וממטה",
+      "gloss": "و از سبطِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بِنیامین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شهرها"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "شهرها"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "این"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "خواندند"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "آنها"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "به نام‌ها"
+    }
+  ]
+}

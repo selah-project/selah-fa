@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 83,
+  "translation": "نابود شدند در عِین‌دور، کودِ زمین شدند.",
+  "tokens": [
+    {
+      "surface": "נִשְׁמְד֥וּ",
+      "gloss": "نابود شدند"
+    },
+    {
+      "surface": "בְעֵין",
+      "gloss": "در عین"
+    },
+    {
+      "surface": "דֹּאר",
+      "gloss": "دور"
+    },
+    {
+      "surface": "הָיוּ",
+      "gloss": "شدند"
+    },
+    {
+      "surface": "דֹּמֶן",
+      "gloss": "کودِ"
+    },
+    {
+      "surface": "לָאֲדָמָֽה",
+      "gloss": "برای زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T22:48:56.328888435Z",
+  "model": "glm-5.2"
+}

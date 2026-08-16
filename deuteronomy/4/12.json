@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 4:12",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و یاهوه با شما از میانِ آتش سخن گفت — صدای سخن‌ها را شما می‌شنوید و صورتی شما نمی‌بینید، جز صدا.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "با شما"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "از میانِ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "آتش"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صدای"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "سخن‌ها را"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "شما"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "می‌شنوید"
+    },
+    {
+      "surface": "ותמונה",
+      "gloss": "صورتی"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "شما نمی‌..."
+    },
+    {
+      "surface": "ראים",
+      "gloss": "می‌بینید"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "جز"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صدا"
+    }
+  ],
+  "timestamp": "2026-08-13T20:44:39.663562785Z",
+  "model": "glm-5.2"
+}

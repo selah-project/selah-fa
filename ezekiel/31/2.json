@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 31:2",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "پسرِ انسان، بگو به فِرعون، شاهِ مِصراییم، و به هَمونِ او: به چه کسی تشبیه کرده‌ای خود را در بزرگیِ خود؟",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "بگو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاه"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصراییم"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و به"
+    },
+    {
+      "surface": "המונו",
+      "gloss": "هَمونِ او"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "מי",
+      "gloss": "چه کسی"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "تشبیه کرده‌ای"
+    },
+    {
+      "surface": "בגדלך",
+      "gloss": "در بزرگیِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:20:04.198151656Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 16:22",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "و مویِ سرِ او شروع کرد به روییدن، آن‌گونه که تراشیده شده بود.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "و شروع کرد"
+    },
+    {
+      "surface": "שער",
+      "gloss": "موی"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "سرِ او"
+    },
+    {
+      "surface": "לצמח",
+      "gloss": "به روییدن"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "آن‌گونه که"
+    },
+    {
+      "surface": "גלח",
+      "gloss": "تراشیده شده بود"
+    }
+  ],
+  "timestamp": "2026-08-13T21:06:03.339397968Z",
+  "model": "glm-5.2"
+}

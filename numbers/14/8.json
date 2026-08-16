@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "numbers 14:8",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "اگر یاهوه در ما خرسندی، ما را ⟨את⟩ به این زمین درآورد و آن را به ما دهد — زمینی که ⟨⟩ جاری است از شیر و عسل.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "خرسندی"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "در ما"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "و درآورد"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "ما"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینِ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "و آن را دهد"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "به ما"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨او⟩"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "جاری است"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "از شیر"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "و عسل"
+    }
+  ],
+  "timestamp": "2026-08-15T03:51:45.571702955Z",
+  "model": "glm-5.3"
+}

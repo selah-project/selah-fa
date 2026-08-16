@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 12:8",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و اگر دستِ او به اندازهٔ گله‌ای نرسد، دو قمری یا دو جوجهٔ کبوتر بگیرد، یکی برای سوختنی و یکی برای گناه، و کاهن بر او کفاره کند و پاک شود.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "برسد"
+    },
+    {
+      "surface": "ידה",
+      "gloss": "دستِ او"
+    },
+    {
+      "surface": "די",
+      "gloss": "اندازهٔ"
+    },
+    {
+      "surface": "שה",
+      "gloss": "گله"
+    },
+    {
+      "surface": "ולקחה",
+      "gloss": "بگیرد"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "قمری"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "کبوتر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "برای سوختنی"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "و یکی"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "برای گناه"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "و کفاره کند"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "بر او"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "וטהרה",
+      "gloss": "و پاک شود"
+    }
+  ],
+  "timestamp": "2026-08-13T20:25:34.016137368Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 9:20",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و پینحاس پسر اِلعازار پیش‌تر نایبِ ایشان بود؛ یاهوه با اوست.",
+  "tokens": [
+    {
+      "surface": "ופינחס",
+      "gloss": "و پینحاس"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "اِلعازار"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "نایب"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "بر ایشان"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "پیش‌تر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "با اوست"
+    }
+  ],
+  "timestamp": "2026-08-13T23:38:28.769184538Z",
+  "model": "glm-5.2"
+}

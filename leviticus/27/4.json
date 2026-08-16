@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و اگر ماده باشد، ارزیابیِ تو سی شِکَل.",
+  "tokens": [
+    {
+      "surface": "וְאִם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "נְקֵבָה",
+      "gloss": "ماده"
+    },
+    {
+      "surface": "הִוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "וְהָיָה",
+      "gloss": "و ⟨باشد⟩"
+    },
+    {
+      "surface": "עֶרְכְּךָ",
+      "gloss": "ارزیابیِ تو"
+    },
+    {
+      "surface": "שְׁלֹשִׁים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "שָׁקֶל",
+      "gloss": "شِکَل"
+    }
+  ],
+  "timestamp": "2026-08-13T20:30:50.717465451Z",
+  "model": "glm-5.2"
+}

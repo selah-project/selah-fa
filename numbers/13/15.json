@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 13:15",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "برای سبطِ گَد، گَئو‌اِئل پسرِ ماخی.",
+  "tokens": [
+    {
+      "surface": "לְמַטֵּ֣ה",
+      "gloss": "برای سبطِ"
+    },
+    {
+      "surface": "גָ֔ד",
+      "gloss": "گَد"
+    },
+    {
+      "surface": "גְּאוּאֵ֖ל",
+      "gloss": "گَئو‌اِئل"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "מָכִֽי",
+      "gloss": "ماکی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:56:47.547329450Z",
+  "model": "glm-5.2"
+}

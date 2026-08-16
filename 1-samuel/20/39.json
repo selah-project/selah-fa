@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-samuel 20:39",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و ⟨پسر⟩ هیچ چیز نمی‌دانست؛ تنها یِهوناتان و داوود ⟨את⟩ امر را می‌دانستند.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "و ⟨پسر⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "می‌دانست"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "هیچ چیز"
+    },
+    {
+      "surface": "אך",
+      "gloss": "تنها"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یِهوناتان"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "و داوود"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "می‌دانستند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "امر"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "امر"
+    }
+  ],
+  "timestamp": "2026-08-13T21:13:50.649037056Z",
+  "model": "glm-5.2"
+}

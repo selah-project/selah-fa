@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 9:11",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و ⟨بود⟩، در پایانِ چهل روز و چهل شب، یاهوه به من داد ⟨את⟩ دو لوحِ سنگ را، لوحه‌های عهد.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و ⟨بود⟩"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "در پایانِ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چهل"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "و چهل"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شب"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "داد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دو لوحِ سنگ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "لوحِ"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "سنگ"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "لوحه‌های"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "عهد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:46:37.968377004Z",
+  "model": "glm-5.2"
+}

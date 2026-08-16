@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 23:18",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "وبرافراشت مَثَلِ خود وگفت: برخیز، ای بالاق، و بشنو؛ گوش بسپار تا پسرِ تسیپور.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "وبرافراشت"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "مَثَلِ خود"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وگفت"
+    },
+    {
+      "surface": "קום",
+      "gloss": "برخیز"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ای بالاق"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "و بشنو"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "گوش بسپار"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "تا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "تسیپور"
+    }
+  ],
+  "timestamp": "2026-08-13T20:38:58.117939820Z",
+  "model": "glm-5.2"
+}

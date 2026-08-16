@@ -1,0 +1,73 @@
+{
+  "ref": "2-chronicles 12:10",
+  "lang": "fa",
+  "book": "2-chronicles",
+  "chapter": 12,
+  "verse": 10,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:47:37Z",
+  "translation": "و رَحَوْعامِ پادشاه به جای آنها سپرهایِ مفرغ ساخت و بر دستِ سرورانِ دوندگان، نگهبانانِ درگاهِ خانهٔ پادشاه، گماشت.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و ساخت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "رَحَوْعام"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "به جای آنها"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "سپرهایِ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "مفرغ"
+    },
+    {
+      "surface": "והפקיד",
+      "gloss": "و گماشت"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دستِ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سرورانِ"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "دوندگان"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "نگهبانانِ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "درگاهِ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانهٔ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاه"
+    }
+  ]
+}

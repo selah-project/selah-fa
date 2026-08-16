@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 102,
+  "translation": "بیدار ماندم و شدم مانند پرنده‌ای تنها بر بام.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "بیدار ماندم"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "و شدم"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "مانندِ پرنده‌ای"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "تنها"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "גג",
+      "gloss": "بام"
+    }
+  ],
+  "timestamp": "2026-08-13T22:51:41.814826551Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "hand",
+  "verse": 21,
+  "ref": "genesis 26:21",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "و چاهی دیگر کندند، و بر سرِ آن نیز نزاع کردند، و نامش را دشمنی خواند.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "و کندند"
+    },
+    {
+      "surface": "באר",
+      "gloss": "چاهی"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "دیگر"
+    },
+    {
+      "surface": "וריבו",
+      "gloss": "و نزاع کردند"
+    },
+    {
+      "surface": "גם",
+      "gloss": "نیز"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "بر سرِ آن"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "و خواند"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "نامش را"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "دشمنی"
+    }
+  ],
+  "timestamp": "2026-08-14T17:47:39Z",
+  "model": "claude-fable-5/hand"
+}

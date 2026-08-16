@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "زمانی برای دوست‌داشتن و زمانی برای دشمن‌داشتن، زمانی جنگ و زمانی سلام",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "زمانی"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "برای دوست‌داشتن"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "و زمانی"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "برای دشمن‌داشتن"
+    },
+    {
+      "surface": "עת",
+      "gloss": "زمانی"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "و زمانی"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلام"
+    }
+  ],
+  "timestamp": "2026-08-13T23:19:44.461865546Z",
+  "model": "glm-5.2"
+}

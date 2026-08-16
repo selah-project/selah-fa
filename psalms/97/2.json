@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 97,
+  "translation": "ابر و تاریکی گرداگردِ اوست؛ عدالت و داوری، پایهٔ نهادِ تختِ او.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "ابر"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "و تاریکی"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "گرداگردِ او"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "عدالت"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "و داوری"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "پایهٔ نهاد"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "تختِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T22:51:27.125904349Z",
+  "model": "glm-5.2"
+}

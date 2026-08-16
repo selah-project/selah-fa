@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 14:2",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و شدّ سخنِ یاهوه به سویِ من، به‌سانِ گفتن:",
+  "tokens": [
+    {
+      "surface": "וַיְהִי",
+      "gloss": "و شدّ"
+    },
+    {
+      "surface": "דְבַר",
+      "gloss": "سخنِ"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֵלַי",
+      "gloss": "به سویِ من"
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "به‌سانِ گفتن"
+    }
+  ],
+  "timestamp": "2026-08-13T22:14:48.141368623Z",
+  "model": "glm-5.2"
+}

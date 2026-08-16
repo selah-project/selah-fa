@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 3:3",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "پنجم شِفات‌یَهو، از اَبی‌تال؛ ششم یِترَعام، از عِگله همسرش.",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "پنجم"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "شِفات‌یَهو"
+    },
+    {
+      "surface": "לאביטל",
+      "gloss": "از اَبی‌تال"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ششم"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "یِترَعام"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "از عِگله"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "همسرش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:18.436329157Z",
+  "model": "glm-5.2"
+}

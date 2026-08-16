@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 9:19",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "سهتا، اینان پسرانِ نُوح بودند، و از اینان پراکنده شد تمامِ زمین.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "سهتا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اینان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "و از اینان"
+    },
+    {
+      "surface": "נפצה",
+      "gloss": "پراکنده شد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:34.625708483Z",
+  "model": "glm-5.2"
+}

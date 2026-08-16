@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 16:32",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "بهتر است آنکه آرام‌خو است از یک دلیر، و فرمانروای روحِ خویش از گیرندهٔ شهری.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بهتر است"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "آرام"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "خو"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "از یک دلیر"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "و فرمانروای"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "روحِ خویش"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "از گیرندهٔ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شهری"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:37.288042531Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 10:15",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و یِهوشوه بازگشت و همهٔ یِسرائیل با او، به‌سوی اردوگاه، گیلگال.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "و بازگشت"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یِهوشوه"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و همهٔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "با او"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به‌سوی"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "اردوگاه"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "گیلگال"
+    }
+  ],
+  "timestamp": "2026-08-13T20:56:19.753233863Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "سخنانِ قوهِلِت، پسرِ داوود، پادشاه در یروشَلایِم.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "سخنانِ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "قوهِلِت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "در یروشَلایِم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:19:46.323571258Z",
+  "model": "glm-5.2"
+}

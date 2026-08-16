@@ -1,0 +1,45 @@
+{
+  "tier": "4.6",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "بدکار کارِ دروغ می‌کند و بذرکارِ عدالت مزدِ راستین است.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "دروغ می‌کند"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغ"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "و بذرکارِ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "عدالت"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "مزدِ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "راستین است"
+    }
+  ],
+  "timestamp": "2026-08-15T04:28:47.286466058Z",
+  "model": "glm-4.6"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "deuteronomy 12:13",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "برای خودت مراقب باش، مبادا عُلوت‌هایت را برآوری در هر مکانی که ببینی —",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "مراقب باش"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برای خودت"
+    },
+    {
+      "surface": "פן",
+      "gloss": "مبادا"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "برآوری"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "عُلوت‌هایت را"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "در هر"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "مکانی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ببینی"
+    }
+  ],
+  "timestamp": "2026-08-15T20:53:00.479850745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "دستِ چپِ او زیر سرِ من، و دستِ راستِ او در آغوشم گیردم.",
+  "tokens": [
+    {
+      "surface": "שְׂמֹאלוֹ",
+      "gloss": "دستِ چپِ او"
+    },
+    {
+      "surface": "תַּחַת",
+      "gloss": "زیر"
+    },
+    {
+      "surface": "רֹאשִׁי",
+      "gloss": "سرِ من"
+    },
+    {
+      "surface": "וִֽימִינוֹ",
+      "gloss": "و دستِ راستِ او"
+    },
+    {
+      "surface": "תְּחַבְּקֵֽנִי",
+      "gloss": "در آغوشم گیردم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:17:05.360312888Z",
+  "model": "glm-5.2"
+}

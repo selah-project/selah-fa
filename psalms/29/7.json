@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "صدای یاهوه شعله‌های آتش را می‌کَند.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "صدای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "میَکَند"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "شعله‌های"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آتش را"
+    }
+  ],
+  "timestamp": "2026-08-13T22:40:39.441483680Z",
+  "model": "glm-5.2"
+}

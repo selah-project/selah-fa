@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 77,
+  "ref": "numbers 7:77",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و برای قربانیِ سلامتی، دو گاو، پنج قوچ، پنج بزِ نر، پنج برهٔ یک‌ساله: این هدیهٔ پَغعیل بن عَکران بود.",
+  "tokens": [
+    {
+      "surface": "ולזבח",
+      "gloss": "و برای قربانی"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "سلامتی"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "گاو"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "قوچ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "עתדים",
+      "gloss": "بز نر"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "بره"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "هدیه"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "پَغعیل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "عَکران"
+    }
+  ],
+  "timestamp": "2026-08-13T20:33:25.646130581Z",
+  "model": "glm-5.2"
+}

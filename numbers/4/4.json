@@ -1,0 +1,45 @@
+{
+  "tier": "4.6",
+  "verse": 4,
+  "ref": "numbers 4:4",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "این خدمتِ پسران قهات در خیمهٔ اجتماع، قدسِ الأقداس.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "خدمتِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسران"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قهات"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "در خیمهٔ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "اجتماع"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قدسِ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "الأقداس"
+    }
+  ],
+  "timestamp": "2026-08-15T03:57:12.951268174Z",
+  "model": "glm-4.6"
+}

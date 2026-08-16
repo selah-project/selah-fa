@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "زيرا حكمت به دلِ تو درآيد و دانش به جانِ تو خوش‌آيد.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "درآید"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "به دلِ تو"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "و دانش"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "به جانِ تو"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "خوش‌آید"
+    }
+  ],
+  "timestamp": "2026-08-15T04:26:51.560544063Z",
+  "model": "glm-5.3"
+}

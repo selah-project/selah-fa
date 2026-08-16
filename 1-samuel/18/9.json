@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و شائول از آن روز و به بعد، ⟨את⟩ داوود را با دیده‌ای ناظر بود.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ناظر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داوود"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "از آن روز"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "و به بعد"
+    }
+  ],
+  "timestamp": "2026-08-13T21:12:41.482876593Z",
+  "model": "glm-5.2"
+}

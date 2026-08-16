@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و کاهن ⟨את⟩ او را نزدیک آورد، و او را به پیشِ رویِ یاهوه بایستاند،",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "و نزدیک آورد"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "او"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "و او را بایستاند"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "به پیشِ رویِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:32:42.573379853Z",
+  "model": "glm-5.2"
+}

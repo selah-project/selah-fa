@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 62,
+  "translation": "تنها اوست صخرهٔ من و رستگاریِ من، سنگرِ من؛ بسیار لغزنده نخواهم شد.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "تنها"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "صخرهٔ من"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "و رستگاریِ من"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "سنگرِ من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نخواهم"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "لغزیده شد"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "بسیار"
+    }
+  ],
+  "timestamp": "2026-08-13T22:45:47.072648204Z",
+  "model": "glm-5.2"
+}

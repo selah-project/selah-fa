@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "isaiah 10:31",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "مَدمِنا گریخت؛ ساکنانِ گِویم پناه گرفتند.",
+  "tokens": [
+    {
+      "surface": "נדדה",
+      "gloss": "گریخت"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "مَدمِنا"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ساکنانِ"
+    },
+    {
+      "surface": "הגבים",
+      "gloss": "گِویم"
+    },
+    {
+      "surface": "העיזו",
+      "gloss": "پناه گرفتند"
+    }
+  ],
+  "timestamp": "2026-08-15T04:07:50.637111326Z",
+  "model": "glm-5.3"
+}

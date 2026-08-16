@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 2:22",
+  "book": "2-kings",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و آب‌ها شفا یافتند تا به ⟨این⟩ روز ⟨این⟩، به سخنِ اَلیشَع که ⟨او⟩ سخن گفت.",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "و شفا یافتند"
+    },
+    {
+      "surface": "המים",
+      "gloss": "آب‌ها"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا به"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "به سخنِ"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "اَلیشَع"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخن گفت"
+    }
+  ],
+  "timestamp": "2026-08-13T21:32:55.678671652Z",
+  "model": "glm-5.2"
+}

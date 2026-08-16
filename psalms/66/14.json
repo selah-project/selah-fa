@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 66,
+  "translation": "که لبانم گشودند و دهانم در تنگی برایم سخن گفت",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "گشودند"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "لبانم"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دهانم"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "در تنگی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برایم"
+    }
+  ],
+  "timestamp": "2026-08-13T22:46:02.714011092Z",
+  "model": "glm-5.2"
+}

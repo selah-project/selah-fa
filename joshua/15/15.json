@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 15:15",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و از آنجا به سوی ساکنانِ دَبیر بالا رفت، و نامِ دَبیر پیش‌تر قیریات سِفِر بود.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "و بالا رفت"
+    },
+    {
+      "surface": "משם",
+      "gloss": "از آنجا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ساکنانِ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دَبیر"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "و نامِ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دَبیر"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "پیش‌تر"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قیریات"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "سِفِر"
+    }
+  ],
+  "timestamp": "2026-08-13T20:58:17.329914320Z",
+  "model": "glm-5.2"
+}

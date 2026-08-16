@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": " پایانِ امر، همه شنیده شده است: از الوهیم بترس و ⟨את⟩ فرمان‌هایش را نگاه دار، که این تمامِ انسان است.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "پایان"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "امر"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "همه"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "شنیده شده است"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الوهیم"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "بترس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "فرمان‌هایش"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "فرمان‌هایش"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "نگاه دار"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:41.809692716Z",
+  "model": "glm-5.2"
+}

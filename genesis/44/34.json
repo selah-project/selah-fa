@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 44:34",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 44,
+  "translation": "چون چگونه بالا روم نزد پدرم، و نوجوان ⟨את⟩ نزد من نیست، مبادا ببینم در بدی که بیابد ⟨את⟩ پدرم؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "איך",
+      "gloss": "چگونه"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "بالا روم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نزد"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پدرم"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "و نوجوان"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ نزد من"
+    },
+    {
+      "surface": "פן",
+      "gloss": "مبادا"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ببینم"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "در بدی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "بیابد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پدرم"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پدرم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:07:58.847672893Z",
+  "model": "glm-5.2"
+}

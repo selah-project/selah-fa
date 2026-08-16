@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 25:13",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "ششم، بُقّیاهو، پسرانش و برادرانش، دوازده",
+  "tokens": [
+    {
+      "surface": "הַשִּׁשִּׁ֣י",
+      "gloss": "ششم"
+    },
+    {
+      "surface": "בֻּקִּיָּ֔הוּ",
+      "gloss": "بُقّیاهو"
+    },
+    {
+      "surface": "בָּנָ֥יו",
+      "gloss": "پسرانش"
+    },
+    {
+      "surface": "וְאֶחָ֖יו",
+      "gloss": "و برادرانش"
+    },
+    {
+      "surface": "שְׁנֵ֥ים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עָשָֽׂר",
+      "gloss": "ده"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:45.104856902Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 19:5",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و ⟨את⟩ گاو را در برابر چشمان او بسوزاند؛ ⟨את⟩ پوستش و ⟨את⟩ گوشتش و ⟨את⟩ خونش بر سرِ فضلتنش بسوزاند.",
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "و بسوزاند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گاو"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "گاو"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "در برابر چشمان او"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پوستش"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "پوستش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "گوشتش"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "گوشتش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "خونش"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "خونش"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "فضلتنش"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "بسوزاند"
+    }
+  ],
+  "timestamp": "2026-08-13T20:37:14.334268254Z",
+  "model": "glm-5.2"
+}

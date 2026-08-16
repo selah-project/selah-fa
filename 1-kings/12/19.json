@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 12:19",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "وعصیان ورزید یِسرائیل بر خانهٔ داوود تا روزِ این.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "وعصیان ورزید"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "بر خانهٔ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روزِ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    }
+  ],
+  "timestamp": "2026-08-13T21:28:21.353520052Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 14:21",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "بیزار مشو به خاطرِ نامِ تو، خوار مساز تختِ جلالِ تو، یاد کن، برمنهان مگرد ⟨את⟩ پیمانِت را با ما.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תנאץ",
+      "gloss": "بیزار مشو"
+    },
+    {
+      "surface": "למען",
+      "gloss": "به خاطرِ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "نامِ تو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תנבל",
+      "gloss": "خوار مساز"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تختِ"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "جلالِ تو"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "یاد کن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "برمنهان مگرد"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "پیمانِت را"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "با ما"
+    }
+  ],
+  "timestamp": "2026-08-13T21:59:30.809316110Z",
+  "model": "glm-5.2"
+}

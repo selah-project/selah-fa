@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 12:4",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و سی روز و سه روز ⟨او⟩ در خون‌های پاکیزی بنشیند؛ هر چیز مقدّسی را لمس نکند و به مقدّس نیاید، تا روزهای پاکیزی‌اش پُر شود.",
+  "tokens": [
+    {
+      "surface": "ושלשים",
+      "gloss": "و سی"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "و سه"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روز"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "بنشیند"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "در خونِ"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "پاکیزی"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدّسی را"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "لمس کند"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و به"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "مقدّس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "آید"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "پُر شدنِ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روزهای"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "پاکیزی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:55:43.950765553Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 23:24",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "عسائیل برادرِ یوآب در میانِ سی تن؛ اِلخانان پسرِ دودو از بیت‌لَخِم.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "عسائیل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "عسائیل"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برادرِ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "در میانِ سی تن"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "اِلخانان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "دودو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لَخِم"
+    }
+  ],
+  "timestamp": "2026-08-13T21:23:26.303928632Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "lamentations 3:62",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "لب‌های برخاستگانِ علیه من و زمزمه‌شان را علیه من تمامِ روز.",
+  "tokens": [
+    {
+      "surface": "שִׂפְתֵ֤י",
+      "gloss": "لب‌های"
+    },
+    {
+      "surface": "קָמַי֙",
+      "gloss": "برخاستگانِ علیه من"
+    },
+    {
+      "surface": "וְהֶגְיוֹנָ֔ם",
+      "gloss": "و زمزمه‌شان را"
+    },
+    {
+      "surface": "עָלַ֖י",
+      "gloss": "علیه من"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "הַיּֽוֹם",
+      "gloss": "روز"
+    }
+  ],
+  "timestamp": "2026-08-13T23:17:57.858233060Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "و پیوست ⟨את⟩ پنج پرده را، یکی به یکی، و پنج پرده پیوست، یکی به یکی.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "و پیوست"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنج پرده"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "پرده"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "و پنج"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "پرده"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "پیوست"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یکی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:20:59.672066760Z",
+  "model": "glm-5.2"
+}

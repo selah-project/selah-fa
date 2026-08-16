@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 40:18",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 40,
+  "translation": "و یوسف پاسخ داد و گفت: این فَسرِ آن است: سه سبد، سه روز هستند.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "و پاسخ داد"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "فَسرِ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "سه"
+    },
+    {
+      "surface": "הסלים",
+      "gloss": "سبد"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "سه"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روز"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هستند"
+    }
+  ],
+  "timestamp": "2026-08-13T20:06:24.213235626Z",
+  "model": "glm-5.2"
+}

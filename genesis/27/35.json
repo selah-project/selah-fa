@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 27:35",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و گفت: برادرت در فریب آمد، و برکتِ تو را گرفت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و‌گفت"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آمد"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "برادرت"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "در فریب"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "و‌گرفت"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "برکتِ تو را"
+    }
+  ],
+  "timestamp": "2026-08-13T20:02:55.224961859Z",
+  "model": "glm-5.2"
+}

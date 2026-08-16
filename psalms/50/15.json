@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 50,
+  "translation": "و مرا در روز تنگی بخوان، ⟨تو را⟩ نجات دهم، و مرا عظمت بخشی.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "و مرا بخوان"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روز"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "تنگی"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "نجات دهم"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "و مرا عظمت بخشی"
+    }
+  ],
+  "timestamp": "2026-08-13T22:44:10.018325149Z",
+  "model": "glm-5.2"
+}

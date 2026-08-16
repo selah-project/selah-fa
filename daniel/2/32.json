@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "daniel 2:32",
+  "book": "daniel",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "آن تندیس، سرِ ⟨آن⟩ از طلایِ ناب، سینه‌ و بازوهایش از نقره، شکمش و ران‌هایش از مس.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "צלמא",
+      "gloss": "تندیس"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "سرِ"
+    },
+    {
+      "surface": "די",
+      "gloss": "از"
+    },
+    {
+      "surface": "דהב",
+      "gloss": "طلا"
+    },
+    {
+      "surface": "טב",
+      "gloss": "ناب"
+    },
+    {
+      "surface": "חדוהי",
+      "gloss": "سینه‌اش"
+    },
+    {
+      "surface": "ודרעוהי",
+      "gloss": "و بازوهایش"
+    },
+    {
+      "surface": "די",
+      "gloss": "از"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "نقره"
+    },
+    {
+      "surface": "מעוהי",
+      "gloss": "شکمش"
+    },
+    {
+      "surface": "וירכתה",
+      "gloss": "و ران‌هایش"
+    },
+    {
+      "surface": "די",
+      "gloss": "از"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "مس"
+    }
+  ],
+  "timestamp": "2026-08-14T00:16:21.497283740Z",
+  "model": "glm-5.2"
+}

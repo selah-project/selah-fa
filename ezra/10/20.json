@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 10:20",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و از پسرانِ اِیمِر: حَنانی، و زَوَدیه.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "و از پسرانِ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "اِیمِر"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "حَنانی"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "و زَوَدیه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:30:27.349039588Z",
+  "model": "glm-5.2"
+}

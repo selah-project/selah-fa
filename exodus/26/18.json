@@ -1,0 +1,50 @@
+{
+  "ref": "exodus 26:18",
+  "lang": "fa",
+  "book": "exodus",
+  "chapter": 26,
+  "verse": 18,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:55:53Z",
+  "translation": "و ⟨את⟩ تخته‌ها را برای مسکن بسازی: بیست تخته برای سویِ نِگِو، به سوی جنوب.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "و بسازی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تخته‌ها"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "تخته‌ها"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "برای مسکن"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "تخته"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "برای سویِ"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "نِگِو"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "به سوی جنوب"
+    }
+  ]
+}

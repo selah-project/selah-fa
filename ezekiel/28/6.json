@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "ezekiel 28:6",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "از این رو، چنین گفته است اَدونای یاهوه: چون دادی ⟨את⟩ دلِ خود را همچون دلِ الوهیم،",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "از این رو"
+    },
+    {
+      "surface": "כה",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفته است"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "יען",
+      "gloss": "چون"
+    },
+    {
+      "surface": "תתך",
+      "gloss": "دادی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دلِ خود"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "دلِ خود"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "همچون دلِ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-15T04:15:47.031170653Z",
+  "model": "glm-5.3"
+}

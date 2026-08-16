@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 57,
+  "translation": "در فراوانیِ راهت خسته شدی، نگفتی: ناامیدم. حیاتِ دستت را یافتی، به این سبب ناخوش نبودی.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "در فراوانیِ"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "راهت"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "خسته شدی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "گفتی"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "ناامیدم"
+    },
+    {
+      "surface": "חית",
+      "gloss": "حیاتِ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "دستت را"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "یافتی"
+    },
+    {
+      "surface": "על",
+      "gloss": "به"
+    },
+    {
+      "surface": "כן",
+      "gloss": "این سبب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "ناخوش بودی"
+    }
+  ],
+  "timestamp": "2026-08-14T00:05:26.013933823Z",
+  "model": "glm-5.2"
+}

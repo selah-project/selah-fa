@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 9:29",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "من ⟨هستم⟩ بدکاره؛ چرا این؟ به‌باطل خسته می‌شوم.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "ארשע",
+      "gloss": "بدکاره"
+    },
+    {
+      "surface": "למה",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "به‌باطل"
+    },
+    {
+      "surface": "איגע",
+      "gloss": "خسته می‌شوم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:08:18.820800075Z",
+  "model": "glm-5.2"
+}

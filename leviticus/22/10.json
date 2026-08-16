@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "و هر بیگانه نبود بخورد قدوس را؛ ساكنِ نزد كاهان، و مزدور نبود بخورد قدوس را.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "זר",
+      "gloss": "بیگانه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "بخورد"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قدوس را"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "ساكن"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "كاهان"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "و مزدور"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "بخورد"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قدوس را"
+    }
+  ],
+  "timestamp": "2026-08-13T20:28:11.539075001Z",
+  "model": "glm-5.2"
+}

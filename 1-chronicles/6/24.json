@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 6:24",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و برادرش آساف، ⟨آن⟩ ایستاده بر دستِ راستِ او؛ آساف پسرِ بَرِکْیاهو، پسرِ شِمْعا.",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "و برادرش"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "آساف"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "ایستاده"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "دستِ راستِ او"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "آساف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "ברכיהו",
+      "gloss": "بَرِکْیاهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "شِمْعا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:05.054841460Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 2:15",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و بر همهٔ برجِ بلند، و بر همهٔ دیوارِ دژگون،",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "برجِ"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "بلند"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "دیوارِ"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "دژگون"
+    }
+  ],
+  "timestamp": "2026-08-13T21:40:12.727437828Z",
+  "model": "glm-5.2"
+}

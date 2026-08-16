@@ -1,0 +1,75 @@
+{
+  "ref": "joshua 6:3",
+  "lang": "fa",
+  "book": "joshua",
+  "chapter": 6,
+  "verse": 3,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:46:46Z",
+  "translation": "و ⟨את⟩ شهر را دور بزنید — همه‌ی مردانِ جنگ — دورزنان ⟨את⟩ شهر را یک بار؛ چنین شش روز خواهی کرد.",
+  "tokens": [
+    {
+      "surface": "וסבתם",
+      "gloss": "و دور بزنید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شهر"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همه‌ی"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "مردانِ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "הקיף",
+      "gloss": "دورزنان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شهر"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "بار"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "כה",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "خواهی کرد"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "شش"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روز"
+    }
+  ]
+}

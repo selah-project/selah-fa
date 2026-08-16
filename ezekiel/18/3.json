@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 18:3",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "«زنده‌ام من»، — نُطقِ اَدونای یاهوه — «اگر دیگر این مثل در یِسرائیل مثل‌ زده شود!»",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "زنده‌ام"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نُطقِ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "شود"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "شما"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیگر"
+    },
+    {
+      "surface": "משל",
+      "gloss": "مثل‌"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "این مثل"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "در یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-13T22:15:53.541516856Z",
+  "model": "glm-5.2"
+}

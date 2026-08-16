@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "بُلندیِ چشم‌ها و پهناوریِ دل، شخم‌زدنِ شریران گناه است.",
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "بُلندیِ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "چشم‌ها"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "و پهناوریِ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "נר",
+      "gloss": "شخم‌زدنِ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شریران"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "گناه است"
+    }
+  ],
+  "timestamp": "2026-08-14T00:14:04.559193782Z",
+  "model": "glm-5.2"
+}

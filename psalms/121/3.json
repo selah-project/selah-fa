@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 121,
+  "translation": "ناگاه ندهد به لغزیدن پایِ تو؛ ناگاه خوابَود نباشد نگهبانِ تو.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ناگاه"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ندهد"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "به لغزیدن"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "پایِ تو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ناگاه"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "خوابَود نباشد"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "نگهبانِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:56:12.986570993Z",
+  "model": "glm-5.2"
+}

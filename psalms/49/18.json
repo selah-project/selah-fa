@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 49,
+  "translation": "زيرا که در مرگِ او همه چیز را نمی‌برد؛ نه می‌فرود آید به پیِ او شکوهِ او.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "در مرگِ او"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "می‌برد"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "همه چیز را"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "فرود آید"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "به پیِ او"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "شکوهِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T22:43:54.113029442Z",
+  "model": "glm-5.2"
+}

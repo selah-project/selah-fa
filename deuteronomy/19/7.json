@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 19:7",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "از این روی، من به تو فرمان می‌دهم، به این گفتار: سه شهر برای خود جدا کنی.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "این روی"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "به تو فرمان می‌دهم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به این گفتار"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سه"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "جدا کنی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برای خود"
+    }
+  ],
+  "timestamp": "2026-08-13T20:49:31.705355466Z",
+  "model": "glm-5.2"
+}

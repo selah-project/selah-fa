@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "الوهيم را نکوهش نکنی، و سالارِ در قومِ تو را لعنت نكنی.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "الوهيم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "كوهش كني"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "و سالار"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "در قومِ تو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "لعنت كني"
+    }
+  ],
+  "timestamp": "2026-08-13T20:15:44.747789407Z",
+  "model": "glm-5.2"
+}

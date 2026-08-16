@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 6:44",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و ⟨את⟩ عاشان و ⟨את⟩ مراتعش، و ⟨את⟩ بیت شِمِش و ⟨את⟩ مراتعش را.",
+  "tokens": [
+    {
+      "surface": "وאת",
+      "gloss": "و ⟨את⟩",
+      "marks": "عاشان"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "عاشان"
+    },
+    {
+      "surface": "وאת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مراتعش"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "مراتعش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "بیت شِمِش"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "شِمِش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مراتعش"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "مراتعش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:55.782462782Z",
+  "model": "glm-5.2"
+}

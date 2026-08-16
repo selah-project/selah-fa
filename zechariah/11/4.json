@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "چنین گفت یاهوه، اِلوهیمِ من: گله را که برای کشتار است، بچران.",
+  "tokens": [
+    {
+      "surface": "כֹּ֥ה",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "אָמַ֖ר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֱלֹהָ֑י",
+      "gloss": "اِلوهیمِ من"
+    },
+    {
+      "surface": "רְעֵ֖ה",
+      "gloss": "بچران"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "گله را"
+    },
+    {
+      "surface": "צֹ֥אן",
+      "gloss": "گله"
+    },
+    {
+      "surface": "הַהֲרֵגָֽה",
+      "gloss": "که برای کشتار است"
+    }
+  ],
+  "timestamp": "2026-08-13T22:36:07.930540807Z",
+  "model": "glm-5.2"
+}

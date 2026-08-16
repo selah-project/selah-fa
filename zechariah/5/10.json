@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و به فرشته‌ای که در من سخن می‌گفت گفتم: ایشان ⟨את⟩ ایفه را به کجا می‌برند؟",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "و گفتم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "فرشتهٔ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "سخن می‌گفت"
+    },
+    {
+      "surface": "בי",
+      "gloss": "در من"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "به کجا"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ایشان"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "می‌برند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایفه"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ایفه را"
+    }
+  ],
+  "timestamp": "2026-08-13T22:34:43.497920071Z",
+  "model": "glm-5.2"
+}

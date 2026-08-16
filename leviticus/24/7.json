@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 24:7",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و بگذاری بر صف لُبانِ خالص، و باشد برای نان به یادآوری، اِشّه به یاهوه",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "و بگذاری"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "صف"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "لُبان"
+    },
+    {
+      "surface": "זכה",
+      "gloss": "خالص"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "و باشد"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "برای نان"
+    },
+    {
+      "surface": "לאזכרה",
+      "gloss": "به یادآوری"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "اِشّه"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "به یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:28:56.545493822Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "پسرِ شَلّوم، پسرِ صادوق، پسرِ اَحیطوب.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شَلّوم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "صادوق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "اَحیطوب"
+    }
+  ],
+  "timestamp": "2026-08-15T04:32:05.566523721Z",
+  "model": "glm-5.3"
+}

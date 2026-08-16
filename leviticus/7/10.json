@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 7:10",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و هر نذری که با روغن مخلوط باشد و خشک، برای همه پسران اَهارون خواهد بود، هرکس مانند برادرش.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "نذر"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "مخلوط‌شده"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "با روغن"
+    },
+    {
+      "surface": "וחרבה",
+      "gloss": "و خشک"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "برای همه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسران"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اَهارون"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "خواهد بود"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هرکس"
+    },
+    {
+      "surface": "כאחיو",
+      "gloss": "مانند برادرش"
+    }
+  ],
+  "timestamp": "2026-08-13T20:22:47.878930693Z",
+  "model": "glm-5.2"
+}

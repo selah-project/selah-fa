@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 7:35",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و پسرانِ هِلِمِ برادرش: تزوفَخ، و یِمْنا، و شِلِش، و عامال.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "هِلِم"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برادرش"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "تزوفَخ"
+    },
+    {
+      "surface": "וימנע",
+      "gloss": "و یِمْنا"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "و شِلِش"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "و عامال"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:57.544843792Z",
+  "model": "glm-5.2"
+}

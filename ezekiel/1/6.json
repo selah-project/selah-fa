@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 1:6",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و چهار چهره به یکی، و چهار بال به یکی، برای آنان.",
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "و چهار"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "چهره"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "به یکی"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "و چهار"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "بال"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "به یکی"
+    },
+    {
+      "surface": "להם",
+      "gloss": "برای آنان"
+    }
+  ],
+  "timestamp": "2026-08-14T00:07:08.551356091Z",
+  "model": "glm-5.2"
+}

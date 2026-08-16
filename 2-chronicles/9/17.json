@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 9:17",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و پادشاه تخت بزرگی از عاج ساخت و آن را با زرِ خالص روکش کرد.",
+  "tokens": [
+    {
+      "surface": "וַיַּ֧עַשׂ",
+      "gloss": "و ساخت"
+    },
+    {
+      "surface": "הַמֶּ֛לֶךְ",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "כִּסֵּא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "שֵׁ֖ן",
+      "gloss": "عاج"
+    },
+    {
+      "surface": "גָּד֑וֹל",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "וַיְצַפֵּ֖הוּ",
+      "gloss": "و آن را روکش کرد"
+    },
+    {
+      "surface": "זָהָ֥ב",
+      "gloss": "زر"
+    },
+    {
+      "surface": "טָהֽוֹר",
+      "gloss": "خالص"
+    }
+  ],
+  "timestamp": "2026-08-13T23:45:12.013977400Z",
+  "model": "glm-5.2"
+}

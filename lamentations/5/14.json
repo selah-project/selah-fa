@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "پیران از دروازه بازایستادند، جوانان از نواختنِ خود.",
+  "tokens": [
+    {
+      "surface": "זְקֵנִים",
+      "gloss": "پیران"
+    },
+    {
+      "surface": "מִשַּׁעַר",
+      "gloss": "از دروازه"
+    },
+    {
+      "surface": "שָׁבָתוּ",
+      "gloss": "بازایستادند"
+    },
+    {
+      "surface": "בַּחוּרִים",
+      "gloss": "جوانان"
+    },
+    {
+      "surface": "מִנְּגִינָתָם",
+      "gloss": "از نواختنِ خود"
+    }
+  ],
+  "timestamp": "2026-08-13T23:19:27.650079160Z",
+  "model": "glm-5.2"
+}

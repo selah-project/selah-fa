@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 13:23",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "فراوانی خوراک در شخمِ زدهٔ نیازمندان ⟨است⟩، و بدون داوری هدر می‌رود.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "فراوانی"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "خوراک"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "شخمِ زده"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "نیازمندان"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "و هست"
+    },
+    {
+      "surface": "נספה",
+      "gloss": "هدر می‌رود"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بدون"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "داوری"
+    }
+  ],
+  "timestamp": "2026-08-13T23:01:52.406580880Z",
+  "model": "glm-5.2"
+}

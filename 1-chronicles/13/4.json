@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 13:4",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "و تمامِ جماعت گفت چنین کنیم، زیرا این امر در چشم‌هایِ همهٔ قوم راست ⟨بود⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کنند"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "راست ⟨بود⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "این امر"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "درِ چشم‌هایِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:39:40.349673764Z",
+  "model": "glm-5.2"
+}

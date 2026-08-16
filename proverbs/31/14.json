@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "proverbs 31:14",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "او چون کشتی‌های بازرگان بوده است؛ از دور، نانِ خویش را می‌آورد.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "بوده است"
+    },
+    {
+      "surface": "כאניות",
+      "gloss": "چون کشتی‌های"
+    },
+    {
+      "surface": "סוחר",
+      "gloss": "بازرگان"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "از دور"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "می‌آورد"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "نانِ خویش"
+    }
+  ],
+  "timestamp": "2026-08-15T04:28:08.629037194Z",
+  "model": "glm-5.3"
+}

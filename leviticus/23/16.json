@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 23:16",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "تا فردایِ شباتِ هفتم بشمارید پنجاه روز، و نزدیک آرید هدیهٔ آردِ تازه‌ای برای یاهوه.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "فردایِ"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "شباتِ"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "هفتم"
+    },
+    {
+      "surface": "תספרו",
+      "gloss": "بشمارید"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاه"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "و نزدیک آرید"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "هدیهٔ آرد"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "تازه"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "برای یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:29:01.515448328Z",
+  "model": "glm-5.2"
+}

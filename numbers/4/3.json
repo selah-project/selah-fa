@@ -1,0 +1,73 @@
+{
+  "tier": "4.6",
+  "verse": 3,
+  "ref": "numbers 4:3",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "از پسرِ سی‌سال و بالاتر تا پسرِ پنجاه‌سال، هر کس ⟨که⟩ می‌آید به لشکر، برای انجام کار در خیمهٔ اجتماع.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "از پسرِ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "و بالاتر"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر کس"
+    },
+    {
+      "surface": "בא",
+      "gloss": "می‌آید"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "به لشکر"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "برای انجام"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "در خیمهٔ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "اجتماع"
+    }
+  ],
+  "timestamp": "2026-08-15T03:57:12.950949091Z",
+  "model": "glm-4.6"
+}

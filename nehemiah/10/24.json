@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 10:24",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "هوشِیع، خَنان‌یَه، خاشّوب،",
+  "tokens": [
+    {
+      "surface": "הוֹשֵׁ֥עַ",
+      "gloss": "هوشِیع"
+    },
+    {
+      "surface": "חֲנַנְיָ֖ה",
+      "gloss": "خَنان‌یَه"
+    },
+    {
+      "surface": "חַשּֽׁוּב",
+      "gloss": "خاشّوب"
+    }
+  ],
+  "timestamp": "2026-08-13T23:33:49.821561248Z",
+  "model": "glm-5.2"
+}

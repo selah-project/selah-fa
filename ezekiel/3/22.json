@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 3:22",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و دستِ یاهوه آن‌جا بر من بود، و ⟨او⟩ به من گفت: برخیز، به‌سوی درّه برو، و آن‌جا ⟨את⟩ با تو سخن خواهم گفت.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آن‌جا"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دستِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "קום",
+      "gloss": "برخیز"
+    },
+    {
+      "surface": "צא",
+      "gloss": "برو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به‌سوی"
+    },
+    {
+      "surface": "הבקעה",
+      "gloss": "درّه"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "و آن‌جا"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "سخن خواهم گفت"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ با تو"
+    }
+  ],
+  "timestamp": "2026-08-14T00:07:24.667490986Z",
+  "model": "glm-5.2"
+}

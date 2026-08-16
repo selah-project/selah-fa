@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 4:1",
+  "book": "zechariah",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و بازگشت فرشتهٔ گوینده در من، و مرا بیدار کرد، چون مردی که از خوابش بیدار می‌شود.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "و بازگشت"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "فرشتهٔ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "گوینده"
+    },
+    {
+      "surface": "בי",
+      "gloss": "در من"
+    },
+    {
+      "surface": "ויעירני",
+      "gloss": "و مرا بیدار کرد"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "چون مردی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "بیدار می‌شود"
+    },
+    {
+      "surface": "משנתו",
+      "gloss": "از خوابش"
+    }
+  ],
+  "timestamp": "2026-08-13T22:35:02.804764901Z",
+  "model": "glm-5.2"
+}

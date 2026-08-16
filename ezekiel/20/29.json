@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 20:29",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و به ایشان گفتم: ⟨آن⟩ باما چیست که شما به ⟨آنجا⟩ می‌آیید؟ و نامش باما خوانده شد تا به ⟨این⟩ روز.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "به ایشان"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "آن باما"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "شما"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "می‌آیید"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آنجا"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "و خوانده شد"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "نامش"
+    },
+    {
+      "surface": "במה",
+      "gloss": "باما"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    }
+  ],
+  "timestamp": "2026-08-13T22:16:48.425830384Z",
+  "model": "glm-5.2"
+}

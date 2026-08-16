@@ -1,0 +1,50 @@
+{
+  "tier": "hand",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 45,
+  "translation": "پس ⟨את⟩ برادرانش را روانه کرد، و رفتند، و به ایشان گفت: «مبادا در راه نزاع کنید.»",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "پس روانه کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "برادرانش"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برادرانش"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "و رفتند"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "به ایشان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مبادا"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "نزاع کنید"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "در راه"
+    }
+  ],
+  "timestamp": "2026-08-14T17:47:39Z",
+  "model": "claude-fable-5/hand"
+}

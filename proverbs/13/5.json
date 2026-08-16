@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "صدیق سخنِ دروغ را دشمن می‌دارد، و رشيع بدبو می‌شود و شرمسار می‌گردد.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "سخنِ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغ"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "دشمن می‌دارد"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صدیق"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "و رشيع"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "بدبو می‌شود"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "و شرمسار می‌گردد"
+    }
+  ],
+  "timestamp": "2026-08-15T04:27:10.696934118Z",
+  "model": "glm-5.3"
+}

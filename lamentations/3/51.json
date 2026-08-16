@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "lamentations 3:51",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "چشمِ مبر جانِ مرا بی‌رحم است، فراتر از ⟨همهٔ⟩ دخترانِ شهرِ من",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "چشمِ من"
+    },
+    {
+      "surface": "עוללה",
+      "gloss": "بی‌رحم است"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "جانِ مرا"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "فراتر از ⟨همهٔ⟩"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "دخترانِ"
+    },
+    {
+      "surface": "עירי",
+      "gloss": "شهرِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T23:17:53.864351532Z",
+  "model": "glm-5.2"
+}

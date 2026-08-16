@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 4:41",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "آنگاه موشه سه شهر را جدا کرد در آن‌سوی یاردِن، به سوی طلوعِ خورشید.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "آنگاه"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "جدا کرد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سه"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "در آن‌سوی"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یاردِن"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "به سمتِ شرق"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "خورشید"
+    }
+  ],
+  "timestamp": "2026-08-13T20:44:16.735201324Z",
+  "model": "glm-5.2"
+}

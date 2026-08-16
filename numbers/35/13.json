@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 35:13",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "و ⟨از⟩ شهرهایی که بدهید، شش شهر پناهگاه برای شما خواهند بود.",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "و شهرها"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "بدهید"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شش"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شهرهای"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "پناهگاه"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "خواهند بود"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "برای شما"
+    }
+  ],
+  "timestamp": "2026-08-13T20:42:40.491944127Z",
+  "model": "glm-5.2"
+}

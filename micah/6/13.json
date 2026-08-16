@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "micah 6:13",
+  "book": "micah",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و نیز من بیمار کرده‌ام، تا زده شوی؛ ویران شدن را بر گناهانِ تو.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "و نیز"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "החליתי",
+      "gloss": "بیمار کرده‌ام"
+    },
+    {
+      "surface": "הכותך",
+      "gloss": "تا زده شوی"
+    },
+    {
+      "surface": "השמם",
+      "gloss": "ویران شدن"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "گناهانِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:32:17.466457534Z",
+  "model": "glm-5.2"
+}

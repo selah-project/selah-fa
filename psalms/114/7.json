@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 114,
+  "translation": "از رویِ اَدونای، به‌لرزه درآی، ای زمین، از رویِ اِلوهِ یاعکوو.",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "از رویِ"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "به‌لرزه درآی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ای زمین"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "از رویِ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "اِلوه"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعکوو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:54:06.949509504Z",
+  "model": "glm-5.2"
+}

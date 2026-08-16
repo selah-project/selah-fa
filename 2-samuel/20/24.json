@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "2-samuel 20:24",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و اَدورام بر مَس بود، و یهوشافات بن اَخیلود مازکیر ⟨بود⟩.",
+  "tokens": [
+    {
+      "surface": "ואדרם",
+      "gloss": "و اَدورام"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "המס",
+      "gloss": "مَس"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "و یهوشافات"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "اَخیلود"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "مازکیر"
+    }
+  ],
+  "timestamp": "2026-08-15T20:53:26.926015267Z",
+  "model": "glm-5.3+hand"
+}

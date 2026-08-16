@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "در ماهِ نخست، در چهاردهم ⟨از⟩ ماه، میانِ غروب‌ها، فِصَح برای یاهوه است.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "در ماه"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "نخست"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "در چهارده"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ده"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "برای ماه"
+    },
+    {
+      "surface": "בין",
+      "gloss": "میانِ"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "غروب‌ها"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "فِصَح"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "برای یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:28:32.651556465Z",
+  "model": "glm-5.2"
+}

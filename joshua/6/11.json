@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 6:11",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و آرُنِ یاهوه را گرداند ⟨את⟩ شهر را، یک بارِ دور، و به اردو آمدند و در اردو بسر کردند.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "و گرداند"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "آرُنِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شهر را"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "הקף",
+      "gloss": "دور"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "بار"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "و آمدند"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "به اردو"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "و بسر کردند"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "در اردو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:54:42.627901461Z",
+  "model": "glm-5.2"
+}

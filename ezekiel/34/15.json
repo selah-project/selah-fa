@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 34:15",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 34,
+  "translation": "من گلهٔ خود را می‌چرانم و من ایشان را می‌خوابانم — اُروکلِ اَدونای یاهوه.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "می‌چرانم"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "گلهٔ من"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "و من"
+    },
+    {
+      "surface": "ארביצם",
+      "gloss": "می‌خوابانم"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "اُروکلِ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:20:49.313568820Z",
+  "model": "glm-5.2"
+}

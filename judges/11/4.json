@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و پس از روزگاری چنین شد، و پسرانِ عمون با یِسرائیل جنگیدند.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و چنین شد"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "پس از روزگاری"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "و جنگیدند"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمون"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-13T21:05:09.975033020Z",
+  "model": "glm-5.2"
+}

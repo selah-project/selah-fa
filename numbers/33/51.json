@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 33:51",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "با پسرانِ یِسراِل سخن بگو و به آنان بگو: که شما گذر می‌کنید ⟨את⟩ یَردَن را به سوی زمینِ کِناعان.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "سخن بگو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "با"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسراِل"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "و بگو"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "به آنان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "شما"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "گذر می‌کنید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یَردَن"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یَردَن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینِ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کِناعان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:42:11.738381469Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "و چاقویی بر گلوی خود بگذار، اگر صاحبِ نَفَش هستی.",
+  "tokens": [
+    {
+      "surface": "וְשַׂמְתָּ֣",
+      "gloss": "و بگذار"
+    },
+    {
+      "surface": "שַׂכִּ֣ין",
+      "gloss": "چاقویی"
+    },
+    {
+      "surface": "בְּלֹעֶ֑ךָ",
+      "gloss": "بر گلوی خود"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "בַּ֖עַל",
+      "gloss": "صاحبِ"
+    },
+    {
+      "surface": "נֶ֣פֶשׁ",
+      "gloss": "نَفَش"
+    },
+    {
+      "surface": "אָֽתָּה",
+      "gloss": "هستی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:28.254177176Z",
+  "model": "glm-5.2"
+}

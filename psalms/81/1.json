@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 81,
+  "translation": "برای رهبرِ آواز، بر گتّیت، از اَساف",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "برای رهبرِ آواز"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "گتّیت"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "از اَساف"
+    }
+  ],
+  "timestamp": "2026-08-15T04:24:37.729598283Z",
+  "model": "glm-5.3"
+}

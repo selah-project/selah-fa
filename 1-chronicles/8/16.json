@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "وَ میخائِل، وَ ییشْپه، وَ یوهَا، پسرانِ بَریعَه.",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "وَ میخائِل"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "وَ ییشْپه"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "وَ یوهَا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "بَریعَه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:35.756008572Z",
+  "model": "glm-5.2"
+}

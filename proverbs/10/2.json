@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "گنج‌هایِ بدی سودی نمی‌بخشند، و عدالت از مرگ نجات می‌دهد.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "سودی نمی‌بخشند"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "گنج‌هایِ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "و عدالت"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "نجات می‌دهد"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "از مرگ"
+    }
+  ],
+  "timestamp": "2026-08-13T23:01:10.871906394Z",
+  "model": "glm-5.2"
+}

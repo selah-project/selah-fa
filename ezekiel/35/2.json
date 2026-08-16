@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 35:2",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "پسرِ آدم، رویِ خود را به سوی کوهِ سِعیر بگذار و بر آن نبوت کن،",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "שים",
+      "gloss": "بگذار"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "رویِ خود را"
+    },
+    {
+      "surface": "על",
+      "gloss": "به سویِ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کوهِ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سِعیر"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "و نبوت کن"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر آن"
+    }
+  ],
+  "timestamp": "2026-08-13T22:21:14.925234129Z",
+  "model": "glm-5.2"
+}

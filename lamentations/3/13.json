@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 3:13",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "او وارد کرد در کلیه‌هایم پسران ترکش‌دانش را.",
+  "tokens": [
+    {
+      "surface": "הֵבִיא֙",
+      "gloss": "او وارد کرد"
+    },
+    {
+      "surface": "בְּכִלְיוֹתָ֔י",
+      "gloss": "در کلیه‌هایم"
+    },
+    {
+      "surface": "בְּנֵ֖י",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "אַשְׁפָּתֽוֹ",
+      "gloss": "ترکش‌دانش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:18:07.046730435Z",
+  "model": "glm-5.2"
+}

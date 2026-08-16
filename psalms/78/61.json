@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 78:61",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 78,
+  "translation": "و داد نیروی او را به اسارت، و شکوهش را به دستِ دشمن.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "و داد"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "به اسارت"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "نیروی او"
+    },
+    {
+      "surface": "ותפארתו",
+      "gloss": "و شکوهش"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "به دستِ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "دشمن"
+    }
+  ],
+  "timestamp": "2026-08-13T22:48:36.155361575Z",
+  "model": "glm-5.2"
+}

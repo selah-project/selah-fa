@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 26:17",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "و برخاستند مردانی از زیرانِ زمین و گفتند به تمامِ جماعتِ قوم، چنین:",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "و برخاستند"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "مردانی"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "از زبرانِ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "و گفتند"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "جماعتِ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چنین"
+    }
+  ],
+  "timestamp": "2026-08-13T22:03:14.956847118Z",
+  "model": "glm-5.2"
+}

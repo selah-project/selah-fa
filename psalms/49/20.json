@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 49,
+  "translation": "⟨او⟩ می‌رود تا نسلِ پدرانش؛ تا همیشگی، نه خواهند دید نور را.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "می‌رود"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسلِ"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "پدرانش"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "همیشگی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "خواهند دید"
+    },
+    {
+      "surface": "אור",
+      "gloss": "نور را"
+    }
+  ],
+  "timestamp": "2026-08-13T22:43:54.113283759Z",
+  "model": "glm-5.2"
+}

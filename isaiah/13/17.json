@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "اینک من بیدار می‌کنم بر آنان ⟨את⟩ مادها را، که نقره نخرند و طلا نخواهند در آن.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "اینک من"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "بیدار می‌کنم"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "بر آنان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مادها"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "مادها"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "نقره"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "خرند"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "و طلا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "خواهند"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در آن"
+    }
+  ],
+  "timestamp": "2026-08-13T21:43:18.503806732Z",
+  "model": "glm-5.2"
+}

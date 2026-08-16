@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 40:3",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 40,
+  "translation": "و داد ⟨את⟩ آنان را در بازداشت — خانهٔ سرور گزمه‌ها، به زندان، جایگاهی که یوسف آنجا بسته بود.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "و داد"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "آنان"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "در بازداشت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانهٔ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سرور"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "گزمه‌ها"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانهٔ"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "زندان"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جایگاهی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "بسته بود"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آنجا"
+    }
+  ],
+  "timestamp": "2026-08-13T20:06:25.366258375Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 4:1",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و چون تمامِ قوم تمام کردند ⟨את⟩ گذشتن از یَردَن، یاهوه به یِهوشُوا گفت، به‌قولِ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و چون"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چون"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "تمام کردند"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "گذشتن از"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یَردَن"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یَردَن"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یِهوشُوا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به‌قولِ"
+    }
+  ],
+  "timestamp": "2026-08-13T20:55:01.085419208Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 29:32",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و در روزِ هفتم، گاوهای نر هفت، قوچ‌ها دو، بره‌ها پسرانِ یک سال چهارده بی‌نقص",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "و در روز"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "هفتم"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "گاوهای نر"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "قوچ‌ها"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "بره‌ها"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "یک سال"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ده"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "بی‌نقص"
+    }
+  ],
+  "timestamp": "2026-08-13T20:40:13.884066570Z",
+  "model": "glm-5.2"
+}

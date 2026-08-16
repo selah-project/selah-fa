@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و چون موشه به نوشتنِ ⟨את⟩ سخنانِ این تورا بر کتابِای پایان داد، تا کامل شدنِ آن،",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "چون پایان داد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "به نوشتنِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سخنانِ تورا"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "سخنانِ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "این تورا"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "را"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "کتابِای"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "کامل شدنِ آن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:53:30.464327799Z",
+  "model": "glm-5.2"
+}

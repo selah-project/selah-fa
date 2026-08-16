@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 22:4",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "پیامدِ فروتانی، ترسِ یاهوه ⟨است⟩؛ ثروت و شکوه و زندگی.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "پیامدِ"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "فروتانی"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ترسِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ثروت"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "و شکوه"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "و زندگی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:03.720749225Z",
+  "model": "glm-5.2"
+}

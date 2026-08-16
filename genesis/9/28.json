@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و نُوح پس از مابول سی‌صد سال و پنجاه سال زیست.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "و زیست"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "پس از"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "مابول"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سی"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "و پنجاه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:28.135717268Z",
+  "model": "glm-5.2"
+}

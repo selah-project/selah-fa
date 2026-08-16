@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "بر رویِ خون نخورید. فال نزنید و طالع نیاورید.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "خورید"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "رویِ خون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "فال نزنید"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "طالع نیاورید"
+    }
+  ],
+  "timestamp": "2026-08-13T20:27:32.221458437Z",
+  "model": "glm-5.2"
+}

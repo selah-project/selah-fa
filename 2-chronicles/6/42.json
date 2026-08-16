@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 42,
+  "ref": "2-chronicles 6:42",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "یاهوه الوهیم، روی مسیحیانت را برمگردان؛ به لطف‌های داوید، بندهٔ تو، یاد کن.»",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "برمگردان"
+    },
+    {
+      "surface": "פני",
+      "gloss": "روی"
+    },
+    {
+      "surface": "משיחיך",
+      "gloss": "مسیحیانت"
+    },
+    {
+      "surface": "זכרה",
+      "gloss": "یاد کن"
+    },
+    {
+      "surface": "לחסדי",
+      "gloss": "به لطف‌های"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوید"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "بندهٔ تو"
+    }
+  ],
+  "timestamp": "2026-08-15T17:41:32.181114560Z",
+  "model": "glm-5.3"
+}

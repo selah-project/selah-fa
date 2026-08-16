@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 78:39",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 78,
+  "translation": "و به یاد آورد که آنان گوشت‌اند، روحی که می‌رود و بازنمی‌گردد.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "و به یاد آورد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "המה",
+      "gloss": "آنان"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "که می‌رود"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "بازمی‌گردد"
+    }
+  ],
+  "timestamp": "2026-08-13T22:48:34.478761561Z",
+  "model": "glm-5.2"
+}

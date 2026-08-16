@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 3:12",
+  "book": "habakkuk",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "در خشم تو زمین را گام برمی‌داری، در غضب ⟨את⟩ امت‌ها را می‌کوبی.",
+  "tokens": [
+    {
+      "surface": "בזעם",
+      "gloss": "در خشم"
+    },
+    {
+      "surface": "תצעד",
+      "gloss": "گام برمی‌داری"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین را"
+    },
+    {
+      "surface": "באף",
+      "gloss": "در غضب"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "می‌کوبی"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "امت‌ها",
+      "marks": "امت‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T22:33:24.095473342Z",
+  "model": "glm-5.2"
+}

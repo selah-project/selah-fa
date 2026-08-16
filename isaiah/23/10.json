@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "بگذر از زمینِ تو مانند نهر، ای دخترِ تارشیش؛ کمربندی دیگر نیست.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "بگذر"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "از زمینِ تو"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "مانند نهر"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ای دخترِ"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "تارشیش"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "کمربندی"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیگر"
+    }
+  ],
+  "timestamp": "2026-08-13T21:45:45.090451120Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 7:34",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و پسرانِ شِمِر: آحی، و رُوهَگَه، یَحوبه، و اَرام.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "شِمِر"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "آحی"
+    },
+    {
+      "surface": "ורוהגה",
+      "gloss": "و رُوهَگَه"
+    },
+    {
+      "surface": "יחבה",
+      "gloss": "یَحوبه"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "و اَرام"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:57.544687838Z",
+  "model": "glm-5.2"
+}

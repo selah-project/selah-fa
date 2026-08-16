@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 9:15",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و بازگشتم، و از کوه فرود آمدم — و کوه در آتش می‌سوخت — و دو لوحِ پیمان بر دو دستِ من.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "و بازگشتم"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "و فرود آمدم"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "کوه"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "و کوه"
+    },
+    {
+      "surface": "בער",
+      "gloss": "می‌سوخت"
+    },
+    {
+      "surface": "באש",
+      "gloss": "در آتش"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "و دو"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "لوحِ"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "پیمان"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "دستِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T20:45:53.588523707Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 25:34",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و مرتعِ بیرونِ شهرهایشان فروخته نشود، زیرا مِلکِ همیشگیِ آنان ⟨است⟩ برایشان.",
+  "tokens": [
+    {
+      "surface": "ושדה",
+      "gloss": "ومرتعِ"
+    },
+    {
+      "surface": "מגרש",
+      "gloss": "بیرونِ"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "شهرهایشان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "فروخته شود"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "مِلکِ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "همیشگیِ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨است⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "برایشان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:29:27.551859120Z",
+  "model": "glm-5.2"
+}

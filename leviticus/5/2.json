@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 5:2",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "یا نفسی که به هر چیزِ نجسی بساید — یا به لاشهٔ حیوانیِ نجس، یا به لاشهٔ بهمهٔ نجس، یا به لاشهٔ خزندهٔ نجس — و از او پنهان مانده باشد، و او نجس است، و مقصر است.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "بساید"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "به هر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چیزِ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجسی"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בנבלת",
+      "gloss": "به لاشهٔ"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "حیوانیِ"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בנבלת",
+      "gloss": "به لاشهٔ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "بهمهٔ"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בנבלת",
+      "gloss": "به لاشهٔ"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "خزندهٔ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "ונעלם",
+      "gloss": "و پنهان مانده"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "از او"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "و او"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "مقصر است"
+    }
+  ],
+  "timestamp": "2026-08-13T20:23:14.737512093Z",
+  "model": "glm-5.2"
+}

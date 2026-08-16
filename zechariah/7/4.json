@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 7:4",
+  "book": "zechariah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و بود کلامِ یاهوه صَبایوت به من، به گفتن:",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֛י",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "דְּבַר",
+      "gloss": "کلامِ"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "צְבָא֖וֹת",
+      "gloss": "صَبایوت"
+    },
+    {
+      "surface": "אֵלַ֥י",
+      "gloss": "به من"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "به گفتنِ"
+    }
+  ],
+  "timestamp": "2026-08-13T22:35:24.700571570Z",
+  "model": "glm-5.2"
+}

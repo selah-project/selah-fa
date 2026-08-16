@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 10:16",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و پادشاه شلومه دویست سپرِ طلای چکش‌خورده ساخت؛ ششصد طلا بر یک سپر بالا می‌رفت.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و ساخت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومه"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دویست"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "سپر"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "طلا"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "چکش‌خورده"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "طلا"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "بالا می‌رفت"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "سپر"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-08-13T21:27:17.707441792Z",
+  "model": "glm-5.2"
+}

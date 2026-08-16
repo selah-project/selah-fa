@@ -1,0 +1,29 @@
+{
+  "tier": "4.6",
+  "verse": 22,
+  "ref": "numbers 7:22",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "بزغال بزها یک برای گناه",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "بزغال"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بزها"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "برای گناه"
+    }
+  ],
+  "timestamp": "2026-08-15T03:57:17.114491078Z",
+  "model": "glm-4.6"
+}

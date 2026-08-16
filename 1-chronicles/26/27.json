@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 26:27",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "از جنگ‌ها و از غنیمت تقدیس کردند، برای استوار ساختنِ بیت یاهوه.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "המלחמות",
+      "gloss": "جنگ‌ها"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "و از"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "غنیمت"
+    },
+    {
+      "surface": "הקדישו",
+      "gloss": "تقدیس کردند"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "برای استوار ساختنِ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:42:27.972433999Z",
+  "model": "glm-5.2"
+}

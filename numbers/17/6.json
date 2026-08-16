@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "numbers 17:6",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "و شورید تمام جماعتِ پسرانِ یسرائیل از فردا بر موشه و بر اَهارون، به‌گفتنِ: شما ⟨את⟩ قومِ یاهوه را کشتید.",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "و شورید"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "جماعتِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "از فردا"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اَهارون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به‌گفتنِ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "شما"
+    },
+    {
+      "surface": "המתם",
+      "gloss": "کشتید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قومِ یاهوه"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قومِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-15T03:52:02.360981882Z",
+  "model": "glm-5.3"
+}

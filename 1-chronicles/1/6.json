@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و پسرانِ گومَر: اَشکَناز و دیفَت و توگَرماه.",
+  "tokens": [
+    {
+      "surface": "וּבְנֵ֖י",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "גֹּ֑מֶר",
+      "gloss": "گومَر"
+    },
+    {
+      "surface": "אַשְׁכֲּנַ֥ז",
+      "gloss": "اَشکَناز"
+    },
+    {
+      "surface": "וְדִיפַ֖ת",
+      "gloss": "و دیفَت"
+    },
+    {
+      "surface": "וְתוֹגַרְמָֽה",
+      "gloss": "و توگَرماه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:02.157921880Z",
+  "model": "glm-5.2"
+}

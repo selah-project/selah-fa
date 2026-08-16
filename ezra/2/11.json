@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 2:11",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "پسرانِ بِبای، ششصد و بیست و سه.",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "בֵבָ֔י",
+      "gloss": "بِبای"
+    },
+    {
+      "surface": "שֵׁ֥שׁ",
+      "gloss": "شش"
+    },
+    {
+      "surface": "מֵא֖וֹת",
+      "gloss": "صد"
+    },
+    {
+      "surface": "עֶשְׂרִ֥ים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "וּשְׁלֹשָֽׁה",
+      "gloss": "و سه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:28:05.746455974Z",
+  "model": "glm-5.2"
+}

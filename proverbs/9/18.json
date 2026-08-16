@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 9:18",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و ⟨او⟩ نمی‌داند که رفائیم آنجا‌اند؛ در اعماقِ شئول خوانده‌شدگانِ ⟨او⟩.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "می‌داند"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رفائیم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آنجا"
+    },
+    {
+      "surface": "בעמקי",
+      "gloss": "در اعماقِ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شئول"
+    },
+    {
+      "surface": "קראיה",
+      "gloss": "خوانده‌شدگانِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:00:14.329765274Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 18:1",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و явился یاهوه نزد او در اَلون‌های مَمرِی، و او نشسته بود دهانهٔ چادر را چون گرما дня",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "و явился"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "نزد او"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "באלני",
+      "gloss": "در اَلون‌های"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "مَمرِی"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "و او"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "نشسته بود"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دهانهٔ"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "چادر"
+    },
+    {
+      "surface": "כחם",
+      "gloss": "چون گرما"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دن"
+    }
+  ],
+  "timestamp": "2026-08-13T19:58:48.590769561Z",
+  "model": "glm-5.2"
+}

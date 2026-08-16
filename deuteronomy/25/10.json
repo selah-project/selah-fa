@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و خوانده خواهد شد نامِ او در یِسرائیل: «خانهٔ کفش‌بریده.»",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "و خوانده خواهد شد"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "نامِ او"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "در یِسرائیل"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانهٔ"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "کفش‌بریده"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "کفش"
+    }
+  ],
+  "timestamp": "2026-08-13T20:50:09.644462064Z",
+  "model": "glm-5.2"
+}

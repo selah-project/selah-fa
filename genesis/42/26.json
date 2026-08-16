@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 42,
+  "translation": "و ⟨את⟩ غلهٔ خود را بر الاغ‌هایشان بار کردند، و از آنجا رفتند.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "و بار کردند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "غلهٔ خود"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "غلهٔ خود"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "الاغ‌هایشان"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "و رفتند"
+    },
+    {
+      "surface": "משם",
+      "gloss": "از آنجا"
+    }
+  ],
+  "timestamp": "2026-08-13T20:07:46.241290497Z",
+  "model": "glm-5.2"
+}

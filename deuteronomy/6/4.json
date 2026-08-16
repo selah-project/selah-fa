@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "بشنو ای اسرائیل: یاهوه الوهیمِ ما، یاهوه ⟨است⟩ یک.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "بشنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ای اسرائیل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "الوهیمِ ما"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-08-13T20:44:59.934993352Z",
+  "model": "glm-5.2"
+}

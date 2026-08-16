@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 25:19",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و بود پس از ضربه،",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پس از"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "ضربه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:38:18.850306318Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "چون نزدیک شوی به شهری برای جنگیدن بر آن، و به آن ندا دهی برای شالم،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "نزدیک شوی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شهری"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "برای جنگیدن"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "بر آن"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "و ندا دهی"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "به آن"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "برای شالم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:48:32.219936113Z",
+  "model": "glm-5.2"
+}

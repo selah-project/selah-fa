@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 6:16",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و گفت یاهوه به او: چونکه من با تو خواهم بود، و تو میدیان را چون یک مرد خواهی زد.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "خواهم بود"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "با تو"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "و خواهی زد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میدیان"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "میدیان"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "چون یک مرد"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکی"
+    }
+  ],
+  "timestamp": "2026-08-13T21:02:36.377692013Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و بود الوهیم ⟨את⟩ پسر، و بزرگ شد، و ساکن شد در بیابان، و شد تیراندازی.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پسر"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "و بزرگ شد"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "و ساکن شد"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "در بیابان"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "تیراندازی"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "کمان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:00:09.959975673Z",
+  "model": "glm-5.2"
+}

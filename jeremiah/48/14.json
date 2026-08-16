@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 48:14",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 48,
+  "translation": "چگونه می‌گویید: «جباران ما هستیم، و مردان جنگ برای جنگ»؟",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "چگونه"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "می‌گویید"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "جباران"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ما هستیم"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "و مردان"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "برای جنگ"
+    }
+  ],
+  "timestamp": "2026-08-13T22:09:06.877203561Z",
+  "model": "glm-5.2"
+}

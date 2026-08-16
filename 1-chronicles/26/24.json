@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 26:24",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "و شِبوعیل پسرِ گِرْشُم پسرِ موشه، نَگیب برِ خزینه‌ها.",
+  "tokens": [
+    {
+      "surface": "ושבאל",
+      "gloss": "و شِبوعیل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "گِرْشُم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "نَگیب"
+    },
+    {
+      "surface": "על",
+      "gloss": "برِ"
+    },
+    {
+      "surface": "האצרות",
+      "gloss": "خزینه‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T23:42:24.203803263Z",
+  "model": "glm-5.2"
+}

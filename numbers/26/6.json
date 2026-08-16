@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 26:6",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "لِحِتصرون، خاندانِ حِتصرونی؛ لِکارمی، خاندانِ کارمی.",
+  "tokens": [
+    {
+      "surface": "לחצרן",
+      "gloss": "لِحِتصرون"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندانِ"
+    },
+    {
+      "surface": "החצרוני",
+      "gloss": "حِتصرونی"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "لِکارمی"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندانِ"
+    },
+    {
+      "surface": "הכרמי",
+      "gloss": "کارمی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:38:46.487795217Z",
+  "model": "glm-5.2"
+}

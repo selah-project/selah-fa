@@ -1,0 +1,41 @@
+{
+  "tier": "4.6",
+  "verse": 30,
+  "ref": "1-chronicles 25:30",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "برای بیست و سه به مَحَزی‌اوت، پسرانش و برادرانش دوازده،",
+  "tokens": [
+    {
+      "surface": "לשלשה",
+      "gloss": "برای سه"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "و بیست"
+    },
+    {
+      "surface": "למחזיאות",
+      "gloss": "به مَحَزی‌اوت"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "پسرانش"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "و برادرانش"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ده"
+    }
+  ],
+  "timestamp": "2026-08-15T04:36:13.111448826Z",
+  "model": "glm-4.6"
+}

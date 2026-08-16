@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 21:26",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و اَبیمَلِخ گفت: ندانستم چه کسی ⟨את⟩ دعویِ این را کرد، و همچنین تو به من خبر ندادی، و همچنین من نشنیدم مگر امروز.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "اَبیمَلِخ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "دانستم"
+    },
+    {
+      "surface": "מי",
+      "gloss": "چه کسی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دعویِ این"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "دعویِ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "و همچنین"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "خبر دادی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "و همچنین"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "شنیدم"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "مگر"
+    },
+    {
+      "surface": "היום",
+      "gloss": "امروز"
+    }
+  ],
+  "timestamp": "2026-08-13T19:59:36.027384733Z",
+  "model": "glm-5.2"
+}

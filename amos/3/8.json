@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 3:8",
+  "book": "amos",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "شیری غریده — کی نترسد؟ اَدونای یاهوه سخن گفته — کی نبوی نکند؟",
+  "tokens": [
+    {
+      "surface": "אריה",
+      "gloss": "شیری"
+    },
+    {
+      "surface": "שאג",
+      "gloss": "غریده"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "ترسد"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخن گفته"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "ינבא",
+      "gloss": "بوی نکند"
+    }
+  ],
+  "timestamp": "2026-08-13T22:28:48.927852412Z",
+  "model": "glm-5.2"
+}

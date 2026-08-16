@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 8:37",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و موتسا ⟨את⟩ بینعآ را زایید؛ رافآ پسرِ او، اَلعاسآ پسرِ او، آتسِل پسرِ او.",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "و موتسا"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زایید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بینعآ"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "بینعآ"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "رافآ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرِ او"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "اَلعاسآ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرِ او"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "آتسِل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:48.740857645Z",
+  "model": "glm-5.2"
+}

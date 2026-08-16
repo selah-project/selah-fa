@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 5:19",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "در شش تنگنا تو را نجات خواهد داد، و در هفت، بدی به تو نخواهد رسید.",
+  "tokens": [
+    {
+      "surface": "בשש",
+      "gloss": "در شش"
+    },
+    {
+      "surface": "צרות",
+      "gloss": "تنگنا"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "نجات خواهد داد تو را"
+    },
+    {
+      "surface": "ובשבע",
+      "gloss": "و در هفت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نخواهد"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "رسید"
+    },
+    {
+      "surface": "בך",
+      "gloss": "به تو"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بدی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:07:54.451217257Z",
+  "model": "glm-5.2"
+}

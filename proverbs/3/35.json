@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 35,
+  "ref": "proverbs 3:35",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "فرزانگان جلال را به ارث می‌برند و نابخردان، شرم را برمی‌دارند.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "فرزانگان"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "به ارث می‌برند"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "و نابخردان"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "برمی‌دارند"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "شرم"
+    }
+  ],
+  "timestamp": "2026-08-15T04:26:53.433717514Z",
+  "model": "glm-5.3"
+}

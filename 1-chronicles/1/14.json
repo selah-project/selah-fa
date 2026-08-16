@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و ⟨את⟩ یَبوسی، و ⟨את⟩ اَموری، و ⟨את⟩ گِرگَشی را.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "یَبوسی"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "یَبوسی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "اَموری"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "اَموری"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "گِرگَشی"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "گِرگَشی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:58.857480238Z",
+  "model": "glm-5.2"
+}

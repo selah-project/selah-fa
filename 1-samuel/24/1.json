@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و داوود از آنجا بالا رفت و در دژ‌های عِین گَدی نشست.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "و بالا رفت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "משם",
+      "gloss": "از آنجا"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "و نشست"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "در دژ‌های"
+    },
+    {
+      "surface": "עין",
+      "gloss": "عِین"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "گَدی"
+    }
+  ],
+  "timestamp": "2026-08-13T21:14:31.460846865Z",
+  "model": "glm-5.2"
+}

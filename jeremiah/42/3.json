@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 42,
+  "translation": "و خبر دهد یاهوه الوهیمِ تو ⟨את⟩ راهی را که در آنِ برویم، و ⟨את⟩ کاری را که بکنیم.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "و خبر دهد"
+    },
+    {
+      "surface": "לנו",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "الوهیمِ تو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "راه"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "راهی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "برویم"
+    },
+    {
+      "surface": "בה",
+      "gloss": "در آنِ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "کار"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "کاری"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "بکنیم"
+    }
+  ],
+  "timestamp": "2026-08-13T22:07:40.795548607Z",
+  "model": "glm-5.2"
+}

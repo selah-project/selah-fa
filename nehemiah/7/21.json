@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 7:21",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "پسرانِ آتِر، برایِ حِزقیّه، نَود و هشت.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "آتِر"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "برایِ حِزقیّه"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "نَود"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "و هشت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:32:57.517694511Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 10:8",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "مِشولام، اَوییاه، می‌یامین",
+  "tokens": [
+    {
+      "surface": "מְשֻׁלָּ֥ם",
+      "gloss": "مِشولام"
+    },
+    {
+      "surface": "אֲבִיָּ֖ה",
+      "gloss": "اَوییاه"
+    },
+    {
+      "surface": "מִיָּמִֽן",
+      "gloss": "می‌یامین"
+    }
+  ],
+  "timestamp": "2026-08-13T23:33:05.046066098Z",
+  "model": "glm-5.2"
+}

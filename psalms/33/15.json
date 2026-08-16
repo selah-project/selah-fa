@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "او که دل‌هایشان را یکسره می‌سازد، او که به همهٔ کردارهایشان بیناست.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "می‌سازد"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "یکسره"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "دل‌هایشان"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "بیناست"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "کردارهایشان"
+    }
+  ],
+  "timestamp": "2026-08-15T04:22:36.628748939Z",
+  "model": "glm-5.3"
+}

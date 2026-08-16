@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "به دستِ تو سپارم روحم؛ تو ⟨את⟩ مرا بازخریدی، ای یاهوه، اِلِ راستی.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "به دستِ تو"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "سپارم"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "روحم"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "تو بازخریدی"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ مرا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "راستی"
+    }
+  ],
+  "timestamp": "2026-08-13T22:41:08.693223252Z",
+  "model": "glm-5.2"
+}

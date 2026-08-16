@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 22:18",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "و گفت پادشاه یِسرائیل به یِهوشافاط: آیا به تو نگفتم که او بر من نبوتِ خیر نگوید، بلکه بد؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "یِهوشافاط"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "نگفتم"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "به تو"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יתנבא",
+      "gloss": "نبوت کند"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خیر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلکه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ρابط⟩"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    }
+  ],
+  "timestamp": "2026-08-14T00:03:20.446614114Z",
+  "model": "glm-5.2"
+}

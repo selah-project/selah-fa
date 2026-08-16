@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 89,
+  "translation": "مَشکیلِ اَیتانِ اِزراحی.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "مَشکیلِ"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "اَیتانِ"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "اِزراحی"
+    }
+  ],
+  "timestamp": "2026-08-13T22:50:19.682704970Z",
+  "model": "glm-5.2"
+}

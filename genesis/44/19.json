@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 44,
+  "translation": "آقای من از بندگانِ ⟨خود⟩ پرسید و گفت: آیا برای شما پدری یا برادری ⟨هست⟩؟",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "آقای من"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "پرسید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بندگانِ او"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "بندگانِ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "היש",
+      "gloss": "آیا هست"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "برای شما"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پدر"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "אח",
+      "gloss": "برادر"
+    }
+  ],
+  "timestamp": "2026-08-13T20:08:04.601787802Z",
+  "model": "glm-5.2"
+}

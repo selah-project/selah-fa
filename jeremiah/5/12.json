@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 5:12",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "به یاهوه دروغ بستند و گفتند: «او نیست؛ و بدی بر ما نخواهد آمد، و شمشیر و قحطی نخواهیم دید.»",
+  "tokens": [
+    {
+      "surface": "כחשו",
+      "gloss": "دروغ بستند"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "به یاهوه"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "و گفتند"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "خواهد آمد"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "بر ما"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "وחרב",
+      "gloss": "و شمشیر"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "و قحطی"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "خواهیم دید"
+    }
+  ],
+  "timestamp": "2026-08-13T21:56:47.748739238Z",
+  "model": "glm-5.2"
+}

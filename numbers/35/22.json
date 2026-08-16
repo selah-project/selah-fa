@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 35:22",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "و اگر ناگهان، بی‌دشمنی، او را هل داد، یا هر ابزاری را بر او افکند، بی‌دسیسه —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "בפתע",
+      "gloss": "ناگهان"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بی‌"
+    },
+    {
+      "surface": "איבה",
+      "gloss": "دشمنی"
+    },
+    {
+      "surface": "הדפו",
+      "gloss": "او را هل داد"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "השליך",
+      "gloss": "افکند"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر او"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ابزاری را"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بی‌"
+    },
+    {
+      "surface": "צדיה",
+      "gloss": "دسیسه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:58:06.361916161Z",
+  "model": "glm-5.2"
+}

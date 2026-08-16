@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "proverbs 24:32",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و ⟨من⟩ آن را دیدم؛ من دل خود را نهادم؛ دیدم، تادیبی گرفتم.",
+  "tokens": [
+    {
+      "surface": "ואחזה",
+      "gloss": "و دیدم"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "نهادم"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دل خود را"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "دیدم"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "گرفتم"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تادیبی"
+    }
+  ],
+  "timestamp": "2026-08-15T04:27:59.423836717Z",
+  "model": "glm-5.3"
+}

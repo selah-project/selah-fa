@@ -1,0 +1,53 @@
+{
+  "tier": "4.6",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 50,
+  "translation": "و⟨آنها⟩ با او بالا رفتند؛ هم ارابه، هم سواران؛ و ⟨آن⟩ لشکر بسیار سنگین ⟨بود⟩.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "و⟨آنها بالا⟩ رفتند"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "با او"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "ارابه"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "سواران"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨آن بود⟩"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "بسیار سنگین"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بسیار"
+    }
+  ],
+  "timestamp": "2026-08-15T03:49:31.139936104Z",
+  "model": "glm-4.6"
+}

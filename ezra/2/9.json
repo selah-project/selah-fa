@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "پسرانِ زَکّای، هفتصد و شصت.",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "זַכָּ֔י",
+      "gloss": "زَکّای"
+    },
+    {
+      "surface": "שְׁבַ֥ע",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "מֵא֖וֹת",
+      "gloss": "صد"
+    },
+    {
+      "surface": "וְשִׁשִּֽׁים",
+      "gloss": "و شصت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:28:05.746112331Z",
+  "model": "glm-5.2"
+}

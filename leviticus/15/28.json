@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "leviticus 15:28",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و اگر از جریانِ خویش پاک شده باشد، برای خود هفت روز بشمارد، و پس از آن پاک می‌شود.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "پاک شده باشد"
+    },
+    {
+      "surface": "מזובה",
+      "gloss": "از جریانِ خویش"
+    },
+    {
+      "surface": "וספרה",
+      "gloss": "بشمارد"
+    },
+    {
+      "surface": "לה",
+      "gloss": "برای خود"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روز"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "و پس از آن"
+    },
+    {
+      "surface": "תטהר",
+      "gloss": "پاک می‌شود"
+    }
+  ],
+  "timestamp": "2026-08-15T03:50:52.071432608Z",
+  "model": "glm-5.3"
+}

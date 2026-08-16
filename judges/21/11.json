@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 21:11",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و این است سختی که باید بکنید: هر نَر و هر زنی را که بسترِ نَر را می‌شناسد، حرام گردانید.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "و این"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "سختی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "بکنید"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نَر"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زنی"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "که می‌شناسد"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "بسترِ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نَر"
+    },
+    {
+      "surface": "תחרימו",
+      "gloss": "حرام گردانید"
+    }
+  ],
+  "timestamp": "2026-08-13T21:07:45.597375228Z",
+  "model": "glm-5.2"
+}

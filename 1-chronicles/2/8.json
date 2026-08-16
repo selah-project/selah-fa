@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 2:8",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و پسرانِ اِیتان: عَزَریا.",
+  "tokens": [
+    {
+      "surface": "וּבְנֵ֥י",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "אֵיתָ֖ן",
+      "gloss": "اِیتان"
+    },
+    {
+      "surface": "עֲזַרְיָֽה",
+      "gloss": "عَزَریا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:11.936714237Z",
+  "model": "glm-5.2"
+}

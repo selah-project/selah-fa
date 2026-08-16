@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 17:24",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "و اَوراهام پسرِ نود و نه سال بود، در ختنه‌شدنِ گوشتِ ختنه‌ناشده‌یِ خود.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "و اَوراهام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "نود"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "در ختنه‌شدنِ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشتِ"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "ختنه‌ناشده‌یِ"
+    }
+  ],
+  "timestamp": "2026-08-13T19:58:50.632235434Z",
+  "model": "glm-5.2"
+}

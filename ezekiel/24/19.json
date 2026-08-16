@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 24:19",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و مردم به من گفتند: آیا به ما نخواهی گفت که این چیزها برای ما چه معنایی دارد، که تو چنین می‌کنی؟»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "و گفتند"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "העם",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "آیا نه"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "خواهی گفت"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "به ما"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "برای ما"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "می‌کنی"
+    }
+  ],
+  "timestamp": "2026-08-13T22:18:21.965759333Z",
+  "model": "glm-5.2"
+}

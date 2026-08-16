@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "و اگر با اَبزاری از آهن او را بزند و بمیرد، قاتل است ⟨او⟩؛ مرگْ کشته شود قاتل.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "با اَبزاری"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "از آهن"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "او را بزند"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و بمیرد"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "قاتل است"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرگْ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "کشته شود"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "قاتل"
+    }
+  ],
+  "timestamp": "2026-08-13T20:42:40.492524471Z",
+  "model": "glm-5.2"
+}

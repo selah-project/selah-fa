@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 21:2",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "بشنوید شنیدنِ سخنِ مرا، و این باشد تسلی‌های شما.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "بشنوید"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "شنیدنِ"
+    },
+    {
+      "surface": "מלתי",
+      "gloss": "سخنِ مرا"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "و باشد"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "תנחומתיכם",
+      "gloss": "تسلی‌های شما"
+    }
+  ],
+  "timestamp": "2026-08-13T23:10:58.818380588Z",
+  "model": "glm-5.2"
+}

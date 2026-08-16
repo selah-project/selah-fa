@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 38:6",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 38,
+  "translation": "بر چه چیزی پایه‌هایش فرو برده شد؟ یا چه کسی سنگِ کنجِ آن را افکند؟",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه چیزی"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "پایه‌هایش"
+    },
+    {
+      "surface": "הטבעו",
+      "gloss": "فرو برده شد"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "چه کسی"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "افکند"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "سنگِ"
+    },
+    {
+      "surface": "פנתה",
+      "gloss": "کنجِ آن"
+    }
+  ],
+  "timestamp": "2026-08-13T23:14:23.212197743Z",
+  "model": "glm-5.2"
+}

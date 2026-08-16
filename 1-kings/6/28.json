@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و کروب‌ها را با زر پوشاند ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "و پوشاند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کروب‌ها"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "کروب‌ها"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زر"
+    }
+  ],
+  "timestamp": "2026-08-13T21:26:11.048228560Z",
+  "model": "glm-5.2"
+}

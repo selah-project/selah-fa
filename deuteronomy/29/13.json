@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و نه ⟨את⟩ شما به‌تنهایی ⟨את⟩ بریدنِ این پیمان و ⟨את⟩ این لعنت را انجام می‌دهم",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ شما"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "به‌تنهایی"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "بریدنِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پیمان"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "این پیمان"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "لعنت"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "لعنت"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "این"
+    }
+  ],
+  "timestamp": "2026-08-13T20:51:57.369690693Z",
+  "model": "glm-5.2"
+}

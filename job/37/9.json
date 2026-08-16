@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "job 37:9",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "از اتاق می‌آید گردباد، و از پراکندگی‌ها سرما.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "החדר",
+      "gloss": "اتاق"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "می‌آید"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "گردباد"
+    },
+    {
+      "surface": "וממזרים",
+      "gloss": "و از پراکندگی‌ها"
+    },
+    {
+      "surface": "קרה",
+      "gloss": "سرما"
+    }
+  ],
+  "timestamp": "2026-08-15T20:54:06.043378367Z",
+  "model": "glm-5.3+hand"
+}

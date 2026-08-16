@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "exodus 30:9",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "بر او بخورِ بیگانه و عولاه و مینحاه نگذرانید، و نِسِخ بر او نریزید.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "بگذرانید"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر او"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "بخور"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "بیگانه"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "و عولاه"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "و مینحاه"
+    },
+    {
+      "surface": "ונסך",
+      "gloss": "و نِسِخ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תסכו",
+      "gloss": "بریزید"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر او"
+    }
+  ],
+  "timestamp": "2026-08-15T03:48:22.575378953Z",
+  "model": "glm-5.3"
+}

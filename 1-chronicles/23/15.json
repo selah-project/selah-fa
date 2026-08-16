@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "پسرانِ موشه: گِرشُم و اَلیعِزِر.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "گِرشُم"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "و اَلیعِزِر"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:25.668085103Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "jeremiah 50:1",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 50,
+  "translation": "سخنی که یاهوه دربارهٔ بابل و دربارهٔ سرزمین کَشدیان به‌دستِ یِرمیاهو پیامبر گفت",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "سخن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دربارهٔ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دربارهٔ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "سرزمینِ"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "کَشدیان"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "به‌دستِ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمیاهو"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "پیامبر"
+    }
+  ],
+  "timestamp": "2026-08-15T04:14:31.682698773Z",
+  "model": "glm-5.3"
+}

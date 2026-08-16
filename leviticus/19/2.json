@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 19:2",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "سخن بگو به تمام جماعت بنی‌یِسرائیل، و به آنان بگو: مقدسان باشید، زیرا من مقدس‌ام، یاهوه، الوهیمِ شما.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "سخن بگو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "جماعتِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی‌"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "و بگو"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "به آنان"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "مقدسان"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "باشید"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "الوهیمِ شما"
+    }
+  ],
+  "timestamp": "2026-08-13T20:27:12.414191318Z",
+  "model": "glm-5.2"
+}

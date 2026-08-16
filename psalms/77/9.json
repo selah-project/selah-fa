@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 77,
+  "translation": "آیا محبت او برای همیشه نابود شده؟ سخن برای نسلی و نسلی تمام شده است؟",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "نابود شده"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "برای همیشه"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "محبت او"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "تمام شده"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "سخن"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "برای نسلی"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "و نسلی"
+    }
+  ],
+  "timestamp": "2026-08-15T04:25:00.149046814Z",
+  "model": "glm-5.3"
+}

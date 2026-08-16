@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و اَدَم گفت: «اَلزَّن که با من بودی، او بود که از درخت به من داد و خوردم.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "اَدَم"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "اَلزَّن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "همراه من گذاشتی"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "با من"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "داد"
+    },
+    {
+      "surface": "לי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "درخت"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "و خوردم"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:02.872383141Z",
+  "model": "glm-5.2"
+}

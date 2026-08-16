@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 6:30",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "پسرِ حَشَبْیا، پسرِ اَمَصیا، پسرِ حِلْقیا",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "حَشَبْیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "اَمَصیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "حِلْقیا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:56.807981097Z",
+  "model": "glm-5.2"
+}

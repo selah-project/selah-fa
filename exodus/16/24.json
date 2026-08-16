@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "و گذاشتند ⟨את⟩ آن تا صبح، چنان‌که فرمان داد موشه، و بدبو نشد، و کرم نبود در او.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "و گذاشتند"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "آن (مَنّ)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چنان‌که"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فرمان داد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "بدبو شد"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "و کرم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:14:27.416720986Z",
+  "model": "glm-5.2"
+}

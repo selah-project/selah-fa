@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "deuteronomy 33:25",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "آهنین و برنجی ⟨باد⟩ میله‌هایت، و چون روزهایت، آرامشت ⟨باد⟩.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "آهنین"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "و برنجی"
+    },
+    {
+      "surface": "מנעליך",
+      "gloss": "میله‌هایت"
+    },
+    {
+      "surface": "וכימיך",
+      "gloss": "و چون روزهایت"
+    },
+    {
+      "surface": "דבאך",
+      "gloss": "آرامشت"
+    }
+  ],
+  "timestamp": "2026-08-15T03:56:43.765436820Z",
+  "model": "glm-5.3"
+}

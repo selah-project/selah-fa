@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 71,
+  "translation": "ای الوهیم، از من دور مَشو؛ الوهیمِ من، برای یاریِ من شتاب کن.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ای الوهیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مَشو"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "دور"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "از من"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوهیمِ من"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "برای یاریِ من"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "شتاب کن"
+    }
+  ],
+  "timestamp": "2026-08-13T22:46:48.710764152Z",
+  "model": "glm-5.2"
+}

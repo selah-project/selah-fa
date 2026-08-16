@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و خوردی و سیر شدی، و یاهوه الوهیمِ خود را بر سرزمینِ خوبی که به تو داده است برکت دادی.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "و خوردی"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "و سیر شدی"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "و برکت دادی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "الوهیمِ تو"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "سرزمینِ"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "خوبِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "داده است"
+    },
+    {
+      "surface": "לך",
+      "gloss": "به تو"
+    }
+  ],
+  "timestamp": "2026-08-13T23:57:47.425678403Z",
+  "model": "glm-5.2"
+}

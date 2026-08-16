@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "مزمور، ترانه‌ای برای تجدیدِ ⟨آغاز\/تقدیس⟩ خانه، از داود.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ترانه"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "تقدیس\/آغاز به کار"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "خانه"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "از داود"
+    }
+  ],
+  "timestamp": "2026-08-15T17:39:35.868423269Z",
+  "model": "glm-5.3"
+}

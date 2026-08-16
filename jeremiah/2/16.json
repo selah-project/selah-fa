@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 2:16",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "هم پسرانِ نوف و تَحَپَنِس، فرقِ سرِ تو را می‌چراندند.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "נף",
+      "gloss": "نوف"
+    },
+    {
+      "surface": "ותחפנס",
+      "gloss": "و تَحَپَنِس"
+    },
+    {
+      "surface": "ירעוך",
+      "gloss": "می‌چراندند"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "فرقِ سرِ تو را"
+    }
+  ],
+  "timestamp": "2026-08-13T21:55:29.335459710Z",
+  "model": "glm-5.2"
+}

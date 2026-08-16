@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 78,
+  "translation": "و برگزید ⟨את⟩ قبیلهٔ یهودا، ⟨את⟩ کوهِ تسیون را که دوست داشت.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "و برگزید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قبیلهٔ یهودا"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "قبیلهٔ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کوهِ تسیون"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کوهِ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "تسیون را"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "دوست داشت"
+    }
+  ],
+  "timestamp": "2026-08-13T22:48:29.499812275Z",
+  "model": "glm-5.2"
+}

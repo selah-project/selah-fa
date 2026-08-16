@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "2-chronicles 28:22",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "و در زمانِ تنگیِ او، او افزود بر خیانت کردن در یاهوه — او همان پادشاه اَحاز است.",
+  "tokens": [
+    {
+      "surface": "ובעת",
+      "gloss": "و در زمانِ"
+    },
+    {
+      "surface": "הצר",
+      "gloss": "تنگی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "او"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "افزود"
+    },
+    {
+      "surface": "למעול",
+      "gloss": "بر خیانت کردن"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "در یاهوه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "اَحاز"
+    }
+  ],
+  "timestamp": "2026-08-15T04:34:46.882154901Z",
+  "model": "glm-5.3"
+}

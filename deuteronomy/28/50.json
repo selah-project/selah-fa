@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "گوییِ سختِ چهره، که چهرهٔ پیر را برنخواهد داشت و بر جوان ترحم نخواهد کرد.",
+  "tokens": [
+    {
+      "surface": "גּ֖וֹי",
+      "gloss": "گویی"
+    },
+    {
+      "surface": "עַ֣ז",
+      "gloss": "سخت"
+    },
+    {
+      "surface": "פָּנִ֑ים",
+      "gloss": "چهره"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לֹ֤א",
+      "gloss": "نخواهد داشت"
+    },
+    {
+      "surface": "יִשָּ֤א",
+      "gloss": "بر"
+    },
+    {
+      "surface": "פָנִים֙",
+      "gloss": "چهرهٔ"
+    },
+    {
+      "surface": "לְזָקֵ֔ן",
+      "gloss": "پیر"
+    },
+    {
+      "surface": "וְנַ֖עַר",
+      "gloss": "و جوان"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "نخواهد کرد"
+    },
+    {
+      "surface": "יָחֹֽן",
+      "gloss": "ترحم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:51:59.833834445Z",
+  "model": "glm-5.2"
+}

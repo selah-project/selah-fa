@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 37:2",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "و او را با زَرِ پاک روکش کرد، از درون و از بیرون؛ و برایش زِیرِ زَر گرداگرد ساخت.",
+  "tokens": [
+    {
+      "surface": "ויצפהו",
+      "gloss": "و او را روکش کرد"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زَر"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "از درون"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "و از بیرون"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "و ساخت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برایش"
+    },
+    {
+      "surface": "זר",
+      "gloss": "زِیر"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زَر"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "گرداگرد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:20:34.436594611Z",
+  "model": "glm-5.2"
+}

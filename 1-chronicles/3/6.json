@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 3:6",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و یِبخار، و اِلیشَماع، و اِلیفَلت.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "و یِبخار"
+    },
+    {
+      "surface": "ואלישמע",
+      "gloss": "و اِلیشَماع"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "و اِلیفَلت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:00.202709592Z",
+  "model": "glm-5.2"
+}

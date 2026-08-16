@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 36:19",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "این‌ها پسرانِ عیساو هستند، و این‌ها رئیس‌هایِ ایشان؛ اوست اَدوم.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیساو"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "و این‌ها"
+    },
+    {
+      "surface": "אלופיהם",
+      "gloss": "رئیس‌هایِ ایشان"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اَدوم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:05:19.128269437Z",
+  "model": "glm-5.2"
+}

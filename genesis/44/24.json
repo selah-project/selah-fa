@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 44:24",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 44,
+  "translation": "و چون نزدِ بدهای تو، پدرم، فرازیم، ⟨את⟩ سخنانِ سرورِ مرا به او بازگفتم.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و ⟨بود⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "فرازیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نزدِ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "بدهای تو"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پدرم"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "و بازگفتم"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سخنانِ سرورِ من"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "سخنانِ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "سرورِ مرا"
+    }
+  ],
+  "timestamp": "2026-08-13T20:07:29.999749025Z",
+  "model": "glm-5.2"
+}

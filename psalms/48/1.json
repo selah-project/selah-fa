@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 48,
+  "translation": "سرود، مزامیر، برای پسرانِ قورح.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "سرود"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزامیر"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "برای پسرانِ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    }
+  ],
+  "timestamp": "2026-08-13T22:44:08.141699952Z",
+  "model": "glm-5.2"
+}

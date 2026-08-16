@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 10:9",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و نزد آنان آمد یَهوشُعَ‌، ناگهان؛ تمامِ شب بالا رفت از گِلگال.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "و آمد"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "نزد آنان"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یَهوشُعَ"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ناگهان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "شب"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "بالا رفت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "گِلگال"
+    }
+  ],
+  "timestamp": "2026-08-13T20:56:32.559234433Z",
+  "model": "glm-5.2"
+}

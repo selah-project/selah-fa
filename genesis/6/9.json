@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 6:9",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "این‌ها تولداتِ نُوح هستند: نُوح مردی عادل و بی‌نقص بود در نسل‌هایش؛ نُوح با ⟨את⟩ الوهیم رفت.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "تولداتِ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "عادل"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "بی‌نقص"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "בדרתיו",
+      "gloss": "در نسل‌هایش"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الوهیم"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "رفت"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:05.310819042Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "leviticus 14:39",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "وکاهن بازگردد در روزِ هفتم، و ببیند، و اینک نَگاع در دیوارهای خانه گسترش یافته باشد،",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "و بازگردد"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "هفتم"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "و ببیند"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "گسترش یافته"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "نَگاع"
+    },
+    {
+      "surface": "בקירת",
+      "gloss": "در دیوارهای"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "خانه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:55:55.322853535Z",
+  "model": "glm-5.2"
+}

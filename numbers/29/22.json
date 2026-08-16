@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "numbers 29:22",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و یک بزِ نر برای گناه، جدای از عیدِ همیشگی و نذرش و شراب‌نذرش.",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "و بزِ نر"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "برای گناه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "جدای از"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "عیدِ"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "همیشگی"
+    },
+    {
+      "surface": "ומנחתה",
+      "gloss": "و نذرش"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "و شراب‌نذرش"
+    }
+  ],
+  "timestamp": "2026-08-15T03:53:51.888663279Z",
+  "model": "glm-5.3"
+}

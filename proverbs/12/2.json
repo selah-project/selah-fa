@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 12:2",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "نیکو، خشنودی از یاهوه به دست می‌آورد، و مردِ مکر، ⟨یاهوه⟩ مجرم می‌سازد.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "نیکو"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "به دست می‌آورد"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "خشنودی"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "از یاهوه"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "و مردِ"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "مکر"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "مجرم می‌سازد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:01:39.041667298Z",
+  "model": "glm-5.2"
+}

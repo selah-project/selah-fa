@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 23:10",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "و پسرانِ شِمْعی، یَحَت و زینا و یَعوش و بَریا. این‌ها پسرانِ شِمْعی، چهار.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شِمْعی"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "یَحَت"
+    },
+    {
+      "surface": "זינא",
+      "gloss": "زینا"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "و یَعوش"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "و بَریا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شِمْعی"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چهار"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:29.057031222Z",
+  "model": "glm-5.2"
+}

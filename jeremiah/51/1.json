@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 51:1",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 51,
+  "translation": "بدینسان گفت یاهوه: اینک من برمی‌انگیزم بر بابل و بر ساکنانِ لِو-قامای، بادِای ویرانگر را.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "بدینسان"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "اینک من"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "برمی‌انگیزم"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ساکنانِ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "لِو"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "قامای"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "بادِای"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "ویرانگر"
+    }
+  ],
+  "timestamp": "2026-08-13T22:10:40.104861061Z",
+  "model": "glm-5.2"
+}

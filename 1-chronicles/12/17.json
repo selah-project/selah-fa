@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 12:17",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و از پسرانِ بینیامین و یهودا تا به دژِ داوود آمدند.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "و آمدند"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بینیامین"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "و یهودا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "למצד",
+      "gloss": "به دژِ"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "داوید"
+    }
+  ],
+  "timestamp": "2026-08-13T23:39:28.422765618Z",
+  "model": "glm-5.2"
+}

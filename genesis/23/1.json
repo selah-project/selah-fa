@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 23:1",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "و شدند زندگی‌های ساراه صد سال و بیست سال و هفت سال؛ سال‌های زندگی‌های ساراه.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "و شدند"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "زندگی‌های"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ساراه"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "صد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "و بیست"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "و هفت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "שני",
+      "gloss": "سال‌های"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "زندگی‌های"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ساراه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:00:17.582022181Z",
+  "model": "glm-5.2"
+}

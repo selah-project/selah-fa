@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 2:9",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و دیدم و اینک دستی فرستاده‌شده به سوی من، و اینک در آن مُегیله‌ای از کتاب بود.",
+  "tokens": [
+    {
+      "surface": "ואראה",
+      "gloss": "و دیدم"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دستی"
+    },
+    {
+      "surface": "שלוחה",
+      "gloss": "فرستاده‌شده"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به سوی من"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در آن"
+    },
+    {
+      "surface": "מגלת",
+      "gloss": "مُегиله‌ای"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "از کتاب"
+    }
+  ],
+  "timestamp": "2026-08-13T22:12:03.702329440Z",
+  "model": "glm-5.2"
+}

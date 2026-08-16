@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 11:42",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "هر آنچه بر شکم می‌رود و هر آنچه بر چهار می‌رود، تا هر که پاهای بسیاری دارد، از همهٔ خزندگانی که بر زمین می‌خزند — نخوریدشان، که آنان موجزات‌اند.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "می‌رود"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "גחון",
+      "gloss": "شکم"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "می‌رود"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "מרבה",
+      "gloss": "بسیاری‌دار"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "پاها"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "از همهٔ"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "خزندگان"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "می‌خزند"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכלום",
+      "gloss": "نخوریدشان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "موجزات"
+    },
+    {
+      "surface": "הם",
+      "gloss": "آنان‌اند"
+    }
+  ],
+  "timestamp": "2026-08-13T20:24:47.000461390Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 4:2",
+  "book": "ruth",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و ده مرد از زُکهای شهر را گرفت و گفت: «اینجا بنشینید.» پس نشستند.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "و گرفت"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ده"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "از زُکهای"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "بنشینید"
+    },
+    {
+      "surface": "פה",
+      "gloss": "اینجا"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "پس نشستند"
+    }
+  ],
+  "timestamp": "2026-08-13T23:17:36.452631554Z",
+  "model": "glm-5.2"
+}

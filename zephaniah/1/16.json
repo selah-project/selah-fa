@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 1:16",
+  "book": "zephaniah",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "روزِ شوفار و هُتاف، بر شهرهای مستحکم و بر گوشه‌های بلند.",
+  "tokens": [
+    {
+      "surface": "יוֹם",
+      "gloss": "روزِ"
+    },
+    {
+      "surface": "שׁוֹפָר",
+      "gloss": "شوفار"
+    },
+    {
+      "surface": "וּתְרוּעָה",
+      "gloss": "و هُتاف"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הֶעָרִים",
+      "gloss": "شهرهای"
+    },
+    {
+      "surface": "הַבְּצֻר֔וֹת",
+      "gloss": "مستحکم"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "הַפִּנּוֹת",
+      "gloss": "گوشه‌های"
+    },
+    {
+      "surface": "הַגְּבֹהוֹת",
+      "gloss": "بلند"
+    }
+  ],
+  "timestamp": "2026-08-13T22:33:51.873563538Z",
+  "model": "glm-5.2"
+}

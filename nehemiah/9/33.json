@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 9:33",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و تو بر هر آنچه که بر ما آمده ⟨هست⟩ عادل هستی، که تو راستى کردی و ما بدى ورزیدیم.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "و تو"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "عادل"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "آمده"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "بر ما"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "کردی"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "و ما"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "بدی ورزیدیم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:33:36.780215542Z",
+  "model": "glm-5.2"
+}

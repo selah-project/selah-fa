@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و پادشاه و هامان آمدند تا با اِستِر، ⟨ملکه⟩، بنوشند.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "و آمد"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "و هامان"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "تا بنوشند"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "اِستِر"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ملکه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:23:43.906749533Z",
+  "model": "glm-5.2"
+}

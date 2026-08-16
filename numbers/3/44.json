@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 3:44",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و یاهوه با موشه سخن گفت، به‌گفتن:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و او سخن گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "با"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به‌گفتن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:31:24.947157075Z",
+  "model": "glm-5.2"
+}

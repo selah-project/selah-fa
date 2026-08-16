@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "اگر رختِ همسایه‌ات را به گرو بگیری، تا غروبِ خورشید آن را به او بازگردانی.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "به گرو بگیری"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "بگروگیری"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "رختِ"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "همسایه‌ات"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "בא",
+      "gloss": "غروبِ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "خورشید"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "آن را بازگردانی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:15:44.747339955Z",
+  "model": "glm-5.2"
+}

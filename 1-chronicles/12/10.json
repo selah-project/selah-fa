@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "عِزِر سر، عُوَدْیا دومی، اِلیآو سومی.",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "عِزِر"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "عُوَدْیا"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دومی"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "اِلیآو"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "سومی"
+    }
+  ],
+  "timestamp": "2026-08-14T00:18:12.364399577Z",
+  "model": "glm-5.2"
+}

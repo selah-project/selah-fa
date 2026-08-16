@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 25:2",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "پسرِ انسان، رویِ خود را به‌سوی پسرانِ عمّون بگذار، و بر ایشان نبوت کن.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "שים",
+      "gloss": "بگذار"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "رویِ خود را"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به‌سوی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمّون"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "و نبوت کن"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "بر ایشان"
+    }
+  ],
+  "timestamp": "2026-08-14T00:08:42.929265210Z",
+  "model": "glm-5.2"
+}

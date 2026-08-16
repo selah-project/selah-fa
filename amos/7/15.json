@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 7:15",
+  "book": "amos",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و مرا یاهوه برد از پشتِ گله، و یاهوه به من گفت: برو، نبوت کن به قومِ من، یسرائل.",
+  "tokens": [
+    {
+      "surface": "ויקחני",
+      "gloss": "و مرا برد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "از پشتِ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "گله"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برو"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "نبوت کن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "قومِ من"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسارائل"
+    }
+  ],
+  "timestamp": "2026-08-13T22:29:51.759339232Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 41:41",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 41,
+  "translation": "و گفت پَرعوه به یوسف: ببین، داده‌ام ⟨את⟩ تو را بر همهٔ زمینِ مِصْرایِم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پَرعوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ببین"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "داده‌ام"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "تو"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینِ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِصْرایِم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:07:05.489886704Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و از حُدِش، زنِ او زاد: ⟨את⟩ یووَو و ⟨את⟩ تسیْیا و ⟨את⟩ مِیشا و ⟨את⟩ مَلکام.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "و زاد"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "حُدِش"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "زنِ او"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یووَو"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "یووَو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "تسیْیا"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "تسیْیا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مِیشا"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "مِیشا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مَلکام"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "مَلکام"
+    }
+  ],
+  "timestamp": "2026-08-14T00:18:08.364132362Z",
+  "model": "glm-5.2"
+}

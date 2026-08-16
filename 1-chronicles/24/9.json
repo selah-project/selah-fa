@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 24:9",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "به مَلکی‌یاه پنجمین، به مایَمین ششمین،",
+  "tokens": [
+    {
+      "surface": "לְמַלְכִּיָּה",
+      "gloss": "به مَلکی‌یاه"
+    },
+    {
+      "surface": "הַחֲמִישִׁי",
+      "gloss": "پنجمین"
+    },
+    {
+      "surface": "לְמִיָּמִן",
+      "gloss": "به مایَمین"
+    },
+    {
+      "surface": "הַשִּׁשִּׁי",
+      "gloss": "ششمین"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:17.513072413Z",
+  "model": "glm-5.2"
+}

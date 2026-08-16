@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 102,
+  "translation": "و تو، یاهوه، برای همیشه می‌نشینی، و یادِ تو به نسل و نسل ⟨است⟩.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "و تو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "برای همیشه"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "می‌نشینی"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "و یادِ تو"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "به نسل"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "و نسل"
+    }
+  ],
+  "timestamp": "2026-08-13T22:51:50.984874276Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "تنها در زمینِ گوشن، که آنجا بنی‌یِسرائیل بودند، گران نبود.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "تنها"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "در زمینِ"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "گوشن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آنجا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی‌"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "گران"
+    }
+  ],
+  "timestamp": "2026-08-13T20:11:52.195816464Z",
+  "model": "glm-5.2"
+}

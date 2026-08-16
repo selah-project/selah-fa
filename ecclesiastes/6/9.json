@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "دیدنِ چشم‌ها از رفت‌وآمدِ نفس بهتر است؛ همچنین این هَبَل و رنجِ روح است.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بهتر است"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "دیدن"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "چشم‌ها"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "از رفت‌وآمدِ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "גם",
+      "gloss": "همچنین"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هَبَل"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "و رنجِ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:13.770754790Z",
+  "model": "glm-5.2"
+}

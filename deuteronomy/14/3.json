@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "هر چیزِ نفرت‌انگیزی را مخور.",
+  "tokens": [
+    {
+      "surface": "לֹ֥א",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תֹאכַ֖ל",
+      "gloss": "مخور"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "תוֹעֵבָֽה",
+      "gloss": "چیزِ نفرت‌انگیزی را"
+    }
+  ],
+  "timestamp": "2026-08-13T20:47:09.115146815Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "پادشاهِ عِگلون، یک؛ پادشاهِ گِزِر، یک؛",
+  "tokens": [
+    {
+      "surface": "מֶ֤לֶךְ",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "עֶגְלוֹן֙",
+      "gloss": "عِگلون"
+    },
+    {
+      "surface": "אֶחָ֔ד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "גֶּ֖זֶר",
+      "gloss": "گِزِر"
+    },
+    {
+      "surface": "אֶחָֽד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-08-13T20:56:37.342205523Z",
+  "model": "glm-5.2"
+}

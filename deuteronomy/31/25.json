@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "وَ موشه الوِیّانِ ⟨את⟩ — بردارندگانِ صندوقِ پیمانِ یاهوه — را فرمان داد، به‌گفتن:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "و فرمان داد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الوِیّان"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "الوِیّان"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "بردارندگانِ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوقِ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "پیمانِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به‌گفتن"
+    }
+  ],
+  "timestamp": "2026-08-15T03:56:25.187930155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 6:10",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "آنچه ⟨هست⟩، پیش‌تر نامش خوانده شده و معلوم ⟨است⟩ که او آدم است؛ و نمی‌تواند با آنکه از او تواناتر است داوری کند.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "آنچه"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "هست"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "پیش‌تر"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "خوانده شده"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "نامش"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "و معلوم ⟨است⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نمی‌تواند"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "توانست"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "داوری کند"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "שהתקיף",
+      "gloss": "آنکه تواناتر است"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "از او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:13.771021823Z",
+  "model": "glm-5.2"
+}

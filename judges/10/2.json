@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و ⟨את⟩ یِسرائِل را داوری کرد بیست‌ و سه سال؛ و مرد و در شامیر دفن شد.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "و داوری کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرائِل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائِل"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "و سه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "و دفن شد"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "در شامیر"
+    }
+  ],
+  "timestamp": "2026-08-13T21:03:57.479695163Z",
+  "model": "glm-5.2"
+}

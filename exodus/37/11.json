@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "و لایه‌طلایی کرد ⟨את⟩ آن طلایِ خالص، و ساخت برایش غلاف طلایِ به گرداگرد.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "و لایه‌طلایی کرد"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "آن"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "طلایِ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "خالص"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "و ساخت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برایش"
+    },
+    {
+      "surface": "זר",
+      "gloss": "غلاف"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "طلایِ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "به گرداگرد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:20:44.886267729Z",
+  "model": "glm-5.2"
+}

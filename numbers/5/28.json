@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 5:28",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و اگر زن ناپاک نشده و پاک باشد، ⟨او⟩ تبرئه شود و بذر روییده شود.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נטמאה",
+      "gloss": "ناپاک شده"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "زن"
+    },
+    {
+      "surface": "וטהרה",
+      "gloss": "و پاک باشد"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "ונקתה",
+      "gloss": "و تبرئه شود"
+    },
+    {
+      "surface": "ונזרעה",
+      "gloss": "و بذر روییده شود"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "بذر"
+    }
+  ],
+  "timestamp": "2026-08-13T20:33:03.305174833Z",
+  "model": "glm-5.2"
+}

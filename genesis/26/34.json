@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 26:34",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "و عِساو چهل ساله بود، و زنی گرفت: ⟨את⟩ یهودیث دخترِ بئیری حِتّی، و ⟨את⟩ بَشمَت دخترِ اَیلون حِتّی را.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عِساو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چهل"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "و گرفت"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زنی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یهودیث"
+    },
+    {
+      "surface": "יהודית",
+      "gloss": "یهودیث"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دخترِ"
+    },
+    {
+      "surface": "בארי",
+      "gloss": "بئیری"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "حِتّی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "بشمت"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "بَشمَت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دخترِ"
+    },
+    {
+      "surface": "אילן",
+      "gloss": "اَیلون"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "حِتّی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:01:33.112883256Z",
+  "model": "glm-5.2"
+}

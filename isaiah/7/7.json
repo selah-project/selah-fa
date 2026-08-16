@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "چنین گفت اَدونای یاهوه: برنخواهد خاست و ⟨نخواهد بود⟩.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "برخواهد خاست"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "خواهد بود"
+    }
+  ],
+  "timestamp": "2026-08-13T21:41:42.351558214Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 5:10",
+  "book": "song-of-songs",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "دوستِ من درخشان و سرخ‌روی ⟨است⟩، برجسته میان ده‌هزار.",
+  "tokens": [
+    {
+      "surface": "דּוֹדִ֥י",
+      "gloss": "دوستِ من"
+    },
+    {
+      "surface": "צַח֙",
+      "gloss": "درخشان"
+    },
+    {
+      "surface": "וְאָד֔וֹם",
+      "gloss": "و سرخ‌روی"
+    },
+    {
+      "surface": "דָּג֖וּל",
+      "gloss": "برجسته"
+    },
+    {
+      "surface": "מֵרְבָבָֽה",
+      "gloss": "میان ده‌هزار"
+    }
+  ],
+  "timestamp": "2026-08-13T23:15:26.634140891Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "4.6",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و الوهیم ⟨את⟩ همه آنچه را که کرده بود و اینک بسیار نیکو ⟨بود⟩؛ و ⟨شب⟩ آمد و ⟨صبح⟩ شد، روز ششُم.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "و دید"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همه آنچه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنچه را که"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرده بود"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بسیار نیکو"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و ⟨بود⟩"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "و ⟨شب⟩ آمد"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "⟨صبح⟩ شد"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ششُم"
+    }
+  ],
+  "timestamp": "2026-08-15T03:27:18.131324333Z",
+  "model": "glm-4.6"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 17:17",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "و از بِنیامین، جبارِ توان اِلیاداع، و با او دویست هزار کمان‌کش و سپر‌دار",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "و از"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بِنیامین"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "جبار"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "توان"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "اِلیاداع"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "و با او"
+    },
+    {
+      "surface": "נשקי",
+      "gloss": "کشندگانِ"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "کمان"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "و سپر"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دویست"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    }
+  ],
+  "timestamp": "2026-08-13T23:46:19.712300804Z",
+  "model": "glm-5.2"
+}

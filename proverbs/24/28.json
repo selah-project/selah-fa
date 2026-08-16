@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "proverbs 24:28",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "بیهوده گواه بر ضدِ همسایه‌ات مباش، و با لب‌هایت فریب مده.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مباش"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "باش"
+    },
+    {
+      "surface": "עד",
+      "gloss": "گواه"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بیهوده"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "بر ضدِ همسایه‌ات"
+    },
+    {
+      "surface": "והפתית",
+      "gloss": "و فریب مده"
+    },
+    {
+      "surface": "בשפתיך",
+      "gloss": "با لب‌هایت"
+    }
+  ],
+  "timestamp": "2026-08-15T04:27:17.606079294Z",
+  "model": "glm-5.3"
+}

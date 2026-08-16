@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "دری روی لولایش می‌چرخد، و تنبل روی بسترش.",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "دری"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "می‌چرخد"
+    },
+    {
+      "surface": "על",
+      "gloss": "روی"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "لولایش"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "و تنبل"
+    },
+    {
+      "surface": "על",
+      "gloss": "روی"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "بسترش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:05:02.186743253Z",
+  "model": "glm-5.2"
+}

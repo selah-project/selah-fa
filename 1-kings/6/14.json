@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و شِلومو ⟨את⟩ خانه را بنا کرد و آن را به پایان رساند.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "و بنا کرد"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شِلومو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خانه را"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "خانه"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "و آن را به پایان رساند"
+    }
+  ],
+  "timestamp": "2026-08-13T21:25:56.247465335Z",
+  "model": "glm-5.2"
+}

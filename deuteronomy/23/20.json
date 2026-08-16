@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "به برادرت بهره نزنی: بهرهٔ نقره، بهرهٔ خوراک، بهرهٔ هر چیزِ آنچه بهره‌خواهی شود.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "بهره نزنی"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "به برادرت"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "بهرهٔ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "نقره"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "بهرهٔ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "خوراک"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "بهرهٔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چیزِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنچه"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "بهره‌خواهی شود"
+    }
+  ],
+  "timestamp": "2026-08-13T20:50:22.509607396Z",
+  "model": "glm-5.2"
+}

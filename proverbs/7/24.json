@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 7:24",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و اکنون، ای فرزندان، به من بشنوید، و به گفتارهای دهانِ من گوش فرا دهید.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و اکنون"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ای فرزندان"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "بشنوید"
+    },
+    {
+      "surface": "לי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "و گوش فرا دهید"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "به گفتارهای"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دهانِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T23:00:36.604917664Z",
+  "model": "glm-5.2"
+}

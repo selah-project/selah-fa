@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 1:42",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "پسرانِ اِتسِر: بیلهان و زَعوان و یَعقان. پسرانِ دیشون: عوتس و اَران.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "اِتسِر"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "بیلهان"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "و زَعوان"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "یَعقان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "دیشون"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "عوتس"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "و اَران"
+    }
+  ],
+  "timestamp": "2026-08-14T00:17:39.872880842Z",
+  "model": "glm-5.2"
+}

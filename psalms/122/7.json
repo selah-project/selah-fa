@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 122,
+  "translation": "بادا سلامتی در باروهای تو، آرامش در قصرهای تو.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "بادا"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "در باروهای تو"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "آرامش"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "در قصرهای تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:56:34.358576774Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و دخترِ پارعو به او گفت: «برو.» و دخترِ جوان رفت و ⟨את⟩ مادرِ کودک را خواند.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "לה",
+      "gloss": "به او"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دخترِ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پارعو"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "برو"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "و رفت"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "دخترِ جوان"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "و خواند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مادرِ کودک"
+    },
+    {
+      "surface": "אם",
+      "gloss": "مادرِ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "کودک را"
+    }
+  ],
+  "timestamp": "2026-08-13T20:10:06.017792512Z",
+  "model": "glm-5.2"
+}

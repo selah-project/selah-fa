@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 16:23",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "و یاهوه با موشه سخن گفت، به‌قولِ:",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "با"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "לֵּאמֹר",
+      "gloss": "به‌قولِ"
+    }
+  ],
+  "timestamp": "2026-08-13T20:36:08.123930386Z",
+  "model": "glm-5.2"
+}

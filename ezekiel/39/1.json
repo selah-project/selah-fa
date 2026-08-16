@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "ezekiel 39:1",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 39,
+  "translation": "و تو، پسرِ ادم، بر ضد گوگ نبوت کن و بگو: چنین گفت اَدونای یاهوه: اینک من ⟨به سوی⟩ تو می‌آیم، ای گوگ، سرورِ سر مُشِخ و توبال.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "و تو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ادم"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "نبوت کن"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر ضد"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "گوگ"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "و بگو"
+    },
+    {
+      "surface": "כה",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "اینک من"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "به سوی تو"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "گوگ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سرورِ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "משך",
+      "gloss": "مُشِخ"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "و توبال"
+    }
+  ],
+  "timestamp": "2026-08-15T04:16:57.197985868Z",
+  "model": "glm-5.3"
+}

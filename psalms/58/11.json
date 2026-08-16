@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 58,
+  "translation": "شاد می‌شود صالح، زیرا انتقام را دید؛ پایش را در خونِ شریر می‌شوید.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "شاد می‌شود"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صالح"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "دید"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "انتقام"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "پایش"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "می‌شوید"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "در خونِ"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "شریر"
+    }
+  ],
+  "timestamp": "2026-08-15T04:24:01.570196936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "اگر بازنگردد، شمشیرش را تیز کند، کمانش را تاند و آن را آماده سازد.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "بازگردد"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "شمشیرش"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "تیز کند"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "کمانش"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "تاند"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "و آن را آماده سازد"
+    }
+  ],
+  "timestamp": "2026-08-13T22:37:44.605091738Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 31:11",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و فرشتهٔ الوهیم در خواب به من گفت: ای یاعکوو! و گفتم: اینجا من هستم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشتهٔ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "در خواب"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعکوو"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و گفتم"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "اینجا من هستم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:03:45.988984152Z",
+  "model": "glm-5.2"
+}

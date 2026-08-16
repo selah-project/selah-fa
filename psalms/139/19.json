@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 139,
+  "translation": "ای که می‌کُشی، ای الوهیم، رستگار را! و مردهای خون، دور شوید از من!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ای که"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "می‌کُشی"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ای الوهیم"
+    },
+    {
+      "surface": "رשע",
+      "gloss": "رستگار را"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "و مردهای"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "خون"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "دور شوید"
+    },
+    {
+      "surface": "מני",
+      "gloss": "از من"
+    }
+  ],
+  "timestamp": "2026-08-13T22:57:57.460875537Z",
+  "model": "glm-5.2"
+}

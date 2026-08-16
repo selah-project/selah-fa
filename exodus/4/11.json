@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 4:11",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و گفت یاهوه به او: کی نهاد دهان را به آدم؟ یا کی خواهد نهاد لال، یا کر، یا بینا، یا کور؟ آیا نه منم یاهوه؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نهاد"
+    },
+    {
+      "surface": "פה",
+      "gloss": "دهان"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "به آدم"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "ישום",
+      "gloss": "خواهد نهاد"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "لال"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "کر"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "بینا"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "עור",
+      "gloss": "کور"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "آیا نه"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "منم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:11:17.231091627Z",
+  "model": "glm-5.2"
+}

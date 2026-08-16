@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و الوهیم به نوح، و به پسرانِ او با ⟨את⟩ او، گفت، به‌بیانِ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و به"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "پسرانِ او"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ او",
+      "marks": "با او"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به‌بیانِ"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:13.505749614Z",
+  "model": "glm-5.2"
+}

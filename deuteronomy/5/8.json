@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "برای خود بت‌نگاره‌ای نساز، هیچ صورتی از آنچه در آسمان‌های بالا و آنچه در زمینِ پایین و آنچه در آب‌های زیرِ زمین است.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "بساز"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برای خود"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "بت‌نگاره‌ای"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هیچ"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "صورتی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "از آنچه"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "در آسمان‌ها"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "بالا"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "و آنچه"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "در زمین"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "پایین"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "و آنچه"
+    },
+    {
+      "surface": "במים",
+      "gloss": "در آب‌ها"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "زیرِ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-15T03:54:59.032553204Z",
+  "model": "glm-5.3"
+}

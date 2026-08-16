@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 19:5",
+  "book": "2-kings",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و آمدند بندگانِ پادشاهِ حزقیاهو نزد یِشع‌یاهو.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "و آمدند"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "بندگانِ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حزقیاهو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نزد"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "یِشع‌یاهو"
+    }
+  ],
+  "timestamp": "2026-08-13T21:38:28.023554125Z",
+  "model": "glm-5.2"
+}

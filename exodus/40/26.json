@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 40,
+  "translation": "و ⟨את⟩ مذبحِ زرین را در خیمهٔ اجتماع، پیش از روی پرده نهاد.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "و نهاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مذبح"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "زرین"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "در خیمهٔ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "اجتماع"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیش از روی"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "پرده"
+    }
+  ],
+  "timestamp": "2026-08-13T20:21:25.642440168Z",
+  "model": "glm-5.2"
+}

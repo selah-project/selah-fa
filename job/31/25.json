@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 31:25",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "اگر شاد شدم که فراوان شد ثروتِ من، و که دستِ من چیزِ بسیار یافت،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "شاد شدم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "רב",
+      "gloss": "فراوان"
+    },
+    {
+      "surface": "חילי",
+      "gloss": "ثروتِ من"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "و که"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "یافت"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "دستِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T23:12:22.750288975Z",
+  "model": "glm-5.2"
+}

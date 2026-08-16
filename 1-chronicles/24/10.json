@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 24:10",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "به هاکوتس هفتمین، به اَوی‌یاه هشتمین،",
+  "tokens": [
+    {
+      "surface": "לְהַקּוֹץ",
+      "gloss": "به هاکوتس"
+    },
+    {
+      "surface": "הַשְּׁבִיעִי",
+      "gloss": "هفتمین"
+    },
+    {
+      "surface": "לַאֲבִיָּה",
+      "gloss": "به اَوی‌یاه"
+    },
+    {
+      "surface": "הַשְּׁמִינִי",
+      "gloss": "هشتمین"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:17.513285570Z",
+  "model": "glm-5.2"
+}

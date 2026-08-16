@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 119,
+  "translation": "سرِ ⟨⟩ سخنِ تو راستی است، و تا ابد هر حکمِ عدلِ تو ⟨است⟩.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "سرِ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "سخنِ تو"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "و تا ابد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "عدلِ تو"
+    }
+  ],
+  "timestamp": "2026-08-15T20:54:01.221439532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 25:25",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و ⟨את⟩ همهٔ پادشاهانِ زیمری و ⟨את⟩ همهٔ پادشاهانِ عیلام و ⟨את⟩ همهٔ پادشاهانِ مادای",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "همه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "پادشاهانِ"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "زیمری"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "همه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "پادشاهانِ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عیلام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "همه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "پادشاهانِ"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "مادای"
+    }
+  ],
+  "timestamp": "2026-08-13T22:03:15.214223105Z",
+  "model": "glm-5.2"
+}

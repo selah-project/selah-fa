@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 28:24",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "غاصبِ پدرش و مادرش، و می‌گوید: «جنایتی نیست»، همدمِ ⟨او⟩ برای مردِ هلاک‌گر است.",
+  "tokens": [
+    {
+      "surface": "גוזל",
+      "gloss": "غاصبِ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پدرش"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "و مادرش"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و می‌گوید"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "جنایتی"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "همدمِ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "برای مردِ"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "هلاک‌گر"
+    }
+  ],
+  "timestamp": "2026-08-13T23:05:35.768933649Z",
+  "model": "glm-5.2"
+}

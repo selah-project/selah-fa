@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "deuteronomy 24:22",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و به یاد بیاور که بنده بودی در سرزمینِ مصر؛ از این رو من تو را فرمان می‌دهم که ⟨את⟩ این کار را بکنی.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "و به یاد بیاور"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "بنده"
+    },
+    {
+      "surface": "היית",
+      "gloss": "بودی"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "در سرزمین"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصر"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "این"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "تو را فرمان می‌دهم"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "که بکنی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "این کار"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "کار"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    }
+  ],
+  "timestamp": "2026-08-15T03:56:29.914073980Z",
+  "model": "glm-5.3"
+}

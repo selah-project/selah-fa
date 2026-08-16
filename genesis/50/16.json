@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 50:16",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 50,
+  "translation": "و فرمان دادند به یوسف، به‌قولِ: پدرت فرمان داد پیش از مرگش، به‌قولِ:",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "و فرمان دادند"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به‌قولِ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "پدرت"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فرمان داد"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیش از"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "مرگش"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به‌قولِ"
+    }
+  ],
+  "timestamp": "2026-08-13T20:09:59.733626656Z",
+  "model": "glm-5.2"
+}

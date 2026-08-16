@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "چربیِ خود را بستند؛ با دهانِ خود با گستاخی سخن گفتند.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "چربیِ خود را"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "بستند"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "دهانِ خود"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "سخن گفتند"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "با گستاخی"
+    }
+  ],
+  "timestamp": "2026-08-15T04:22:31.902256509Z",
+  "model": "glm-5.3"
+}

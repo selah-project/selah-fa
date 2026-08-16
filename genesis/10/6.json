@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و پسرانِ حام: کوش و میتصراییم و پوت و کنعان.",
+  "tokens": [
+    {
+      "surface": "וּבְנֵ֖י",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "חָ֑ם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "כּ֥וּשׁ",
+      "gloss": "کوش"
+    },
+    {
+      "surface": "וּמִצְרַ֖יִם",
+      "gloss": "و میتصراییم"
+    },
+    {
+      "surface": "וּפ֥וּט",
+      "gloss": "و پوت"
+    },
+    {
+      "surface": "וּכְנָֽעַן",
+      "gloss": "و کنعان"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:59.068896455Z",
+  "model": "glm-5.2"
+}

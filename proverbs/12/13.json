@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "proverbs 12:13",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "در گناهِ لب‌ها دامِ بد ⟨است⟩، و از تنگی می‌رَوَد بیرونِ آن صالح.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "در گناهِ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "لب‌ها"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "دامِ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "و می‌رَوَد بیرونِ"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "از تنگی"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صالح"
+    }
+  ],
+  "timestamp": "2026-08-15T04:27:15.508781118Z",
+  "model": "glm-5.3"
+}

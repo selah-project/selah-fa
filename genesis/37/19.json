@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 37:19",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "و گفتند، اِیش به اَخیو: اینک بَعَلِ خَلوموت هَلازه می‌آید.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "و گفتند"
+    },
+    {
+      "surface": "איש",
+      "gloss": "اِیش"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "اَخیو"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بَعَلِ"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "خَلوموت"
+    },
+    {
+      "surface": "הלזה",
+      "gloss": "هَلازه"
+    },
+    {
+      "surface": "בא",
+      "gloss": "می‌آید"
+    }
+  ],
+  "timestamp": "2026-08-13T23:54:09.344627757Z",
+  "model": "glm-5.2"
+}

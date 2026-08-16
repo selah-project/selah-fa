@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 34,
+  "ref": "1-chronicles 11:34",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "پسرانِ هاشِم هَگیزونی، یِهوناتان پسرِ شاگِه هَهَراری؛",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "השם",
+      "gloss": "هاشِم"
+    },
+    {
+      "surface": "הגזוני",
+      "gloss": "هَگیزونی"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "یِهوناتان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "شاگِه"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "هَهَراری"
+    }
+  ],
+  "timestamp": "2026-08-15T04:34:04.268126921Z",
+  "model": "glm-5.3"
+}

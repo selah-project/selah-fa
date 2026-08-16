@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و پسرانِ اهرُن، کاهن، آتش را بر مذبح بگذارند، و هیزم را بر آتش بچینند.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "و بگذارند"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهرُن"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آتش"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "و بچینند"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "هیزم"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "האש",
+      "gloss": "آتش"
+    }
+  ],
+  "timestamp": "2026-08-13T20:22:08.398603142Z",
+  "model": "glm-5.2"
+}

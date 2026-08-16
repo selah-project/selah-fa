@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "آیا حکمت ندا نمی‌دهد، و تفهیم صدای خود را بلند می‌کند؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "آیا… نه"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ندا نمی‌دهد"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "و تفهیم"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "می‌دهد"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "صدای خود"
+    }
+  ],
+  "timestamp": "2026-08-15T04:26:45.553762756Z",
+  "model": "glm-5.3"
+}

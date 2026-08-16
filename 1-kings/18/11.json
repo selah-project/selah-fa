@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و حالا تو می‌گویی: برو، به سرورِ خود بگو: اینک اِلیاهو ⟨است⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و حالا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "می‌گویی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برو"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "بگو"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "به سرورِ خود"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "اِلیاهو"
+    }
+  ],
+  "timestamp": "2026-08-13T21:30:31.018906137Z",
+  "model": "glm-5.2"
+}

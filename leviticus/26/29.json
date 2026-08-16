@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "و گوشت پسرانتان را خواهید خورد و گوشت دخترانتان را خواهید خورد.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "و خواهید خورد"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "پسرانتان"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "و گوشت"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "دخترانتان"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "خواهید خورد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:30:08.434137549Z",
+  "model": "glm-5.2"
+}

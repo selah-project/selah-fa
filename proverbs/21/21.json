@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 21:21",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "⟨کسی که⟩ دنبالِ عدالت و فِر می‌رود، زندگی و عدالت و شکوه را می‌یابد.",
+  "tokens": [
+    {
+      "surface": "רדף",
+      "gloss": "دنبال می‌رود"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "عدالت"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "و فِر"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "می‌یابد"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگی"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "عدالت"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "و شکوه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:32.992071645Z",
+  "model": "glm-5.2"
+}

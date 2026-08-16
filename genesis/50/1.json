@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 50:1",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 50,
+  "translation": "و یوسف بر چهرهٔ پدرش فروافتاد و بر او گریست و او را بوسید.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "و فروافتاد"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "چهرهٔ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پدرش"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "و گریست"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر او"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "و بوسید"
+    },
+    {
+      "surface": "לו",
+      "gloss": "او را"
+    }
+  ],
+  "timestamp": "2026-08-13T20:10:04.587159705Z",
+  "model": "glm-5.2"
+}

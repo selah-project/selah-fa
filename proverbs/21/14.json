@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 21:14",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "هدیه در نهان خشم را فرومی‌نشاند، و رشوه در آغوش، خشمِ تند را.",
+  "tokens": [
+    {
+      "surface": "מתן",
+      "gloss": "هدیه"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "در نهان"
+    },
+    {
+      "surface": "יכפה",
+      "gloss": "فرومی‌نشاند"
+    },
+    {
+      "surface": "אף",
+      "gloss": "خشم"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "و رشوه"
+    },
+    {
+      "surface": "בחק",
+      "gloss": "در آغوش"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "خشم"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "تند"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:26.274220949Z",
+  "model": "glm-5.2"
+}

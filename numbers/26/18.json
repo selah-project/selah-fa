@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "numbers 26:18",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "این‌ها تیره‌های پسران گدند، به شمارش‌شدگانِ ایشان، چهل هزار و پانصد.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "تیره‌های"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گد"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "به شمارش‌شدگانِ ایشان"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چهل"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "و پانصد"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "(صد)"
+    }
+  ],
+  "timestamp": "2026-08-15T03:53:19.860426890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 127,
+  "translation": "این‌باشد! پسران میراثِ یاهوه‌اند؛ پاداش، میوهٔ شکم است.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "این‌باشد!"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "میراثِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پسران"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "پاداش"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "میوهٔ"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "شکم"
+    }
+  ],
+  "timestamp": "2026-08-15T04:26:18.313545760Z",
+  "model": "glm-5.3"
+}

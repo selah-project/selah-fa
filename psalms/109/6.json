@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 109,
+  "translation": "منصوب کن بر او را راشَع، و شطّان بایستد بر دستِ راستِ او.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "منصوب کن"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر او"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "راشَع"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "و شطّان"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "بایستد"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "دستِ راستِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T22:53:41.413321450Z",
+  "model": "glm-5.2"
+}

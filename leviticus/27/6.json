@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 27:6",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و اگر از پسرِ یک ماه تا پسرِ پنج سال، آن‌گاه برآوردِ تو برای نر پنج شکل نقره و برای ماده برآوردِ تو سه شکل نقره باشد.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "از پسرِ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "یک ماه"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "و باشد"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "برآوردِ تو"
+    },
+    {
+      "surface": "הזכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "شکل"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "نقره"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "و برای ماده"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "برآوردِ تو"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "سه"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "شکل"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "نقره"
+    }
+  ],
+  "timestamp": "2026-08-13T20:30:47.243566414Z",
+  "model": "glm-5.2"
+}

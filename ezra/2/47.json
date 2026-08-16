@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezra 2:47",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "پسرانِ گِدِّل، پسرانِ گَحَر، پسرانِ رِعَیا،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "گِدِّل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "گَحَر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "رِعَیا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:28:50.301363302Z",
+  "model": "glm-5.2"
+}

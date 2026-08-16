@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 28:17",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "نفرین‌شده ⟨است⟩ سبدِ تو و خمیرِ تو.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "نفرین‌شده"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "سبدِ تو"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "و خمیرِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:52:02.977462710Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و ⟨بود⟩ کلِ زمین یک لب، و واژگانِ یکتا.",
+  "tokens": [
+    {
+      "surface": "וֽיְהִ֥י",
+      "gloss": "و ⟨بود⟩"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "کلِ"
+    },
+    {
+      "surface": "הָאָ֖רֶץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "שָׂפָ֣ה",
+      "gloss": "لب"
+    },
+    {
+      "surface": "אֶחָ֑ת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "וּדְבָרִ֖ים",
+      "gloss": "و واژگانِ"
+    },
+    {
+      "surface": "אֲחָדִֽים",
+      "gloss": "یکتا"
+    }
+  ],
+  "timestamp": "2026-08-13T19:57:54.182154533Z",
+  "model": "glm-5.2"
+}

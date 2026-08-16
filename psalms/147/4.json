@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 147,
+  "translation": "شمارندهٔ شمارهٔ ستارگان، به همهٔ آنان نام‌ها می‌دهد.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "شمارندهٔ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "شمارهٔ"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "ستارگان"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "به همهٔ آنان"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "نام‌ها"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "می‌دهد"
+    }
+  ],
+  "timestamp": "2026-08-13T22:58:42.726894275Z",
+  "model": "glm-5.2"
+}

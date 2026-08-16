@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 23:14",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "و برداشت او را به دشتِ صُفّیم، به سرِ هَپِسگه، و ساخت هفت مذبح، و بالا کرد گاوی و قوچی بر مذبح.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "و برداشتش را"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "دشتِ"
+    },
+    {
+      "surface": "צפים",
+      "gloss": "صُفّیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سرِ"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "هَپِسگه"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "و ساخت"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "و بالا کرد"
+    },
+    {
+      "surface": "פר",
+      "gloss": "گاوی"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "و قوچی"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "بر مذبح"
+    }
+  ],
+  "timestamp": "2026-08-13T20:38:56.584466720Z",
+  "model": "glm-5.2"
+}

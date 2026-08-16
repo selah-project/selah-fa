@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "پادشاه مَقِیدة، یکی؛ پادشاه بیت ئیل، یکی.",
+  "tokens": [
+    {
+      "surface": "מֶ֤לֶךְ",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "מַקֵּדָה֙",
+      "gloss": "مَقِیدة"
+    },
+    {
+      "surface": "אֶחָ֔ד",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "בֵּֽית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אֵ֖ל",
+      "gloss": "ئیل"
+    },
+    {
+      "surface": "אֶחָֽד",
+      "gloss": "یکی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:56:40.306947101Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "ezekiel 41:23",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 41,
+  "translation": "و دو در برای هیخال و برای مقدس بود",
+  "tokens": [
+    {
+      "surface": "וּשְׁתַּ֧יִם",
+      "gloss": "و دو"
+    },
+    {
+      "surface": "דְּלָת֛וֹת",
+      "gloss": "دَرْها"
+    },
+    {
+      "surface": "לַֽהֵיכָ֖ל",
+      "gloss": "برای هیخال"
+    },
+    {
+      "surface": "וְלַקֹּֽדֶשׁ",
+      "gloss": "و برای مقدس"
+    }
+  ],
+  "timestamp": "2026-08-15T20:54:06.149210138Z",
+  "model": "glm-5.3+hand"
+}

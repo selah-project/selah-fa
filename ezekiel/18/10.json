@@ -1,0 +1,49 @@
+{
+  "ref": "ezekiel 18:10",
+  "lang": "fa",
+  "book": "ezekiel",
+  "chapter": 18,
+  "verse": 10,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:55:53Z",
+  "translation": "و ⟨او⟩ پسری به دنیا آورَد — راهزنی، ریزندهٔ خون — و به ⟨یک⟩ برادر یکی از این کارها را بکند.",
+  "tokens": [
+    {
+      "surface": "והוליד",
+      "gloss": "و ⟨او⟩ به دنیا آورَد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨یک⟩ پسر"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "⟨یک⟩ راهزن"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "ریزندهٔ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "و ⟨او⟩ بکند"
+    },
+    {
+      "surface": "אח",
+      "gloss": "به ⟨یک⟩ برادر"
+    },
+    {
+      "surface": "מאחד",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "از این کارها"
+    }
+  ]
+}

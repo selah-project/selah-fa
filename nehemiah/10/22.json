@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 10:22",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "مِشِیزَبْئیل، تْسادوک، یَدّوعَ،",
+  "tokens": [
+    {
+      "surface": "מְשֵׁיזַבְאֵ֥ל",
+      "gloss": "مِشِیزَبْئیل"
+    },
+    {
+      "surface": "צָד֖וֹק",
+      "gloss": "تْسادوک"
+    },
+    {
+      "surface": "יַדּֽוּעַ",
+      "gloss": "یَدّوعَ"
+    }
+  ],
+  "timestamp": "2026-08-13T23:33:49.821336298Z",
+  "model": "glm-5.2"
+}

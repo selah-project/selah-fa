@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 128,
+  "translation": "سرودِ بلندا. خوشا به ⟨حال⟩ هر یارایِ یاهوه، ⟨او⟩ که در راه‌هایش می‌رود.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "سرود"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "بلندا"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "خوشا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "یارایِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "می‌رود"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "در راه‌هایش"
+    }
+  ],
+  "timestamp": "2026-08-13T22:56:27.856173209Z",
+  "model": "glm-5.2"
+}

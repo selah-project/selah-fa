@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 5:7",
+  "book": "zechariah",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و اینک یک قرصِ سرب برافراشته شد، و این یک زن است که نشسته است در میانِ اِیفه.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "قرصِ"
+    },
+    {
+      "surface": "עפרת",
+      "gloss": "سرب"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "برافراشته شد"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "و این"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زن"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "نشسته است"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "در میانِ"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "اِیفه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:35:05.417533Z",
+  "model": "glm-5.2"
+}

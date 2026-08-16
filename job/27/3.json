@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "job 27:3",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "که تا هرگاه نَفَسِ من در من است، و روحِ الوهیم در بینیِ من،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "تا هرگاه"
+    },
+    {
+      "surface": "נשמתי",
+      "gloss": "نَفَسِ من"
+    },
+    {
+      "surface": "בי",
+      "gloss": "در من"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "و روحِ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "در بینیِ من"
+    }
+  ],
+  "timestamp": "2026-08-15T04:28:57.270570641Z",
+  "model": "glm-5.3"
+}

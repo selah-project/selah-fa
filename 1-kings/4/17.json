@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 4:17",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "یِهوشافات پسرِ پارواخ، در یِساکار",
+  "tokens": [
+    {
+      "surface": "יהושפט",
+      "gloss": "یِهوشافات"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "פרוח",
+      "gloss": "پارواخ"
+    },
+    {
+      "surface": "ביששכר",
+      "gloss": "در یِساکار"
+    }
+  ],
+  "timestamp": "2026-08-13T21:25:29.768786808Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 46:13",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 46,
+  "translation": "و پسرانِ ییسّاسخار: تولَع و پُوّه و یووَ و شیمرون.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ییسّاسخار"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "تولَع"
+    },
+    {
+      "surface": "ופוה",
+      "gloss": "و پُوّه"
+    },
+    {
+      "surface": "ויוב",
+      "gloss": "و یووَ"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "و شیمرون"
+    }
+  ],
+  "timestamp": "2026-08-13T20:08:06.754014305Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 18:22",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "كلامی را كه نبی به نامِ یاهوه بگوید و آن كلام نبود و روی نداد، همان كلامی است که یاهوه آن را نگفته است؛ با جسارت آن را نبی گفته است؛ از او نترس.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "بگوید"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "به نامِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "كلام"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "آمد\/روی داد"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "كلام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "او نگفته است"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "با جسارت"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "او گفته است"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תגור",
+      "gloss": "بترس"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "از او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:48:29.689118156Z",
+  "model": "glm-5.2"
+}

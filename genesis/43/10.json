@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 43,
+  "translation": "که اگر درنگ نمی‌کردیم، همانا اکنون دو بار بازگشته بودیم!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "اگر نه"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "درنگ می‌کردیم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "همانا"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "اکنون"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "بازگشته بودیم"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "دو بار"
+    }
+  ],
+  "timestamp": "2026-08-13T20:07:42.019525464Z",
+  "model": "glm-5.2"
+}

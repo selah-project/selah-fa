@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 4:18",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "شیمعی پسرِ اِیلا، در بِنیامین",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "شیمعی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אלא",
+      "gloss": "اِیلا"
+    },
+    {
+      "surface": "בבנימן",
+      "gloss": "در بِنیامین"
+    }
+  ],
+  "timestamp": "2026-08-13T21:25:29.768984516Z",
+  "model": "glm-5.2"
+}

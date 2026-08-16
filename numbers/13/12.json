@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 13:12",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "برای سبطِ دان، عَمّی‌اِل پسرِ گِمَلّی.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "برای سبطِ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "عَمّی‌اِل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "גמלי",
+      "gloss": "گِمَلّی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:34:28.905360272Z",
+  "model": "glm-5.2"
+}

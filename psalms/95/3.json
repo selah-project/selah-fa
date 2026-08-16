@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 95,
+  "translation": "زیرا اِلِ بزرگی است یاهوه، و پادشاهی بزرگ بر همهٔ خدایان.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِلِ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "بزرگی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "و پادشاهی"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "خدایان"
+    }
+  ],
+  "timestamp": "2026-08-13T22:51:16.728567584Z",
+  "model": "glm-5.2"
+}

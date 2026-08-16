@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "numbers 33:11",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "و از دریای نی‌زار کوچیدند و در بیابانِ سین اردو زدند.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "و کوچیدند"
+    },
+    {
+      "surface": "מים",
+      "gloss": "از دریای"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "نی‌زار"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "و اردو زدند"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "در بیابانِ"
+    },
+    {
+      "surface": "סין",
+      "gloss": "سین"
+    }
+  ],
+  "timestamp": "2026-08-15T03:53:42.377466029Z",
+  "model": "glm-5.3"
+}

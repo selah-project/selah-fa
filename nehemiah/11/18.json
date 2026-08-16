@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 11:18",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "همهٔ لاویان در شهرِ قدس دویست و هشتاد و چهار ⟨بودند⟩.",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "הַלְוִיִּם",
+      "gloss": "لاویان"
+    },
+    {
+      "surface": "בְּעִיר",
+      "gloss": "در شهرِ"
+    },
+    {
+      "surface": "הַקֹּדֶשׁ",
+      "gloss": "قدس"
+    },
+    {
+      "surface": "מָאתַיִם",
+      "gloss": "دویست"
+    },
+    {
+      "surface": "שְׁמֹנִים",
+      "gloss": "هشتاد"
+    },
+    {
+      "surface": "וְאַרְבָּעָה",
+      "gloss": "و چهار"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:33.471023486Z",
+  "model": "glm-5.2"
+}

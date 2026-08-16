@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "نجس نگردد — صاحب‌مقام در میانِ قومِ خود — تا او را نامقدّس سازد.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "نجس گردد"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "صاحب‌مقام"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "در میانِ قومِ خود"
+    },
+    {
+      "surface": "لהחלו",
+      "gloss": "تا او را نامقدّس سازد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:27:56.283809758Z",
+  "model": "glm-5.2"
+}

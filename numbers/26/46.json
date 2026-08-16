@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "و نامِ دخترِ اَشِر، سَرَح بود.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "و نامِ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دخترِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اَشِر"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "سَرَح"
+    }
+  ],
+  "timestamp": "2026-08-13T20:39:38.369460403Z",
+  "model": "glm-5.2"
+}

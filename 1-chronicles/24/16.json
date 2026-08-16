@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 24:16",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "نوزدهم لِفَتَحْیاه، بیستم لِیِحِزْقِئیل.",
+  "tokens": [
+    {
+      "surface": "לפתחיה",
+      "gloss": "لِفَتَحْیاه"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ده"
+    },
+    {
+      "surface": "ליחזקאל",
+      "gloss": "لِیِحِزْقِئیل"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "بیستم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:38.385059836Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 5:9",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و الوهیم حکمت را به شلومه داد و فهمِ بسیارِ بسیار، و پهنای دل، مانند شنِ که بر کرانهٔ دریاست.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "و داد"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "به شلومه"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "و فهم"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "و پهنای"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "مانند شن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "کرانهٔ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دریا"
+    }
+  ],
+  "timestamp": "2026-08-13T21:25:33.364331112Z",
+  "model": "glm-5.2"
+}

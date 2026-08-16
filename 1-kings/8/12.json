@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "آنگاه گفت شلومو: یاهوه گفته است ساکن‌شدن را در تاریکیِ قطور.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "آنگاه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفته است"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "ساکن‌شدن"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "در تاریکیِ قطور"
+    }
+  ],
+  "timestamp": "2026-08-13T21:27:06.511891396Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "بگذرم، بی‌گمان، و ⟨את⟩ زمینِ خوب را که در آنِ سوی یَردُن است ببینم، آن کوهِ خوب و لِوانون.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "بگذرم"
+    },
+    {
+      "surface": "נא",
+      "gloss": "بی‌گمان"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "و ببینم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمینِ خوب"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینِ"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "خوب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "در آنِ سوی"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یَردُن"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "آن کوهِ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "خوب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "و لِوانون"
+    }
+  ],
+  "timestamp": "2026-08-13T20:44:00.373795968Z",
+  "model": "glm-5.2"
+}

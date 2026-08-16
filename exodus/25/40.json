@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و ببین و بساز — در الگویِ آن‌ها که ⟨تو⟩ در کوه ⟨آن را⟩ می‌بینی.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "و ببین"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "و بساز"
+    },
+    {
+      "surface": "בתבניתם",
+      "gloss": "در الگویِ آن‌ها"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨تو⟩"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "می‌بینی"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "در کوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:16:51.916333844Z",
+  "model": "glm-5.2"
+}

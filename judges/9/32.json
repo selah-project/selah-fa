@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 9:32",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و حالا در شب برخیز، تو و قومی که ⟨את⟩ با توست، و در صحرا کمین گیر.»",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و حالا"
+    },
+    {
+      "surface": "קום",
+      "gloss": "برخیز"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "در شب"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "و قوم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ با توست"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "و کمین گیر"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "در صحرا"
+    }
+  ],
+  "timestamp": "2026-08-13T21:03:14.774417926Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 21:19",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "بهتر است نشستن در سرزمینِ بیابان، تا با زنِ نزاع‌جو و خشمگین.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بهتر است"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "نشستن"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "در سرزمینِ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بیابان"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "تا با زنِ"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "نزاع‌جو"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "و خشمگین"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:38.169656392Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 61,
+  "translation": "که تو پناهگاهی بوده‌ای برایِ من، برجی نیرومند در برابرِ دشمن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "היית",
+      "gloss": "بوده‌ای"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "پناهگاهی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برایِ من"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "برجی"
+    },
+    {
+      "surface": "עז",
+      "gloss": "نیرومند"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "در برابرِ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دشمن"
+    }
+  ],
+  "timestamp": "2026-08-13T22:45:47.987709809Z",
+  "model": "glm-5.2"
+}

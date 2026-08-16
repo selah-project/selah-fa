@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 25:11",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "چهارم یِتسری؛ پسرانش و برادرانش، دوازده.",
+  "tokens": [
+    {
+      "surface": "הרביעי",
+      "gloss": "چهارم"
+    },
+    {
+      "surface": "ליצרי",
+      "gloss": "به یِتسری"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "پسرانش"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "و برادرانش"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ده"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:22.007210523Z",
+  "model": "glm-5.2"
+}

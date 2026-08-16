@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و از پسرِ پنجاه ساله بازمی‌گردد از سپاهِ خدمت، و دیگر خدمت نکند.",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "و از پسرِ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "بازمی‌گردد"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "از سپاهِ"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "خدمت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "خدمت کند"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیگر"
+    }
+  ],
+  "timestamp": "2026-08-13T20:33:18.812087596Z",
+  "model": "glm-5.2"
+}

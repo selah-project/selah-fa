@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 149,
+  "translation": "خداشنان در شکوه بخرامند، بر بسترهای خود سرود سر دهند.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "بخرامند"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "خداشنان"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "در شکوه"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "سرود سر دهند"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "بسترهای خود"
+    }
+  ],
+  "timestamp": "2026-08-13T22:58:17.251190779Z",
+  "model": "glm-5.2"
+}

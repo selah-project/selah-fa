@@ -1,0 +1,45 @@
+{
+  "tier": "4.6",
+  "verse": 6,
+  "ref": "genesis 37:6",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "و گفت به آنان بشنوید ⟨نآ⟩ این خواب که خوابیده بودم",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "به آنان"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "بشنوید"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨نآ⟩"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "این خواب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "که"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "خوابیده بودم"
+    }
+  ],
+  "timestamp": "2026-08-15T03:40:39.343759316Z",
+  "model": "glm-4.6"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 1:7",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و به پشتِ خود برگشت و مرا دید و مرا خواند، و گفتم: اینجا من ⟨هستم⟩.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "و برگشت"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "به پشتِ خود"
+    },
+    {
+      "surface": "ויראני",
+      "gloss": "و مرا دید"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "و خواند"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و گفتم"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "اینجا من"
+    }
+  ],
+  "timestamp": "2026-08-13T21:16:24.494398973Z",
+  "model": "glm-5.2"
+}

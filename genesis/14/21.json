@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 14:21",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و پادشاهِ سدوم به اَوراهام گفت: نفس‌ها را به من بده، و اموال را برای خود بردار.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "سدوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "اَوراهام"
+    },
+    {
+      "surface": "תן",
+      "gloss": "بده"
+    },
+    {
+      "surface": "לי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "نفس‌ها"
+    },
+    {
+      "surface": "והרכש",
+      "gloss": "و اموال"
+    },
+    {
+      "surface": "קח",
+      "gloss": "بردار"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برای تو"
+    }
+  ],
+  "timestamp": "2026-08-13T19:57:53.384503731Z",
+  "model": "glm-5.2"
+}

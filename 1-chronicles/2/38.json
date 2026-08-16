@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و عوِبِد ⟨את⟩ یِهو را زاد، و یِهو ⟨את⟩ عَزَریا را زاد.",
+  "tokens": [
+    {
+      "surface": "וְעוֹבֵד֙",
+      "gloss": "و عوِبِد"
+    },
+    {
+      "surface": "הוֹלִ֣יד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "یِهو"
+    },
+    {
+      "surface": "יֵה֔וּא",
+      "gloss": "یِهو"
+    },
+    {
+      "surface": "וְיֵה֖וּא",
+      "gloss": "و یِهو"
+    },
+    {
+      "surface": "הוֹלִ֥יד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "عَزَریا"
+    },
+    {
+      "surface": "עֲזַרְיָֽה",
+      "gloss": "عَزَریا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:05.589696081Z",
+  "model": "glm-5.2"
+}

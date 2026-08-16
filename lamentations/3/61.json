@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "lamentations 3:61",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "شنیدی خواریشان را، یاهوه، تمامِ اندیشه‌هایشان را علیه من.",
+  "tokens": [
+    {
+      "surface": "שָׁמַ֤עְתָּ",
+      "gloss": "شنیدی"
+    },
+    {
+      "surface": "חֶרְפָּתָם֙",
+      "gloss": "خواریشان را"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "מַחְשְׁבֹתָ֖ם",
+      "gloss": "اندیشه‌هایشان را"
+    },
+    {
+      "surface": "עָלָֽי",
+      "gloss": "علیه من"
+    }
+  ],
+  "timestamp": "2026-08-13T23:17:57.858003812Z",
+  "model": "glm-5.2"
+}

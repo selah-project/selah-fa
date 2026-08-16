@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 34:7",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 34,
+  "translation": "و موشه، پسرِ صد و بیست سال، در مرگِ او بود؛ چشمِ او کم‌نور نشد و طراوت‌اش نپرید.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "و موشه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "صد"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "و بیست"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "במתו",
+      "gloss": "در مرگِ او"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כהתה",
+      "gloss": "کم‌نور شد"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "چشمِ او"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "נס",
+      "gloss": "پرید"
+    },
+    {
+      "surface": "לחה",
+      "gloss": "طراوتِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:53:26.165500620Z",
+  "model": "glm-5.2"
+}

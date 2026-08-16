@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "همنشین مباش ⟨את⟩ صاحبِ خشم را، و با مردِ خشم‌ها ⟨את⟩ راه مرو؛",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مباش"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "همنشین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صاحبِ خشم"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "صاحبِ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "خشم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "با مردِ"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "خشم‌ها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مرو"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "راه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:14.986015783Z",
+  "model": "glm-5.2"
+}

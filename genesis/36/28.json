@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "این‌ها پسرانِ دیشان: عوص و اَران.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "دیشان"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "عوص"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "و اَران"
+    }
+  ],
+  "timestamp": "2026-08-13T20:04:47.177209501Z",
+  "model": "glm-5.2"
+}

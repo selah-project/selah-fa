@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "زيرا خواب با فراوانیِ کارِ بیهوده می‌آید، و صدای نادان با فراوانیِ سخنان.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "בא",
+      "gloss": "می‌آید"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "خواب"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "با فراوانیِ"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "کارِ بیهوده"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "و صدای"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "با فراوانیِ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "سخنان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:28.665348182Z",
+  "model": "glm-5.2"
+}

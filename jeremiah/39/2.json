@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "jeremiah 39:2",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 39,
+  "translation": "و در سالِ یازدهمِ صدقیاهو، در ماهِ چهارم، در نهمِ ماه، ⟨در⟩ شهر شکاف افتاد.",
+  "tokens": [
+    {
+      "surface": "בעשתי",
+      "gloss": "در …-دهم"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "یازدهم"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سالِ"
+    },
+    {
+      "surface": "לצדקיהו",
+      "gloss": "صدقیاهو"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "در ماهِ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "چهارم"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "در نهمِ"
+    },
+    {
+      "surface": "لחדש",
+      "gloss": "ماه"
+    },
+    {
+      "surface": "הבקעה",
+      "gloss": "شکاف افتاد"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    }
+  ],
+  "timestamp": "2026-08-15T04:13:43.915245217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 129,
+  "translation": "یاهوه است عادل، برید رشته‌هایِ شریران را.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "عادل"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "برید"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "رشته‌هایِ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شریران"
+    }
+  ],
+  "timestamp": "2026-08-13T22:56:38.174860969Z",
+  "model": "glm-5.2"
+}

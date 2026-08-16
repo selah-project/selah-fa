@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "فقط ⟨את⟩ قبیلهٔ لوی را شمارش مکن و ⟨את⟩ سرِ آنان را برندار در میان پسران یِسرائیل.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "فقط"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قبیلهٔ لوی"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "قبیلهٔ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "بشمار"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "سرِ آنان"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "سرِ آنان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "بربَر"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "در میان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسران"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-13T20:30:49.539332223Z",
+  "model": "glm-5.2"
+}

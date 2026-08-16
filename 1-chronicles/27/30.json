@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 27:30",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و بر شترها اُوویل یِشْمَع‌اِلی، و بر الاغ‌ها یِحْدِیاهو مِروناتی.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "شترها"
+    },
+    {
+      "surface": "אוביל",
+      "gloss": "اُوویل"
+    },
+    {
+      "surface": "הישמעלי",
+      "gloss": "یِشْمَع‌اِلی"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "الاغ‌ها"
+    },
+    {
+      "surface": "יחדיהו",
+      "gloss": "یِحْدِیاهو"
+    },
+    {
+      "surface": "המרנתי",
+      "gloss": "مِروناتی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:42:44.560575652Z",
+  "model": "glm-5.2"
+}

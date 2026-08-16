@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 30:19",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "راهِ عقاب در آسمان‌ها، راهِ مار بر صخره، راهِ کشتی در دلِ دریا، و راهِ مرد با دخترک.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "راهِ"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "عقاب"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "در آسمان‌ها"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راهِ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "مار"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بر"
+    },
+    {
+      "surface": "צור",
+      "gloss": "صخره"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راهِ"
+    },
+    {
+      "surface": "אניה",
+      "gloss": "کشتی"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "در دلِ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "و راهِ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "בעלמה",
+      "gloss": "با دخترک"
+    }
+  ],
+  "timestamp": "2026-08-13T23:06:04.966873892Z",
+  "model": "glm-5.2"
+}

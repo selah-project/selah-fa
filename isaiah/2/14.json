@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 2:14",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و بر همهٔ کوه‌های بلند، و بر همهٔ تپه‌های برافراشته،",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "کوه‌های"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "بلند"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "تپه‌های"
+    },
+    {
+      "surface": "הנשאות",
+      "gloss": "برافراشته"
+    }
+  ],
+  "timestamp": "2026-08-13T21:40:12.727286692Z",
+  "model": "glm-5.2"
+}

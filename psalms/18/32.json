@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "زیرا که کیست اِلوَه جز یاهوه؟ و که است صخره جز الوهیمِ ما؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا که"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کیست"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "اِلوَه"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "جز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "و که است"
+    },
+    {
+      "surface": "צור",
+      "gloss": "صخره"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "جز"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "الوهیمِ ما"
+    }
+  ],
+  "timestamp": "2026-08-15T04:22:43.831785130Z",
+  "model": "glm-5.3"
+}

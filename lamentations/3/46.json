@@ -1,0 +1,33 @@
+{
+  "tier": "hand",
+  "verse": 46,
+  "ref": "lamentations 3:46",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "گشودند بر ما دهانشان را، همهٔ دشمنانمان.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "گشودند"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "بر ما"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "دهانشان را"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "دشمنانمان"
+    }
+  ],
+  "timestamp": "2026-08-14T17:46:57Z",
+  "model": "claude-fable-5/hand"
+}

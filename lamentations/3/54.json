@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "lamentations 3:54",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "آب‌ها بر سرِ من روان شدند؛ گفتم: «بریده شدم.»",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "روان شدند"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آب‌ها"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سرِ من"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "گفتم"
+    },
+    {
+      "surface": "נגזרתי",
+      "gloss": "بریده شدم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:18:17.647289166Z",
+  "model": "glm-5.2"
+}

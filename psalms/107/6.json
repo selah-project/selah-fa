@@ -1,0 +1,42 @@
+{
+  "ref": "psalms 107:6",
+  "lang": "fa",
+  "book": "psalms",
+  "chapter": 107,
+  "verse": 6,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:47:12Z",
+  "translation": "پس در تنگیِ خود به سویِ یاهوه فریاد برآوردند؛ از سختی‌هایشان رهانیدشان.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "پس فریاد برآوردند"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سویِ",
+      "marks": "یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "در تنگیِ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "خود"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "از سختی‌هایشان"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "رهانیدشان"
+    }
+  ]
+}

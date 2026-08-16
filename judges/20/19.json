@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 20:19",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و برخاستند پسرانِ یسرائیل در بامداد، و بر گِبَعا اردو زدند.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "و برخاستند"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "در بامداد"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "و اردو زدند"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "گِبَعا"
+    }
+  ],
+  "timestamp": "2026-08-13T21:07:33.988091855Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 20:20",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "نفرین‌کنندهٔ پدرش و مادرش — چراغش در نیمهٔ تاریکی خاموش می‌شود.",
+  "tokens": [
+    {
+      "surface": "מקלל",
+      "gloss": "نفرین‌کنندهٔ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پدرش"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "و مادرش"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "خاموش می‌شود"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "چراغش"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "در نیمهٔ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "تاریکی"
+    }
+  ],
+  "timestamp": "2026-08-14T00:14:20.256909406Z",
+  "model": "glm-5.2"
+}

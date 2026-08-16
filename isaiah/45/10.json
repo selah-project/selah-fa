@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 45,
+  "translation": "هُوی گویندهٔ به پدر: چه زایمی؟ و به زن: چه در زاییدن می‌آوری؟",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "هُوی"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گویندهٔ"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "به پدر"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "زایمی"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "و به زن"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "در زاییدن می‌آوری"
+    }
+  ],
+  "timestamp": "2026-08-13T21:51:07.890698106Z",
+  "model": "glm-5.2"
+}

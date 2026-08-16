@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "و الوهیم به اَوراهام گفت: «سارای، زنِ تو، نامش را سارای نخوانی؛ ⟨את⟩ نامش را — زیرا سَراه نامش ⟨است⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراهام"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سارای"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "زنِ تو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "بخوانی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نامش"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "نامش را"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سارای"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "سَراه"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "نامش"
+    }
+  ],
+  "timestamp": "2026-08-13T19:58:57.077694158Z",
+  "model": "glm-5.2"
+}

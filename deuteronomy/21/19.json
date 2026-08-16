@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 21:19",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و پدرش و مادرش او را بگیرند و او را بیرون ببرانند، ⟨את⟩ او به سوی بزرگانِ شهرش و به سوی دروازهٔ جایگاهش،",
+  "tokens": [
+    {
+      "surface": "ותפשו",
+      "gloss": "و بگیرند"
+    },
+    {
+      "surface": "בו",
+      "gloss": "او را"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پدرش"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "و مادرش"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "و بیرون ببرانند"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "او"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "بزرگانِ"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "شهرش"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و به سوی"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازهٔ"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "جایگاهش"
+    }
+  ],
+  "timestamp": "2026-08-13T20:49:17.572351126Z",
+  "model": "glm-5.2"
+}

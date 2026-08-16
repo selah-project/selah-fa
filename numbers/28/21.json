@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "numbers 28:21",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "یک عِشرُون، یک عِشرُون برای برهٔ یگانه و برای هفت بره بساز.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "یک عِشرُون"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "یک عِشرُون"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "بساز"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "برای بره"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یگانه"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "برای هفتِ"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "بره‌ها"
+    }
+  ],
+  "timestamp": "2026-08-15T03:53:01.115461337Z",
+  "model": "glm-5.3"
+}

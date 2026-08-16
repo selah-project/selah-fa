@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 44:3",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 44,
+  "translation": "صبح روشن شد، و مردان فرستاده شدند، آنان و الاغ‌هایشان.",
+  "tokens": [
+    {
+      "surface": "הבקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "אור",
+      "gloss": "روشن شد"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "و مردان"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "فرستاده شدند"
+    },
+    {
+      "surface": "המה",
+      "gloss": "آنان"
+    },
+    {
+      "surface": "וחמריהם",
+      "gloss": "و الاغ‌هایشان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:08:03.588283952Z",
+  "model": "glm-5.2"
+}

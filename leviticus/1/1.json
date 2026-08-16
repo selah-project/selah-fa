@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و خواند به سوی موشه، و یاهوه با او سخن گفت از چادرِ موعود، به بیان:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "و خواند"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "با او"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "از چادرِ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "موعود"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به بیان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:22:14.394800346Z",
+  "model": "glm-5.2"
+}

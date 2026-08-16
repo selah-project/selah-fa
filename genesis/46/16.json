@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 46:16",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 46,
+  "translation": "و پسرانِ گاد: صِفیون و حَگّی، شونی و اِصبون، عیری و اَرودی و اَرائلی.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "צפיון",
+      "gloss": "صِفیون"
+    },
+    {
+      "surface": "וחגי",
+      "gloss": "و حَگّی"
+    },
+    {
+      "surface": "שוני",
+      "gloss": "شونی"
+    },
+    {
+      "surface": "ואצבן",
+      "gloss": "و اِصبون"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "عیری"
+    },
+    {
+      "surface": "וארודי",
+      "gloss": "و اَرودی"
+    },
+    {
+      "surface": "ואראלי",
+      "gloss": "و اَرائلی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:08:06.754607114Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 4:3",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و بِئورتی‌ها به گِتاییم گریختند، و آنجا مهمان بودند تا ⟨به⟩ این روز.",
+  "tokens": [
+    {
+      "surface": "ויברחו",
+      "gloss": "و گریختند"
+    },
+    {
+      "surface": "הבארתים",
+      "gloss": "بِئورتی‌ها"
+    },
+    {
+      "surface": "גתימה",
+      "gloss": "به گِتاییم"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "و بودند"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آنجا"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "مهمان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    }
+  ],
+  "timestamp": "2026-08-13T21:17:29.910152652Z",
+  "model": "glm-5.2"
+}

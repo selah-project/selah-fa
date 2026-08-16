@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "آنگاه که فریاد می‌زنم و دادخواهی می‌کنم، بستِ دعای مرا.",
+  "tokens": [
+    {
+      "surface": "גַּ֣ם",
+      "gloss": "همچنین"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "آن‌گاه که"
+    },
+    {
+      "surface": "אֶזְעַק֙",
+      "gloss": "فریاد می‌زنم"
+    },
+    {
+      "surface": "וַאֲשַׁוֵּ֔עַ",
+      "gloss": "و دادخواهی می‌کنم"
+    },
+    {
+      "surface": "שָׂתַ֖ם",
+      "gloss": "بست"
+    },
+    {
+      "surface": "תְּפִלָּתִֽי",
+      "gloss": "دعای مرا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:17:58.768965819Z",
+  "model": "glm-5.2"
+}

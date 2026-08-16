@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "و برای پهلوی دومِ مسکن به سویِ شمال، بیست تخته.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "و برایِ پهلوی"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "دوم"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "به سویِ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "شمال"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "تخته"
+    }
+  ],
+  "timestamp": "2026-08-13T23:55:21.433509294Z",
+  "model": "glm-5.2"
+}

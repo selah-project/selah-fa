@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 14:13",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "هم در خنده دل درد می‌کند، و پایانِ شادی ⟨او⟩ سوگواری است.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "בִּשְׂחוֹק",
+      "gloss": "در خنده"
+    },
+    {
+      "surface": "יִכְאַב",
+      "gloss": "درد می‌کند"
+    },
+    {
+      "surface": "לֵב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "וְאַחֲרִיתָהּ",
+      "gloss": "و پایانِ او"
+    },
+    {
+      "surface": "שִׂמְחָה",
+      "gloss": "شادی"
+    },
+    {
+      "surface": "תוּגָה",
+      "gloss": "سوگواری"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:00.695552438Z",
+  "model": "glm-5.2"
+}

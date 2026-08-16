@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "از گوشتِ ایشان نخورید، و لاشهٔ ایشان را لمس نکنید؛ نجس ⟨هستند⟩ ایشان برای شما.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "از گوشتِ ایشان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نخورید"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "خورید"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "و لاشهٔ ایشان را"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نکنید"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "لمس کنید"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ایشان"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "برای شما"
+    }
+  ],
+  "timestamp": "2026-08-13T20:24:45.140195793Z",
+  "model": "glm-5.2"
+}

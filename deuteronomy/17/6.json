@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 17:6",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "به دهانِ دو گواه یا سه گواه، ⟨آنکه⟩ بمیرد کشته شود؛ به دهانِ یک گواه کشته نشود.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دهانِ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "گواه"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سه"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "گواه"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "کشته شود"
+    },
+    {
+      "surface": "המת",
+      "gloss": "آنکه بمیرد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "کشته شود"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دهانِ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "گواهِ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-08-13T20:49:28.126762201Z",
+  "model": "glm-5.2"
+}

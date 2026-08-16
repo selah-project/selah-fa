@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 4:13",
+  "book": "daniel",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "دلِ او از ⟨آنِ⟩ انسان دگرگون شود و دلِ جانوری به او داده شود و هفت زمان از او بگذرد.",
+  "tokens": [
+    {
+      "surface": "לבבה",
+      "gloss": "دلِ او"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "אנושא",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "ישנון",
+      "gloss": "دگرگون شود"
+    },
+    {
+      "surface": "ולבב",
+      "gloss": "و دلِ"
+    },
+    {
+      "surface": "חיוה",
+      "gloss": "جانوری"
+    },
+    {
+      "surface": "יתיהב",
+      "gloss": "داده شود"
+    },
+    {
+      "surface": "לה",
+      "gloss": "به او"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "و هفت"
+    },
+    {
+      "surface": "עדנין",
+      "gloss": "زمان"
+    },
+    {
+      "surface": "יחלפון",
+      "gloss": "بگذرد"
+    },
+    {
+      "surface": "עלוהי",
+      "gloss": "از او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:25:35.201736548Z",
+  "model": "glm-5.2"
+}

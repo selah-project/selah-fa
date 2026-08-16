@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 32:13",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "بر زمینِ قومِ من خار و شَمیر بالا خواهد آمد، زیرا بر همهٔ خانه‌های شادی، شهرِ شادمان است.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "زمینِ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "قومِ من"
+    },
+    {
+      "surface": "קוץ",
+      "gloss": "خار"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "شَمیر"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "بالا خواهد آمد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "خانه‌های"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "شادی"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "شهرِ"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "شادمان"
+    }
+  ],
+  "timestamp": "2026-08-13T21:46:53.730628633Z",
+  "model": "glm-5.2"
+}

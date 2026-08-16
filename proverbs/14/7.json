@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 14:7",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "برو از روبه‌روی مردِ نادان، وگرنه لب‌های دانش را نخواهی شناخت.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "برو"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "از روبه‌روی"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "مردِ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "وگرنه"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "خواهی شناخت"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "لب‌های"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "دانش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:01.225570305Z",
+  "model": "glm-5.2"
+}

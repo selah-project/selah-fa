@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 44:31",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 44,
+  "translation": "هر لاشه و دریده را، از پرندگان و از بهیمه‌ها، کاهنان نخواهند خورد.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "لاشه"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "و دریده"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "پرندگان"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "و از"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "بهیمه‌ها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "خواهند خورد"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهنان"
+    }
+  ],
+  "timestamp": "2026-08-13T22:23:52.413541736Z",
+  "model": "glm-5.2"
+}

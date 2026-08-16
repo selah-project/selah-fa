@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "همهٔ پسران داوود، جدا از پسران صیغه‌ها، و تامار خواهرشان.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسران"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوید"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "جدا از"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسران"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "صیغه‌ها"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "و تامار"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "خواهرشان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:58.069174364Z",
+  "model": "glm-5.2"
+}

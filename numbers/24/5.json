@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 24:5",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "چنان نیکو‌اند خیمه‌هایت ای یاعکوو، مسکن‌هایت ای یِسرائِل!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "چنان"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "نیکو‌اند"
+    },
+    {
+      "surface": "אהליך",
+      "gloss": "خیمه‌هایت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعکوو"
+    },
+    {
+      "surface": "משכנתיך",
+      "gloss": "مسکن‌هایت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائِل"
+    }
+  ],
+  "timestamp": "2026-08-13T20:38:56.221623276Z",
+  "model": "glm-5.2"
+}

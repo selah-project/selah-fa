@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و گفت به او: نه، نخواهم رفت؛ زیرا که به‌سوی زمینِ خودم و به‌سوی زادگاهِ خودم خواهم رفت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "نخواهم رفت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به‌سوی"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "زمینِ خودم"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و به‌سوی"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "زادگاهِ خودم"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "خواهم رفت"
+    }
+  ],
+  "timestamp": "2026-08-13T20:34:12.194198388Z",
+  "model": "glm-5.2"
+}

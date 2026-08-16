@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 19:14",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "این توراتِ آدم است: وقتی در خیمه‌ای بمیرد، هر که به آن خیمه درآید و هر که در خیمه باشد، هفت روز نجس خواهد شد.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "توراتِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "وقتی"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "بمیرد"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "در خیمه‌ای"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر که"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "درآید"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "آن خیمه"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هر که"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "در خیمه"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "نجس خواهد شد"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روز"
+    }
+  ],
+  "timestamp": "2026-08-13T20:37:45.429262035Z",
+  "model": "glm-5.2"
+}

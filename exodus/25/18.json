@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "وَ دو کروب از زر سازی؛ کوبه‌ای آن‌ها را بسازی، از دو سرِ کاپورت.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "وَ سازی"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "کروب"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "از زر"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "کوبه‌ای"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "بسازی"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "آن‌ها را"
+    },
+    {
+      "surface": "משני",
+      "gloss": "از دو"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "سرِ"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "کاپورت"
+    }
+  ],
+  "timestamp": "2026-08-13T20:17:27.327414417Z",
+  "model": "glm-5.2"
+}

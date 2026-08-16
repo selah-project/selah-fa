@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 4:30",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و در بِت‌اُوئیل، و در خُرمه، و در تزیکلاگ",
+  "tokens": [
+    {
+      "surface": "וּבִבְתוּאֵ֥ל",
+      "gloss": "و در بِت‌اُوئیل"
+    },
+    {
+      "surface": "וּבְחָרְמָ֖ה",
+      "gloss": "و در خُرمه"
+    },
+    {
+      "surface": "וּבְצִֽיקְלָֽג",
+      "gloss": "و در تزیکلاگ"
+    }
+  ],
+  "timestamp": "2026-08-14T00:17:46.658825907Z",
+  "model": "glm-5.2"
+}

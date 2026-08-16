@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 33:23",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "و کوچ کردند از قِهِلاته، و اردو زدند در کوهِ شِفِر.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "و کوچ کردند"
+    },
+    {
+      "surface": "מקהלתה",
+      "gloss": "از قِهِلاته"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "و اردو زدند"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "در کوهِ"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "شِفِر"
+    }
+  ],
+  "timestamp": "2026-08-13T20:41:53.113506473Z",
+  "model": "glm-5.2"
+}

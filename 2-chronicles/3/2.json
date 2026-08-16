@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 3:2",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "وَ آغاز کرد به ساختن در ماهِ دوم، در روزِ دوم، در سالِ چهارم، به پادشاهیِ او.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "وَ آغاز کرد"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "به ساختن"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "در ماهِ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوم"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "در روزِ دوم"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "در سالِ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چهارم"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "به پادشاهیِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:44:28.986818152Z",
+  "model": "glm-5.2"
+}

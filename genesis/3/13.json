@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و گفت یاهوه الوهیم به زن: چه کرده‌ای این؟ و گفت زن: مار فریبم کرد و خوردم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "به زن"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "کرده‌ای"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "زن"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "مار"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "فریبم داد"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "و خوردم"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:25.518430061Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "باطل سخن می‌گویند، هرکس ⟨את⟩ همدمِ خود را؛ لبی نرم، با دل و دل سخن می‌گویند.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "باطل"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "سخن می‌گویند"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هرکس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همدمِ خود"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "همدمِ خود"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "لبی"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "نرم"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "با دل"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "و دل"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "سخن می‌گویند"
+    }
+  ],
+  "timestamp": "2026-08-13T22:38:31.238981329Z",
+  "model": "glm-5.2"
+}

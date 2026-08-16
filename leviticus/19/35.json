@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "نباید بکنید بی‌عدالی در داوری، در اندازه‌گیری، در وزن، و در پیمانه.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نباید"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "بکنید"
+    },
+    {
+      "surface": "עול",
+      "gloss": "بی‌عدالی"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "در داوری"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "در اندازه‌گیری"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "در وزن"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "و در پیمانه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:27:35.359878808Z",
+  "model": "glm-5.2"
+}

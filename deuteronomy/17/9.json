@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 17:9",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "و بیایی نزد کوهنانِ لاویان و نزد داورِ که ⟨او⟩ در آنِ روزها باشد، و بپرسی، و ⟨آنها⟩ به تو ⟨את⟩ سخنِ داوری را بیان کنند،",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "و بیایی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نزد"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهنانِ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاویان"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و نزد"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "داورِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "باشد"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "درِ روزهای"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "آن"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "و بپرسی"
+    },
+    {
+      "surface": "והגידו",
+      "gloss": "و بیان کنند"
+    },
+    {
+      "surface": "לך",
+      "gloss": "به تو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سخن داوری"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخنِ"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "داوری"
+    }
+  ],
+  "timestamp": "2026-08-13T20:49:12.602104642Z",
+  "model": "glm-5.2"
+}

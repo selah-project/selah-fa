@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و اِبتسان مُرد و در بَیت‌لَحِم دفن شد.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "و مُرد"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "اِبتسان"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "و دفن شد"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "در بَیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لَحِم"
+    }
+  ],
+  "timestamp": "2026-08-13T21:04:25.962819971Z",
+  "model": "glm-5.2"
+}

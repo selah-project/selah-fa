@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 38:30",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 38,
+  "translation": "و پس از آن برادرش بیرون آمد که ⟨دستانیِ⟩ نخستین بر دستش داشت؛ و نام او را زارَح گذاشت.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "و پس از آن"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "بیرون آمد"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برادرش"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دستش"
+    },
+    {
+      "surface": "השני",
+      "gloss": "نخستین"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "و خواند"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "نامش"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زارَح"
+    }
+  ],
+  "timestamp": "2026-08-13T20:05:33.863374853Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 11:8",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و پس از او گَبّای، سَلای، نهصد و بیست و هشت.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "و پس از او"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "گَبّای"
+    },
+    {
+      "surface": "סלי",
+      "gloss": "سَلای"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "و هشت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:06.150995321Z",
+  "model": "glm-5.2"
+}

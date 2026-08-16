@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 18:6",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و یِهوشافاط گفت: آیا اینجا نبودیِ دیگری از برایِ یاهوه نیست تا از او بپرسیم؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "یِهوشافاط"
+    },
+    {
+      "surface": "האין",
+      "gloss": "آیا نیست"
+    },
+    {
+      "surface": "פה",
+      "gloss": "اینجا"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "نبیوی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "از برایِ یاهوه"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیگری"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "و بپرسیم"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "از ⟨את⟩ او",
+      "marks": "او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:47:30.584899367Z",
+  "model": "glm-5.2"
+}

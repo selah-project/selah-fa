@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 13:38",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "وَ اَوشالوم گریخت و به گَشور رفت، و ⟨او⟩ سه سال آن‌جا بود.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "وَ اَوشالوم"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "گریخت"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "و رفت"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "به گَشور"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آن‌جا"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سه"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-08-13T21:18:49.705652553Z",
+  "model": "glm-5.2"
+}

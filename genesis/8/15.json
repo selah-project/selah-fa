@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و سخن گفت الوهیم با نُواح، به‌گفتن:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "با"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُواح"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به‌گفتن"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:23.208150919Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "deuteronomy 28:39",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "تاکستان‌ها می‌کاری و کار می‌کنی، و شراب نمی‌نوشی و انبار نمی‌کنی، زیرا کرم آن را می‌خورد.",
+  "tokens": [
+    {
+      "surface": "כרמים",
+      "gloss": "تاکستان‌ها"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "می‌کاری"
+    },
+    {
+      "surface": "ועבדת",
+      "gloss": "و کار می‌کنی"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "و شراب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نمی"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "نوشی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نمی"
+    },
+    {
+      "surface": "תאגר",
+      "gloss": "انبار می‌کنی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "آن را می‌خورد"
+    },
+    {
+      "surface": "התלעת",
+      "gloss": "کرم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:51:18.315442309Z",
+  "model": "glm-5.2"
+}

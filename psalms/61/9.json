@@ -1,0 +1,45 @@
+{
+  "ref": "psalms 61:9",
+  "lang": "fa",
+  "book": "psalms",
+  "chapter": 61,
+  "verse": 9,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:47:12Z",
+  "translation": "چنین برای نامت تا ابد سرودِ ستایش خواهم خواند، تا نذرهایم را روز به روز ادا کنم.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "سرودِ ستایش خواهم خواند"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "برای نامت"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "تا ابد"
+    },
+    {
+      "surface": "לשלמי",
+      "gloss": "تا ادا کنم"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "نذرهایم را"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "יום",
+      "gloss": "به روز"
+    }
+  ]
+}

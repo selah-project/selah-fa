@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 5:6",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و بر من بسیار سخت گذشت، چون‌که شنیدم ⟨את⟩ فریادِ آنان و ⟨את⟩ این سخنان را.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "و بر من سوزانید"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چون‌که"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "شنیدم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فریادِ آنان"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "فریادِ آنان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "این سخنان"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "این سخنان"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "را"
+    }
+  ],
+  "timestamp": "2026-08-13T23:32:26.314351800Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و شَلْمون ⟨את⟩ بوْعَز را زاد، و بوْعَز ⟨את⟩ عُووِید را زاد.",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "و شَلْمون"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بوْعَز"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "بوْعَز"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "و بوْعَز"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عُووِید"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "عُووِید"
+    }
+  ],
+  "timestamp": "2026-08-13T23:16:30.710357939Z",
+  "model": "glm-5.2"
+}

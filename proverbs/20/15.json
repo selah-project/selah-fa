@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 20:15",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "زرِ فراوان و لؤلؤهای زیبا هست، و لب‌های دانش، ظرفی گرانبها.",
+  "tokens": [
+    {
+      "surface": "יֵ֣שׁ",
+      "gloss": "هست"
+    },
+    {
+      "surface": "זָ֭הָב",
+      "gloss": "زر"
+    },
+    {
+      "surface": "וְרָב",
+      "gloss": "و فراوان"
+    },
+    {
+      "surface": "פְּנִינִ֑ים",
+      "gloss": "لؤلؤها"
+    },
+    {
+      "surface": "וּכְלִ֥י",
+      "gloss": "و ظرف"
+    },
+    {
+      "surface": "יְ֝קָ֗ר",
+      "gloss": "گرانبها"
+    },
+    {
+      "surface": "שִׂפְתֵי",
+      "gloss": "لب‌های"
+    },
+    {
+      "surface": "דָֽעַת",
+      "gloss": "دانش"
+    }
+  ],
+  "timestamp": "2026-08-14T00:14:28.807474587Z",
+  "model": "glm-5.2"
+}

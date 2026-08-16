@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 34,
+  "translation": "و خَمور پدرِ شَخِم نزد یاعکوو بیرون آمد تا با ⟨את⟩ او سخن بگوید.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "و بیرون آمد"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "خَمور"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پدرِ"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شَخِم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نزد"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعکوو"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "تا سخن بگوید"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:05:02.800188471Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 3:11",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "سهمِ دومی محکم گرفتند مَلکی‌یاه پسرِ حاریم و حَشوب پسرِ پَحَت موآب، و ⟨את⟩ برجِ تنورها.",
+  "tokens": [
+    {
+      "surface": "מדה",
+      "gloss": "سهمِ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "دومی"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "محکم گرفتند"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "مَلکی‌یاه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "حاریم"
+    },
+    {
+      "surface": "וחשוב",
+      "gloss": "و حَشوب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "پَحَت"
+    },
+    {
+      "surface": "مואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "برجِ تنورها"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "برجِ"
+    },
+    {
+      "surface": "התנורים",
+      "gloss": "تنورها"
+    }
+  ],
+  "timestamp": "2026-08-13T23:31:47.101923604Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 33:15",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "و از سرِ کوه‌های قِدیم، و از نِیکی‌های تپّه‌های ابد.",
+  "tokens": [
+    {
+      "surface": "ומראש",
+      "gloss": "و از سرِ"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "کوه‌های"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "قِدیم"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "و از نِیکی‌های"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "تپّه‌های"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ابد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:52:50.335223632Z",
+  "model": "glm-5.2"
+}

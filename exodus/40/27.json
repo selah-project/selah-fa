@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 40:27",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 40,
+  "translation": "و بر آن بخورِ عطری را سوزانید، چنانکه یاهوه ⟨את⟩ موشه را فرمان داده بود.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "و سوزانید"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر آن"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "بخورِ"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "عطری"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چنانکه"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فرمان داده بود"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:21:25.642617826Z",
+  "model": "glm-5.2"
+}

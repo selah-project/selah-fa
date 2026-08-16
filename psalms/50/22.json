@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 50:22",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 50,
+  "translation": "بفهمید این را، ای فراموشانِ اِلوه؛ مبادا بدرانم و نجات‌دهنده‌ای نباشد.",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "بفهمید"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ای"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "این را"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "فراموشانِ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "اِلوه"
+    },
+    {
+      "surface": "פן",
+      "gloss": "مبادا"
+    },
+    {
+      "surface": "אטרף",
+      "gloss": "بدرانم"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نباشد"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "نجات‌دهنده‌ای"
+    }
+  ],
+  "timestamp": "2026-08-13T22:44:02.030955584Z",
+  "model": "glm-5.2"
+}

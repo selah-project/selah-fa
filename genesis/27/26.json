@@ -1,0 +1,49 @@
+{
+  "tier": "4.6",
+  "verse": 26,
+  "ref": "genesis 27:26",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و او گفت به او یِتسحاک پدرش نزدیک شو ⟨لطفاً⟩ و ⟨את⟩ من را بوس پسرم",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و او گفت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "یِتسحاک"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پدرش"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "نزدیک شو"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨لطفاً⟩"
+    },
+    {
+      "surface": "ושקה",
+      "gloss": "و ⟨את⟩ من را بوس"
+    },
+    {
+      "surface": "לי",
+      "gloss": "من را"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرم"
+    }
+  ],
+  "timestamp": "2026-08-15T03:37:20.453090130Z",
+  "model": "glm-4.6"
+}

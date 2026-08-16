@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "زیرا تعلیمِ نیکو به شما داده‌ام؛ توراتِ مرا ترک نکنید.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "تعلیمِ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیکو"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "داده‌ام"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "به شما"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "توراتِ مرا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "ترک کنید"
+    }
+  ],
+  "timestamp": "2026-08-15T04:27:01.816546779Z",
+  "model": "glm-5.3"
+}

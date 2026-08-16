@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 1:22",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و بیتِ یوسف نیز ایشان به بیت‌اِل بالا رفتند، و یاهوه با ایشان بود.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "و بالا رفتند"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیتِ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "גם",
+      "gloss": "نیز"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ایشان"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت‌"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "و یاهوه"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "با ایشان بود"
+    }
+  ],
+  "timestamp": "2026-08-13T21:00:09.052112547Z",
+  "model": "glm-5.2"
+}

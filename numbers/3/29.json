@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 3:29",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "خانوارگی‌های پسرانِ قِهات در جانِ مُشکان، از سویِ جنوب اردو می‌زنند.",
+  "tokens": [
+    {
+      "surface": "משפחת",
+      "gloss": "خانوارگی‌های"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قِهات"
+    },
+    {
+      "surface": "יחנו",
+      "gloss": "اردو می‌زنند"
+    },
+    {
+      "surface": "על",
+      "gloss": "در"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "جانِ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مُشکان"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "از سویِ جنوب"
+    }
+  ],
+  "timestamp": "2026-08-13T20:31:28.192464943Z",
+  "model": "glm-5.2"
+}

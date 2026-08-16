@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "1-samuel 17:56",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "و پادشاه گفت: تو بپرس پسرِ کیست این جوان.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "بپرس"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "جوان"
+    }
+  ],
+  "timestamp": "2026-08-13T21:12:38.580774426Z",
+  "model": "glm-5.2"
+}

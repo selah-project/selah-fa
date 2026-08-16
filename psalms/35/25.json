@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "نگویند در دلِ خود: هَآخ! جانِ ما! نگویند: بلعیمش.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "بگویند"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "در دلِ آنان"
+    },
+    {
+      "surface": "האח",
+      "gloss": "هَآخ"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "جانِ ما"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "بگویند"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "بلعیدیمش"
+    }
+  ],
+  "timestamp": "2026-08-13T22:42:07.557848131Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "habakkuk 3:15",
+  "book": "habakkuk",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "راه رفتی در دریا با اسب‌هایت، کفِ آب‌های فراوان.",
+  "tokens": [
+    {
+      "surface": "דָּרַ֥כְתָּ",
+      "gloss": "راه رفتی"
+    },
+    {
+      "surface": "בַיָּ֖ם",
+      "gloss": "در دریا"
+    },
+    {
+      "surface": "סוּסֶ֑יךָ",
+      "gloss": "اسب‌هایت"
+    },
+    {
+      "surface": "חֹ֖מֶר",
+      "gloss": "کف"
+    },
+    {
+      "surface": "מַ֥יִם",
+      "gloss": "آب‌های"
+    },
+    {
+      "surface": "רַבִּֽים",
+      "gloss": "فراوان"
+    }
+  ],
+  "timestamp": "2026-08-14T00:10:49.391107675Z",
+  "model": "glm-5.2"
+}

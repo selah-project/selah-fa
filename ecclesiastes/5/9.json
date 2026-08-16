@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "دوست‌دارِ نقره، از نقره سیر نمی‌شود، و هر کس که دوست‌دارِ فراوانی است، به درآمدی نمی‌رسد؛ حتی این نیز هِبل است.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "دوست‌دارِ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "نقره"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "سیر می‌شود"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "از نقره"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "و هر کس که"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "دوست‌دارِ"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "فراوانی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "به درآمدی می‌رسد"
+    },
+    {
+      "surface": "גם",
+      "gloss": "حتی"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هِبل است"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:02.868206955Z",
+  "model": "glm-5.2"
+}

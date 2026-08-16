@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 105,
+  "translation": "او پیمانش را تا ابد به یاد آورد، سخنی را که برای هزار نسل فرمان داد.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "به یاد آورد"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "تا ابد"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "پیمانش"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخنی"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فرمان داد"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "برای هزار"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    }
+  ],
+  "timestamp": "2026-08-15T04:25:19.698708900Z",
+  "model": "glm-5.3"
+}

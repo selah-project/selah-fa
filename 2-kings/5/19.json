@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 5:19",
+  "book": "2-kings",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و به گفت: به سلامتی برو. و ⟨את⟩ او را تا مَسافتی زمین ترک کرد.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برو"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "به سلامتی"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "و رفت"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩",
+      "marks": "او (نَعمان)"
+    },
+    {
+      "surface": "כברת",
+      "gloss": "تا مَسافتی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T21:34:32.199074622Z",
+  "model": "glm-5.2"
+}

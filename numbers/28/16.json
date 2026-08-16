@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "و در ماهِ نخست، در روزِ چهاردهم ⟨از⟩ ماه، فِصح برای یاهوه.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "و در ماهِ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "نخست"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "در چهاردهم"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ده"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روزِ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "⟨از⟩ ماه"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "فِصح"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "برای یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:40:15.054417126Z",
+  "model": "glm-5.2"
+}

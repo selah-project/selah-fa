@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 5:28",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و زیستِ لَمِک دو و هشتاد سال و صد سال، و زاد پسر را.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "و زیست"
+    },
+    {
+      "surface": "למך",
+      "gloss": "لَمِک"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "و هشتاد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "و صد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و زاد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:05.981237890Z",
+  "model": "glm-5.2"
+}

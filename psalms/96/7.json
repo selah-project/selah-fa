@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 96:7",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 96,
+  "translation": "بدهید به یاهوه، ای خاندان‌های مردم‌ها؛ بدهید به یاهوه شکوه و نیرو.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "بدهید"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "به یاهوه"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "خاندان‌های"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "مردم‌ها"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "بدهید"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "به یاهوه"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شکوه"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "و نیرو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:50:59.006094088Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "مبارک ⟨باشی⟩ تو در شهر، و مبارک ⟨باشی⟩ تو در صحرا.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "مبارک"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨باشی⟩ تو"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "در شهر"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "و مبارک"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨باشی⟩ تو"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "در صحرا"
+    }
+  ],
+  "timestamp": "2026-08-13T20:51:47.750996055Z",
+  "model": "glm-5.2"
+}

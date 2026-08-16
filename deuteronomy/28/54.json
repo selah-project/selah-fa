@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "deuteronomy 28:54",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "مردِ نرم در تو، و بسیار عیاش، چشمش برادرش را بد خواهد، و بر زنهٔ آغوشش، و بر بقیهٔ پسرانش که باقی می‌ماند.",
+  "tokens": [
+    {
+      "surface": "האיש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "הרך",
+      "gloss": "نرم"
+    },
+    {
+      "surface": "בך",
+      "gloss": "در تو"
+    },
+    {
+      "surface": "והענג",
+      "gloss": "و عیاش"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "بد خواهد"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "چشمش"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "برادرش را"
+    },
+    {
+      "surface": "ובאשת",
+      "gloss": "و بر زنهٔ"
+    },
+    {
+      "surface": "חיקו",
+      "gloss": "آغوشش"
+    },
+    {
+      "surface": "וביתר",
+      "gloss": "و بر بقیهٔ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "پسرانش"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יותיר",
+      "gloss": "باقی می‌ماند"
+    }
+  ],
+  "timestamp": "2026-08-13T23:58:54.863195634Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و گفت: بردار. و دستش را دراز کرد و آن را گرفت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "بردار"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برایت"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "و دراز کرد"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دستش را"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "و گرفت ⟨او⟩ را"
+    }
+  ],
+  "timestamp": "2026-08-13T21:33:32.887749950Z",
+  "model": "glm-5.2"
+}

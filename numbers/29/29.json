@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 29:29",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و در روزِ ششم، گاوهای نر هشت، قوچ‌ها دو، بره‌ها پسرانِ یک سال چهارده بی‌نقص",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "و در روز"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ششم"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "گاوهای نر"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "هشت"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "قوچ‌ها"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "بره‌ها"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "یک سال"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ده"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "بی‌نقص"
+    }
+  ],
+  "timestamp": "2026-08-13T20:40:13.883561122Z",
+  "model": "glm-5.2"
+}

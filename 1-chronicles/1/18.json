@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و اَرفَخْشاد ⟨את⟩ شَلَح را زاد، و شَلَح ⟨את⟩ عِیبِر را زاد.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "و اَرفَخْشاد"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شَلَح"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "شَلَح"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "و شَلَح"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عِیبِر"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عِیبِر"
+    }
+  ],
+  "timestamp": "2026-08-14T00:17:28.588262140Z",
+  "model": "glm-5.2"
+}

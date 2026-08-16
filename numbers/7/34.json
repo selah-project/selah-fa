@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 34,
+  "ref": "numbers 7:34",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "یک بز نر، برای حطات.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "بز نر"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بزها"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "برای حطات"
+    }
+  ],
+  "timestamp": "2026-08-15T03:51:44.212428881Z",
+  "model": "glm-5.3"
+}

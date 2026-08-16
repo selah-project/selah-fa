@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "برهنگیِ خواهرِ مادرت را برملا نکنی، که او گوشتِ مادرت است.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "برهنگیِ"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "خواهرِ"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "مادرت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "کنی برملا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "گوشتِ"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "مادرت"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او ⟨است⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T20:26:28.406255016Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 12:8",
+  "book": "daniel",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و من شنیدم و نفهمیدم؛ و گفتم: «ای اَدونایِ من، چه است پایانِ این‌ها؟»",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "و من"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "شنیدم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "نفهمیدم"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "و گفتم"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ای اَدونایِ من"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه است"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "پایانِ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T23:27:57.375223697Z",
+  "model": "glm-5.2"
+}

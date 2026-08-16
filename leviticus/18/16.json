@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "برهنگیِ زنِ برادرت را برملا نکنی؛ آن برهنگیِ برادرت است.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "برهنگیِ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زنِ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "برادرت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "کنی برملا"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "برهنگیِ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "برادرت"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آن ⟨است⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T20:26:28.406698534Z",
+  "model": "glm-5.2"
+}

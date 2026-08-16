@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 8:23",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "وَ سخن گفت یاهوه با موشه، به گفتن:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وَ سخن گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "با"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به گفتن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:33:29.502733645Z",
+  "model": "glm-5.2"
+}

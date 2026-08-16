@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "و با آن مسح کنی ⟨את⟩ خیمهٔ موعد و ⟨את⟩ آرونِ شهادت را،",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "وَ مسح کنی"
+    },
+    {
+      "surface": "בו",
+      "gloss": "با آن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خیمهٔ موعد"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمهٔ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "موعد"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "آرونِ شهادت"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "آرونِ"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "شهادت"
+    }
+  ],
+  "timestamp": "2026-08-13T20:18:29.101607918Z",
+  "model": "glm-5.2"
+}

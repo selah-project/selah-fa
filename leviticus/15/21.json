@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 15:21",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و هر ⟨کسی⟩ که بسترِ او را لمس کند، لباس‌هایش را بشوید و در آب بشوید و نجس ⟨خواهد بود⟩ تا غروب.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "لمس‌کننده"
+    },
+    {
+      "surface": "במשכבה",
+      "gloss": "در بسترِ او"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "بشوید"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "لباس‌هایش"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "و بشوید"
+    },
+    {
+      "surface": "במים",
+      "gloss": "در آب"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "و نجس"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "غروب"
+    }
+  ],
+  "timestamp": "2026-08-13T20:26:24.733980947Z",
+  "model": "glm-5.2"
+}

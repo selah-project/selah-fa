@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 17:15",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "و بازگشت اهارون نزدِ موشه، به سوی درِ راهِ خیمهٔ موعد، و طاعون توقف یافته بود.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "و بازگشت"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نزدِ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "درِ راهِ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمهٔ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "موعد"
+    },
+    {
+      "surface": "והמגפה",
+      "gloss": "و طاعون"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "توقف یافته بود"
+    }
+  ],
+  "timestamp": "2026-08-13T20:36:33.555119275Z",
+  "model": "glm-5.2"
+}

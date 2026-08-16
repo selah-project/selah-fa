@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 11:27",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "شموت، ههاروری؛ حلس، هپلونی.",
+  "tokens": [
+    {
+      "surface": "שמות",
+      "gloss": "شموت"
+    },
+    {
+      "surface": "ההרורי",
+      "gloss": "ههاروری"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "حلس"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "هپلونی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:38:00.390558886Z",
+  "model": "glm-5.2"
+}

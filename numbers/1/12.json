@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 1:12",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "برای دان، اَحی‌عِزِر پسرِ عَمی‌شَدّای.",
+  "tokens": [
+    {
+      "surface": "לְדָ֕ן",
+      "gloss": "برای دان"
+    },
+    {
+      "surface": "אֲחִיעֶ֖זֶר",
+      "gloss": "اَحی‌عِزِر"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "עַמִּֽישַׁדָּֽי",
+      "gloss": "عَمی‌شَدّای"
+    }
+  ],
+  "timestamp": "2026-08-13T20:30:19.228903967Z",
+  "model": "glm-5.2"
+}

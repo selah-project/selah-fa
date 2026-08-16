@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 19:1",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و تو، یک مرثیه برآر به سوی نَسیئیم یِسرائِل.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "و تو"
+    },
+    {
+      "surface": "שא",
+      "gloss": "برآر"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "یک مرثیه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "نَسیئیم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائِل"
+    }
+  ],
+  "timestamp": "2026-08-14T00:08:01.388414214Z",
+  "model": "glm-5.2"
+}

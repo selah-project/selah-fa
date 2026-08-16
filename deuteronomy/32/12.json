@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "یاهوه به‌تنهایی او را راهنمایی کرد، و خدای بیگانه‌ای با او نبود.",
+  "tokens": [
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בָּדָ֣ד",
+      "gloss": "به‌تنهایی"
+    },
+    {
+      "surface": "יַנְחֶ֑נּוּ",
+      "gloss": "او را راهنمایی کرد"
+    },
+    {
+      "surface": "וְאֵ֥ין",
+      "gloss": "و نبود"
+    },
+    {
+      "surface": "עִמּ֖וֹ",
+      "gloss": "با او"
+    },
+    {
+      "surface": "אֵ֥ל",
+      "gloss": "خدای"
+    },
+    {
+      "surface": "נֵכָֽר",
+      "gloss": "بیگانه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:52:54.184082907Z",
+  "model": "glm-5.2"
+}

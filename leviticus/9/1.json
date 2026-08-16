@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و ⟨از⟩ روزِ هشتم شد، موشه اَهارون و پسرانش و بزرگانِ ییسرائل را خواند.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "هشتم"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "خواند"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "اَهارون را"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "و پسرانش را"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "و بزرگانِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ییسرائل"
+    }
+  ],
+  "timestamp": "2026-08-15T03:50:11.192559400Z",
+  "model": "glm-5.3"
+}

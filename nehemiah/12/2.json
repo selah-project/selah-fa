@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 12:2",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "اَمَریاه، مَلّوک، حَتّوش.",
+  "tokens": [
+    {
+      "surface": "אמריה",
+      "gloss": "اَمَریاه"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "مَلّوک"
+    },
+    {
+      "surface": "חטוש",
+      "gloss": "حَتّوش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:17.242814128Z",
+  "model": "glm-5.2"
+}

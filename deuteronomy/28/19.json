@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 28:19",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "نفرین‌شده ⟨هستی⟩ تو در آمدنِ تو، و نفرین‌شده ⟨هستی⟩ تو در رفتنِ تو.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "نفرین‌شده"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "در آمدنِ تو"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "و نفرین‌شده"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "در رفتنِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:52:02.977815339Z",
+  "model": "glm-5.2"
+}

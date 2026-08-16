@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 78,
+  "translation": "و چادرِ یوسف را نپذیرفت، و قبیلهٔ اِفرایم را برگزیند نه.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "و نپذیرفت"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "چادرِ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف را"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "و قبیلهٔ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اِفرایم را"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "برگزیند"
+    }
+  ],
+  "timestamp": "2026-08-13T22:48:29.499601704Z",
+  "model": "glm-5.2"
+}

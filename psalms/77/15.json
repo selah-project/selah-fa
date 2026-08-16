@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 77,
+  "translation": "تو ⟨هستی⟩ اِلِ کارِ شگفتی؛ میانِ مردمان ⟨את⟩ توانِ خود را نمایان ساختی.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "האל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کارِ"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "شگفتی"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "نمایان ساختی"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "میانِ مردمان"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "توانِ خود"
+    }
+  ],
+  "timestamp": "2026-08-15T20:54:09.348073876Z",
+  "model": "glm-5.3"
+}

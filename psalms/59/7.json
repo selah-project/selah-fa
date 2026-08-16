@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 59,
+  "translation": "برمی‌گردند به غروب، می‌غرند چون سگ، و به دور شهر می‌گردند.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "برمی‌گردند"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "به غروب"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "می‌غرند"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "چون سگ"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "و به دور می‌گردند"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شهر"
+    }
+  ],
+  "timestamp": "2026-08-13T22:45:18.132260203Z",
+  "model": "glm-5.2"
+}

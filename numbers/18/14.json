@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 18:14",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "هر چیزِ اِهدایی در ییسْرائیل از آنِ تو خواهد بود.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "چیزِ اِهدایی"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "در ییسْرائیل"
+    },
+    {
+      "surface": "לך",
+      "gloss": "از آنِ تو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "خواهد بود"
+    }
+  ],
+  "timestamp": "2026-08-13T20:36:53.726830460Z",
+  "model": "glm-5.2"
+}

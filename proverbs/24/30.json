@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "از کنارِ شالیزارِ مردی تنبل گذشتم، و از کنارِ تاکستانِ آدمیِ فاقدِ دل.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "از کنارِ"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "شالیزار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "تنبل"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "گذشتم"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و از کنارِ"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "تاکستان"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمیِ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "فاقدِ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-08-15T04:27:33.693157151Z",
+  "model": "glm-5.3"
+}

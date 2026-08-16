@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 44,
+  "ref": "deuteronomy 28:44",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "او به تو قرض خواهد داد، و تو به او قرض نخواهی داد؛ او ⟨خواهد بود⟩ سر، و تو ⟨خواهی بود⟩ دُم.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "ילוך",
+      "gloss": "به تو قرض خواهد داد"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "و تو"
+    },
+    {
+      "surface": "لא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "به او قرض نخواهی داد"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "خواهد بود"
+    },
+    {
+      "surface": "لראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "و تو"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "خواهی بود"
+    },
+    {
+      "surface": "לזנב",
+      "gloss": "دُم"
+    }
+  ],
+  "timestamp": "2026-08-15T03:57:05.404730938Z",
+  "model": "glm-5.3"
+}

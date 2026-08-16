@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 32:31",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "و پاس دادند پسران گاد و پسران رئوبن به گفتن: ⟨את⟩ آنچه یاهوه به بندگانت گفت، چنین خواهیم کرد.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "و پاس دادند"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسران"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "و پسران"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئوبن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به گفتن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آنچه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنچه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "بندگانت"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "خواهیم کرد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:41:35.555339835Z",
+  "model": "glm-5.2"
+}

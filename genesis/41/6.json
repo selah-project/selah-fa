@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 41:6",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 41,
+  "translation": "و اینک هفت خوشهٔ نحک و وزیدهٔ باد شرقی پشت سر ⟨آنها⟩ می‌روییدند.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "واینک"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "خوشه"
+    },
+    {
+      "surface": "דקות",
+      "gloss": "نحک"
+    },
+    {
+      "surface": "ושדופת",
+      "gloss": "وزیدهٔ"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "باد شرقی"
+    },
+    {
+      "surface": "צמחות",
+      "gloss": "می‌روییدند"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "پشت سر آنها"
+    }
+  ],
+  "timestamp": "2026-08-13T20:06:46.662989842Z",
+  "model": "glm-5.2"
+}

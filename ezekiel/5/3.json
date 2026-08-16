@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و از آنجا کمی به شماره بگیری و آن‌ها را در کنان‌هایت بپیچی.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "و بگیری"
+    },
+    {
+      "surface": "משם",
+      "gloss": "از آنجا"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "کمی"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "به شماره"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "و بپیچی"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "آن‌ها را (در کنان‌هایت)"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "در کنان‌هایت"
+    }
+  ],
+  "timestamp": "2026-08-14T00:08:17.984931738Z",
+  "model": "glm-5.2"
+}

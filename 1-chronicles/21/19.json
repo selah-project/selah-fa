@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 21:19",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و صعود کرد داوود، به سخنِ گاد که او سخن گفت به نامِ یاهوه.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "و صعود کرد"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "به سخنِ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "او سخن گفت"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "به نامِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:07.631953625Z",
+  "model": "glm-5.2"
+}

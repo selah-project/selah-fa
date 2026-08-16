@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 3:1",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و مار حیله‌گرتر از همهٔ جانوران صحرا بود که یاهوه الوهیم ساخته بود، و ⟨او⟩ به زن گفت: آیا حتی الوهیم گفته که از همهٔ درختان باغ نخورید؟",
+  "tokens": [
+    {
+      "surface": "והנחש",
+      "gloss": "و مار"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "حیله‌گرتر"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "از همهٔ"
+    },
+    {
+      "surface": "חית",
+      "gloss": "جانوران"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "صحرا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ساخته بود"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "زن"
+    },
+    {
+      "surface": "אף",
+      "gloss": "آیا حتی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفته"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "خورید"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "از همهٔ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "درختان"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "باغ"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:35.359902560Z",
+  "model": "glm-5.2"
+}

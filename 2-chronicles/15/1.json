@@ -1,0 +1,41 @@
+{
+  "tier": "4.6",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "وَعَزَریاهو بنِ عُودِد بود ⟨روح⟩ ⟨الوهیم⟩ بر او",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "وَعَزَریاهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بنِ"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "عُودِد"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر او"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "⟨روح⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "⟨الوهیم⟩"
+    }
+  ],
+  "timestamp": "2026-08-15T04:39:36.454291746Z",
+  "model": "glm-4.6"
+}

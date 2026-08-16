@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 2:12",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و شِلومو بر کرسیِ داوود پدرش نشست، و پادشاهیِ او بسیار استوار شد.",
+  "tokens": [
+    {
+      "surface": "ושלמה",
+      "gloss": "و شِلومو"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "نشست"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "کرسیِ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پدرش"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "و استوار شد"
+    },
+    {
+      "surface": "מלכתו",
+      "gloss": "پادشاهیِ او"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بسیار"
+    }
+  ],
+  "timestamp": "2026-08-13T21:24:12.371128489Z",
+  "model": "glm-5.2"
+}

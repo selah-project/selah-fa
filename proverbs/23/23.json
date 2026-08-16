@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "حقیقت را بخر و نفروش: خرد، و اندرز، و فهم.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "حقیقت"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "بخر"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "بفروش"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "خرد"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "و اندرز"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "و فهم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:17.944939992Z",
+  "model": "glm-5.2"
+}

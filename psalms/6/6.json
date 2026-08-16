@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "زیرا در مرگ یادِ تو نیست؛ در شِئول کی تو را ستایش خواهد کرد؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "במות",
+      "gloss": "در مرگ"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "یادِ تو"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "در شِئول"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "ستایش خواهد کرد"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تو را"
+    }
+  ],
+  "timestamp": "2026-08-13T22:37:46.654360855Z",
+  "model": "glm-5.2"
+}

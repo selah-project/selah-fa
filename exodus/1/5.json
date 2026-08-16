@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و بود همهٔ جانِ بیرون‌آمدگانِ رانِ یعقوب هفتاد جان؛ و یوسف بود در مصر.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جانِ"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "بیرون‌آمدگانِ"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "رانِ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "هفتاد"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "و یوسف"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "در مصر"
+    }
+  ],
+  "timestamp": "2026-08-13T20:09:22.984123810Z",
+  "model": "glm-5.2"
+}

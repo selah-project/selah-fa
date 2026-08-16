@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 145,
+  "translation": "نیکو ⟨است⟩ یاهوه برای همه، و رحمت‌هایش بر همهٔ کارهایش.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "نیکو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "برای همه"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "و رحمت‌هایش"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "کارهایش"
+    }
+  ],
+  "timestamp": "2026-08-13T22:58:35.701204994Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 1:52",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "رئیس اهولیبامه، رئیس اِیله، رئیس پینون.",
+  "tokens": [
+    {
+      "surface": "אַלּוּף",
+      "gloss": "رئیس"
+    },
+    {
+      "surface": "אָהֳלִיבָמָה",
+      "gloss": "اهولیبامه"
+    },
+    {
+      "surface": "אַלּוּף",
+      "gloss": "رئیس"
+    },
+    {
+      "surface": "אֵלָה",
+      "gloss": "اِیله"
+    },
+    {
+      "surface": "אַלּוּף",
+      "gloss": "رئیس"
+    },
+    {
+      "surface": "פִּינֹן",
+      "gloss": "پینون"
+    }
+  ],
+  "timestamp": "2026-08-14T00:17:32.184377387Z",
+  "model": "glm-5.2"
+}

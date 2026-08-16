@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "job 7:19",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "تا کی از من روی برنمی‌گردانی؟ مرا رها نمی‌کنی تا بزاقم را فرو برم؟",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "تا کی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "روی برنمی‌گردانی"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "از من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תרפני",
+      "gloss": "رهایم نمی‌کنی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "בלעי",
+      "gloss": "فرو برم"
+    },
+    {
+      "surface": "רקי",
+      "gloss": "بزاقم"
+    }
+  ],
+  "timestamp": "2026-08-15T04:29:01.928538213Z",
+  "model": "glm-5.3"
+}

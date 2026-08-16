@@ -1,0 +1,74 @@
+{
+  "ref": "ezekiel 2:4",
+  "lang": "fa",
+  "book": "ezekiel",
+  "chapter": 2,
+  "verse": 4,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:55:53Z",
+  "translation": "و این پسران سخت‌رو و سخت‌دل ⟨هستند⟩، و من ⟨את⟩ تو را به ایشان می‌فرستم، و به ایشان خواهی گفت: «چنین می‌گوید اَدونای یاهوه.»",
+  "tokens": [
+    {
+      "surface": "והבנים",
+      "gloss": "و پسران"
+    },
+    {
+      "surface": "קשי",
+      "gloss": "سخت‌"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "رو"
+    },
+    {
+      "surface": "וחזקי",
+      "gloss": "و سخت‌"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "אני",
+      "gloss": "و من"
+    },
+    {
+      "surface": "שולח",
+      "gloss": "می‌فرستم"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ تو را",
+      "marks": "به ایشان"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "به ایشان"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "و خواهی گفت"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "به ایشان"
+    },
+    {
+      "surface": "כה",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "می‌گوید"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ]
+}

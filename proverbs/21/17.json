@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 21:17",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "مردِ نیازمندی ⟨⟨את⟩⟩ شادی را دوست دارد، ⟨⟨את⟩⟩ شراب و روغن را دوست دارد — ثروتمند نخواهد شد.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "مردِ"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "نیازمندی"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "دوست دارد"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "شادی"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "دوست دارد"
+    },
+    {
+      "surface": "יין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "و روغن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "יעשיר",
+      "gloss": "خواهد شد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:38.169334552Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 40:12",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 40,
+  "translation": "و مرزی پیش از اتاقک‌ها یک اَماه و یک اَماه مرز از این‌سو؛ و اتاقک شش اَماه از آن‌سو و شش اَماه از آن‌سو.",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "و مرز"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیش از"
+    },
+    {
+      "surface": "התאות",
+      "gloss": "اتاقک‌ها"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "اَماه"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "و اَماه"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "مرز"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "از این‌سو"
+    },
+    {
+      "surface": "והתא",
+      "gloss": "و اتاقک"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شش"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "اَماه"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "از آن‌سو"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "و شش"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "اَماه"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "از آن‌سو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:23:03.098001200Z",
+  "model": "glm-5.2"
+}

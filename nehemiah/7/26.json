@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "مردانِ بیت‌لِحِم و نِتوفه، یک‌صد و هشتاد و هشت.",
+  "tokens": [
+    {
+      "surface": "אַנְשֵׁ֤י",
+      "gloss": "مردانِ"
+    },
+    {
+      "surface": "בֵֽית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לֶ֨חֶם֙",
+      "gloss": "لِحِم"
+    },
+    {
+      "surface": "וּנְטֹפָ֔ה",
+      "gloss": "و نِتوفه"
+    },
+    {
+      "surface": "מֵאָ֖ה",
+      "gloss": "یک‌صد"
+    },
+    {
+      "surface": "שְׁמֹנִ֥ים",
+      "gloss": "هشتاد"
+    },
+    {
+      "surface": "וּשְׁמֹנָֽה",
+      "gloss": "و هشت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:33:00.610077659Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 15:10",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و کلام یاهوه به شموئیل بود، به این مضمون:",
+  "tokens": [
+    {
+      "surface": "וַֽיְהִי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "דְּבַר",
+      "gloss": "کلامِ"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "به"
+    },
+    {
+      "surface": "שְׁמוּאֵל",
+      "gloss": "شموئیل"
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "به این مضمون"
+    }
+  ],
+  "timestamp": "2026-08-13T21:11:29.939398536Z",
+  "model": "glm-5.2"
+}

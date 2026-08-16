@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "بران تا طعنه‌زن را، و برو خواهد کرد مادون، و ⟨خواهد ایستاد⟩ دین و کلون.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "بران"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "طعنه‌زن"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "و برو خواهد کرد"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "مادون"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "و ⟨خواهد ایستاد⟩"
+    },
+    {
+      "surface": "דין",
+      "gloss": "دین"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "و کلون"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:51.133266887Z",
+  "model": "glm-5.2"
+}

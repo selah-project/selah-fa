@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و انسان نامِ زنِ خود را خواو خواند؛ چون او ⟨بوده⟩ مادرِ همهٔ زنده‌ها.",
+  "tokens": [
+    {
+      "surface": "וקרא",
+      "gloss": "و خواند"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نامِ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "زنِ خود را"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "خَوّه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بوده"
+    },
+    {
+      "surface": "אם",
+      "gloss": "مادرِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زنده‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:39.948336353Z",
+  "model": "glm-5.2"
+}

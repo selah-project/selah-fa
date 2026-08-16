@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "و شنید یاهوه به یحزقیاهو، و شفا داد ⟨את⟩ قوم را.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "و شنید"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "یحزقیاهو"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "و شفا داد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم را"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:50:53.221727096Z",
+  "model": "glm-5.2"
+}

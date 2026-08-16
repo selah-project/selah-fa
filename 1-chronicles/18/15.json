@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 18:15",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "وَ یوآو، پسرِ تِسرویاه، بر فرماندهیِ لشکر بود، و یِهوشافات، پسرِ اَخیلود، یادآور بود.",
+  "tokens": [
+    {
+      "surface": "וראשׁ",
+      "gloss": "وَ یوآو"
+    },
+    {
+      "surface": "ואב",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "והמל",
+      "gloss": "تِسرویاه"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "و یِهوشافات"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "اَخیلود"
+    },
+    {
+      "surface": "ואב",
+      "gloss": "یادآور"
+    }
+  ],
+  "timestamp": "2026-08-14T00:18:19.534752172Z",
+  "model": "glm-5.2"
+}

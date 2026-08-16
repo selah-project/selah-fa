@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "job 30:30",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "پوستم از ⟨رویِ⟩ من سیاه شد، و استخوانم از گرما گداخت.",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "پوستم"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "سیاه شد"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "⟨رویِ⟩ من"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "و استخوانم"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "گداخت"
+    },
+    {
+      "surface": "מני",
+      "gloss": "از"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "گرما"
+    }
+  ],
+  "timestamp": "2026-08-15T04:29:02.300715029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-chronicles 1:53",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "رئیس قَنَز، رئیس تَیمان، رئیس میبتسار.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "رئیس"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "قَنَز"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "رئیس"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "تَیمان"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "رئیس"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "میبتسار"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:53.458616487Z",
+  "model": "glm-5.2"
+}

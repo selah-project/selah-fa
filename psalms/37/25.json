@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "نوجوانی کرده‌ام و نیز پیر شده‌ام، و ندیده‌ام صادقی رها شده، و ذریّهٔ ⟨او⟩ نان جوینده.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "نوجوان"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "بودم"
+    },
+    {
+      "surface": "גם",
+      "gloss": "نیز"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "پیر شدم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "دیدم"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صادق"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "رها شده"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "و ذریّهٔ او"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "جوینده"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    }
+  ],
+  "timestamp": "2026-08-13T22:42:25.600025604Z",
+  "model": "glm-5.2"
+}

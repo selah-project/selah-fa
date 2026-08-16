@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 7:36",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "پسرانِ تزوفَخ: سُوح، و حَرْنِفِر، و شُوآل، و بِری، و یِمرا.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "تزوفَخ"
+    },
+    {
+      "surface": "סוח",
+      "gloss": "سُوح"
+    },
+    {
+      "surface": "וחרנפר",
+      "gloss": "و حَرْنِفِر"
+    },
+    {
+      "surface": "ושועל",
+      "gloss": "و شُوآل"
+    },
+    {
+      "surface": "וברי",
+      "gloss": "و بِری"
+    },
+    {
+      "surface": "וימרה",
+      "gloss": "و یِمرا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:57.544966452Z",
+  "model": "glm-5.2"
+}

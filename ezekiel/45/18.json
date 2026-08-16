@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 45:18",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 45,
+  "translation": "چنین گفت اَدونای یاهوه: در اول، در یکمِ ماه، گاوی نر از گله بی‌نقص بگیر، و پاک کنی ⟨את⟩ مقدّس را.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "در نخستین"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "در یکم"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ماه"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "بگیری"
+    },
+    {
+      "surface": "פר",
+      "gloss": "گاوی نر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "گله"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "بی‌نقص"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "و پاک کنی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مقدّس"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "مقدّس"
+    }
+  ],
+  "timestamp": "2026-08-14T00:09:26.519949037Z",
+  "model": "glm-5.2"
+}

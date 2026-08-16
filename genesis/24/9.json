@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و گذارد بنده ⟨את⟩ دستِ خود را زیر رانِ اَوراهام، سرورِ خود، و سوگند خورد برای او بر ⟨את⟩ امرِ این.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "و گذارد"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "بنده"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دستِ او"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دستِ او"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "زیرِ"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "رانِ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراهام"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "سرورِ او"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "و سوگند خورد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برای او"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "امرِ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    }
+  ],
+  "timestamp": "2026-08-13T20:00:37.172335668Z",
+  "model": "glm-5.2"
+}

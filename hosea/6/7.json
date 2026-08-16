@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 6:7",
+  "book": "hosea",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و آنان چون آدم از پیمان عبور کردند؛ آنجا بر من خیانت ورزیدند.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "و آنان"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "چون آدم"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "عبور کردند"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "از پیمان"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آنجا"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "خیانت ورزیدند"
+    },
+    {
+      "surface": "בי",
+      "gloss": "بر من"
+    }
+  ],
+  "timestamp": "2026-08-13T22:25:25.127076701Z",
+  "model": "glm-5.2"
+}

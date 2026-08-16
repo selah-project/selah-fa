@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 8:9",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و ⟨یاهوه⟩ به من گفت: بیا و ⟨את⟩ نجاس‌های بد را که آنان اینجا می‌کنند ببین.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "בא",
+      "gloss": "بیا"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "و ببین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نجاس‌های بد"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "نجاس‌ها"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "بد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "הם",
+      "gloss": "آنان"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "می‌کنند"
+    },
+    {
+      "surface": "פה",
+      "gloss": "اینجا"
+    }
+  ],
+  "timestamp": "2026-08-13T22:13:22.546131574Z",
+  "model": "glm-5.2"
+}

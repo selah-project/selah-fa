@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "من کهہلث، پادشاه بر یِسرائِل در یروشالَییم بوده‌ام.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "קהלت",
+      "gloss": "کهہلث"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "بوده‌ام"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائِل"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "در یروشالَییم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:19:29.838068956Z",
+  "model": "glm-5.2"
+}

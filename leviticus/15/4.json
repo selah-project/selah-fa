@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 15:4",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "هر تختِ آنکه بر آن می‌خوابد صاحبِ جریان، نجس می‌شود، و هر ظرفِ آنکه بر آن می‌نشیند، نجس می‌شود.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "تختی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنکه"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "می‌خوابد"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر آن"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "صاحبِ جریان"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "نجس می‌شود"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "ظرفی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنکه"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "می‌نشیند"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر آن"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "نجس می‌شود"
+    }
+  ],
+  "timestamp": "2026-08-13T23:55:52.617782735Z",
+  "model": "glm-5.2"
+}

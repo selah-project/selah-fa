@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و در این امر، شما به یاهوه، الوهیمِ خود، باور ندارید.",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "و در امر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "شما نه"
+    },
+    {
+      "surface": "מאמינם",
+      "gloss": "باوردارنده"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "به یاهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "الوهیمِ شما"
+    }
+  ],
+  "timestamp": "2026-08-13T20:43:03.078781419Z",
+  "model": "glm-5.2"
+}

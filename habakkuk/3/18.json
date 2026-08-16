@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "habakkuk 3:18",
+  "book": "habakkuk",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "اما من در یاهوه شاد خواهم شد، در الوهیمِ نجاتِ من وجد خواهم کرد؛",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "و من"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "در یاهوه"
+    },
+    {
+      "surface": "אעלוזה",
+      "gloss": "شاد خواهم شد"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "وجد خواهم کرد"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "در الوهیمِ"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "نجاتِ من"
+    }
+  ],
+  "timestamp": "2026-08-15T04:21:22.603384261Z",
+  "model": "glm-5.3"
+}

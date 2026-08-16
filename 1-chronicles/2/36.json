@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و عَتّای ⟨את⟩ ناتان را پدر شد، و ناتان ⟨את⟩ زاباد را پدر شد.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "و عَتّای"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "پدر شدِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناتان"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "و ناتان"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پدر شدِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زاباد"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "زاباد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:18.600178436Z",
+  "model": "glm-5.2"
+}

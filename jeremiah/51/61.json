@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "jeremiah 51:61",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 51,
+  "translation": "و یِرمِیاهو به شْرایاه گفت: چون واردِ بابل شوی، ببین و بخوان ⟨את⟩ همهٔ این سخنان را،",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمِیاهو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "شْرایاه"
+    },
+    {
+      "surface": "כבאך",
+      "gloss": "چون بیامری"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "و ببینی"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "و بخوانی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همهٔ این سخنان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "سخنان"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "این"
+    }
+  ],
+  "timestamp": "2026-08-13T22:11:16.659352464Z",
+  "model": "glm-5.2"
+}

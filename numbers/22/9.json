@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "numbers 22:9",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "و الوهیم نزد بیلعام آمد و گفت: این مردان که با تویند چه کسانی‌اند؟",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "و آمد"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نزد"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بیلعام"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "מי",
+      "gloss": "چه کسانی"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "این مردان"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "این"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "با تویند"
+    }
+  ],
+  "timestamp": "2026-08-15T03:53:10.400092727Z",
+  "model": "glm-5.3"
+}

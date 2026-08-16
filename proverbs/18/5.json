@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 18:5",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "بلند کردنِ چهرهٔ شریر، خوب نیست، تا کج کردنِ عادل در داوری.",
+  "tokens": [
+    {
+      "surface": "שְׂאֵת",
+      "gloss": "بلند کردنِ"
+    },
+    {
+      "surface": "פְּנֵי",
+      "gloss": "چهرهٔ"
+    },
+    {
+      "surface": "רָשָׁע",
+      "gloss": "شریر"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "טוֹב",
+      "gloss": "خوب"
+    },
+    {
+      "surface": "לְהַטּוֹת",
+      "gloss": "کج کردنِ"
+    },
+    {
+      "surface": "צַדִּיק",
+      "gloss": "عادل"
+    },
+    {
+      "surface": "בַּמִּשְׁפָּט",
+      "gloss": "در داوری"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:59.052233818Z",
+  "model": "glm-5.2"
+}

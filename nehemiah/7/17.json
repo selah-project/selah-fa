@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "پسرانِ عَزگاد، دو هزار، سی‌صد، بیست و دو.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "عَزگاد"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "دو هزار"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سی"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "و دو"
+    }
+  ],
+  "timestamp": "2026-08-13T23:32:56.093133911Z",
+  "model": "glm-5.2"
+}

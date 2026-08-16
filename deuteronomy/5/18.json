@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 5:18",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و زنا نکن.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "زنا کن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:44:06.796578036Z",
+  "model": "glm-5.2"
+}

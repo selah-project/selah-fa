@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و پسرانِ حَصرون که به او زاده شدند: ⟨את⟩ یَرحَم‌اِئیل و ⟨את⟩ رام و ⟨את⟩ کِلوبای.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "حَصرون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "زاده شدند"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یَرحَم‌اِئیل"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "یَرحَم‌اِئیل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "رام"
+    },
+    {
+      "surface": "רם",
+      "gloss": "رام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "کِلوبای"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "کِلوبای"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:15.797892813Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "ecclesiastes 2:24",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "نیستی جز این که انسان بخورد و بیاشامد و ⟨את⟩ جانِ خود را در رنجِ خویش خوش بدارد؛ این را نیز من دیدم، که از دستِ الوهیم است.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نیستی"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیک"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "برای انسان"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "که بخورد"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "و بیاشامد"
+    },
+    {
+      "surface": "והראה",
+      "gloss": "و خوش بدارد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جانِ خود"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "جانِ خود"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیک"
+    },
+    {
+      "surface": "בעמלו",
+      "gloss": "در رنجِ خویش"
+    },
+    {
+      "surface": "גם",
+      "gloss": "نیز"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "دیدم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "از دستِ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "היא",
+      "gloss": "است"
+    }
+  ],
+  "timestamp": "2026-08-15T04:30:03.798138747Z",
+  "model": "glm-5.3"
+}

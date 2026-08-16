@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 22:8",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "کاشتهٔ بی‌عدالتی، بلا را درو می‌کند، و عصایِ خشمِ او نابود می‌شود.",
+  "tokens": [
+    {
+      "surface": "זורע",
+      "gloss": "کاشتهٔ"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "بی‌عدالتی"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "درو می‌کند"
+    },
+    {
+      "surface": "און",
+      "gloss": "بلا را"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "و عصایِ"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "خشمِ او"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "نابود می‌شود"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:03.015982250Z",
+  "model": "glm-5.2"
+}

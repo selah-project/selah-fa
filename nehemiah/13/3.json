@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "و چون آنان ⟨את⟩ تورا را شنیدند، تمامِ آمیخته را از یِسرائیل جدا کردند.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و چون"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "شنیدنِ آنان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تورا"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "تورا"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "جدا کردند"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "آمیخته"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "از یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:51.447529023Z",
+  "model": "glm-5.2"
+}

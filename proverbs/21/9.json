@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 21:9",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "بهتر است نشستن بر گوشهٔ بام، از زنِ ناسازگاران و خانۀ هم‌خانه.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بهتر است"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "نشستن"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "گوشهٔ"
+    },
+    {
+      "surface": "גג",
+      "gloss": "بام"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "از زنِ"
+    },
+    {
+      "surface": "מדינים",
+      "gloss": "ناسازگاران"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "و خانۀ"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "هم‌خانه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:20.494886428Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 57,
+  "ref": "numbers 7:57",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "یک گاو نر، پسرِ گله، یک قوچ، یک بره، پسرِ یک‌ساله، برای هولوکاست؛",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "گاو نری"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "گله"
+    },
+    {
+      "surface": "איל",
+      "gloss": "قوچی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "بره‌ای"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "یک‌سالِ خود"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "برای هولوکاست"
+    }
+  ],
+  "timestamp": "2026-08-15T03:52:08.577194188Z",
+  "model": "glm-5.3"
+}

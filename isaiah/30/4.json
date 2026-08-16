@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "زیرا سَرانِ او در صُعَن بودند، و فرستادگانِ او به حانِس رسیدند.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بودند"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "در صُعَن"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "سَرانِ او"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "و فرستادگانِ او"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "به حانِس"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "رسیدند"
+    }
+  ],
+  "timestamp": "2026-08-13T21:47:37.951970182Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و ⟨این‌گونه⟩ شد، در پایانِ بیست سال، که شلومو ساخته بود ⟨את⟩ خانهٔ یاهوه و ⟨את⟩ خانهٔ خود را.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "در پایانِ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ساخته بود"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خانهٔ یاهوه"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانهٔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "خانهٔ خود"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "خانهٔ خود"
+    }
+  ],
+  "timestamp": "2026-08-14T00:18:34.632181024Z",
+  "model": "glm-5.2"
+}

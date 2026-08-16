@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و گاو‌ها هفتاد و دو هزار.",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "و گاو‌ها"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "و هفتاد"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    }
+  ],
+  "timestamp": "2026-08-13T20:41:03.712395820Z",
+  "model": "glm-5.2"
+}

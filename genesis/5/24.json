@@ -1,0 +1,51 @@
+{
+  "tier": "4.6",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و چنوخ ⟨את⟩ الوهیم را راه رفت و او وجود نداشت زیرا الوهیم او را ⟨את⟩ گرفت",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "و راه رفت"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "چنوخ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الوهیم"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "و او وجود نداشت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "گرفت"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "او را ⟨את⟩",
+      "marks": "او"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-15T03:28:01.795023993Z",
+  "model": "glm-4.6"
+}

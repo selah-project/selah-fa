@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "دلهی در دل مرد آن را فرومی‌نشاند، و سخنی نیکو آن را شاد می‌کند.",
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "دلهی"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "در دل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "آن را فرومی‌نشاند"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "و سخنی"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیکو"
+    },
+    {
+      "surface": "ישמחנה",
+      "gloss": "آن را شاد می‌کند"
+    }
+  ],
+  "timestamp": "2026-08-15T04:27:17.955178802Z",
+  "model": "glm-5.3"
+}

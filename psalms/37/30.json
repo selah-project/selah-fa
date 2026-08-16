@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "دهانِ صادق حکمت را می‌گوید، و زبانِ او داوری را بیان می‌کند.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "دهانِ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صادق"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "می‌گوید"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "و زبانِ او"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "بیان می‌کند"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "داوری"
+    }
+  ],
+  "timestamp": "2026-08-13T22:42:23.315474756Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "ref": "psalms 102:3",
+  "lang": "fa",
+  "book": "psalms",
+  "chapter": 102,
+  "verse": 3,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:47:12Z",
+  "translation": "رویِ خود را از من پنهان مکن در روزِ تنگی‌ام؛ گوشِ خود را به سویِ من مایل ساز؛ در روزی که می‌خوانم، به‌شتاب اجابتم کن.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "پنهان کن"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "رویِ خود را",
+      "marks": "رویِ خود"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "از من"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "تنگیِ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "من",
+      "marks": "تنگیِ من"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "مایل ساز"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به سویِ من"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "گوشِ خود را",
+      "marks": "گوشِ خود"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "می‌خوانم"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "به‌شتاب"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "اجابتم کن",
+      "marks": "اجابتم کن"
+    }
+  ]
+}

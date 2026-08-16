@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و یکی از تور‌ها یا از فرزندانِ کبوتر را ⟨את⟩ خواهد ساخت، از آنچه دستِ او برسد.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "و خواهد ساخت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یکی"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "تور‌ها"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "בני",
+      "gloss": "فرزندانِ"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "کبوتر"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "از آنچه"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "برسد"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دستِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:25:17.458493362Z",
+  "model": "glm-5.2"
+}

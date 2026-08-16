@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 3:1",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و به من گفت: پسرِ آدم، آنچه بیابی بخور، ⟨את⟩ این مُجَلَّد را بخور، و برو، به خانهِ یِسرائیل سخن بگو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آنچه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "بیابی"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "بخور"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "بخور"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "این مُجَلَّد"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "این مُجَلَّد"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "و برو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخن بگو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانهِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-13T22:13:00.864488002Z",
+  "model": "glm-5.2"
+}

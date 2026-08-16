@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 6:4",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "همهٔ روزهای نذرِ او، از هر آنچه از تاکِ شراب ساخته شود، از دانه‌ها تا پوست، نخورد.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روزهای"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "نذرِ او"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "از هر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنچه"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ساخته شود"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "از تاکِ"
+    },
+    {
+      "surface": "היין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "מחרצנים",
+      "gloss": "از دانه‌ها"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "זג",
+      "gloss": "پوست"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "بخورد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:33:03.544068231Z",
+  "model": "glm-5.2"
+}

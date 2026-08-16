@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "صفدانی‌ها هرمون را «سیریون» می‌نامند، و اموری‌ها آن را «سِنیر» می‌نامند.",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "صفدانی‌ها"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "می‌نامند"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "هرمون را"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "سیریون"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "و اموری‌ها"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "می‌نامند"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آن را"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "سِنیر"
+    }
+  ],
+  "timestamp": "2026-08-15T03:54:34.678998518Z",
+  "model": "glm-5.3"
+}

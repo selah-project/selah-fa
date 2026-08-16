@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 14:33",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و یاهوه با موشه و با اَهارون سخن گفت، به این گفتار:",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֣ר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "با"
+    },
+    {
+      "surface": "מֹשֶׁ֥ה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "וְאֶֽל",
+      "gloss": "و با"
+    },
+    {
+      "surface": "אַהֲרֹ֖ן",
+      "gloss": "اَهارون"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "به این گفتار"
+    }
+  ],
+  "timestamp": "2026-08-13T20:25:38.817537186Z",
+  "model": "glm-5.2"
+}

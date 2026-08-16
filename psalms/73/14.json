@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 73,
+  "translation": "و من تمام روزام گرفتار رنج بودم، و سرزنشِ من هر بامداد ⟨بود⟩.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "و من بودم"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "گرفتارِ رنج"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "و سرزنشِ من"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "هر بامداد"
+    }
+  ],
+  "timestamp": "2026-08-15T17:39:52.642525313Z",
+  "model": "glm-5.3"
+}

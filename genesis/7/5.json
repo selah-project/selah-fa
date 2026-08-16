@@ -1,0 +1,37 @@
+{
+  "tier": "4.6",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و نوح ⟨در⟩ هر آنچه یاهوه ⟨او را⟩ فرمان داد، انجام داد.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و انجام داد"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "⟨در⟩ هر آنچه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "یاهوه ⟨او را⟩ فرمان داد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-15T03:27:48.904741589Z",
+  "model": "glm-4.6"
+}

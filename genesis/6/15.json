@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و این است آنچه آن را بسازی: سیصد اَماه طولِ تابوت، پنجاه اَماه پهنایِآن، و سی اَماه بلندایِآن.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "و این"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "است آنچه"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "بسازی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "آن"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "اَماه"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "طولِ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "تابوت"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاه"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "اَماه"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "پهنایِآن"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "و سی"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "اَماه"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "بلندایِآن"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:28.443001315Z",
+  "model": "glm-5.2"
+}

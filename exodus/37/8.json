@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 37:8",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "یک کروب از سرِ این‌سو و یک کروب از سرِ آن‌سو؛ از کاپورت ساخت ⟨את⟩ کروب‌ها را از دو سرِ آن.",
+  "tokens": [
+    {
+      "surface": "כרוב",
+      "gloss": "کروب"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "از سرِ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "این‌سو"
+    },
+    {
+      "surface": "وכרוב",
+      "gloss": "و کروب"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "از سرِ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "آن‌سو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "کاپورت"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ساخت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کروب‌ها"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "کروب‌ها"
+    },
+    {
+      "surface": "משני",
+      "gloss": "از دو"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "سرِ آن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:20:30.040813560Z",
+  "model": "glm-5.2"
+}

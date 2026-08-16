@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 94,
+  "translation": "اگر نه یاهوه یاوری برای من ⟨بود⟩، نزدیک بود جانِ من در سکوت ساکن ⟨شد⟩.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "اگر نه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "یاور"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برای من"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "نزدیک بود"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "ساکن شد"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "در سکوت"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "جانِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T22:51:06.321040709Z",
+  "model": "glm-5.2"
+}

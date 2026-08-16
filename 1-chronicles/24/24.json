@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 24:24",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "پسرانِ عُزی‌اِل: میخا؛ برای پسرانِ میخا: شامور.",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֤י",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "עֻזִּיאֵל֙",
+      "gloss": "عُزی‌اِل"
+    },
+    {
+      "surface": "מִיכָ֔ה",
+      "gloss": "میخا"
+    },
+    {
+      "surface": "לִבְנֵ֥י",
+      "gloss": "برای پسرانِ"
+    },
+    {
+      "surface": "מִיכָ֖ה",
+      "gloss": "میخا"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "شامور"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:18.792908515Z",
+  "model": "glm-5.2"
+}

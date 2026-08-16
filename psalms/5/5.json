@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "زیرا تو اِلی نیستی که به رَشَع خوشنود باشد، بدی نزد تو ساکن نمی‌شود.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "לֹ֤א",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אֵֽל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "חָפֵ֘ץ",
+      "gloss": "خوشنود"
+    },
+    {
+      "surface": "רֶ֥שַׁע",
+      "gloss": "رَشَع"
+    },
+    {
+      "surface": "אָ֑תָּה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "לֹ֖א",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יְגֻרְךָ֣",
+      "gloss": "ساکن می‌شود نزد"
+    },
+    {
+      "surface": "רָֽע",
+      "gloss": "بدی"
+    }
+  ],
+  "timestamp": "2026-08-13T22:37:53.360135777Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 19:6",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و کاهن چوبِ سدر و اِزوو و شکستهٔ کرمِ قِرمِز را بردارد و به میانِ سوزاندنِ گاو بیندازد.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "و بردارد"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "چوب"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "سدر"
+    },
+    {
+      "surface": "ואזוב",
+      "gloss": "و اِزوو"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "و شکسته"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "کرم"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "و بیندازد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "میان"
+    },
+    {
+      "surface": "שרפת",
+      "gloss": "سوزاندن"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "گاو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:37:14.334522381Z",
+  "model": "glm-5.2"
+}

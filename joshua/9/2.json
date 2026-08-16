@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 9:2",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "که با هم گرد آمدند تا با یِهوشُع و با یِسرائِل بجنگند، دهانِ یکی.",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "که گرد آمدند"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "با هم"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "تا بجنگند"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یِهوشُع"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "و با"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائِل"
+    },
+    {
+      "surface": "פה",
+      "gloss": "دهانِ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:56:03.810513255Z",
+  "model": "glm-5.2"
+}

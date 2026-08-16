@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "که می‌گوید: آیا سَرکرده‌گانِ من همه‌یشان، پادشاهان نیستند؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "می‌گوید"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سَرکرده‌گانِ من"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "همه‌یشان"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "پادشاهان"
+    }
+  ],
+  "timestamp": "2026-08-13T21:42:52.591684351Z",
+  "model": "glm-5.2"
+}

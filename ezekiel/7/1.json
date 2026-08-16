@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 7:1",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و شدّ Словоٔ یاهوه به من، به گفتن:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و شدّ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به گفتن"
+    }
+  ],
+  "timestamp": "2026-08-13T22:13:13.995058497Z",
+  "model": "glm-5.2"
+}

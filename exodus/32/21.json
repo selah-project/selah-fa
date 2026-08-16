@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 32:21",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "و گفت موشه به اَهارون: چه کرد این قوم به تو، که گناهی بزرگ بر او آوردی؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اَهارون"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرد"
+    },
+    {
+      "surface": "לך",
+      "gloss": "به تو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "این قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "آوردی"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر او"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "گناهی"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "بزرگ"
+    }
+  ],
+  "timestamp": "2026-08-13T20:19:25.120836527Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "که قومی گم‌شدهٔ مشورت‌ها هستندِ آنان، و نیست در میانِ آنان فهم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "قومی"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "گم‌شدهٔ"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "مشورت‌ها"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هستندِ آنان"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نیست"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "در میانِ آنان"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "فهم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:58:24.893500004Z",
+  "model": "glm-5.2"
+}

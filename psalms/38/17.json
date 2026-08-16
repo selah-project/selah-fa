@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 38,
+  "translation": "چون گفتم، مبادا بر من شاد شوند — در لغزیدنِ پایِ من، بر من بزرگ شدند.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "گفتم"
+    },
+    {
+      "surface": "פן",
+      "gloss": "مبادا"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "شاد شوند"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "در لغزیدنِ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "پایِ من"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "بزرگ شدند"
+    }
+  ],
+  "timestamp": "2026-08-13T22:42:37.002308879Z",
+  "model": "glm-5.2"
+}

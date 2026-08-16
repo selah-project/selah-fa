@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 98,
+  "translation": "به یاهوه با کینور بنوازید، با کینور و صدای نغمه.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "بنوازید"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "به یاهوه"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "با کینور"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "با کینور"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "و صدای"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "نغمه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:51:56.876968035Z",
+  "model": "glm-5.2"
+}

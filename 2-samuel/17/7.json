@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 17:7",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "و خوشای به اَوشالوم گفت: نیکو نیست مشورتی که اَحیتوفل مشورت داده، در این بار.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "خوشای"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "اَوشالوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "نیکو"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "مشورت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "مشورت داده"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "اَحیتوفل"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "در بار"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "این"
+    }
+  ],
+  "timestamp": "2026-08-13T21:21:01.155069114Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "بخورد و فقرِ خود را فراموش کند و رنجِ خود را دیگر به یاد نیاورد.",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "بخورد"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "و فراموش کند"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "فقرِ خود را"
+    },
+    {
+      "surface": "ועמלו",
+      "gloss": "و رنجِ خود را"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "به یاد آورد"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیگر"
+    }
+  ],
+  "timestamp": "2026-08-13T23:06:15.240350365Z",
+  "model": "glm-5.2"
+}

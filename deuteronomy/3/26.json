@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 3:26",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و یاهوه به خاطرِ شما بر من خشم گرفت، و به من گوش نداد؛ و یاهوه به من گفت: «برای تو کافی است؛ دیگر بر سر این سخت با من سخن مزن.»",
+  "tokens": [
+    {
+      "surface": "ויתעבר",
+      "gloss": "و خشم گرفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "למענכם",
+      "gloss": "به خاطرِ شما"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "شنید"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "רב",
+      "gloss": "کافی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برای تو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "بافزایی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخن گفتن"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "با من"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بیشتر"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "در سختِ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    }
+  ],
+  "timestamp": "2026-08-13T20:44:00.374025417Z",
+  "model": "glm-5.2"
+}

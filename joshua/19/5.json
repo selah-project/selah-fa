@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 19:5",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و صیقلگ، و بیت-همَرکاووت، و حَصَر-سوسه",
+  "tokens": [
+    {
+      "surface": "וְצִֽקְלַ֥ג",
+      "gloss": "و صیقلگ"
+    },
+    {
+      "surface": "וּבֵית",
+      "gloss": "و بیت"
+    },
+    {
+      "surface": "הַמַּרְכָּב֖וֹת",
+      "gloss": "همَرکاووت"
+    },
+    {
+      "surface": "וַחֲצַ֥ר",
+      "gloss": "و حَصَر"
+    },
+    {
+      "surface": "סוּסָֽה",
+      "gloss": "سوسه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:58:41.267252026Z",
+  "model": "glm-5.2"
+}

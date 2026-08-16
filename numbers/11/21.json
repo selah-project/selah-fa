@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 11:21",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و گفت موشه: ششصد هزار پیاده، مردم که من در میانِ او هستم، و تو گفتی: گوشت خواهم داد به آنان و خواهند خورد یک ماهِ روزها.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "پیاده"
+    },
+    {
+      "surface": "העם",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "در میانِ او"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "و تو"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "گفتی"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "خواهم داد"
+    },
+    {
+      "surface": "להם",
+      "gloss": "به آنان"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "و خواهند خورد"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "یک ماه"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روزها"
+    }
+  ],
+  "timestamp": "2026-08-13T20:34:41.427184587Z",
+  "model": "glm-5.2"
+}

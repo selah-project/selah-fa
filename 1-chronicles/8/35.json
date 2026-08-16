@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 8:35",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و پسرانِ میکا: پیتون و مَلِک و تَأرِع و آخاز.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "میکا"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "پیتون"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "و مَلِک"
+    },
+    {
+      "surface": "ותארע",
+      "gloss": "و تَأرِع"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "و آخاز"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:49.201289683Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 12:38",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و نیز جمعیختگیِ بزرگ با آنان بالا رفت، و گله و گاو، مالِ بسیارِ سنگین.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "و نیز"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "جمعیختگی"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "بالا رفت"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "آنان"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "و گله"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "و گاو"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "مال"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "سنگین"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بسیار"
+    }
+  ],
+  "timestamp": "2026-08-13T20:13:10.778253037Z",
+  "model": "glm-5.2"
+}

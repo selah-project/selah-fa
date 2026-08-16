@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و ⟨את⟩ یکی را در بیت اِل گذاشت، و ⟨את⟩ یکی را در دان نهاد.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "و گذاشت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یکی"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "در بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "یکی"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "نهاد"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "در دان"
+    }
+  ],
+  "timestamp": "2026-08-14T00:01:56.512024669Z",
+  "model": "glm-5.2"
+}

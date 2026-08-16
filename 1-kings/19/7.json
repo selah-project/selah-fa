@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 19:7",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و فرشتهٔ یاهوه بارِ دیگر بازگشت و او را لمس کرد و گفت: برخیز، بخور، که راه از تو بسیار است.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "و بازگشت"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشتهٔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "بارِ دیگر"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "و لمس کرد"
+    },
+    {
+      "surface": "בו",
+      "gloss": "او را"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "קום",
+      "gloss": "برخیز"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "بخور"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "از تو"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "راه"
+    }
+  ],
+  "timestamp": "2026-08-13T21:30:53.086102021Z",
+  "model": "glm-5.2"
+}

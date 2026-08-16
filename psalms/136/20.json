@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 136,
+  "translation": "و به عوگ، پادشاهِ باشان، که تا به دورانِ زیست، محبّتِ اوست",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "و به عوگ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "باشان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "لעולם",
+      "gloss": "تا به دورانِ زیست"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "محبّتِ اوست"
+    }
+  ],
+  "timestamp": "2026-08-13T22:57:24.453193008Z",
+  "model": "glm-5.2"
+}

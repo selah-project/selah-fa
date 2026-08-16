@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 40,
+  "translation": "و یوسف به او گفت: این ⟨فرازِ⟩ تعبیرِ آن است: سه شاخهٔ پیچان، سه روز ⟨هستند⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "تعبیرِ آن"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "سه"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "شاخه‌هایِ پیچان"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "سه"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روز"
+    },
+    {
+      "surface": "הם",
+      "gloss": "آن‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T20:05:55.916625638Z",
+  "model": "glm-5.2"
+}

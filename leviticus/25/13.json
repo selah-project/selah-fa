@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "در سالِ یوبیلِ این، بازگردید، هر مردی به ملکِ ⟨او⟩.",
+  "tokens": [
+    {
+      "surface": "בִּשְׁנַ֥ת",
+      "gloss": "در سالِ"
+    },
+    {
+      "surface": "הַיּוֹבֵ֖ל",
+      "gloss": "یوبیلِ"
+    },
+    {
+      "surface": "הַזֹּ֑את",
+      "gloss": "این"
+    },
+    {
+      "surface": "תָּשֻׁ֕בוּ",
+      "gloss": "بازگردید"
+    },
+    {
+      "surface": "אִ֖ישׁ",
+      "gloss": "هر مردی"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אֲחֻזָּתֽוֹ",
+      "gloss": "ملکِ"
+    }
+  ],
+  "timestamp": "2026-08-13T20:29:37.189647052Z",
+  "model": "glm-5.2"
+}

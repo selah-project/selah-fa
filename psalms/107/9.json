@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 107,
+  "translation": "که ⟨او⟩ سیر کرد نفسِ تشنه‌کنان را، و نفسِ گرسنه را از خیر پر کرد.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "سیر کرد"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفسِ"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "تشنه‌کنان"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "و نفسِ"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "گرسنه"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "پر کرد"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "از خیر"
+    }
+  ],
+  "timestamp": "2026-08-13T22:53:05.373019405Z",
+  "model": "glm-5.2"
+}

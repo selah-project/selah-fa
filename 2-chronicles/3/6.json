@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و ⟨את⟩ خانه را با سنگِ گران‌بها برای زیبایی پوشاند، و زر، زرِ پَرواییم بود.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "و پوشاند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خانه"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "خانه"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "سنگ"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "گران‌بها"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "برای زیبایی"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "و زر"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زر"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "پَرواییم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:44:04.212381792Z",
+  "model": "glm-5.2"
+}

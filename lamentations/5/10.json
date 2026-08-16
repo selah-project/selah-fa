@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "پوستِ ما چون تنور سوخته است، از رویِ التهابِ گرسنگی.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "پوستِ ما"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "چون تنور"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "سوخته است"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "از رویِ"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "التهابِ"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "گرسنگی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:19:30.719281575Z",
+  "model": "glm-5.2"
+}

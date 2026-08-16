@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "تا کی، یاهوه، مرا فراموش خواهی کرد — برای همیشه؟ تا کی رویت را از من پنهان خواهی کرد؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "کی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "مرا فراموش خواهی کرد"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "برای همیشه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "کی"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "پنهان خواهی کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رویت"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "رویت را"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "از من"
+    }
+  ],
+  "timestamp": "2026-08-13T22:39:02.824280594Z",
+  "model": "glm-5.2"
+}

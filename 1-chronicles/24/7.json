@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 24:7",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و قرعهٔ نخست برای یِهویارِیو بیرون آمد، برای یِدَعیا دومین.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "و بیرون آمد"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "قرعه"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "نخست"
+    },
+    {
+      "surface": "ליהויריב",
+      "gloss": "برای یِهویارِیو"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "برای یِدَعیا"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دومین"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:46.829393904Z",
+  "model": "glm-5.2"
+}

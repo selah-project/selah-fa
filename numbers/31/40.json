@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 31:40",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و نَفَشِ آدم ششزده هزار، و مَکْسِ ایشان برای یاهوه دو و سی نَفَش.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "و نَفَشِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "شش"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ده"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "و مَکْسِ ایشان"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "برای یاهوه"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "و سی"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفَش"
+    }
+  ],
+  "timestamp": "2026-08-13T20:40:57.723999590Z",
+  "model": "glm-5.2"
+}

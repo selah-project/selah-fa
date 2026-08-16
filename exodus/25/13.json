@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و سازی میله‌هایی از چوب‌های شیتّیم، و طلا них ⟨את⟩ آنها بپوشانی.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "و سازی"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "میله‌های"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "چوب‌های"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شیتّیم"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "و بپوشانی"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "آنها"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "طلا"
+    }
+  ],
+  "timestamp": "2026-08-13T20:16:58.154217786Z",
+  "model": "glm-5.2"
+}

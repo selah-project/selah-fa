@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 20:1",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و یاهوه با یهوشُع سخن گفت، به‌گفتن:",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֣ר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "با"
+    },
+    {
+      "surface": "יְהוֹשֻׁ֖עַ",
+      "gloss": "یهوشُع"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "به‌گفتن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:59:38.655714383Z",
+  "model": "glm-5.2"
+}

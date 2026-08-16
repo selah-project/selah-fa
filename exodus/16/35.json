@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 16:35",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "و پسران اسرائیل ⟨את⟩ مَن را چهل سال خوردند تا آمدنشان به سرزمین مسکونی؛ ⟨את⟩ مَن را خوردند تا آمدنشان به کنارهٔ سرزمین کنعان.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسران"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "خوردند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مَن"
+    },
+    {
+      "surface": "המן",
+      "gloss": "مَن"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چهل"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "באם",
+      "gloss": "آمدنشان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "سرزمین"
+    },
+    {
+      "surface": "נושבת",
+      "gloss": "مسکونی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مَن"
+    },
+    {
+      "surface": "המן",
+      "gloss": "مَن"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "خوردند"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "באם",
+      "gloss": "آمدنشان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "کنارهٔ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "سرزمین"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:14:24.925939979Z",
+  "model": "glm-5.2"
+}

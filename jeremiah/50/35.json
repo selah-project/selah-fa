@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 35,
+  "ref": "jeremiah 50:35",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 50,
+  "translation": "شمشیر بر کَشدیم، کلامِ یاهوه؛ و بر ساکنانِ بابل، و بر سرورانش و بر خردمندانش.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "شمشیر"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "کَشدیم"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "کلامِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ساکنانِ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "سرورانش"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "חכמיה",
+      "gloss": "خردمندانش"
+    }
+  ],
+  "timestamp": "2026-08-15T04:14:04.914482782Z",
+  "model": "glm-5.3"
+}

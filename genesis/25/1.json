@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و اَوراهام افزود و زنی گرفت، و نامِ او قَتوره بود.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "و افزود"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراهام"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "و گرفت"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زنی"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "و نامِ او"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "قَتوره"
+    }
+  ],
+  "timestamp": "2026-08-13T20:01:26.894699097Z",
+  "model": "glm-5.2"
+}

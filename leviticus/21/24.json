@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 21:24",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و موشه به اهارون و به پسرانش و به همه بنی‌اسرائیل گفت.",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֣ר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "מֹשֶׁ֔ה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "אֶֽל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אַהֲרֹ֖ן",
+      "gloss": "اَهارون"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "و به"
+    },
+    {
+      "surface": "בָּנָ֑יו",
+      "gloss": "پسرانش"
+    },
+    {
+      "surface": "וְאֶֽל",
+      "gloss": "و به"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "همه"
+    },
+    {
+      "surface": "בְּנֵ֖י",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "اسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-13T20:27:58.986530304Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 7:21",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و بود در روزِ آن، زنده خواهد داشت مردی یک گوسالهٔ گاو و دو گوسفند.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "زنده خواهد داشت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "یک گوسالهٔ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "گاو"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "و دو"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "گوسفند"
+    }
+  ],
+  "timestamp": "2026-08-13T21:42:11.923289062Z",
+  "model": "glm-5.2"
+}

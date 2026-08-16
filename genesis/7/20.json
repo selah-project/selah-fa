@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 7:20",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "پانزده اَمّه از بالا چیره شدند آب‌ها، و پوشانده شدند کوه‌ها.",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ده"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "اَمّه"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "از بالا"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "چیره شدند"
+    },
+    {
+      "surface": "המים",
+      "gloss": "آب‌ها"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "و پوشانده شدند"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "کوه‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:29.379211348Z",
+  "model": "glm-5.2"
+}

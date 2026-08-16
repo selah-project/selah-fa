@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 1:36",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "پسرانِ اِلیفاز: تِیمان و اُومَر، صَفی، و گَعْتام، قِناز، و تِمْنَع، و عَمالِق.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "اِلیفاز"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "تِیمان"
+    },
+    {
+      "surface": "ואומר",
+      "gloss": "و اُومَر"
+    },
+    {
+      "surface": "צפי",
+      "gloss": "صَفی"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "و گَعْتام"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "قِناز"
+    },
+    {
+      "surface": "ותמנע",
+      "gloss": "و تِمْنَع"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "و عَمالِق"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:10.534572490Z",
+  "model": "glm-5.2"
+}

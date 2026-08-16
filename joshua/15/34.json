@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 15:34",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و زانوَح، و عِین گَنّیم، تَپّوَح، و هَعِینام،",
+  "tokens": [
+    {
+      "surface": "וזנוח",
+      "gloss": "و زانوَح"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "و عِین"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "گَنّیم"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "تَپّوَح"
+    },
+    {
+      "surface": "והעינם",
+      "gloss": "و هَعِینام"
+    }
+  ],
+  "timestamp": "2026-08-13T20:58:09.749939054Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 36:28",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "که اَبَرها می‌چکد، بر اَدَمِ فراوان می‌بارند.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "می‌چکد"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "اَبَرها"
+    },
+    {
+      "surface": "ירעפו",
+      "gloss": "می‌بارند"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "اَدَم"
+    },
+    {
+      "surface": "רב",
+      "gloss": "فراوان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:13:29.463416530Z",
+  "model": "glm-5.2"
+}

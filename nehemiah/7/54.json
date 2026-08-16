@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "nehemiah 7:54",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "پسرانِ بَصْلیت، پسرانِ مَحیدا، پسرانِ حَرشا،",
+  "tokens": [
+    {
+      "surface": "בְּנֵי",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "בַצְלִ֥ית",
+      "gloss": "بَصْلیت"
+    },
+    {
+      "surface": "בְּנֵֽי",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "מְחִידָ֖א",
+      "gloss": "مَحیدا"
+    },
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "חַרְשָֽׁא",
+      "gloss": "حَرشا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:33:08.224129761Z",
+  "model": "glm-5.2"
+}

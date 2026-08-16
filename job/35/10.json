@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 35:10",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "و نمی‌گوید: کجاست اِلوه، سازندهٔ من، دهندهٔ سرودها در شب؟",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "می‌گوید"
+    },
+    {
+      "surface": "איה",
+      "gloss": "کجاست"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "اِلوه"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "سازندهٔ من"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دهندهٔ"
+    },
+    {
+      "surface": "זמרות",
+      "gloss": "سرودها"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "در شب"
+    }
+  ],
+  "timestamp": "2026-08-13T23:13:10.352112786Z",
+  "model": "glm-5.2"
+}

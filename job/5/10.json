@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "job 5:10",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "که به روی زمین باران می‌دهد و بر روی بیرون‌ها آب می‌فرستد.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "که می‌دهد"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "باران"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "روی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "و می‌فرستد"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آب"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "روی"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "بیرون‌ها"
+    }
+  ],
+  "timestamp": "2026-08-15T04:28:48.480982560Z",
+  "model": "glm-5.3"
+}

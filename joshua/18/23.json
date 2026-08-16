@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 18:23",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و هَعَویم، و هَپاره، و عَفره،",
+  "tokens": [
+    {
+      "surface": "והעוים",
+      "gloss": "و هَعَویم"
+    },
+    {
+      "surface": "והפרה",
+      "gloss": "و هَپاره"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "و عَفره"
+    }
+  ],
+  "timestamp": "2026-08-13T20:58:15.726398253Z",
+  "model": "glm-5.2"
+}

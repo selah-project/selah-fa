@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 31:32",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و بود غنیمت، بقیهٔ غارت، که لشکر غارت کردند: گله، ششصد هزار و هفتاد هزار و پنج هزار.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "غنیمت"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "بقیهٔ"
+    },
+    {
+      "surface": "הבז",
+      "gloss": "غارت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "غارت کردند"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "جنگی"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "گله"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "و هفتاد"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "וחמשת",
+      "gloss": "و پنج"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هزار"
+    }
+  ],
+  "timestamp": "2026-08-13T20:41:05.663324332Z",
+  "model": "glm-5.2"
+}

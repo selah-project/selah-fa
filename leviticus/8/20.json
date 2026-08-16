@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و ⟨את⟩ قوچ را به قطعه‌هایش تکه‌تکه کرد، و موشه ⟨את⟩ سر و ⟨את⟩ قطعه‌ها و ⟨את⟩ پیه را بخوراند.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "قوچ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "قوچ"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "تکه‌تکه کرد"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "به قطعه‌هایش"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "و بخوراند"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سر"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "قطعه‌ها"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "قطعه‌ها"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "پیه"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "پیه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:23:48.044726680Z",
+  "model": "glm-5.2"
+}

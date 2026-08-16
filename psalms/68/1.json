@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 68,
+  "translation": "به رهبرِ آواز، برای داوود. مِزمور، سرود.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "به رهبرِ آواز"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "برای داوود"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مِزمور"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "سرود"
+    }
+  ],
+  "timestamp": "2026-08-14T00:12:05.032751558Z",
+  "model": "glm-5.2"
+}

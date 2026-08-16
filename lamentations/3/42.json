@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "ما سرکشی کردیم و طغیان ورزیدیم؛ تو نبخشایدی.",
+  "tokens": [
+    {
+      "surface": "נַחְנוּ",
+      "gloss": "ما"
+    },
+    {
+      "surface": "פָּשַׁעְנוּ",
+      "gloss": "سرکشی کردیم"
+    },
+    {
+      "surface": "וּמָרִינוּ",
+      "gloss": "و طغیان ورزیدیم"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "סָלָחְתָּ",
+      "gloss": "نبخشایدی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:18:02.697419493Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "amos 7:6",
+  "book": "amos",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "یاهوه بر این پشیمان شد؛ این نیز رخ نخواهد داد، گفت اَدونای یاهوه.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "پشیمان شد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "גם",
+      "gloss": "نیز"
+    },
+    {
+      "surface": "היא",
+      "gloss": "این"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نخواهد"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "رخ داد"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-15T04:20:13.189972912Z",
+  "model": "glm-5.3"
+}

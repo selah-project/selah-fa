@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و گفت پادشاه: «بگذر، اینجا بایست.» و گذشت و ایستاد.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "סב",
+      "gloss": "بگذر"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "بایست"
+    },
+    {
+      "surface": "כה",
+      "gloss": "اینجا"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "و گذشت"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "و ایستاد"
+    }
+  ],
+  "timestamp": "2026-08-13T21:22:10.873901981Z",
+  "model": "glm-5.2"
+}

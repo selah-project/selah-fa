@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "lamentations 3:24",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "بخشِ من یاهوه است، گفت ⟨نَفَشِ⟩ من؛ بر این اساس، برایِ او امید می‌ورزم.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "بخشِ من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨نَفَشِ⟩ من"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "این اساس"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "امید می‌ورازم"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برایِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:17:58.234329062Z",
+  "model": "glm-5.2"
+}

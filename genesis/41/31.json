@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 41:31",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 41,
+  "translation": "و شناخته نخواهد شد فراوانی در زمین از روی آن قحطیِ پس از آن، زیرا سنگین ⟨است⟩ او بسیار.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "شناخته خواهد شد"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "فراوانی"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "در زمین"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "از روی"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "آن قحطی"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پس از"
+    },
+    {
+      "surface": "כן",
+      "gloss": "آن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "سنگین"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بسیار"
+    }
+  ],
+  "timestamp": "2026-08-13T23:54:08.939608064Z",
+  "model": "glm-5.2"
+}

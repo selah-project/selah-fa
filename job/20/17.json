@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 20:17",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "نَبیند شیره‌رودها، رودهایِ دره‌هایِ شهد و کره را.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نبیند"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ـد"
+    },
+    {
+      "surface": "בפלגות",
+      "gloss": "شیره‌رودها"
+    },
+    {
+      "surface": "נהרי",
+      "gloss": "رودهایِ"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "دره‌هایِ"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "شهد"
+    },
+    {
+      "surface": "וחמאה",
+      "gloss": "و کره"
+    }
+  ],
+  "timestamp": "2026-08-13T23:10:43.563115656Z",
+  "model": "glm-5.2"
+}

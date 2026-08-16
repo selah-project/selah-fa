@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و قُص بیاورد: ⟨את⟩ عانوب و ⟨את⟩ هَصوبِبا؛ و خاندان‌هایِ آخَرخِل پسرِ هاروم.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "و قُص"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بیاورد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عانوب"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "عانوب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "هَصوبِبا"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "هَصوبِبا"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "و خاندان‌هایِ"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "آخَرخِل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "هاروم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:02.392105949Z",
+  "model": "glm-5.2"
+}

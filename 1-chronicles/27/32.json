@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 27:32",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و یِهوناتان، دودِ داوید، مشاور، مردی فهمیده و کاتب بود، او؛ و یِحی‌اِل پُر حَخْمونی با پسرانِ ملک.",
+  "tokens": [
+    {
+      "surface": "ויהונתן",
+      "gloss": "و یِهوناتان"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "دودِ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوید"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "مشاور"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "فهمیده"
+    },
+    {
+      "surface": "וסופר",
+      "gloss": "و کاتب"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "ויחיאל",
+      "gloss": "و یِحی‌اِل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُر"
+    },
+    {
+      "surface": "חכמוני",
+      "gloss": "حَخْمونی"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ملک"
+    }
+  ],
+  "timestamp": "2026-08-13T23:42:44.560967848Z",
+  "model": "glm-5.2"
+}

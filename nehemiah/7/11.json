@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 7:11",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "پسرانِ پَحَت-موآب، به پسرانِ یِشوع و یوآب، دو هزار و هشت‌صد هجده.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "پَحَت"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "به پسرانِ"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "یِشوع"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "و هشت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "هشت"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "و هشت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "هشت"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ده"
+    }
+  ],
+  "timestamp": "2026-08-13T23:32:32.955534072Z",
+  "model": "glm-5.2"
+}

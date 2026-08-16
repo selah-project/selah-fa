@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "و از آن‌جا به بئر-شبع بالا رفت.",
+  "tokens": [
+    {
+      "surface": "וַיַּ֥עַל",
+      "gloss": "و بالا رفت"
+    },
+    {
+      "surface": "מִשָּׁ֖ם",
+      "gloss": "از آن‌جا"
+    },
+    {
+      "surface": "בְּאֵ֥ר",
+      "gloss": "به بئر"
+    },
+    {
+      "surface": "שָֽׁבַע",
+      "gloss": "شبع"
+    }
+  ],
+  "timestamp": "2026-08-13T23:54:02.246573881Z",
+  "model": "glm-5.2"
+}

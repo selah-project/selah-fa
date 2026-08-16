@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 6:33",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "زخمی و خواری بیابد، و ننگِ او پاک نخواهد شد.",
+  "tokens": [
+    {
+      "surface": "נֶֽגַע",
+      "gloss": "زخمی"
+    },
+    {
+      "surface": "וְקָל֥וֹן",
+      "gloss": "و خواری"
+    },
+    {
+      "surface": "יִמְצָ֑א",
+      "gloss": "بیابد"
+    },
+    {
+      "surface": "וְ֝חֶרְפָּת֗וֹ",
+      "gloss": "و ننگِ او"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תִמָּחֶֽה",
+      "gloss": "پاک خواهد شد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:00:19.448508845Z",
+  "model": "glm-5.2"
+}

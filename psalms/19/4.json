@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "هیچ سخن نیست و هیچ واژه‌ای نیست؛ بی آنکه صدايش شنیده شود.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نیست نیست"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "سخن"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نیست"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "واژه‌ای"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بی آنکه"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "شنیده شود"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "صدايش"
+    }
+  ],
+  "timestamp": "2026-08-13T22:40:06.504961688Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 33:5",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "و بنا کرد مذبح‌هایی برای تمام لشکر آسمان‌ها در دو حصار خانه یاهوه.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "و بنا کرد"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "مذبح‌هایی"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "برای تمام"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمان‌ها"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "در دو"
+    },
+    {
+      "surface": "חצרות",
+      "gloss": "حصار"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:51:46.705285061Z",
+  "model": "glm-5.2"
+}

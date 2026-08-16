@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 26:3",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "پنج پرده پیوسته باشد، زن به خواهرِ خود؛ و پنج پرده پیوسته، زن به خواهرِ خود.",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "پرده"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "باشد"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "پیوسته"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "خواهرِ خود"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "و پنج"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "پرده"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "پیوسته"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "خواهرِ خود"
+    }
+  ],
+  "timestamp": "2026-08-13T20:17:35.873131934Z",
+  "model": "glm-5.2"
+}

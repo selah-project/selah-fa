@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 119,
+  "translation": "دلم را به گواهی‌هایت بگردان و نه به سودِ ناروا.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "بگرآن"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دلم را"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "گواهی‌هایت"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و نه به"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "سودِ ناروا"
+    }
+  ],
+  "timestamp": "2026-08-15T04:26:11.938269183Z",
+  "model": "glm-5.3"
+}

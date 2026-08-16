@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 35:19",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "والیِ خون، خودش، ⟨את⟩ آن قاتل را بکشد؛ در برخوردنش با او، خودش او را بکشد.",
+  "tokens": [
+    {
+      "surface": "גאל",
+      "gloss": "والیِ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "خودش"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "بکشد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آن قاتل"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "آن قاتل"
+    },
+    {
+      "surface": "בפגעו",
+      "gloss": "در برخوردنش"
+    },
+    {
+      "surface": "בו",
+      "gloss": "با او"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "خودش"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "او را بکشد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:42:33.367235091Z",
+  "model": "glm-5.2"
+}

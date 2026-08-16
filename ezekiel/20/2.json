@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 20:2",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و ⟨بود⟩ دَوارِ یاهوه ⟨سویِ⟩ من، به‌گفتن:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و ⟨بود⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دَوارِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨سویِ⟩ من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به‌گفتن"
+    }
+  ],
+  "timestamp": "2026-08-13T22:16:38.877868402Z",
+  "model": "glm-5.2"
+}

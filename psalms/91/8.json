@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 91,
+  "translation": "تنها با چشمانِ خود بنگر و کیفرِ بدکاران را ببینی.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "تنها"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "با چشمانِ تو"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "بنگری"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "و کیفرِ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکاران"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ببینی"
+    }
+  ],
+  "timestamp": "2026-08-13T22:50:42.521977600Z",
+  "model": "glm-5.2"
+}

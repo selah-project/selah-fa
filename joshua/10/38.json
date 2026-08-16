@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 10:38",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "ویهوشوه بازگشت، وهمهٔ ییسْرائیل با او، دِبیره را، وبا آن جنگید.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "وبازگشت"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یهوشوه"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وهمهٔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ییسْرائیل"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "با او"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "دِبیره را"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "وجنگید"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "با آن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:57:05.209442618Z",
+  "model": "glm-5.2"
+}

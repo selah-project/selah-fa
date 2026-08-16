@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 32:2",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "و دید یِحِزْقیاهو که سَنحِریو آمده و رویِ ⟨او⟩ برای جنگ بر یِروشَلایِم است.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "و دید"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "یِحِزْقیاهو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آمده"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "سَنحِریو"
+    },
+    {
+      "surface": "ופניו",
+      "gloss": "و رویِ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "برای جنگ"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یِروشَلایِم"
+    }
+  ],
+  "timestamp": "2026-08-14T00:19:06.717801201Z",
+  "model": "glm-5.2"
+}

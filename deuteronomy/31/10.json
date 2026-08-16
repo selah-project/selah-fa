@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 31:10",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و موشه آنان را فرمان داد، به‌قولِ: در پایانِ هفت سال، در موعدِ سالِ هاشَمیته، در حگِ هاکّوت،",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "و فرمان داد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ آنها را"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به‌قولِ"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "در پایانِ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "במעד",
+      "gloss": "در موعدِ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "سالِ"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "هاشَمیته"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "در حگِ"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "هاکّوت"
+    }
+  ],
+  "timestamp": "2026-08-13T20:53:07.223733279Z",
+  "model": "glm-5.2"
+}

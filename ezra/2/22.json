@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "مردانِ نِتوفه، پنجاه و شش.",
+  "tokens": [
+    {
+      "surface": "אַנְשֵׁ֥י",
+      "gloss": "مردانِ"
+    },
+    {
+      "surface": "נְטֹפָ֖ה",
+      "gloss": "نتوفه"
+    },
+    {
+      "surface": "חֲמִשִּׁ֥ים",
+      "gloss": "پنجاه"
+    },
+    {
+      "surface": "וְשִׁשָּֽׁה",
+      "gloss": "و شش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:27:44.449131427Z",
+  "model": "glm-5.2"
+}

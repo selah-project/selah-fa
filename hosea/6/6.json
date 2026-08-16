@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "hosea 6:6",
+  "book": "hosea",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "زیرا وفاداری را خواستم نه ذبح، و دانستنِ الوهیم بیش از علوفه‌های سوخته.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "وفاداری"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "خواستم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ذبح"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "و دانستنِ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "بیش از علوفه‌های سوخته"
+    }
+  ],
+  "timestamp": "2026-08-15T20:54:06.364469368Z",
+  "model": "glm-5.3+hand"
+}

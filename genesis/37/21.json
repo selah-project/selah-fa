@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 37:21",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "وَرَئوبِن شنید و او را از دستِ آنان رهاند، و گفت: نزنیم او را، ⟨از⟩ جان.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "و شنید"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رَئوبِن"
+    },
+    {
+      "surface": "ויצלהו",
+      "gloss": "و او را رهاند"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "از دستِ آنان"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נכנו",
+      "gloss": "نزنیم او را"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:06:04.711754880Z",
+  "model": "glm-5.2"
+}

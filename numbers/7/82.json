@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 82,
+  "ref": "numbers 7:82",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "یک بزنر برای حطات؛",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "بزنر"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بزها"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "برای حطات"
+    }
+  ],
+  "timestamp": "2026-08-15T03:51:37.390086273Z",
+  "model": "glm-5.3"
+}

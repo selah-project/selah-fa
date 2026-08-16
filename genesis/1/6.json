@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و الوهیم گفت: «باد گستره‌ای در میانِ آب‌ها، و باد جداکننده‌ای میانِ آب‌ها و آب‌ها.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "باد"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "گستره"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "در میانِ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "آب‌ها"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و باد"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "جداکننده‌ای"
+    },
+    {
+      "surface": "בין",
+      "gloss": "میانِ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آب‌ها"
+    },
+    {
+      "surface": "למים",
+      "gloss": "و آب‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:09.798673160Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 12:40",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و بودند آنجا با داوید سه روز، خورند و آشامند، که برادرانشان برایشان آماده کرده بودند.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "و بودند"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آنجا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوید"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روز"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "سه"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "خورند"
+    },
+    {
+      "surface": "ושותים",
+      "gloss": "و آشامند"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "آماده کرده بودند"
+    },
+    {
+      "surface": "להם",
+      "gloss": "برایشان"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "برادرانشان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:39:21.413972899Z",
+  "model": "glm-5.2"
+}

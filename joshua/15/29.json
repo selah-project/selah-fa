@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 15:29",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "بَعَله، و عِیّیم، و عَصَم،",
+  "tokens": [
+    {
+      "surface": "בַּעֲלָ֥ה",
+      "gloss": "بَعَله"
+    },
+    {
+      "surface": "וְעִיִּ֖ים",
+      "gloss": "و عِیّیم"
+    },
+    {
+      "surface": "וָעָֽצֶם",
+      "gloss": "و عَصَم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:57:59.106458717Z",
+  "model": "glm-5.2"
+}

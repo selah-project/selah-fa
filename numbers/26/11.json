@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "و پسرانِ قورح نمردند.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "مردند"
+    }
+  ],
+  "timestamp": "2026-08-13T20:39:09.273596634Z",
+  "model": "glm-5.2"
+}

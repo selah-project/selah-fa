@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "از خشم دست بازدار و خروش را رها کن؛ برنجان، ⟨که این⟩ تنها به بدی کردن ⟨می‌انجامد⟩.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "دست بازدار"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "از خشم"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "و رها کن"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "خروش را"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "برنجان"
+    },
+    {
+      "surface": "אך",
+      "gloss": "تنها"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "به بدی کردن"
+    }
+  ],
+  "timestamp": "2026-08-13T22:42:05.962551824Z",
+  "model": "glm-5.2"
+}

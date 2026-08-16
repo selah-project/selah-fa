@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 99,
+  "translation": "بستایند نامِ تو را، بزرگ و هولناک، قدّوس ⟨است⟩ او.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "بستایند"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "نامِ تو را"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "و هولناک"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "قدّوس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    }
+  ],
+  "timestamp": "2026-08-14T00:12:51.876022237Z",
+  "model": "glm-5.2"
+}

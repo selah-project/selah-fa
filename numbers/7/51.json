@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 7:51",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "یک گاو نر، پسر گله، یک قوچ، یک بره، پسر سالِ او، برای سوختنی:",
+  "tokens": [
+    {
+      "surface": "פַּ֣ר",
+      "gloss": "گاو نر"
+    },
+    {
+      "surface": "אֶחָ֞ד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "בָּקָ֗ר",
+      "gloss": "گله"
+    },
+    {
+      "surface": "אַ֧יִל",
+      "gloss": "قوچ"
+    },
+    {
+      "surface": "אֶחָ֛ד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "כֶּֽבֶשׂ",
+      "gloss": "بره"
+    },
+    {
+      "surface": "אֶחָ֥ד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "שְׁנָת֖וֹ",
+      "gloss": "سالِ او"
+    },
+    {
+      "surface": "לְעֹלָֽה",
+      "gloss": "برای سوختنی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:33:00.444681416Z",
+  "model": "glm-5.2"
+}

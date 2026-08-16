@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 69,
+  "ref": "numbers 7:69",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "یک گاو نر، پسرِ گله، یک قوچ، یک بره، پسرِ یک‌سالهٔ خود، برای عولاه (قربانیِ سوختنی)؛",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "یک گاو نر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "گله"
+    },
+    {
+      "surface": "איל",
+      "gloss": "قوچ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "بره"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "یک‌سالهٔ خود"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "برای عولاه"
+    }
+  ],
+  "timestamp": "2026-08-15T17:35:12.152173110Z",
+  "model": "glm-5.3"
+}

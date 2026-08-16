@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 25:22",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و یهودا پیش از یِسرائیل شکست خورد، و هر مردی به خیمه‌هایش گریخت.",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "و شکست خورد"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیش از"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "و گریختند"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر مردی"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "به خیمه‌هایش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:49:59.420671777Z",
+  "model": "glm-5.2"
+}

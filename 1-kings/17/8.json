@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 17:8",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "و کلامِ یاهوه به او رسید، به این بیان:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و چنین شد"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلامِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به این بیان"
+    }
+  ],
+  "timestamp": "2026-08-13T21:30:05.650328027Z",
+  "model": "glm-5.2"
+}

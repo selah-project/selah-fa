@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 11:15",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و از لاویان: شَمَعْیاه بن حَشوب بن عَزْری‌قام بن حَشَبْیاه بن بونی.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "و از"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاویان"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شَمَعْیاه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "حَشوب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "عَزْری‌قام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "حَشَبْیاه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "בוני",
+      "gloss": "بونی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:28.422292708Z",
+  "model": "glm-5.2"
+}

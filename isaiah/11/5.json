@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و будет عدل منطقة کمره، و امانت منطقه پهلوهايش.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و ⟨بود⟩"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "عدل"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "منطقه"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "کمرِ او"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "و امانت"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "منطقه"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "پهلوهايِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T21:43:35.493936863Z",
+  "model": "glm-5.2"
+}

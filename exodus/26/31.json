@@ -1,0 +1,66 @@
+{
+  "ref": "exodus 26:31",
+  "lang": "fa",
+  "book": "exodus",
+  "chapter": 26,
+  "verse": 31,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:55:53Z",
+  "translation": "و پرده‌ای بسازی از لاجوردی و ارغوانی و کرمِ قرمز و کتانِ نازکِ تابیده — کارِ بافنده؛ ⟨את⟩ آن را ⟨با⟩ کروبیان بسازد.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "و بسازی"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "پرده"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "لاجوردی"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "و ارغوانی"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "و کرمِ قرمز"
+    },
+    {
+      "surface": "שני",
+      "gloss": "قرمز"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "و کتانِ نازک"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "تابیده"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کارِ"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "بافنده"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "بسازد"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "آن (پرده)"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "کروبیان"
+    }
+  ]
+}

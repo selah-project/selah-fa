@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 139,
+  "translation": "که سخنی بر زبانِ من نیست؛ اینک، یاهوه، تو ⟨آن را⟩ همگی می‌دانی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "سخنی"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "بر زبانِ من"
+    },
+    {
+      "surface": "הן",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "می‌دانی"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "همگی"
+    }
+  ],
+  "timestamp": "2026-08-13T22:57:38.033907797Z",
+  "model": "glm-5.2"
+}

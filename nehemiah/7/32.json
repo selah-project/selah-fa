@@ -1,0 +1,41 @@
+{
+  "tier": "hand",
+  "verse": 32,
+  "ref": "nehemiah 7:32",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "مردانِ بِیت‌اِل و عای: صد و بیست و سه.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "مردانِ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بِیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "و عای"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "صد"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "و سه"
+    }
+  ],
+  "timestamp": "2026-08-14T17:46:57Z",
+  "model": "claude-fable-5/hand"
+}

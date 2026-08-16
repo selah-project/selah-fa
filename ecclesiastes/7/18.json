@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "خوب ⟨است⟩ که این را بگیری و نیز از این دستِت را فرو نگذاری، زیرا ترس‌دارِ الوهیم از همهٔ آن‌ها بیرون ⟨می⟩آید.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "خوب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "بگیری"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "این را"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "و نیز"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "از این"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مکن"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "فرو بگذاری"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دستِت را"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "دستِت را"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ترس‌دارِ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "بیرون ⟨می⟩آید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همهٔ آن‌ها"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "همهٔ آن‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:08.468526015Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "و ⟨את⟩ میله‌ها را از چوب شطیم ساخت و آن‌ها را با زر پوشاند، برای برداشتن ⟨את⟩ میز.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ساخت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میله‌ها"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "میله‌ها"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "چوبِ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شطیم"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "پوشاند"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "زر"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زر"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "برای برداشتن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میز"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "میز"
+    }
+  ],
+  "timestamp": "2026-08-15T03:48:47.795205584Z",
+  "model": "glm-5.3"
+}

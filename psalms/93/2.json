@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 93,
+  "translation": "برپا ⟨است⟩ تختِ تو از آنگاه، از دوران‌های باستان تو ⟨هستی⟩.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "برپا ⟨است⟩"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "تختِ تو"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "از آنگاه"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "از دوران‌های باستان"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:51:18.196487185Z",
+  "model": "glm-5.2"
+}

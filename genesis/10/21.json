@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 10:21",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و به شِم نیز ⟨او⟩ پدرِ همهٔ پسرانِ عِیوِر، برادرِ یِفَتِ بزرگ، زاده شد.",
+  "tokens": [
+    {
+      "surface": "ולשם",
+      "gloss": "و به شِم"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "زاده شد"
+    },
+    {
+      "surface": "גם",
+      "gloss": "نیز"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨او⟩"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پدرِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عِیوِر"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برادرِ"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "یِفَتِ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "بزرگ"
+    }
+  ],
+  "timestamp": "2026-08-13T19:57:01.605396309Z",
+  "model": "glm-5.2"
+}

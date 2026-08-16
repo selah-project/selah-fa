@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 29:22",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "مردِ خشم، دعوا برمی‌انگیزد، و صاحبِ خروش، فراوان است در عصیان.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "אף",
+      "gloss": "خشم"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "برمی‌انگیزد"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "دعوا"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "و صاحبِ"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "خروش"
+    },
+    {
+      "surface": "רב",
+      "gloss": "فراوان است"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "در عصیان"
+    }
+  ],
+  "timestamp": "2026-08-14T00:14:49.017190094Z",
+  "model": "glm-5.2"
+}

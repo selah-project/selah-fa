@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 63,
+  "translation": "چنین در قدس تو را دیدم، برایِ دیدنِ عزّت و جلالت",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "در قدس"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "دیدم تو را"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "برایِ دیدن"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "عزّت"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "و جلالت"
+    }
+  ],
+  "timestamp": "2026-08-13T22:46:04.005843256Z",
+  "model": "glm-5.2"
+}

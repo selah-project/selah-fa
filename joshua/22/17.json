@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 22:17",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "آیا ⟨את⟩ گناهِ فِعور بر ما کم بود، که تا به امروز از آن پاک نشده‌ایم، و طاعونی در جامعهٔ یاهوه واقع شد؟",
+  "tokens": [
+    {
+      "surface": "המעט",
+      "gloss": "آیا کم است"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "بر ما"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گناه"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گناه"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "فِعور"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "הטהרנו",
+      "gloss": "پاک شدیم"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "از آن"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "امروز"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "הנגף",
+      "gloss": "طاعون"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "در جامعهٔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:59:52.344601833Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 13:4",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "و اکنون، مواظب باش، و شراب و مستی‌آور نخور، و هیچ چیزِ ناپاک نخور.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و اکنون"
+    },
+    {
+      "surface": "השמרי",
+      "gloss": "مواظب باش"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اکنون"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و مباد"
+    },
+    {
+      "surface": "תשתי",
+      "gloss": "نخور"
+    },
+    {
+      "surface": "יין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "و مستی‌آور"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و مباد"
+    },
+    {
+      "surface": "תאכלי",
+      "gloss": "نخور"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هیچ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "چیزِ ناپاک"
+    }
+  ],
+  "timestamp": "2026-08-13T21:04:41.037042667Z",
+  "model": "glm-5.2"
+}

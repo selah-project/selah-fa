@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و اَحیمَعَتز ⟨את⟩ عَزَریَاه را زاد، و عَزَریَاه ⟨את⟩ یوهانان را زاد.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "و اَحیمَعَتز"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عَزَریَاه"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عَزَریَاه"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "و عَزَریَاه"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوهانان"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "یوهانان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:26.704465366Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 17:16",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "چرا بهای در دستِ نادان است برای خریدِ حکمت، و دلی نیست؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "بهای"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "در دستِ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "برای خریدِ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "و دلی"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:48.527782281Z",
+  "model": "glm-5.2"
+}

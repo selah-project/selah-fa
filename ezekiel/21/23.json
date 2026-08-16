@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 21:23",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و سخنِ یاهوه بر من ⟨⟨بود⟩⟩، به ⟨این⟩ گفتار:",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخنِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به گفتار"
+    }
+  ],
+  "timestamp": "2026-08-13T22:16:45.730636735Z",
+  "model": "glm-5.2"
+}

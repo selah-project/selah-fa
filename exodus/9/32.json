@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و گندم و اسپلت زده نشدند، زیرا دیررس بودند.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "و گندم"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "و اسپلت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "زده شدند"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "دیررس"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "بودند"
+    }
+  ],
+  "timestamp": "2026-08-13T20:11:50.693202829Z",
+  "model": "glm-5.2"
+}

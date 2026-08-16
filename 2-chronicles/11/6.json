@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "وَ ⟨את⟩ بیت‌لَحِم و ⟨את⟩ عَیطام و ⟨את⟩ تَقوَع را بنا کرد.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "وَبنا کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بیت‌لَحِم"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لَحِم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "عَیطام"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "عَیطام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "تَقوَع"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "تَقوَع"
+    }
+  ],
+  "timestamp": "2026-08-13T23:44:57.972156954Z",
+  "model": "glm-5.2"
+}

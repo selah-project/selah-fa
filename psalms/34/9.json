@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 34:9",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 34,
+  "translation": "بچشید و ببینید که نیکوست یاهوه؛ خوشا ⟨به⟩ گبری که در او پناه می‌جوید.",
+  "tokens": [
+    {
+      "surface": "טעמו",
+      "gloss": "بچشید"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "و ببینید"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیکوست"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "خوشا"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "گبری"
+    },
+    {
+      "surface": "יחסה",
+      "gloss": "پناه می‌جوید"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در او"
+    }
+  ],
+  "timestamp": "2026-08-13T22:41:26.660050011Z",
+  "model": "glm-5.2"
+}

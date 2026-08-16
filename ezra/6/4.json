@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 6:4",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "سه ردیفِ لایه از سنگِ غلتان، و یک ردیفِ لایه از چوبِ تازه؛ و هزینه از خانهٔ پادشاه داده شود.",
+  "tokens": [
+    {
+      "surface": "נדבכין",
+      "gloss": "لایه"
+    },
+    {
+      "surface": "די",
+      "gloss": "از"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "سنگِ"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "غلتان"
+    },
+    {
+      "surface": "תלתא",
+      "gloss": "سه"
+    },
+    {
+      "surface": "ונדבך",
+      "gloss": "و ردیفِ لایه"
+    },
+    {
+      "surface": "די",
+      "gloss": "از"
+    },
+    {
+      "surface": "אע",
+      "gloss": "چوبِ"
+    },
+    {
+      "surface": "חדת",
+      "gloss": "تازه"
+    },
+    {
+      "surface": "ונפקתא",
+      "gloss": "و هزینه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانهٔ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "תתיהב",
+      "gloss": "داده شود"
+    }
+  ],
+  "timestamp": "2026-08-13T23:30:02.354049467Z",
+  "model": "glm-5.2"
+}

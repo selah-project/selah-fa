@@ -1,0 +1,45 @@
+{
+  "ref": "psalms 18:25",
+  "lang": "fa",
+  "book": "psalms",
+  "chapter": 18,
+  "verse": 25,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:47:12Z",
+  "translation": "پس یاهوه برای من ⟨بود⟩ برحسبِ عدالتم، برحسبِ پاکیِ دستانم در برابرِ چشمانِ ⟨او⟩.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "پس ⟨بود⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برای من"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "برحسبِ عدالتم"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "برحسبِ پاکیِ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "دستانم"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "در برابرِ"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "چشمانِ ⟨او⟩"
+    }
+  ]
+}

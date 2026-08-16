@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 40:11",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 40,
+  "translation": "و ⟨את⟩ پهنای دهانهٔ دروازه را ده اَماه سنجید؛ درازای دروازه سیزده اَماه.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "و سنجید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پهنای"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "پهنای"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دهانهٔ"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دروازه"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ده"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "اَماه"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "درازای"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دروازه"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "سه"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-ده"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "اَماه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:23:03.097782776Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و بگیرد تا پاک گرداند ⟨את⟩ خانه را: دو پرنده و چوبِ سرو و کرمِ قرمز و ایسوپ.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "و بگیرد"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "تا پاک گرداند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خانه"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "خانه"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "پرنده"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "و چوبِ"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "سرو"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "و کرمِ"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "قرمز"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "و ایسوپ"
+    }
+  ],
+  "timestamp": "2026-08-13T20:25:10.858309595Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و ⟨את⟩ لک‌لک، و حوصل‌سبز به نوعِ خودش، و ⟨את⟩ هدهد و ⟨את⟩ خفاش،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "لک‌لک"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "لک‌لک"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "حوصل‌سبز"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "به نوعِ خودش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "هدهد"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "هدهد"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "خفاش"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "خفاش"
+    }
+  ],
+  "timestamp": "2026-08-13T20:24:24.893726407Z",
+  "model": "glm-5.2"
+}

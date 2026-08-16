@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 2:7",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "قبیلهٔ زَوولون، و سرورِ پسرانِ زَوولون اِلی‌آو پسرِ حِلون.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "قبیلهٔ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زَوولون"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "و سرورِ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زَوولون"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "اِلی‌آو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "حِلون"
+    }
+  ],
+  "timestamp": "2026-08-13T20:31:03.757764052Z",
+  "model": "glm-5.2"
+}

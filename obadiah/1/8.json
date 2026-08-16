@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "obadiah 1:8",
+  "book": "obadiah",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "آیا در آن روز — نئم یاهوه — حکیمان را از اَدوم هلاک نکنم، و فهم را از کوهِ عیساو؟",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نئمِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "هلاک نکنم"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "حکیمان"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "از اَدوم"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "و فهم"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "از کوهِ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیساو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:29:51.190828439Z",
+  "model": "glm-5.2"
+}

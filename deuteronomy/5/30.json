@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "برو، به ایشان بگو: به خیمه‌های خود بازگردید.",
+  "tokens": [
+    {
+      "surface": "לֵ֖ךְ",
+      "gloss": "برو"
+    },
+    {
+      "surface": "אֱמֹ֣ר",
+      "gloss": "بگو"
+    },
+    {
+      "surface": "לָהֶ֑ם",
+      "gloss": "به ایشان"
+    },
+    {
+      "surface": "שׁ֥וּבוּ",
+      "gloss": "بازگردید"
+    },
+    {
+      "surface": "לָכֶ֖ם",
+      "gloss": "برای خود"
+    },
+    {
+      "surface": "לְאָהֳלֵיכֶֽם",
+      "gloss": "به خیمه‌های شما"
+    }
+  ],
+  "timestamp": "2026-08-13T20:44:25.871851363Z",
+  "model": "glm-5.2"
+}

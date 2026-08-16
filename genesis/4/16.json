@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و بیرون رفت قایین از پیشِ رویِ یاهوه، و ساکن شد در زمینِ نود، در شرقِ عِدَن.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "و بیرون رفت"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قایین"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "از پیشِ رویِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "و ساکن شد"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "در زمینِ"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "نود"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "در شرقِ"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "عِدَن"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:40.577376108Z",
+  "model": "glm-5.2"
+}

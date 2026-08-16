@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 7:22",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و بر سرِ ستون‌ها، ساختهِ سوسن؛ و کامل شد کارِ ستون‌ها.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ستون‌ها"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ساخته"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "سوسن"
+    },
+    {
+      "surface": "ותתם",
+      "gloss": "و کامل شد"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "کار"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ستون‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T21:26:12.270490061Z",
+  "model": "glm-5.2"
+}

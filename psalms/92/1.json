@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 92,
+  "translation": "مزمور، سرودی برای روزِ شَبّات.",
+  "tokens": [
+    {
+      "surface": "מִזְמוֹר",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "שִׁיר",
+      "gloss": "سرود"
+    },
+    {
+      "surface": "לְיוֹם",
+      "gloss": "برایِ روزِ"
+    },
+    {
+      "surface": "הַשַּׁבָּֽת",
+      "gloss": "شَبّات"
+    }
+  ],
+  "timestamp": "2026-08-13T22:51:11.538516606Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "پسرِ اَمَریاه، پسرِ عَزَریاه، پسرِ مِرایوت؛",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "اَمَریاه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عَزَریاه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "مِرایوت"
+    }
+  ],
+  "timestamp": "2026-08-14T20:47:53.490864129Z",
+  "model": "glm-5.3"
+}

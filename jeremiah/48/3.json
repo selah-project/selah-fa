@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 48:3",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 48,
+  "translation": "صدای فریاد از حورونایم، ویرانی و شکستگیِ بزرگ.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "صدای"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "فریاد"
+    },
+    {
+      "surface": "מחרונים",
+      "gloss": "از حورونایم"
+    },
+    {
+      "surface": "שד",
+      "gloss": "ویرانی"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "و شکستگی"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "بزرگ"
+    }
+  ],
+  "timestamp": "2026-08-14T00:06:44.620646869Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 3:3",
+  "book": "hosea",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و به او گفتم: روزهایِ بسیار برایِ من بنشین، زنا نکنی و برایْ مردی نباشی، و من نیز به سویِ تو.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "و گفتم"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "به او"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روزهایِ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "بنشین"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برایِ من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תזני",
+      "gloss": "زنا کنی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תהיי",
+      "gloss": "باشی"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "برایْ مردی"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "و نیز"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "به سویِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:26:01.227137952Z",
+  "model": "glm-5.2"
+}

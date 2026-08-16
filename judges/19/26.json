@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "judges 19:26",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و آمد زن در گردشِ صبح، و افتاد در برِ درِ خانهٔ مردی که اَدونایِ او آنجا بود تا روشنایی.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "و آمد"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "زن"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "در گردش"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "و افتاد"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "درِ برِ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانهٔ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אדוניה",
+      "gloss": "اَدونایِ او"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آنجا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "האור",
+      "gloss": "روشنایی"
+    }
+  ],
+  "timestamp": "2026-08-13T21:06:20.096326991Z",
+  "model": "glm-5.2"
+}

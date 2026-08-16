@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 39:19",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 39,
+  "translation": "و دو حلقهٔ طلا ساختند، و بر دو انتهای پوشینهٔ سینه گذاشتند، بر لبهٔ آن که به سویِ اِیفود، به درون است.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "و ساختند"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "حلقهٔ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "طلا"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "و گذاشتند"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "انتهایِ"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "پوشینهٔ سینه"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "لبهٔ آن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "سویِ"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "اِیفود"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "به درون"
+    }
+  ],
+  "timestamp": "2026-08-13T20:21:33.181751634Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "زندگیِ تن‌ها دلِ شفادهنده است، و پوسیدگیِ استخوان‌ها حسد.",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "زندگیِ"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "تن‌ها"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دلِ"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "شفادهنده"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "و پوسیدگیِ"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "استخوان‌ها"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "حسد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:17.448245197Z",
+  "model": "glm-5.2"
+}

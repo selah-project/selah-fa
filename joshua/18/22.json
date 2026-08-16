@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و بیت-هَعَرَبه، و صَمَراییم، و بیت-اِل،",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "و بیت-"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "هَعَرَبه"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "و صَمَراییم"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "و بیت-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِل"
+    }
+  ],
+  "timestamp": "2026-08-13T20:58:15.726256927Z",
+  "model": "glm-5.2"
+}

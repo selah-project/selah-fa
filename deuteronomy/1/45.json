@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 1:45",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و بازگشتید و بر سرِ یاهوه گریه کردید، و یاهوه به صدای شما نشنید، و به شما گوش فرانداد.",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "و بازگشتید"
+    },
+    {
+      "surface": "ותבכו",
+      "gloss": "و گریه کردید"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "بر سرِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "شنید"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בקלכם",
+      "gloss": "به صدای شما"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "האזין",
+      "gloss": "گوش فرانداد"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "به شما"
+    }
+  ],
+  "timestamp": "2026-08-13T20:42:42.767508899Z",
+  "model": "glm-5.2"
+}

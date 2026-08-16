@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 40,
+  "translation": "در روزِ ماهِ نخست، در یکمِ ماه، مسکَنِ خیمهٔ اجتماع را برپا خواهی کرد.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ماهِ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "نخست"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "در یکمِ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ماه"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "برپا خواهی کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مسکن"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "مسکَنِ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمهٔ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "اجتماع"
+    }
+  ],
+  "timestamp": "2026-08-13T20:21:57.815411011Z",
+  "model": "glm-5.2"
+}

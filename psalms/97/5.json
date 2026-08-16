@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 97,
+  "translation": "کوه‌ها چون قلع آب شدند از رویِ یاهوه، از رویِ اَدونِ تمامِ زمین.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "کوه‌ها"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "چون قلع"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "آب شدند"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "از رویِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "از رویِ"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "اَدون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T22:51:29.520781669Z",
+  "model": "glm-5.2"
+}

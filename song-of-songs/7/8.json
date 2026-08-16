@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 7:8",
+  "book": "song-of-songs",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "این، قامتِ تو شبیهِ به درختِ نخل شد، و سینه‌هایت به خوشه‌ها.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "קומתך",
+      "gloss": "قامتِ تو"
+    },
+    {
+      "surface": "דמתה",
+      "gloss": "شبیهِ شد"
+    },
+    {
+      "surface": "לתמר",
+      "gloss": "به درختِ نخل"
+    },
+    {
+      "surface": "ושדיך",
+      "gloss": "و سینه‌هایت"
+    },
+    {
+      "surface": "לאשכלות",
+      "gloss": "به خوشه‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T23:16:48.589048900Z",
+  "model": "glm-5.2"
+}

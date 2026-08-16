@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 19:12",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "غرشِ چون شیرِ خشمِ پادشاه، و چون شبنم بر گیاهِ خشنودیِ او.",
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "غرشِ"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "چون شیرِ"
+    },
+    {
+      "surface": "זעף",
+      "gloss": "خشمِ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "و چون شبنم"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "گیاهِ"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "خشنودیِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:37.658578525Z",
+  "model": "glm-5.2"
+}

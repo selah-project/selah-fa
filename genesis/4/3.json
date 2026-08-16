@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 4:3",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و در پایانِ روزها شد؛ و قایین آورد از میوهٔ خاک، هدیه‌ای به‌سویِ یاهوه.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و‌شد"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "در‌پایانِ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روزها"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "و‌آورد"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قایین"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "از‌میوهٔ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "خاک"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "هدیه"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "به‌سویِ‌یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:55.514664116Z",
+  "model": "glm-5.2"
+}

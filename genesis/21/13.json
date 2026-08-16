@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و همچنین ⟨את⟩ پسرِ کنیز را به قومی قرار خواهم داد، زیرا او ذریّهٔ تو است.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "و همچنین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پسرِ کنیز"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "کنیز"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "به قومی"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "قرار خواهم داد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ذریّهٔ تو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او ⟨است⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T20:00:16.168208090Z",
+  "model": "glm-5.2"
+}

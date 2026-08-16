@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "و کنیزِ کنکوبینِ او — و نامِ او رَئوما بود — او نیز ⟨את⟩ تِبَح و ⟨את⟩ گاحَم و ⟨את⟩ تَحَش و ⟨את⟩ مَعَخا را زاد.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "و کنیزِ کنکوبینِ او"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "و نامِ او"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "رئوما"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "و زاد"
+    },
+    {
+      "surface": "גם",
+      "gloss": "نیز"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تبح"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "تبح"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "گاحم"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "گاحم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "تحش"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "تحش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "معخا"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "معخا"
+    }
+  ],
+  "timestamp": "2026-08-13T20:00:08.694607680Z",
+  "model": "glm-5.2"
+}

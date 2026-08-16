@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "leviticus 9:6",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و موشه گفت: این است سخنی که یاهوه فرمان داده، آن را انجام دهید، و جلال یاهوه به شما ظاهر خواهد شد.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "سخن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فرمان داد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "انجام دهید"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "و ظاهر خواهد شد"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "به شما"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-15T20:53:00.383169554Z",
+  "model": "glm-5.3"
+}

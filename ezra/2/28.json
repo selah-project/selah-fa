@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 2:28",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "مردانِ بیت‌اِل و عای، دویست و بیست و سه.",
+  "tokens": [
+    {
+      "surface": "אַנְשֵׁ֤י",
+      "gloss": "مردانِ"
+    },
+    {
+      "surface": "בֵֽית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אֵל֙",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "וְהָעָ֔י",
+      "gloss": "و عای"
+    },
+    {
+      "surface": "מָאתַ֖יִם",
+      "gloss": "دویست"
+    },
+    {
+      "surface": "עֶשְׂרִ֥ים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "וּשְׁלֹשָֽׁה",
+      "gloss": "و سه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:28:18.699545853Z",
+  "model": "glm-5.2"
+}

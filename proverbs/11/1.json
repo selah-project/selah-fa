@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 11:1",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "ترازوهایِ فریب، ناپسندِ یاهوه‌اند، و سنگِ تمام، خشنودیِ اوست.",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "ترازوهایِ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "فریب"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ناپسندِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "و سنگِ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "خشنودیِ اوست"
+    }
+  ],
+  "timestamp": "2026-08-13T23:01:34.613218174Z",
+  "model": "glm-5.2"
+}

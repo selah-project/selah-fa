@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 23:30",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "و بالاک چنانکه بیلعام گفته بود کرد، و گاوی و قوچی را بر مذبح بالا برد.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و کرد"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاک"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چنانکه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفته بود"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بیلعام"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "و بالا برد"
+    },
+    {
+      "surface": "פר",
+      "gloss": "گاوی"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "و قوچی"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "بر مذبح"
+    }
+  ],
+  "timestamp": "2026-08-13T20:38:16.174916020Z",
+  "model": "glm-5.2"
+}

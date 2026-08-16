@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 10:7",
+  "book": "hosea",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "نابود شده است شومرون، پادشاهش مانند کفِ روی آب.",
+  "tokens": [
+    {
+      "surface": "נדמה",
+      "gloss": "نابود شده است"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شومرون"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "پادشاهش"
+    },
+    {
+      "surface": "כקצף",
+      "gloss": "مانند کفِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "روی"
+    },
+    {
+      "surface": "פני",
+      "gloss": "صورتِ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آب"
+    }
+  ],
+  "timestamp": "2026-08-13T22:27:19.345316521Z",
+  "model": "glm-5.2"
+}

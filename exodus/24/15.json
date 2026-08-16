@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "وبرآمد موشه به‌سوی کوه، وابر را پوشاند ⟨את⟩ کوه را.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "وبرآمد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به‌سوی"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "کوه"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "وابر را پوشاند"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ابر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کوه"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "کوه را"
+    }
+  ],
+  "timestamp": "2026-08-13T20:16:14.980924823Z",
+  "model": "glm-5.2"
+}

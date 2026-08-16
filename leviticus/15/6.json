@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 15:6",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و نشسته بر ⟨ظرفِ⟩ آن که ها-زاب بر آن می‌نشست، لباس‌هایش را بشوید و در آب غسل کند و نجس باشد تا غروب.",
+  "tokens": [
+    {
+      "surface": "והישב",
+      "gloss": "و نشسته"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "⟨ظرفِ⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "می‌نشست"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر آن"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "ها-زاب"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "بشوید"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "لباس‌هایش را"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "و غسل کند"
+    },
+    {
+      "surface": "במים",
+      "gloss": "در آب"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "و نجس باشد"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "غروب"
+    }
+  ],
+  "timestamp": "2026-08-13T20:26:12.696537467Z",
+  "model": "glm-5.2"
+}

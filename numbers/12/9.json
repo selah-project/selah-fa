@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و خشم یاهوه بر آن‌ها افروخت، و ⟨او⟩ رفت.",
+  "tokens": [
+    {
+      "surface": "וַיִּֽחַר",
+      "gloss": "و افروخت"
+    },
+    {
+      "surface": "אַ֧ף",
+      "gloss": "خشمِ"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בָּ֖ם",
+      "gloss": "بر آن‌ها"
+    },
+    {
+      "surface": "וַיֵּלַֽךְ",
+      "gloss": "و رفت"
+    }
+  ],
+  "timestamp": "2026-08-13T20:34:43.101256524Z",
+  "model": "glm-5.2"
+}

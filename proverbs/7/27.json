@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "راه‌های شِئول خانهٔ اوست، فرودرونده به اتاق‌های مرگ،",
+  "tokens": [
+    {
+      "surface": "דַּרְכֵ֣י",
+      "gloss": "راه‌های"
+    },
+    {
+      "surface": "שְׁא֣וֹל",
+      "gloss": "شِئول"
+    },
+    {
+      "surface": "בֵּיתָ֑הּ",
+      "gloss": "خانهٔ او"
+    },
+    {
+      "surface": "יֹ֝רְד֗וֹת",
+      "gloss": "فرودرونده"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "به"
+    },
+    {
+      "surface": "חַדְרֵי",
+      "gloss": "اتاق‌های"
+    },
+    {
+      "surface": "מָֽוֶת",
+      "gloss": "مرگ"
+    }
+  ],
+  "timestamp": "2026-08-13T23:00:29.231379990Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "joshua 15:50",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "وَ عَناب، وَ اَشتَموه، وَ عَنیم.",
+  "tokens": [
+    {
+      "surface": "וענב",
+      "gloss": "وَ عَناب"
+    },
+    {
+      "surface": "ואשתמה",
+      "gloss": "وَ اَشتَموه"
+    },
+    {
+      "surface": "וענים",
+      "gloss": "وَ عَنیم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:57:57.572515897Z",
+  "model": "glm-5.2"
+}

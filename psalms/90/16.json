@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 90,
+  "translation": "پدیدار شود به سوی بندگانت کارِ تو، و شکوهِ تو بر پسرانشان.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "پدیدار شود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "بندگانت"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "کارِ تو"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "و شکوهِ تو"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "پسرانشان"
+    }
+  ],
+  "timestamp": "2026-08-13T22:51:14.766037017Z",
+  "model": "glm-5.2"
+}

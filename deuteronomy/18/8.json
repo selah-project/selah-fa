@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "سهم، مانندِ سهم، بخورند — جدا از فروش‌هایش بر ⟨پایهٔ⟩ پدران.",
+  "tokens": [
+    {
+      "surface": "חֵ֥לֶק",
+      "gloss": "سهم"
+    },
+    {
+      "surface": "כְּחֵ֖לֶק",
+      "gloss": "مانندِ سهم"
+    },
+    {
+      "surface": "יֹאכֵ֑לוּ",
+      "gloss": "بخورند"
+    },
+    {
+      "surface": "לְבַ֥ד",
+      "gloss": "جدا از"
+    },
+    {
+      "surface": "מִמְכָּרָ֖יו",
+      "gloss": "فروش‌هایش"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הָאָבֽוֹת",
+      "gloss": "پدران"
+    }
+  ],
+  "timestamp": "2026-08-13T20:48:39.244186364Z",
+  "model": "glm-5.2"
+}

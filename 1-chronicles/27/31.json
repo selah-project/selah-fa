@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 27:31",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و بر گله‌ها یازیز هَگْری. همهٔ اینان سرانِ داراییِ ملک داوود بودند.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "گله‌ها"
+    },
+    {
+      "surface": "יזיז",
+      "gloss": "یازیز"
+    },
+    {
+      "surface": "ההגרי",
+      "gloss": "هَگْری"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اینان"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سرانِ"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "داراییِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "از آنِ ملک"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    }
+  ],
+  "timestamp": "2026-08-13T23:42:44.560796754Z",
+  "model": "glm-5.2"
+}

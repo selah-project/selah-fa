@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 12:11",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "مِشمنّه چهارم، یِرمیاه پنجم.",
+  "tokens": [
+    {
+      "surface": "מִשְׁמַנָּה֙",
+      "gloss": "مِشمنّه"
+    },
+    {
+      "surface": "הָרְבִיעִ֔י",
+      "gloss": "چهارم"
+    },
+    {
+      "surface": "יִרְמְיָ֖ה",
+      "gloss": "یِرمیاه"
+    },
+    {
+      "surface": "הַחֲמִשִֽׁי",
+      "gloss": "پنجم"
+    }
+  ],
+  "timestamp": "2026-08-14T00:17:47.288888512Z",
+  "model": "glm-5.2"
+}

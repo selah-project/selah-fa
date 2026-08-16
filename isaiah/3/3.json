@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 3:3",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "سرِ پنجاه و صاحبِ وجه، و مشاور، و حکیمِ صنعتگران، و فهمیدهٔ ورقه.",
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "سرِ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاه"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "و صاحبِ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "و مشاور"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "و حکیمِ"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "صنعتگران"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "و فهمیدهٔ"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "ورقه"
+    }
+  ],
+  "timestamp": "2026-08-13T21:41:13.069350878Z",
+  "model": "glm-5.2"
+}

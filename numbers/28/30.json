@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 28:30",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "یک بز نر، برای کیفر بر ⟨⟨شما⟩⟩.",
+  "tokens": [
+    {
+      "surface": "שְׂעִיר",
+      "gloss": "بز نر"
+    },
+    {
+      "surface": "עִזִּים",
+      "gloss": "بزها"
+    },
+    {
+      "surface": "אֶחָד",
+      "gloss": "یگانه"
+    },
+    {
+      "surface": "לְכַפֵּר",
+      "gloss": "برای کیفر"
+    },
+    {
+      "surface": "עֲלֵיכֶם",
+      "gloss": "بر شما"
+    }
+  ],
+  "timestamp": "2026-08-13T20:40:04.334930047Z",
+  "model": "glm-5.2"
+}

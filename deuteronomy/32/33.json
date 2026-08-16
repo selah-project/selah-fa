@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "زهرِ اژدهایان است شرابِ ایشان، و سرِ کبراها بی‌رحم.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "زهرِ"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "اژدهایان"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "شرابِ ایشان"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "و سرِ"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "کبراها"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "بی‌رحم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:53:08.651744681Z",
+  "model": "glm-5.2"
+}

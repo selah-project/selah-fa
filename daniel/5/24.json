@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "daniel 5:24",
+  "book": "daniel",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "آنگاه از پیشِ او کفِ دست فرستاده شد، و این نوشته نقش گردید.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "آنگاه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "קדמוהי",
+      "gloss": "پیشِ او"
+    },
+    {
+      "surface": "שליח",
+      "gloss": "فرستاده شد"
+    },
+    {
+      "surface": "פסא",
+      "gloss": "کفِ دست"
+    },
+    {
+      "surface": "די",
+      "gloss": "که"
+    },
+    {
+      "surface": "ידא",
+      "gloss": "دست"
+    },
+    {
+      "surface": "וכתבא",
+      "gloss": "و نوشته"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "این"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "نقش گردید"
+    }
+  ],
+  "timestamp": "2026-08-13T23:25:25.922940250Z",
+  "model": "glm-5.2"
+}

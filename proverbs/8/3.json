@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "کنارِ دروازه‌ها، بر دهانِ شهر، در آمدگاهِ افتتاح‌ها فریاد می‌کشد",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "کنارِ"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "دروازه‌ها"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "بر دهانِ"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "در آمدگاهِ"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "افتتاح‌ها"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "فریاد می‌کشد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:00:58.245201954Z",
+  "model": "glm-5.2"
+}

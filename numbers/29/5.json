@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "numbers 29:5",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و یک بزغالهٔ بزها، ⟨به‌عنوان⟩ قربانیِ گناه، برای کفارهٔ شما.",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "و بزغاله"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بزها"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "قربانیِ گناه"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "برای کفاره"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "شما"
+    }
+  ],
+  "timestamp": "2026-08-15T17:36:00.243550574Z",
+  "model": "glm-5.3"
+}

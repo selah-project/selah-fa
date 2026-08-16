@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 14:19",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و هر خزندهٔ پرنده ناپاک ⟨هست⟩ برای شما؛ خورده نشوند.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "خزنده"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "پرندهٔ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "برای شما"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "خورده شوند"
+    }
+  ],
+  "timestamp": "2026-08-13T20:46:59.241992311Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 7:10",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و اگر تو از فرود آمدن می‌هراسی، تو و پوره نَعَرَت فرود آی به اردوگاه.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "می‌هراسی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "از فرود آمدن"
+    },
+    {
+      "surface": "רד",
+      "gloss": "فرود آی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "ופרה",
+      "gloss": "و پوره"
+    },
+    {
+      "surface": "נערך",
+      "gloss": "نَعَرَت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "اردوگاه"
+    }
+  ],
+  "timestamp": "2026-08-13T21:02:34.638946718Z",
+  "model": "glm-5.2"
+}

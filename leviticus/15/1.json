@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 15:1",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و یاهوه با موشه و با اهارون سخن گفت، به این سخن:",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "با"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "و با"
+    },
+    {
+      "surface": "אַהֲרֹן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "به این سخن"
+    }
+  ],
+  "timestamp": "2026-08-13T23:55:46.461154151Z",
+  "model": "glm-5.2"
+}

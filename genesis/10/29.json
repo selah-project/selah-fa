@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 10:29",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و ⟨את⟩ اوفیر و ⟨את⟩ حَویلا و ⟨את⟩ یوواب؛ همهٔ این‌ها پسرانِ یَقطان بودند.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "اوفیر"
+    },
+    {
+      "surface": "אופר",
+      "gloss": "اوفیر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "حَویلا"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "حَویلا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "یوواب"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "یوواب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "یَقطان"
+    }
+  ],
+  "timestamp": "2026-08-13T19:57:06.739911119Z",
+  "model": "glm-5.2"
+}

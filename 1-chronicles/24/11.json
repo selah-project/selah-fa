@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 24:11",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "به یِشوع نهمین، به شِخَنیاهو دهمین،",
+  "tokens": [
+    {
+      "surface": "לְיֵשׁוּעַ",
+      "gloss": "به یِشوع"
+    },
+    {
+      "surface": "הַתְּשִׁעִי",
+      "gloss": "نهمین"
+    },
+    {
+      "surface": "לִשְׁכַנְיָהוּ",
+      "gloss": "به شِخَنیاهو"
+    },
+    {
+      "surface": "הָעֲשִׂרִי",
+      "gloss": "دهمین"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:17.513391808Z",
+  "model": "glm-5.2"
+}

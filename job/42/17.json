@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 42:17",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 42,
+  "translation": "و ایّوب درگذشت، پیر و سیر از روزها.",
+  "tokens": [
+    {
+      "surface": "וַיָּ֣מָת",
+      "gloss": "و درگذشت"
+    },
+    {
+      "surface": "אִיּ֔וֹב",
+      "gloss": "ایّوب"
+    },
+    {
+      "surface": "זָקֵ֖ן",
+      "gloss": "پیر"
+    },
+    {
+      "surface": "וּשְׂבַ֥ע",
+      "gloss": "و سیر"
+    },
+    {
+      "surface": "יָמִֽים",
+      "gloss": "از روزها"
+    }
+  ],
+  "timestamp": "2026-08-13T23:14:58.885303898Z",
+  "model": "glm-5.2"
+}

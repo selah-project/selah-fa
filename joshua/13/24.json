@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 13:24",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "و موسه به سبطِ گاد، به پسرانِ گاد برای خاندان‌هایشان بخشید.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "و بخشید"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "به سبطِ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "به پسرانِ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "برای خاندان‌هایشان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:57:03.306557763Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 13:6",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "زاری کنید، که نزدیک است روزِ یاهوه؛ چون ویرانی از پیشِ شدّای می‌آید.",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "زاری کنید"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "نزدیک است"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روزِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "چون ویرانی"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "از پیشِ شدّای"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "می‌آید"
+    }
+  ],
+  "timestamp": "2026-08-13T21:43:09.063279373Z",
+  "model": "glm-5.2"
+}

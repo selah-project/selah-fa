@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و ⟨او⟩ از شراب نوشید و مست شد، و در میانِ خیمه‌اش برهنه شد.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "و نوشید"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "היין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "و مست شد"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "و برهنه شد"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "در میانِ"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "خیمه‌اش"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:44.633218726Z",
+  "model": "glm-5.2"
+}

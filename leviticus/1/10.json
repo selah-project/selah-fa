@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و اگر از گله قربانیِ او باشد، از گوسفندان یا از بزها، برای علیه، نر بی‌عیب خواهد آوردش.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "گله"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "قربانیِ او"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "گوسفندان"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "بزها"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "برای علیه"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "بی‌عیب"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "خواهد آوردش"
+    }
+  ],
+  "timestamp": "2026-08-13T20:22:13.736062985Z",
+  "model": "glm-5.2"
+}

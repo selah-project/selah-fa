@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 21:23",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "نگاهدارِ دهانِ خود و زبانِ خود، نگاهدارِ جانِ خود از تنگناهاست.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "نگهدارِ"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "دهانِ خود"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "و زبانِ خود"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "نگهدارِ"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "از تنگناها"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "جانِ خود"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:32.992468602Z",
+  "model": "glm-5.2"
+}

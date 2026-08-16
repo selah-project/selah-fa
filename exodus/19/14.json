@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و فرو آمد موشه از کوه به سوی مردم، و تقدیس کرد ⟨את⟩ مردم را، و شستند جامه‌هایشان را.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "و فرو آمد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "کوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "העם",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "و تقدیس کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مردم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "و شستند"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "جامه‌هایشان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:15:00.961053766Z",
+  "model": "glm-5.2"
+}

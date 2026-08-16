@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "او خانه‌ای برای من خواهد ساخت و ⟨את⟩ تختِ او را استوار ساخته‌ام تا جهانِ ابد.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "خواهد ساخت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برای من"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانه‌ای"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "و استوار ساخته‌ام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تختِ او"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "تختِ او"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "جهانِ ابد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:31.004672155Z",
+  "model": "glm-5.2"
+}

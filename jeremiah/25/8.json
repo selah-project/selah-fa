@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 25:8",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "از این رو، این‌چنین گفت یاهوهِ صَبایوت: از آنجا که ⟨شما⟩ نشنیدید ⟨את⟩ سخنانِ مرا،",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "از این رو"
+    },
+    {
+      "surface": "כה",
+      "gloss": "این‌چنین"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صَبایوت"
+    },
+    {
+      "surface": "יען",
+      "gloss": "از آنجا که"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨که⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "شنیدید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سخنانِ مرا"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "سخنانِ مرا"
+    }
+  ],
+  "timestamp": "2026-08-14T00:05:51.470481115Z",
+  "model": "glm-5.2"
+}

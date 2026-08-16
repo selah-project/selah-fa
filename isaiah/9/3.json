@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "زیرا یوغِ بارِ او و ⟨את⟩ عصای شانه‌اش، چماقِ ستمگر بر او را چونان روزِ میدیان شکسته‌ای",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوغِ بارِ او"
+    },
+    {
+      "surface": "על",
+      "gloss": "یوغ"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "بارِ او"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "عصای شانه‌اش"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "عصا"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "شانه‌اش"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "چماق"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "ستمگر"
+    },
+    {
+      "surface": "בו",
+      "gloss": "بر او"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "شکسته‌ای"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "چونان روزِ"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "میدیان"
+    }
+  ],
+  "timestamp": "2026-08-15T04:07:06.691605731Z",
+  "model": "glm-5.3"
+}

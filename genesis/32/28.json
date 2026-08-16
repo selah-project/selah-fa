@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 32:28",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "و به او گفت: نامِ تو چه هست؟ و ⟨او⟩ گفت: یاعکوو.",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֥אמֶר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אֵלָ֖יו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "שְּׁמֶ֑ךָ",
+      "gloss": "نامِ تو"
+    },
+    {
+      "surface": "וַיֹּ֖אמֶר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "יַעֲקֹֽב",
+      "gloss": "یاعکوو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:03:31.883596085Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 40,
+  "translation": "و نزدِ آنان آمد یوسف صبح، و دید ⟨את⟩ آنان، و اینک آنان رنجور بودند.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "و آمد"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "نزدِ آنان"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "و دید"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "آنان"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "و اینک آنان"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "رنجور"
+    }
+  ],
+  "timestamp": "2026-08-13T20:05:58.293379319Z",
+  "model": "glm-5.2"
+}

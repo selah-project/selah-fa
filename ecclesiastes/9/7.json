@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "برو، نانِ خود را با شادی بخور، و شرابِ خود را با دلی نیکو بنوش، که الوهیم ⟨את⟩ کارهای تو را پیش‌تر پسندیده است.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "برو"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "بخور"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "با شادی"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "نانِ تو"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "و بنوش"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "با دل"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیکو"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "شرابِ تو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "پیش‌تر"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "پسندیده"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کارهای تو"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "کارهای تو"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:34.145310778Z",
+  "model": "glm-5.2"
+}

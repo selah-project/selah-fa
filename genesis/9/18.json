@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 9:18",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و پسرانِ نُوحِ بیرون‌آمده از صندوق شَم و خام و یافت بودند، و خام ⟨او⟩ پدرِ کنعان بود.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "و بودند"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "بیرون‌آمده"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شَم"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "و خام"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "و یافت"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "و خام"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پدرِ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:34.625531317Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "⟨את⟩ همه را در روزهایِ هبلم دیدم؛ هست صدیقی که در صداقتش هلاک می‌شود، و هست رشاعی که در بدیِ خود دراز می‌کشد.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همه را"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "همه"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "دیدم"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "در روزهایِ"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "هبلم"
+    },
+    {
+      "surface": "יש",
+      "gloss": "هست"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صدیقی"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "هلاک می‌شود"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "در صداقتش"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "و هست"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "رشاعی"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "دراز می‌کشد"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "در بدیِ خود"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:51.415412331Z",
+  "model": "glm-5.2"
+}

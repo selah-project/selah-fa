@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 43,
+  "translation": "و بگیری ⟨את⟩ گاوِ گناه را، و بسوزانیش در مقرّگاهِ خانه، بیرون از مقدّس.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "و بگیری"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گاوِ گناه"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "گاو"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "گناه"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "و بسوزانیش"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "در مقرّگاه"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "خانه"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "بیرون"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "از مقدّس"
+    }
+  ],
+  "timestamp": "2026-08-13T22:23:55.625946388Z",
+  "model": "glm-5.2"
+}

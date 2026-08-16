@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و عیساو گفت: «اینک من دارم می‌روم تا بمیرم، و این حقِ نخست‌زادی چه سودی ⟨می‌رساند⟩ به من؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیساو"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "می‌رومِ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "تا بمیرم"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "و چه سودی"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "לי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "حقِ نخست‌زادی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:01:31.924749326Z",
+  "model": "glm-5.2"
+}

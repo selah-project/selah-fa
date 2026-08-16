@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 30:1",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "کلامی که بر یِرمِیاهو از سوی ⟨את⟩ یاهوه شد، به این بیان:",
+  "tokens": [
+    {
+      "surface": "הַדָּבָר",
+      "gloss": "کلامی"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "که"
+    },
+    {
+      "surface": "הָיָה",
+      "gloss": "شد"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "יִרְמְיָהוּ",
+      "gloss": "یِرمِیاهو"
+    },
+    {
+      "surface": "מֵאֵת",
+      "gloss": "⟨את⟩ از سوی"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "به این بیان"
+    }
+  ],
+  "timestamp": "2026-08-13T22:05:10.107134533Z",
+  "model": "glm-5.2"
+}

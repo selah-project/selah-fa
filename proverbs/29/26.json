@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 29:26",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "بسیاری چهرهٔ حاکم را می‌جوییند، و از یاهوه، داوری هرکس است.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "بسیاری"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "می‌جوییند"
+    },
+    {
+      "surface": "פני",
+      "gloss": "چهرهٔ"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "حاکم"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "و از یاهوه"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "داوری"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هرکس"
+    }
+  ],
+  "timestamp": "2026-08-13T23:05:14.294264788Z",
+  "model": "glm-5.2"
+}

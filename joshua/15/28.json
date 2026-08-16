@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 15:28",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و حَصَر شوعال، و بئر شِبع، و بِزیوت‌یاه",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "و حَصَر"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "شوعال"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "و بئر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شِبع"
+    },
+    {
+      "surface": "ובזיותיה",
+      "gloss": "و بِزیوت‌یاه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:58:05.472508465Z",
+  "model": "glm-5.2"
+}

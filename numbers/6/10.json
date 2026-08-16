@@ -1,0 +1,73 @@
+{
+  "tier": "hand",
+  "verse": 10,
+  "ref": "numbers 6:10",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و در روزِ هشتم دو قمری یا دو جوجهٔ کبوتر نزدِ کاهن بیاورد، به درگاهِ خیمهٔ موعد.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "و در روزِ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "هشتم"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "بیاورد"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "قمری"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جوجهٔ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "کبوتر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نزدِ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "درگاهِ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمهٔ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "موعد"
+    }
+  ],
+  "timestamp": "2026-08-14T17:46:57Z",
+  "model": "claude-fable-5/hand"
+}

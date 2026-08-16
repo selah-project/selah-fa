@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 23:15",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "و گفت به بَلَق: این‌چنین بایست بر عُلایه‌ات، و من نیز این‌چنین دیدار خواهم کرد.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بَلَق"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "بایست"
+    },
+    {
+      "surface": "כה",
+      "gloss": "این‌چنین"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "عُلایه‌ات"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "و من"
+    },
+    {
+      "surface": "אקרה",
+      "gloss": "دیدار خواهم کرد"
+    },
+    {
+      "surface": "כה",
+      "gloss": "این‌چنین"
+    }
+  ],
+  "timestamp": "2026-08-13T20:38:56.584602576Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 8:1",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و بیلدادِ شوحی پاسخ داد و گفت:",
+  "tokens": [
+    {
+      "surface": "וַ֭יַּעַן",
+      "gloss": "و پاسخ داد"
+    },
+    {
+      "surface": "בִּלְדַּ֥ד",
+      "gloss": "بیلداد"
+    },
+    {
+      "surface": "הַשּׁוּחִ֗י",
+      "gloss": "شوحی"
+    },
+    {
+      "surface": "וַיֹאמַֽר",
+      "gloss": "و گفت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:08:05.337902676Z",
+  "model": "glm-5.2"
+}

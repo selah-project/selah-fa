@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و ⟨את⟩ مرا در دست دشمن نسپردی، پای مرا در جای فراخ ایستادی.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "مرا بستي \/ تسلیم کردی"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "در دست"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "ایستادی"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "در جای فراخ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "پای من"
+    }
+  ],
+  "timestamp": "2026-08-13T22:40:53.914523245Z",
+  "model": "glm-5.2"
+}

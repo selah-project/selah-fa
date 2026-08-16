@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "این‌ها پسرانِ اِیتسِر: بیلهان و زَعوان و عَقان.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "اِیتسِر"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "بیلهان"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "و زَعوان"
+    },
+    {
+      "surface": "ועקן",
+      "gloss": "و عَقان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:04:47.177076541Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "و برخاست اوراهام از برابرِ رویِ مُرده‌اش، و سخن گفت اَوراهام به بنی-حِتّ، به گفتنِ:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "و برخاست"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اوراهام"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "از برابرِ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رویِ"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "مُرده‌اش"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی-"
+    },
+    {
+      "surface": "חת",
+      "gloss": "حِتّ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به گفتنِ"
+    }
+  ],
+  "timestamp": "2026-08-13T20:00:17.582503321Z",
+  "model": "glm-5.2"
+}

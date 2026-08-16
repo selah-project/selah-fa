@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "پسرانِ راخِل: یوسف و بِنیامین.",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "רָחֵ֔ל",
+      "gloss": "راخِل"
+    },
+    {
+      "surface": "יוֹסֵ֖ף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "וּבִנְיָמִֽן",
+      "gloss": "و-بِنیامین"
+    }
+  ],
+  "timestamp": "2026-08-13T20:04:39.455472014Z",
+  "model": "glm-5.2"
+}

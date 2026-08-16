@@ -1,0 +1,33 @@
+{
+  "tier": "4.6",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "و این‌ها، تولدهای عِساو؛ او اَدوم.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "و این‌ها"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "تولدها"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عِساو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اَدوم"
+    }
+  ],
+  "timestamp": "2026-08-15T03:37:25.701417662Z",
+  "model": "glm-4.6"
+}

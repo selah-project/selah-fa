@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 14:18",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و مَلکی‌صدِق، پادشاهِ شالِم، نان و شرابِ می بیرون آورد، و او کاهنِ اِلِ علیون بود.",
+  "tokens": [
+    {
+      "surface": "ומלכי",
+      "gloss": "و مَلکی‌"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "صدِق"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "شالِم"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "بیرون آورد"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "و شرابِ می"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "و او"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاهنِ"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "اِلِ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "علیون"
+    }
+  ],
+  "timestamp": "2026-08-13T19:57:55.482035473Z",
+  "model": "glm-5.2"
+}

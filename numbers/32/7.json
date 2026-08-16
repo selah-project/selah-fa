@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 32:7",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "و چرا دلِ بنی‌یِسرائیل را دلسرد می‌کنید از عبور به سوی زمینی که یاهوه به آنان داده است؟",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "و چرا"
+    },
+    {
+      "surface": "תנואון",
+      "gloss": "دلسرد می‌کنید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دل"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی‌"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "از عبور"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "داده است"
+    },
+    {
+      "surface": "להם",
+      "gloss": "به آنان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:57:34.585721771Z",
+  "model": "glm-5.2"
+}

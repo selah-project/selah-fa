@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "در روزِ فردا خویشتن را مفخر بساز، که نمی‌دانی روز چه چیزی را زاییدن می‌کند.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مب"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "خویشتن را مفخر بساز"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "فردا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "می‌دانی"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "زاییدن می‌کند"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روز"
+    }
+  ],
+  "timestamp": "2026-08-13T23:05:23.838966702Z",
+  "model": "glm-5.2"
+}

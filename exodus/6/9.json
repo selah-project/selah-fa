@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 6:9",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و موشه چنین به بنی یِسرائیل سخن گفت، و نشنیدند به سوی موشه، از کوتاهیِ روح و از بندگیٔ سخت.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "شنیدند"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "מקצר",
+      "gloss": "از کوتاهیِ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "ומעבדה",
+      "gloss": "و از بندگیٔ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "سخت"
+    }
+  ],
+  "timestamp": "2026-08-13T20:10:31.647957273Z",
+  "model": "glm-5.2"
+}

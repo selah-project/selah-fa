@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "که او گفت و شد؛ ⟨او⟩ فرمان داد و ⟨آن⟩ برپا ماند.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "که"
+    },
+    {
+      "surface": "ה֣וּא",
+      "gloss": "او"
+    },
+    {
+      "surface": "אָמַ֣ר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "וַיֶּ֑הִי",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "او"
+    },
+    {
+      "surface": "צִ֝וָּ֗ה",
+      "gloss": "فرمان داد"
+    },
+    {
+      "surface": "וַֽיַּעֲמֹֽד",
+      "gloss": "و برپا ماند"
+    }
+  ],
+  "timestamp": "2026-08-13T22:41:24.243455020Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و زیست مَهَلَلْاِیل پنج سال‌ها و شصت سال، و زایاند ⟨את⟩ یارَد.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "و زیست"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "مَهَلَلْاِیل"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال‌ها"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "و شصت"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و زایاند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یارَد"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "یارَد"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:39.297363428Z",
+  "model": "glm-5.2"
+}

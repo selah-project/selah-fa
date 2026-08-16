@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "دور آنچه بوده است، و عمیق، عمیق ـ چه کسی آن را می‌یابد؟",
+  "tokens": [
+    {
+      "surface": "רָח֖וֹק",
+      "gloss": "دور"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "آنچه"
+    },
+    {
+      "surface": "שֶׁהָיָ֑ה",
+      "gloss": "بوده است"
+    },
+    {
+      "surface": "וְעָמֹ֥ק",
+      "gloss": "و عمیق"
+    },
+    {
+      "surface": "עָמֹ֖ק",
+      "gloss": "عمیق"
+    },
+    {
+      "surface": "מִ֥י",
+      "gloss": "چه کسی"
+    },
+    {
+      "surface": "יִמְצָאֶֽנּוּ",
+      "gloss": "می‌یابدش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:51.637720726Z",
+  "model": "glm-5.2"
+}

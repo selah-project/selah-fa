@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 18:9",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "عریانیِ خواهرِ تو، دخترِ پدرت یا دخترِ مادرت، زادهٔ ⟨در⟩ خانه یا زادهٔ بیرون، عریانیِ آنان را برهنه نکنی.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "عریانیِ"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "خواهرِ تو"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دخترِ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "پدرت"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دخترِ"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "مادرت"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "زادهٔ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانه"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "زادهٔ"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "بیرون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "برهنه کنی"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "عریانیِ آنان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:26:14.089384499Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 3:2",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و ایّوب پاسخ داد و گفت:",
+  "tokens": [
+    {
+      "surface": "וַיַּ֥עַן",
+      "gloss": "و پاسخ داد"
+    },
+    {
+      "surface": "אִיּ֗וֹב",
+      "gloss": "ایّوب"
+    },
+    {
+      "surface": "וַיֹּאמַֽר",
+      "gloss": "و گفت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:06:37.437412644Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "jeremiah 23:11",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "که هم پیامبر هم کاهن خوی برده‌اند؛ هم در خانهٔ من بدیِ ایشان را یافتم — خروشِ یاهوه.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "پیامبر"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "חנפו",
+      "gloss": "خوی برده‌اند"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "در خانهٔ من"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "یافتم"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "بدیِ ایشان را"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "خروشِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-15T04:11:52.135030466Z",
+  "model": "glm-5.3"
+}

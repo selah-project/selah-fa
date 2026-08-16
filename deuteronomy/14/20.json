@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "هر پرندهٔ پاک را بخورید.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "پرندهٔ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "بخورید"
+    }
+  ],
+  "timestamp": "2026-08-13T20:46:59.242133908Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "مبادا بخوری و سیر شوی، و خانه‌های نیکو بسازی و ساکن شوی —",
+  "tokens": [
+    {
+      "surface": "פֶּן",
+      "gloss": "مبادا"
+    },
+    {
+      "surface": "תֹּאכַ֖ל",
+      "gloss": "بخوری"
+    },
+    {
+      "surface": "וְשָׂבָ֑עְתָּ",
+      "gloss": "و سیر شوی"
+    },
+    {
+      "surface": "וּבָתִּ֥ים",
+      "gloss": "و خانه‌های"
+    },
+    {
+      "surface": "טוֹבִ֛ים",
+      "gloss": "نیکو"
+    },
+    {
+      "surface": "תִּבְנֶ֖ה",
+      "gloss": "بسازی"
+    },
+    {
+      "surface": "וְיָשָֽׁבְתָּ",
+      "gloss": "و ساکن شوی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:57:48.603916583Z",
+  "model": "glm-5.2"
+}

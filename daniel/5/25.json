@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و این ⟨است⟩ نوشتهٔ ‌آنچه منقوش ⟨بود⟩: مِنه، مِنه، تِقِل، وپَراسین.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "و این"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "نوشته"
+    },
+    {
+      "surface": "די",
+      "gloss": "آنچه"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "منقوش"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "مِنه"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "مِنه"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "تِقِل"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "وپَراسین"
+    }
+  ],
+  "timestamp": "2026-08-13T23:24:53.426818570Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 34:28",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 34,
+  "translation": "و برای قبیلهٔ پسران نَفتالی، نَسی، پِدَه‌اِل پسر عَمی‌هود.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "و برای قبیلهٔ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسران"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نَفتالی"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "نَسی"
+    },
+    {
+      "surface": "פדהאל",
+      "gloss": "پِدَه‌اِل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "عَمی‌هود"
+    }
+  ],
+  "timestamp": "2026-08-13T20:42:04.198027447Z",
+  "model": "glm-5.2"
+}

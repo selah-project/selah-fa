@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "زمانِ کشتن و زمانِ درمان کردن، زمانِ ویران کردن و زمانِ بنا کردن.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "زمان"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "کشتن"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "و زمان"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "درمان کردن"
+    },
+    {
+      "surface": "עת",
+      "gloss": "زمان"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "ویران کردن"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "و زمان"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "بنا کردن"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:09.181894905Z",
+  "model": "glm-5.2"
+}

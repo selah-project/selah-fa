@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 80,
+  "translation": "چرا دیوارهایش را شکافتی، و تمام راه‌گذران آن را می‌چینند؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "شکافتی"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "دیوارهایش"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "و می‌چینند"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "راه‌گذران"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:49:09.878426116Z",
+  "model": "glm-5.2"
+}

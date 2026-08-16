@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و بنویسد كاهن ⟨את⟩ نفرین‌هایِ این را در کتاب، و پاک‌کند به سوی آب‌هایِ تلخ.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "و بنویسد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نفرین‌هایِ این"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "نفرین‌هایِ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "این"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "كاهن"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "در کتاب"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "و پاک‌کند"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "مי",
+      "gloss": "آب‌هایِ"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "تلخ"
+    }
+  ],
+  "timestamp": "2026-08-13T20:32:25.399258549Z",
+  "model": "glm-5.2"
+}

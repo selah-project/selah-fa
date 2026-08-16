@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 62,
+  "translation": "به رهبرِ همسرایان، بر یَدوتون، مزموری برای داوود.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "به رهبرِ همسرایان"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "یَدوتون"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "برای داوود"
+    }
+  ],
+  "timestamp": "2026-08-13T22:45:47.072209156Z",
+  "model": "glm-5.2"
+}

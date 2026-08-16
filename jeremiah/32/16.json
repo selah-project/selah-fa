@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 32:16",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "و به درگاهِ یاهوه دعا کردم، پس از آنکه دادم ⟨את⟩ نامهٔ خرید را به بَروخ پسرِ نِریَیه، به سخن‌گفتن.",
+  "tokens": [
+    {
+      "surface": "ואתפלל",
+      "gloss": "و دعا کردم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به درگاهِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پس از آنکه"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "دادم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نامه"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "نامهٔ"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "خرید"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "بَروخ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "نِریَیه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به سخن‌گفتن"
+    }
+  ],
+  "timestamp": "2026-08-13T22:05:24.875986305Z",
+  "model": "glm-5.2"
+}

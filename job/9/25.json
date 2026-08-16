@@ -1,0 +1,45 @@
+{
+  "ref": "job 9:25",
+  "lang": "fa",
+  "book": "job",
+  "chapter": 9,
+  "verse": 25,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:46:46Z",
+  "translation": "و روزهایم از دونده تندتر شدند؛ گریختند، نیکویی ندیدند.",
+  "tokens": [
+    {
+      "surface": "וימי",
+      "gloss": "و روزهایم"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "تندتر شدند"
+    },
+    {
+      "surface": "מני",
+      "gloss": "از"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "دونده"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "گریختند"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "دیدند"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "نیکویی"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 115,
+  "translation": "و ما یاه را برکت می‌گوییم، از این زمان و تا دیروزش. هَلِلویاه!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "و ما"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "برکت می‌گوییم"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "از این زمان"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "دیروزش"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ستایش بدهید"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:54:36.844344122Z",
+  "model": "glm-5.2"
+}

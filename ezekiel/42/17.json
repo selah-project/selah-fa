@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "ezekiel 42:17",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 42,
+  "translation": "سمتِ شمال را اندازه گرفت، پانصد نی، با نیِ اندازه، به گرداگرد.",
+  "tokens": [
+    {
+      "surface": "מדד",
+      "gloss": "اندازه گرفت"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "سمتِ"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "شمال"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پانصد"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "(صد)"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "نی"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "با نیِ"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "اندازه"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "به گرداگرد"
+    }
+  ],
+  "timestamp": "2026-08-15T04:17:50.044702267Z",
+  "model": "glm-5.3"
+}

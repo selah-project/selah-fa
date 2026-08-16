@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 5:17",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و کاهن آبِ قدیش‌ها را در ظرفِ سفال بگیرد، و از گردی که بر فرشِ مسکن باشد، کاهن بگیرد و ⟨آن را⟩ به ⟨درونِ⟩ آب بگذارد.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "و بگیرد"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آب"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "قدیش‌ها"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "در ظرف"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "سفال"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "و از"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "گردی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "باشد"
+    },
+    {
+      "surface": "בקרקע",
+      "gloss": "بر فرشِ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "بگیرد"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "و بگذارد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "המים",
+      "gloss": "آب"
+    }
+  ],
+  "timestamp": "2026-08-13T20:33:10.211406864Z",
+  "model": "glm-5.2"
+}

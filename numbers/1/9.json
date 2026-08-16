@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 1:9",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "برای زَوولون، اَلیآو پسرِ حِلون.",
+  "tokens": [
+    {
+      "surface": "לִזְבוּלֻ֕ן",
+      "gloss": "برای زَوولون"
+    },
+    {
+      "surface": "אֱלִיאָ֖ב",
+      "gloss": "اَلیآو"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "חֵלֹֽן",
+      "gloss": "حِلون"
+    }
+  ],
+  "timestamp": "2026-08-13T20:30:19.228444337Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 2:11",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "رفايم نيز ايشان به شمار می‌آيند مثل عناقيم، و موآبيان ايشان را ايميم می‌نامند.",
+  "tokens": [
+    {
+      "surface": "רפאים",
+      "gloss": "رفائیم"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "به شمار می‌آیند"
+    },
+    {
+      "surface": "אף",
+      "gloss": "نیز"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ایشان"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "مثل عناقیم"
+    },
+    {
+      "surface": "והמאבים",
+      "gloss": "و موآبیان"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "می‌نامند"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ایشان را"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "ایمیم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:43:07.109194279Z",
+  "model": "glm-5.2"
+}

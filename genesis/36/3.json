@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 36,
+  "translation": "و ⟨את⟩ بَسمَت دخترِ یِشْمَع‌ئیل خواهرِ نَبایوت را.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "بَسمَت"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "بَسمَت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دخترِ"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "یِشْمَع‌ئیل"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "خواهرِ"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "نَبایوت"
+    }
+  ],
+  "timestamp": "2026-08-13T20:04:43.549737303Z",
+  "model": "glm-5.2"
+}

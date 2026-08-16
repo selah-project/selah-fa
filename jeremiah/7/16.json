@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "jeremiah 7:16",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و تو، برای این قوم دعا مکن و برایشان فریاد و دعا برمگیر و به من درمی‌مَد، که من شنوایِ ⟨את⟩ تو نیستم.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "و تو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مکن"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "دعا"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "برای"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و مکن"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "برمگیر"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "برایشان"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "فریاد"
+    },
+    {
+      "surface": "ותפלה",
+      "gloss": "و دعا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و مکن"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "درمی‌مَد"
+    },
+    {
+      "surface": "בי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "نیستم"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "شنوای"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "تو"
+    }
+  ],
+  "timestamp": "2026-08-15T04:10:57.843608349Z",
+  "model": "glm-5.3"
+}

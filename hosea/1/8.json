@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و از شیر بازگرفت ⟨את⟩ لُو‌رُحامه، و باردار شد و زایید پسرى.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "و از شیر بازگرفت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لُو‌رُحامه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لُو-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "رُحامه"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "و باردار شد"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "و زایید"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرى"
+    }
+  ],
+  "timestamp": "2026-08-13T22:26:04.358720328Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "برای یِهودا، نَحشون پسر عَمیناداو.",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "برای یِهودا"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "نَحشون"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "عَمیناداو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:30:17.011069891Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 43,
+  "translation": "و ⟨את⟩ برادرتان را ببرید و برخیزید، به سوی آن مرد بازگردید.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "برادرتان"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "برادرتان"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ببرید"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "و برخیزید"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "بازگردید"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "آن مرد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:08:00.445941880Z",
+  "model": "glm-5.2"
+}

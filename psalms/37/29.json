@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 37:29",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "صادقان زمین را به میراث برند و برای همیشه بر آن ساکن شوند.",
+  "tokens": [
+    {
+      "surface": "צדיקים",
+      "gloss": "صادقان"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "به میراث برند"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "וישכנו",
+      "gloss": "و ساکن شوند"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "برای همیشه"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "بر آن"
+    }
+  ],
+  "timestamp": "2026-08-13T22:42:23.315286398Z",
+  "model": "glm-5.2"
+}

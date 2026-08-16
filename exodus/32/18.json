@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 32:18",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "و گفت: صدای پاسخِ قهرمانی نیست، و صدای پاسخِ شکست نیست؛ صدای پاسخ‌دادنِ ⟨من⟩ می‌شنوم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صدای"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "پاسخِ"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "قهرمانی"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نیست"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صدای"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "پاسخِ"
+    },
+    {
+      "surface": "חלושה",
+      "gloss": "شکست"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صدای"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "پاسخ‌دادنِ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "می‌شنوم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:20:04.665615352Z",
+  "model": "glm-5.2"
+}

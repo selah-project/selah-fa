@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 119,
+  "translation": "راهِ فرمان‌هایت را خواهم دوید، که تو دلِ مرا فراخ می‌سازی.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "راهِ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "فرمان‌هایت"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "خواهم دوید"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "فراخ می‌سازی"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دلِ مرا"
+    }
+  ],
+  "timestamp": "2026-08-13T22:55:18.427311659Z",
+  "model": "glm-5.2"
+}

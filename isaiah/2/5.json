@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "خانۀ یاعکوو، بیایید و در نورِ یاهوه بسیریم.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "خانۀ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعکوو"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "بیایید"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "و بسیریم"
+    },
+    {
+      "surface": "באור",
+      "gloss": "در نورِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T21:40:27.758693890Z",
+  "model": "glm-5.2"
+}

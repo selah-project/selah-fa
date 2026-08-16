@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 2:8",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "پسرانِ زَتّو، نه‌صد و چهل‌وپنج.",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "זַתּ֔וּא",
+      "gloss": "زَتّو"
+    },
+    {
+      "surface": "תְּשַׁ֥ע",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מֵא֖וֹת",
+      "gloss": "صد"
+    },
+    {
+      "surface": "וְאַרְבָּעִ֥ים",
+      "gloss": "و چهل"
+    },
+    {
+      "surface": "וַחֲמִשָּֽׁה",
+      "gloss": "و پنج"
+    }
+  ],
+  "timestamp": "2026-08-13T23:28:00.241129401Z",
+  "model": "glm-5.2"
+}

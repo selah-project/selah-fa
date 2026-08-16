@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و بکنند برایِ من مقدّسی، و ساکن خواهم شد در میانِ ایشان",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "و بکنند"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برایِ من"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "مقدّسی"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "و ساکن خواهم شد"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "در میانِ ایشان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:55:06.928185254Z",
+  "model": "glm-5.2"
+}

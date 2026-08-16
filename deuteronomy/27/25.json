@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 27:25",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "نفرین‌باد گیرندهٔ رشوه برای زدنِ نفسِ خونِ بی‌گناه، و بگوید تمامی قوم: آمین.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "نفرین‌باد"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "گیرندهٔ"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "رشوه"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "برای زدنِ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفسِ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خونِ"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "بی‌گناه"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و بگوید"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامی"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمین"
+    }
+  ],
+  "timestamp": "2026-08-13T20:51:13.613170128Z",
+  "model": "glm-5.2"
+}

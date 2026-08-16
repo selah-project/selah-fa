@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 5:20",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و چرا، ای پسرم، در غریبه‌ای سرگشته شوی، و بغل گیری سینهٔ بیگانه را؟",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "و چرا"
+    },
+    {
+      "surface": "תשגה",
+      "gloss": "سرگشته شوی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ای پسرم"
+    },
+    {
+      "surface": "בזרה",
+      "gloss": "در غریبه‌ای"
+    },
+    {
+      "surface": "ותחבק",
+      "gloss": "و بغل گیری"
+    },
+    {
+      "surface": "חק",
+      "gloss": "سینهٔ"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "بیگانه را"
+    }
+  ],
+  "timestamp": "2026-08-13T22:59:57.944421385Z",
+  "model": "glm-5.2"
+}

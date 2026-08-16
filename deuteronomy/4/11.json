@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 4:11",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و نزدیک شدید و زیر کوه ایستادید، و کوه در آتش می‌سوخت تا دلِ آسمان‌ها — تاریکی، ابر و غلافِ مه.",
+  "tokens": [
+    {
+      "surface": "وתקרבון",
+      "gloss": "و نزدیک شدید"
+    },
+    {
+      "surface": "ותעמדון",
+      "gloss": "و ایستادید"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "زیرِ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "کوه"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "و کوه"
+    },
+    {
+      "surface": "בער",
+      "gloss": "می‌سوخت"
+    },
+    {
+      "surface": "באש",
+      "gloss": "در آتش"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دلِ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمان‌ها"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "تاریکی"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ابر"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "و غلافِ مه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:44:39.663432460Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "پسرانِ حام: کوش و مِصراییم، پوت و کنعان.",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֖י",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "חָ֑ם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "כּ֥וּשׁ",
+      "gloss": "کوش"
+    },
+    {
+      "surface": "וּמִצְרַ֖יִם",
+      "gloss": "و مِصراییم"
+    },
+    {
+      "surface": "פּ֥וּט",
+      "gloss": "پوت"
+    },
+    {
+      "surface": "וּכְנָֽעַן",
+      "gloss": "و کنعان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:02.158144475Z",
+  "model": "glm-5.2"
+}

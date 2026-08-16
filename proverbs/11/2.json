@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "بیایدِ تکبّر، و بیایدِ خواری؛ و ⟨את⟩ فروتنان، حکمت.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "بیایدِ"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "تکبّر"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "و بیایدِ"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "خواری"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "فروتنان"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "فروتنان"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:01:34.613435280Z",
+  "model": "glm-5.2"
+}

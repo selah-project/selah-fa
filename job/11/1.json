@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 11:1",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و تسوفَرِ نَعَمَتی پاسخ داد و گفت:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "و پاسخ داد"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "تسوفَر"
+    },
+    {
+      "surface": "הנעמתי",
+      "gloss": "نَعَمَتی"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:08:50.142918279Z",
+  "model": "glm-5.2"
+}

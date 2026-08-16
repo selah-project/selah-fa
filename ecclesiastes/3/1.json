@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "برای همه چیز زمانی است، و برای هر خواسته‌ای زیر ⟨آسمان‌ها⟩ وقتی است.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "برای همه چیز"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "زمانی مقرر"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "و وقتی"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "برای هر"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "خواسته"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "زیر"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨آسمان‌ها⟩"
+    }
+  ],
+  "timestamp": "2026-08-15T04:30:17.116185925Z",
+  "model": "glm-5.3"
+}

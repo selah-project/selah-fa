@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 1:13",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و گفت داوود به نَعْرَای که به او خبر می‌داد: از کجا تو هستی؟ و گفت: پسرِ مردی غریب، عَمالِقی هستم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "نَعْرَای"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "خبردهنده"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "אי",
+      "gloss": "از کجا"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو هستی"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "גר",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "عَمالِقی"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من هستم"
+    }
+  ],
+  "timestamp": "2026-08-13T21:16:29.724221971Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "و هنوز اندکی، و ریشه‌گر نیست، و بر جایگاه او بنگری، و او نیست.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "و هنوز"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "اندکی"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نیست"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ریشه‌گر"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "و بنگری"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "جایگاه او"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "و او نیست"
+    }
+  ],
+  "timestamp": "2026-08-13T22:41:55.301259097Z",
+  "model": "glm-5.2"
+}

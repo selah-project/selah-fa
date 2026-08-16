@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 19:41",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و بود سرحدِ میراثِ ایشان: صُرعه و اشتائول و عیر شمش.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحدِ"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "میراثِ ایشان"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "صُرعه"
+    },
+    {
+      "surface": "ואשתאול",
+      "gloss": "و اشتائول"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "و عیر"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "شمس"
+    }
+  ],
+  "timestamp": "2026-08-13T20:58:44.572627623Z",
+  "model": "glm-5.2"
+}

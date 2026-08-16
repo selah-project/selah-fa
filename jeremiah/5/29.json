@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 5:29",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "آیا بر این‌ها عیادت نکنم؟ — نئم یاهوه — یا بر ملتی که چنین است جانِ من انتقام نگیرد؟",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "آیا بر"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "عیادت کنم"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نئمِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "بر ملتی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "چنین است"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תתנקם",
+      "gloss": "انتقام گیرد"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "جانِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T21:56:43.477253579Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و مردِ موشه بسیار فروتن بود — بیش از تمامِ انسان‌ها که روی صورتِ زمین ⟨هستند⟩.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "و مردِ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "فروتن"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "بیش از تمامِ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسان‌ها"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "על",
+      "gloss": "روی"
+    },
+    {
+      "surface": "פני",
+      "gloss": "صورتِ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T20:34:50.026812700Z",
+  "model": "glm-5.2"
+}

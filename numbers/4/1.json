@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "numbers 4:1",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و یاهوه با موشه و با اَهارون سخن گفت، به‌گفتنِ ⟨او⟩،",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "با\/به"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و با\/به"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اَهارون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به‌گفتن"
+    }
+  ],
+  "timestamp": "2026-08-15T17:35:38.844485729Z",
+  "model": "glm-5.3"
+}

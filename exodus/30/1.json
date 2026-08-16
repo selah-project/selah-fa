@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "وَ می‌سازی مذبحی برای دُخانِ بخور؛ از چوب‌های شطیم بسازش ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "وَ می‌سازی"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبحی"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "برای دُخانِ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "بخور"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "از چوب‌های"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شطیم"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "بساز"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "او (مذبح)"
+    }
+  ],
+  "timestamp": "2026-08-13T20:18:36.353425525Z",
+  "model": "glm-5.2"
+}

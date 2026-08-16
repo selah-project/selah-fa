@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 20:4",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و یهودا گرد آمد تا از یاهوه بجوید؛ نیز از همهٔ شهرهای یهودا آمدند تا یاهوه را بطلبند ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "و گرد آمد"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "تا بجوید"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "از یاهوه"
+    },
+    {
+      "surface": "גם",
+      "gloss": "نیز"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "از همهٔ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شهرهای"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آمدند"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "تا بطلبند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T23:48:04.287969641Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-samuel 22:42",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "چشم دویدند و نبود رهاننده‌ای، به سوی یاهوه و پاس نداد آنان را.",
+  "tokens": [
+    {
+      "surface": "ישעו",
+      "gloss": "چشم دویدند"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نبود"
+    },
+    {
+      "surface": "משיע",
+      "gloss": "رهاننده‌ای"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "پاس داد آنان را"
+    }
+  ],
+  "timestamp": "2026-08-13T21:23:20.343998759Z",
+  "model": "glm-5.2"
+}

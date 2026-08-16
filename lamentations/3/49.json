@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "چشمِ من روان است و خاموش نمی‌شود، بی‌هرگونه فرونشستن",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "چشمِ من"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "روان است"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "خاموش می‌شود"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "بی‌"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "هرگونه فرونشستن"
+    }
+  ],
+  "timestamp": "2026-08-13T23:17:53.863923284Z",
+  "model": "glm-5.2"
+}

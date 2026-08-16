@@ -1,0 +1,65 @@
+{
+  "ref": "exodus 26:17",
+  "lang": "fa",
+  "book": "exodus",
+  "chapter": 26,
+  "verse": 17,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:55:53Z",
+  "translation": "دو زبانه برای یک تخته ⟨باشد⟩، جفت‌شده، زنی به خواهرش؛ چنین بکنی برای همهٔ تخته‌های مسکن.",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ידות",
+      "gloss": "زبانه"
+    },
+    {
+      "surface": "לקרש",
+      "gloss": "برای تختهٔ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "משלבת",
+      "gloss": "جفت‌شده"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زنی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "خواهرش"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "بکنی"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "برای همهٔ"
+    },
+    {
+      "surface": "קרשי",
+      "gloss": "تخته‌های"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن"
+    }
+  ]
+}

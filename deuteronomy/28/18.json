@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 28:18",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "نفرین‌شده ⟨است⟩ میوهٔ شکمِ تو و میوهٔ زمینِ تو، فرزندِ گاوهای تو و باروریِ گلهٔ تو.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "نفرین‌شده"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "میوهٔ"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "شکمِ تو"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "و میوهٔ"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "زمینِ تو"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "فرزندِ"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "گاوهای تو"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "و باروریِ"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "گلهٔ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:52:02.977696657Z",
+  "model": "glm-5.2"
+}

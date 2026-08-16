@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و عِیفه، صیغه‌یِ کالِو، ⟨את⟩ حَران و ⟨את⟩ مُوتسا و ⟨את⟩ گازِز را زایید؛ و حَران گازِز را پدر شد.",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "و عِیفه"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "صیغه‌یِ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالِو"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "زایید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حَران"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "حَران"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مُوتسا"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "مُوتسا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "گازِز"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "گازِز"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "و حَران"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "پدرِ … شد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گازِز"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "گازِز"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:18.005723601Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 66:11",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 66,
+  "translation": "تو ما را در دام آوردی، فشاری بر کمرِ ما نهادی.",
+  "tokens": [
+    {
+      "surface": "הבאתנו",
+      "gloss": "تو ما را آوردی"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "در دام"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "نهادی"
+    },
+    {
+      "surface": "מועקה",
+      "gloss": "فشاری"
+    },
+    {
+      "surface": "במתנינו",
+      "gloss": "بر کمرِ ما"
+    }
+  ],
+  "timestamp": "2026-08-13T22:45:47.169747826Z",
+  "model": "glm-5.2"
+}

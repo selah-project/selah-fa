@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 120,
+  "translation": "وای بر من که در میانِ مِشِخ غریب بودم، با خیمه‌های قِدار ساکن شدم!",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "وای"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "غریب بودم"
+    },
+    {
+      "surface": "משך",
+      "gloss": "مِشِخ"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "ساکن شدم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "خیمه‌های"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "قِدار"
+    }
+  ],
+  "timestamp": "2026-08-13T22:56:12.315658039Z",
+  "model": "glm-5.2"
+}

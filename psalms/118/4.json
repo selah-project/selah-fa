@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 118,
+  "translation": "بگویند نا یِرانِ یاهوه: که تا جهانِ باشی مهربانیِ اوست.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "بگویند"
+    },
+    {
+      "surface": "נא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "یِرانِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "تا جهانِ باشی"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "مهربانیِ اوست"
+    }
+  ],
+  "timestamp": "2026-08-13T22:54:47.603868452Z",
+  "model": "glm-5.2"
+}

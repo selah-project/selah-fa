@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و ملکهٔ شِوا ⟨את⟩ همهٔ خردِ شلومو را و ⟨את⟩ خانه‌ای را که ساخته بود دید.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "و دید"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ملکهٔ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شِوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همهٔ خردِ شلومو را"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "خردِ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "و خانهٔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ساخته بود"
+    }
+  ],
+  "timestamp": "2026-08-13T21:27:32.687775924Z",
+  "model": "glm-5.2"
+}

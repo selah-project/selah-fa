@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "بنگرید، من امروز پیشِ رویِ شما برکت و لعنت را می‌نهم.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "بنگرید"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "می‌نهم"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "پیشِ رویِ شما"
+    },
+    {
+      "surface": "היום",
+      "gloss": "امروز"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "برکت"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "و لعنت"
+    }
+  ],
+  "timestamp": "2026-08-15T03:55:35.407333415Z",
+  "model": "glm-5.3"
+}

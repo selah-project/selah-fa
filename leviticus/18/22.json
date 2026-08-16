@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و ⟨את⟩ ذَکَر را نبخوابی به خوابیدن‌های زن؛ مکروه است.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "ذَکَر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ذَکَر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "بخوابی"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "به خوابیدن‌های"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زن"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "مکروه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:26:15.268949083Z",
+  "model": "glm-5.2"
+}

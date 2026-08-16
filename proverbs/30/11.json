@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "نسلی ⟨که⟩ پدرِ خود را نکوهش می‌کند و ⟨את⟩ مادرِ خود را برکت نمی‌دهد.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "نسلی"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پدرِ خود را"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "نکوهش می‌کند"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "مادرِ خود را"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "مادرِ خود را"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "برکت می‌دهد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:05:49.376795127Z",
+  "model": "glm-5.2"
+}

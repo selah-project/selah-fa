@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 5:9",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "کنندهٔ بزرگ‌ها، و نیست بررسی‌‌ها، شگفت‌ها تا نیست شماره",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "کنندهٔ"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "بزرگ‌ها"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نیست"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "بررسی‌ها"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "شگفت‌ها"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "شماره"
+    }
+  ],
+  "timestamp": "2026-08-13T23:07:37.402923337Z",
+  "model": "glm-5.2"
+}

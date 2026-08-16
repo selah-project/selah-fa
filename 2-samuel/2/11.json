@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 2:11",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و شمار روزهایی که داوود پادشاه بود در حِبْرون، بر خانهٔ یِهودا، هفت سال و شش ماه بود.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "شمار"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "روزهایی که"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "در حِبْرون"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانهٔ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یِهودا"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "و شش"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ماه"
+    }
+  ],
+  "timestamp": "2026-08-13T21:16:23.419472322Z",
+  "model": "glm-5.2"
+}

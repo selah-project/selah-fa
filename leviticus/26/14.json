@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "اما اگر به من گوش ندهید، و ⟨את⟩ همهٔ این فرمان‌ها را به جا نیاورید،",
+  "tokens": [
+    {
+      "surface": "וְאִם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תִשְׁמְע֖וּ",
+      "gloss": "بشنوید"
+    },
+    {
+      "surface": "לִ֑י",
+      "gloss": "به من"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תַעֲשׂ֔וּ",
+      "gloss": "بکنید"
+    },
+    {
+      "surface": "אֵ֥ת",
+      "gloss": "⟨את⟩",
+      "marks": "همهٔ فرمان‌ها"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "הַמִּצְוֺ֖ת",
+      "gloss": "فرمان‌ها"
+    },
+    {
+      "surface": "הָאֵֽלֶּה",
+      "gloss": "این"
+    }
+  ],
+  "timestamp": "2026-08-13T20:30:04.802396231Z",
+  "model": "glm-5.2"
+}

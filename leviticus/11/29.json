@@ -1,0 +1,57 @@
+{
+  "tier": "hand",
+  "verse": 29,
+  "ref": "leviticus 11:29",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و این برای شما نجس ⟨است⟩ در جنبندگانِ جنبنده بر زمین: راسو و موش و لاک‌پشت به نوعش.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "و این"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "برای شما"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "בשרץ",
+      "gloss": "در جنبندگانِ"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "جنبنده"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "החלד",
+      "gloss": "راسو"
+    },
+    {
+      "surface": "והעכבר",
+      "gloss": "و موش"
+    },
+    {
+      "surface": "והצב",
+      "gloss": "و لاک‌پشت"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "به نوعش"
+    }
+  ],
+  "timestamp": "2026-08-14T17:46:57Z",
+  "model": "claude-fable-5/hand"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 31:9",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و موشه ⟨את⟩ توره‌ی این را نوشت و آن را به کوهنانیم، بنی-لِوی، حاملان ⟨את⟩ آرون بریت یاهوه، و به همهٔ زکنی ییسْرائیل داد.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "و نوشت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "توره‌ی این"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "توره"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "و داد آن‌را"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کوهنانیم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لِوی"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "حاملانِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آرون بریت یاهوه"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "آرون"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "بریتِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و به"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "زکنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ییسْرائیل"
+    }
+  ],
+  "timestamp": "2026-08-13T20:53:07.223448051Z",
+  "model": "glm-5.2"
+}

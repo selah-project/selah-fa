@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 7:8",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "آه! اَدونای، چه بگویم، پس از آنکه ییسْرائِل گردن به دشمنانش پشت کرد؟",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "آه!"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "بگویم"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پس ازِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنکه"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "پشت کرد"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ییسْرائِل"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "گردن"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "به رویِ"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "دشمنانش"
+    }
+  ],
+  "timestamp": "2026-08-13T20:56:20.290949412Z",
+  "model": "glm-5.2"
+}

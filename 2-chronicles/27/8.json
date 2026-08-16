@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 27:8",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "پسرِ بیست و پنج سال بود در پادشاهیِ خود، و شانزده سال پادشاهی کرد در یوروشالَییم.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "و پنج"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "در پادشاهیِ خود"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "و شش"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ده"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهی کرد"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "در یوروشالَییم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:49:10.496042876Z",
+  "model": "glm-5.2"
+}

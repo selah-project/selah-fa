@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 7:19",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و گوشتی که به هر چیزِ ناپاک دست بخورد، خورده نشود؛ در آتش سوزانده شود؛ و گوشت — هر پاکی خوردنی، گوشت بخورد.",
+  "tokens": [
+    {
+      "surface": "והבשר",
+      "gloss": "و گوشتی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "دست بخورد"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "به هر"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "خورده شود"
+    },
+    {
+      "surface": "באש",
+      "gloss": "در آتش"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "سوزانده شود"
+    },
+    {
+      "surface": "והבשר",
+      "gloss": "و گوشت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاکی"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "خوردنی"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت بخورد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:23:17.941911219Z",
+  "model": "glm-5.2"
+}

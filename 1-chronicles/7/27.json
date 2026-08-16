@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 7:27",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "نون پسرش، یِهوشوع پسرش.",
+  "tokens": [
+    {
+      "surface": "נון",
+      "gloss": "نون"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یِهوشوع"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:21.432403191Z",
+  "model": "glm-5.2"
+}

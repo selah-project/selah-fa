@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 51,
+  "translation": "برای رهبرِ سرود، مزموری از داوود.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "برای رهبرِ سرود"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "از داوود"
+    }
+  ],
+  "timestamp": "2026-08-15T04:23:06.786762909Z",
+  "model": "glm-5.3"
+}

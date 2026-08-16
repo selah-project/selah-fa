@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و یویادع ⟨את⟩ یوناتان را پدر بود، و یوناتان ⟨את⟩ یَدوعَع را پدر بود.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "و یویادع"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پدر بود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوناتان"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "یوناتان را"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "و یوناتان"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پدر بود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یَدوعَع"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "یَدوعَع را"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:11.944659698Z",
+  "model": "glm-5.2"
+}

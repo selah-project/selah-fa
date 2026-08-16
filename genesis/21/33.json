@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 21:33",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و⟨او⟩ نشاند اَشَل را در بِئِر-شابَع، و ⟨او⟩ خواند آنجا به نام یاهوه، اِلِ اَوَلام.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "و نشاند"
+    },
+    {
+      "surface": "אשל",
+      "gloss": "اَشَل"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "در بِئِر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شابَع"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "و خواند"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آنجا"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "به نام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "اَوَلام"
+    }
+  ],
+  "timestamp": "2026-08-13T19:59:31.361923303Z",
+  "model": "glm-5.2"
+}

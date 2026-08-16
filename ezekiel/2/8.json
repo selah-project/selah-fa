@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 2:8",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و تو، پسرِ آدم، آنچه را که من به تو می‌گویم ⟨את⟩ بشنو؛ سرکش مباش مانندِ خانهٔ سرکش؛ دهانِ خود را بگشا و آنچه را که من به تو می‌دهم ⟨את⟩ بخور.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "و تو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "بشنو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آنچه را"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "می‌گویم"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "به تو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "باش"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "سرکش"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "مانندِ خانهٔ"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "سرکش"
+    },
+    {
+      "surface": "פצה",
+      "gloss": "بگشا"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "دهانِ تو را"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "و بخور"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آنچه را"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "می‌دهم"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "به تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:12:08.826354786Z",
+  "model": "glm-5.2"
+}

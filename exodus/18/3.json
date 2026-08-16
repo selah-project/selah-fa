@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و ⟨את⟩ دو پسرِ او را، که نامِ یکیِ ⟨آنها⟩ گِرشوم بود، که گفت: غریب بوده‌ام در زمینی بیگانه،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "دو پسر"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "پسرِ او"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نامِ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یکیِ"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "گِرشوم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "גר",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "بوده‌ام"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "در زمینی"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "بیگانه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:15:13.691758164Z",
+  "model": "glm-5.2"
+}

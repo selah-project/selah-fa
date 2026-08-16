@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 16:1",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "و یاهوه به موشه سخن گفت، پس از مرگِ دو پسرِ اهارون، در نزدیک‌شدنِ ایشان پیشِ روی یاهوه، و مردند.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پس از"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرگِ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "בקרבתם",
+      "gloss": "در نزدیک‌شدنِ ایشان"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشِ روی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "و مردند"
+    }
+  ],
+  "timestamp": "2026-08-13T20:27:14.624639092Z",
+  "model": "glm-5.2"
+}

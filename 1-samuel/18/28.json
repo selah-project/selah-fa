@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "1-samuel 18:28",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و شاؤول دید و دانست که یاهوه با داؤود ⟨است⟩، و میکال دخترِ شاؤول او را دوست داشت.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "و دید"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "و دانست"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داؤود"
+    },
+    {
+      "surface": "ומיכל",
+      "gloss": "و میکال"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دختر"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "אהבתהו",
+      "gloss": "او را دوست داشت"
+    }
+  ],
+  "timestamp": "2026-08-15T04:02:17.201122118Z",
+  "model": "glm-5.3"
+}

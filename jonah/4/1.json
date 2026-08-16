@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و به یوناه بد ⟨آمد⟩ — بدی بزرگی — و او را خشم ⟨افروخت⟩.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "و بد شد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "یوناه"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "بزرگی"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "و خشم افروخت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    }
+  ],
+  "timestamp": "2026-08-13T22:31:39.581202773Z",
+  "model": "glm-5.2"
+}

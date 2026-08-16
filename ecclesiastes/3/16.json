@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و باز زیرِ خورشید دیدم: جایگاهِ داوری — آنجا بدی ⟨است⟩، و جایگاهِ عدالت — آنجا بدی ⟨است⟩.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "و باز"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "دیدم"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "زیرِ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "خورشید"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جایگاهِ"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "داوری"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "آنجا"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "و جایگاهِ"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "عدالت"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "آنجا"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "بدی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:19:58.986626194Z",
+  "model": "glm-5.2"
+}

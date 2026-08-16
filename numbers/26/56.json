@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 56,
+  "ref": "numbers 26:56",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "به دهانِ ⟨⟩ قرعه، میراثِ او بخش خواهد شد، میانِ بسیار و اندک.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "به"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دهانِ"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "قرعه"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "بخش خواهد شد"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "میراثِ او"
+    },
+    {
+      "surface": "בין",
+      "gloss": "میانِ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "لמעט",
+      "gloss": "و اندک"
+    }
+  ],
+  "timestamp": "2026-08-15T03:53:17.039364508Z",
+  "model": "glm-5.3"
+}

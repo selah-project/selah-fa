@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 118,
+  "translation": "نیکوست پناه بردن به یاهوه، از اعتماد کردن به انسان.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "نیکوست"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "پناه بردن به"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "از اعتماد کردن به"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "انسان"
+    }
+  ],
+  "timestamp": "2026-08-13T22:54:38.319450794Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 11:36",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "تنها چشمه و چاه، جمعِ آب‌ها — پاک خواهد بود؛ و آن که لاشهٔ آن‌ها را لمس کند نجس خواهد شد.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "تنها"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "چشمه"
+    },
+    {
+      "surface": "ובור",
+      "gloss": "و چاه"
+    },
+    {
+      "surface": "מקוה",
+      "gloss": "جمع"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آب‌ها"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "خواهد بود"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "و آن که لمس کند"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "لاشهٔ آن‌ها را"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "نجس خواهد شد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:24:22.865487969Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 10:31",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "دهانِ صادق خرد را می‌رویاند، و زبانِ پُرگوش‌کنان بریده خواهد شد.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "دهانِ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صادق"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "می‌رویاند"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "خرد را"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "و زبانِ"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "پُرگوش‌کنان"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "بریده خواهد شد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:01:08.959666991Z",
+  "model": "glm-5.2"
+}

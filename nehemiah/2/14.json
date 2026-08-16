@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 2:14",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و عبور کردم به درِ چشمه، و به برکهٔ پادشاه، و جایی برای بهایه نبود تا از زیرِ من عبور کند.",
+  "tokens": [
+    {
+      "surface": "ואעבר",
+      "gloss": "و عبور کردم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازهٔ"
+    },
+    {
+      "surface": "העין",
+      "gloss": "چشمه"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و به"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "برکهٔ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نبود"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جایی"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "برای بهایه"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "تا عبور کند"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "از زیرِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T23:32:18.032975048Z",
+  "model": "glm-5.2"
+}

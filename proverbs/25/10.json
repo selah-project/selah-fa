@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 25:10",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "مبادا شنونده تو را خفت کند، و بدنامی‌ات باز نگردد.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "مبادا"
+    },
+    {
+      "surface": "יחסדך",
+      "gloss": "خفتت‌کند"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "شنونده"
+    },
+    {
+      "surface": "ודבתך",
+      "gloss": "و بدنامیِ تو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نـ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "بازگردد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:23.920841325Z",
+  "model": "glm-5.2"
+}

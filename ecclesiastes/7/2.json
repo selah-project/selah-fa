@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 7:2",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "بهتر است رفتن به خانهٔ سوگواری، از رفتن به خانهٔ ضیافت؛ زیرا که آن، پایانِ همهٔ انسان‌هاست، و زنده باید آن را به دل گیرد.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بهتر"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "رفتن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانهٔ"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "سوگواری"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "از رفتن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانهٔ"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ضیافت"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "زیرا که"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "پایانِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسان‌ها"
+    },
+    {
+      "surface": "והחי",
+      "gloss": "و زنده"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "باید داد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دلِ خود"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:56.518254617Z",
+  "model": "glm-5.2"
+}

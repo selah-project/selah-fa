@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 45:15",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 45,
+  "translation": "و همۀ برادرانش را بوسید و بر آنان گریست، و پس از آن، برادرانش با ⟨את⟩ او سخن گفتند.",
+  "tokens": [
+    {
+      "surface": "וינשק",
+      "gloss": "و بوسید"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "همۀ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برادرانش را"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "و گریست"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "بر آنان"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "و پس از"
+    },
+    {
+      "surface": "כן",
+      "gloss": "آن"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "سخن گفتند"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برادرانش"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:08:31.286306019Z",
+  "model": "glm-5.2"
+}

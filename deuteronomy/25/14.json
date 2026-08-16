@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "نه خواهد بود نزد تو در خانهٔ تو ایفایی و ایفایی، بزرگ و کوچک.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יִהְיֶ֥ה",
+      "gloss": "خواهد بود"
+    },
+    {
+      "surface": "לְךָ֛",
+      "gloss": "نزد تو"
+    },
+    {
+      "surface": "בְּבֵיתְךָ֖",
+      "gloss": "در خانهٔ تو"
+    },
+    {
+      "surface": "אֵיפָ֣ה",
+      "gloss": "ایفایی"
+    },
+    {
+      "surface": "וְאֵיפָ֑ה",
+      "gloss": "و ایفایی"
+    },
+    {
+      "surface": "גְּדוֹלָ֖ה",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "וּקְטַנָּֽה",
+      "gloss": "و کوچک"
+    }
+  ],
+  "timestamp": "2026-08-13T20:50:04.019514273Z",
+  "model": "glm-5.2"
+}

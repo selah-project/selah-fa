@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "برایِ شما بس است گرداندنِ ⟨את⟩ این کوه را؛ ⟨به⟩ سویِ شمال روی کنید.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "برایِ شما"
+    },
+    {
+      "surface": "סב",
+      "gloss": "بگردانید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "این کوه"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "کوهِ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "روی کنید"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "برایِ خود"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "به شمال"
+    }
+  ],
+  "timestamp": "2026-08-13T20:43:15.569687087Z",
+  "model": "glm-5.2"
+}

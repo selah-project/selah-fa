@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 10:20",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "حاریف، عَناتوت، نُوای",
+  "tokens": [
+    {
+      "surface": "חריף",
+      "gloss": "حاریف"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "عَناتوت"
+    },
+    {
+      "surface": "נובי",
+      "gloss": "نُوای"
+    }
+  ],
+  "timestamp": "2026-08-14T00:17:21.260101505Z",
+  "model": "glm-5.2"
+}

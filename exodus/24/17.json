@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "exodus 24:17",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و چهرهٔ جلال یاهوه چون آتشی سوزان بر سرِ کوه، به چشمِ پسرانِ ییسرائیل بود.",
+  "tokens": [
+    {
+      "surface": "ומראה",
+      "gloss": "و چهرهٔ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "چون آتش"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "سوزان"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "بر سرِ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "کوه"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "به چشمِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ییسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-15T20:53:08.957403137Z",
+  "model": "glm-5.3+hand"
+}

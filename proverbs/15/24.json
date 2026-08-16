@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 15:24",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "راهِ زندگی به بالا است برای فهمیده، به آن سو که دور شود از شِئولِ پایین.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "راهِ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگی"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "به بالا است"
+    },
+    {
+      "surface": "למשכיל",
+      "gloss": "برای فهمیده"
+    },
+    {
+      "surface": "למען",
+      "gloss": "به آن سو که"
+    },
+    {
+      "surface": "סור",
+      "gloss": "دور شود"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "از شِئولِ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "پایین"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:22.331867947Z",
+  "model": "glm-5.2"
+}

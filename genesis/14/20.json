@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 14:20",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و برکت‌داشته اِلِ علیون که دشمنانِ تو را در دستِ تو سپرد، و او به او یک‌دهم از همه داد.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "و برکت‌داشته"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِلِ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "علیون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "سپرد"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "دشمنانِ تو را"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "در دستِ تو"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "و داد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "یک‌دهم"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "از همه"
+    }
+  ],
+  "timestamp": "2026-08-13T19:57:55.482334567Z",
+  "model": "glm-5.2"
+}

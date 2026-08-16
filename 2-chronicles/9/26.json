@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-chronicles 9:26",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و ⟨او⟩ بر همه پادشاهان از نهر تا زمین فِلِشت‌ها و تا مرز مِصر تسلّط داشت.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و ⟨او بود⟩"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "تسلّط‌یافته"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "بر همه"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "پادشاهان"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "نهر"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فِلِشت‌ها"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "مرز"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِصر"
+    }
+  ],
+  "timestamp": "2026-08-13T23:45:23.162495835Z",
+  "model": "glm-5.2"
+}

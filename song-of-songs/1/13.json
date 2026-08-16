@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "بسته‌ای از مُرّ، دوستِ من، برایِ من است؛ میانِ سینه‌هایِ من بسراید.",
+  "tokens": [
+    {
+      "surface": "צְרוֹר",
+      "gloss": "بسته‌ای"
+    },
+    {
+      "surface": "הַמֹּר",
+      "gloss": "از مُرّ"
+    },
+    {
+      "surface": "דּוֹדִי",
+      "gloss": "دوستِ من"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "برایِ من"
+    },
+    {
+      "surface": "בֵּין",
+      "gloss": "میانِ"
+    },
+    {
+      "surface": "שָׁדַי",
+      "gloss": "سینه‌هایِ من"
+    },
+    {
+      "surface": "יָלִין",
+      "gloss": "بسراید"
+    }
+  ],
+  "timestamp": "2026-08-13T23:15:14.344282849Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 37:3",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "و برایش چهار انگشترِ زَر ریخت، بر چهار پاهایِ او؛ و دو انگشتر بر پهلویِ یکی و دو انگشتر بر پهلویِ دومی.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "و ریخت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برایش"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "انگشتر"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زَر"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "פעמתיו",
+      "gloss": "پاهایِ او"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "و دو"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "انگشتر"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "צלעו",
+      "gloss": "پهلویِ او"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "و دو"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "انگشتر"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "צלעו",
+      "gloss": "پهلویِ او"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "دومی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:20:34.436729595Z",
+  "model": "glm-5.2"
+}

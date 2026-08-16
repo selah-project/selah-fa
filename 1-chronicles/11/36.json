@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 36,
+  "ref": "1-chronicles 11:36",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "خِفِر هَمِخِراتی، اَخیّا هَپِلونی",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "خِفِر"
+    },
+    {
+      "surface": "המכרתי",
+      "gloss": "هَمِخِراتی"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "اَخیّا"
+    },
+    {
+      "surface": "הפלני",
+      "gloss": "هَپِلونی"
+    }
+  ],
+  "timestamp": "2026-08-15T04:34:05.115402420Z",
+  "model": "glm-5.3"
+}

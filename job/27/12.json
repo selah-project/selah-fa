@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 27:12",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "اینک شما همگی دیده‌اید؛ پس چرا این باطل باطل می‌گویید؟",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "شما"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "همگی"
+    },
+    {
+      "surface": "חזיתם",
+      "gloss": "دیده‌اید"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "و چرا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "باطل"
+    },
+    {
+      "surface": "תהבלו",
+      "gloss": "باطل می‌گویید"
+    }
+  ],
+  "timestamp": "2026-08-13T23:11:35.130925201Z",
+  "model": "glm-5.2"
+}

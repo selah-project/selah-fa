@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 5:9",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و هر هدیهٔ تمام قداشی‌های بنیاسرائیل که نزد کاهن بیاورند، از آنِ او خواهد بود.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "هدیه"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "برای تمام"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "قداشی‌های"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "بیاورند"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "نزد کاهن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "از آنِ او"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "خواهد بود"
+    }
+  ],
+  "timestamp": "2026-08-13T20:32:08.967228552Z",
+  "model": "glm-5.2"
+}

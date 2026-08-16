@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 9:14",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و از لاویان: شِمعیا پسرِ حَشوب، پسرِ عَزریکام، پسرِ حَشَبیا، از پسرانِ مِراری.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "و از"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاویان"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شِمعیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "حَشوب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "عَزریکام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "حَشَبیا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مِراری"
+    }
+  ],
+  "timestamp": "2026-08-13T23:38:13.303075308Z",
+  "model": "glm-5.2"
+}

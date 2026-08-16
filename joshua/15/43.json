@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 15:43",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و یِفْتاح، و اَشْنه، و نَصیو.",
+  "tokens": [
+    {
+      "surface": "וְיִפְתָּ֥ח",
+      "gloss": "و یِفْتاح"
+    },
+    {
+      "surface": "וְאַשְׁנָ֖ה",
+      "gloss": "و اَشْنه"
+    },
+    {
+      "surface": "וּנְצִֽיב",
+      "gloss": "و نَصیو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:57:57.781394555Z",
+  "model": "glm-5.2"
+}

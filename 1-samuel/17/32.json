@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 17:32",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "و داوود به شائول گفت: دلِ هیچ‌کس بر او نیفتد؛ بنده‌ات خواهد رفت و با این پلِشتی بجنگد.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "بیفتد"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دلِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "کسی"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر او"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "بنده‌ات"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "خواهد رفت"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "و بجنگد"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "پلِشتیِ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    }
+  ],
+  "timestamp": "2026-08-13T21:12:34.101310453Z",
+  "model": "glm-5.2"
+}

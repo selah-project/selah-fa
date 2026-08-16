@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و عِوِر چهار و سی سال زیست، و ⟨את⟩ پَلِگ را زایید.",
+  "tokens": [
+    {
+      "surface": "וַֽיְחִי",
+      "gloss": "و زیست"
+    },
+    {
+      "surface": "עֵ֕בֶר",
+      "gloss": "عِوِر"
+    },
+    {
+      "surface": "אַרְבַּ֥ע",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "וּשְׁלֹשִׁ֖ים",
+      "gloss": "و سی"
+    },
+    {
+      "surface": "שָׁנָ֑ה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וַיּ֖וֹלֶד",
+      "gloss": "و زایید"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "پَلِگ"
+    },
+    {
+      "surface": "פָּֽלֶג",
+      "gloss": "پَلِگ"
+    }
+  ],
+  "timestamp": "2026-08-13T19:57:35.578626500Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 96,
+  "translation": "شاد شوند آسمان‌ها و به‌رود زمین؛ غریش کند دریا و پریِ آن.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "شاد شوند"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمان‌ها"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "و به‌رود"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "غریش کند"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "و پریِ آن"
+    }
+  ],
+  "timestamp": "2026-08-13T22:50:49.814769631Z",
+  "model": "glm-5.2"
+}

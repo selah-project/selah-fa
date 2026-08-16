@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 96:9",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 96,
+  "translation": "به یاهوه سجده کنید در زیباییِ قدس؛ از برابرِ او بلرزد همهٔ زمین.",
+  "tokens": [
+    {
+      "surface": "השתחוו",
+      "gloss": "سجده کنید"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "به یاهوه"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "در زیباییِ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قدس"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "بلرزد"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "از برابرِ او"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T22:50:49.814346834Z",
+  "model": "glm-5.2"
+}

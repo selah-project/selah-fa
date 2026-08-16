@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 27:6",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و یاهوه به موشه سخن گفت، به بیان:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به بیان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:40:25.560095908Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 1:6",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "برای شیمئون، شَلومی‌اِل پسر تسوری‌شدّای.",
+  "tokens": [
+    {
+      "surface": "לשמעון",
+      "gloss": "برای شیمئون"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "شَلومی‌اِل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "تسوری‌شدّای"
+    }
+  ],
+  "timestamp": "2026-08-13T20:30:17.010920168Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 27:19",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "نفرین‌باد ⟨کسی که⟩ دادِ بیگانه و یتیم و بیوه را منحرف می‌کند، و همهٔ قوم بگویند آمین.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "نفرین‌باد"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "منحرف می‌کند"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "دادِ"
+    },
+    {
+      "surface": "גר",
+      "gloss": "بیگانه"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "و یتیم"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "و بیوه"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و بگویند"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمین"
+    }
+  ],
+  "timestamp": "2026-08-13T20:51:13.723474645Z",
+  "model": "glm-5.2"
+}

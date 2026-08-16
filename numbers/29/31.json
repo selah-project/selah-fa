@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 29:31",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و بزِ چاق یک، جدا از سوختنیِ همیشگی، هدیهٔ آن و نوشیدنی‌های آن",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "و بزِ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "گناه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "جدا از"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "سوختنیِ"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "همیشگی"
+    },
+    {
+      "surface": "מנחתה",
+      "gloss": "هدیهٔ آن"
+    },
+    {
+      "surface": "ונסכיה",
+      "gloss": "و نوشیدنی‌های آن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:40:13.883937998Z",
+  "model": "glm-5.2"
+}

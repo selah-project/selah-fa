@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و اَوراهام هفت میشِ گله را ⟨את⟩ جدا برپا داشت.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "و برپا داشت"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراهام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هفت میشِ گله"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "میش"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "گله"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "جدا"
+    }
+  ],
+  "timestamp": "2026-08-13T19:59:36.027748644Z",
+  "model": "glm-5.2"
+}

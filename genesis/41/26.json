@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 41:26",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 41,
+  "translation": "هفت گاوِ نیکو، هفت سال ⟨هستند⟩؛ و هفت خوشهٔ نیکو، هفت سال ⟨هستند⟩؛ خوابِ یکی ⟨است⟩.",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "گاوِ"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "نیکو"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "آن‌ها ⟨هستند⟩"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "و هفت"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "خوشه‌های"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "نیکو"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "آن‌ها ⟨هستند⟩"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "خوابِ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او ⟨است⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T20:05:42.849885719Z",
+  "model": "glm-5.2"
+}

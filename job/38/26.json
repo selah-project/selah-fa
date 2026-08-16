@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 38:26",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 38,
+  "translation": "تا بر زمینی که انسانی در آن نیست ببارد، بیابانی که آدمی در او نیست،",
+  "tokens": [
+    {
+      "surface": "להמטיר",
+      "gloss": "تا ببارد"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "איש",
+      "gloss": "انسانی"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بیابانی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:14:27.622950461Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 4:11",
+  "book": "2-kings",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "روزی شد و او به آنجا آمد و به سوی آن اتاق رفت و در آنجا خوابید.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روزِ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "و آمد"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "به آنجا"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "و رفت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سویِ"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "اتاقِ"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "و خوابید"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "در آنجا"
+    }
+  ],
+  "timestamp": "2026-08-13T21:33:32.490731744Z",
+  "model": "glm-5.2"
+}

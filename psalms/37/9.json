@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 37:9",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "که بدكاران قطع شوند، و منتظران یاهوه، ایشان زمین را به میراث برند.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "بدكاران"
+    },
+    {
+      "surface": "יכרתון",
+      "gloss": "قطع شوند"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "و منتظرانِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ایشان"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "به میراث برند"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین را"
+    }
+  ],
+  "timestamp": "2026-08-13T22:41:55.300965774Z",
+  "model": "glm-5.2"
+}

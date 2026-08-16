@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و گفت پادشاه به زن: برو به خانهٔ خود، و من دربارهٔ تو فرمان خواهم داد.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "زن"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "برو"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "به خانهٔ خود"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "و من"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "فرمان خواهم داد"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "دربارهٔ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T21:19:47.438006322Z",
+  "model": "glm-5.2"
+}

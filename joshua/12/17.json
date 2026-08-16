@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 12:17",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "پادشاهِ تَپّوَح، یک؛ پادشاهِ حِفِر، یک؛",
+  "tokens": [
+    {
+      "surface": "מֶ֤לֶךְ",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "תַּפּ֨וּחַ֙",
+      "gloss": "تَپّوَح"
+    },
+    {
+      "surface": "אֶחָ֔ד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "חֵ֖פֶר",
+      "gloss": "حِفِر"
+    },
+    {
+      "surface": "אֶחָֽד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-08-13T20:56:41.730442862Z",
+  "model": "glm-5.2"
+}

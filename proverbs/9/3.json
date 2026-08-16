@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "فرستاد، کنیزانش را؛ ندا می‌کند، برِ پشتِ بلندی‌هایِ شهر.",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "فرستاد"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "کنیزانش را"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ندا می‌کند"
+    },
+    {
+      "surface": "על",
+      "gloss": "برِ"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "پشتِ"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "بلندی‌هایِ"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "شهر"
+    }
+  ],
+  "timestamp": "2026-08-13T23:01:06.782786661Z",
+  "model": "glm-5.2"
+}

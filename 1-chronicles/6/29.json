@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 6:29",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و پسرانِ مْراری، برادرانِ ایشان، در سمتِ چپ: اِیتان پسرِ قیشی، پسرِ عَبدی، پسرِ مَلوخ",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مْراری"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "برادرانِ ایشان"
+    },
+    {
+      "surface": "על",
+      "gloss": "در"
+    },
+    {
+      "surface": "השמאול",
+      "gloss": "سمتِ چپ"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "اِیتان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "קישי",
+      "gloss": "قیشی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "عَبدی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "مَلوخ"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:56.807764123Z",
+  "model": "glm-5.2"
+}

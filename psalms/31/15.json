@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و منِ من بر تو توکل کردم، یاهوه؛ گفتم: «الوهیمِ من، تو ⟨هستی⟩.»",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "و منِ من"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "بر تو"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "توکل کردم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "گفتم"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوهیمِ من"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:41:05.204605840Z",
+  "model": "glm-5.2"
+}

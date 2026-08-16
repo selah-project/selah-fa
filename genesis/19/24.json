@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 19:24",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و یاهوه بر سدوم و بر عموره گوگرد و آتش بارید، از ⟨جانبِ⟩ یاهوه، از آسمان‌ها.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "و یاهوه"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "بارید"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "سدوم"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "عموره"
+    },
+    {
+      "surface": "גפרית",
+      "gloss": "گوگرد"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "و آتش"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمان‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T19:59:18.558987428Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "ref": "2-kings 7:20",
+  "lang": "fa",
+  "book": "2-kings",
+  "chapter": 7,
+  "verse": 20,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:47:37Z",
+  "translation": "و برای او چنین شد: قوم ⟨את⟩ او را در دروازه پایمال کردند و مرد.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برای او"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "و پایمال کردند"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "او"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "در دروازه"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    }
+  ]
+}

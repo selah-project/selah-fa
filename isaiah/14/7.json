@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "isaiah 14:7",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "آرام گشت، سکوت گرفته است تمامِ زمین؛ سرودِ شادی سر داده‌اند.",
+  "tokens": [
+    {
+      "surface": "נחה",
+      "gloss": "آرام گشت"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "سکوت گرفته است"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "سر داده‌اند"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "سرودِ شادی"
+    }
+  ],
+  "timestamp": "2026-08-15T04:07:26.896769303Z",
+  "model": "glm-5.3"
+}

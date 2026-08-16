@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 2:35",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و شِشان ⟨את⟩ دخترِ خود را به یَرْحا، غلامِ خود، برای همسری داد، و برای او ⟨את⟩ عَتّای را زایید.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "و داد"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "شِشان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دخترِ خود"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "دخترِ خود"
+    },
+    {
+      "surface": "לירחע",
+      "gloss": "به یَرْحا"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "غلامِ خود"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "برای همسری"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "و زایید"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برای او"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عَتّای"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "عَتّای"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:18.600031128Z",
+  "model": "glm-5.2"
+}

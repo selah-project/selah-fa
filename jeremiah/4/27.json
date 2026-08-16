@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 4:27",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "زیرا چنین گفت یاهوه: ویران‌مانده خواهد بود تمام زمین، و کمالش را نخواهم کرد.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "כה",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ویران‌مانده"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "خواهد بود"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "و کمالش را"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "خواهم کرد"
+    }
+  ],
+  "timestamp": "2026-08-13T21:57:19.228095514Z",
+  "model": "glm-5.2"
+}

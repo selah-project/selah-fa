@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 11:1",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و یِفتَح گیلعادی مردِ دلاورِ توانا بود، و او پسرِ زنی روسپی بود، و گیلعاد ⟨את⟩ یِفتَح را زاد.",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "و یِفتَح"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "گیلعادی"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "دلاور"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "توانا"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "و او"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زنی"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "روسپی"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و زاد"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گیلعاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِفتَح"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "یِفتَح را"
+    }
+  ],
+  "timestamp": "2026-08-13T21:05:09.974331628Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 139,
+  "translation": "پشت و پیش ⟨مرا⟩ فشرده‌ای، و کفِ ⟨دست⟩ت را بر من گذاشتی.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "پشت"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "و پیش"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "فشرده‌ای‌مرا"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "و گذاشتی"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "کفِ دستِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:57:39.977251493Z",
+  "model": "glm-5.2"
+}

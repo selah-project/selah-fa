@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 37:15",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "و شد سخنِ یاهوه به سویِ من، به‌قولِ:",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֥י",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "דְבַר",
+      "gloss": "سخنِ"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֵלַ֥י",
+      "gloss": "به سویِ من"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "به‌قولِ"
+    }
+  ],
+  "timestamp": "2026-08-13T22:22:20.383068468Z",
+  "model": "glm-5.2"
+}

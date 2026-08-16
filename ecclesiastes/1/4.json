@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "نسلی می‌رود و نسلی می‌آید، و زمین تا ابدالاباد ایستاده ⟨می‌ماند⟩.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "نسلی"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "می‌رود"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "و نسلی"
+    },
+    {
+      "surface": "בא",
+      "gloss": "می‌آید"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "و زمین"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "تا ابدالاباد"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "ایستاده"
+    }
+  ],
+  "timestamp": "2026-08-13T23:19:46.324066096Z",
+  "model": "glm-5.2"
+}

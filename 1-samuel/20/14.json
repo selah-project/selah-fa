@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "1-samuel 20:14",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "و نه ⟨تنها⟩ آنگاه که هنوز زنده‌ام، محبتِ یاهوه را با من بکنی — و نه آنکه بمیرم؛",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "עודני",
+      "gloss": "هنوز من"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زنده"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "بکنی"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "با من"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "محبت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "بمیرم"
+    }
+  ],
+  "timestamp": "2026-08-15T08:10:00.637340486Z",
+  "model": "glm-5.3"
+}

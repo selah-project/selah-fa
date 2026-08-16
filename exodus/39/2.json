@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 39,
+  "translation": "و ⟨את⟩ ایفود را ساخت، از زر، ته‌آبی و ارغوانی و کرم سرخ و کتانِ پیچیده.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و ساخت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایفود"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ایفود"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زر"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ته‌آبی"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "و ارغوانی"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "و کرم"
+    },
+    {
+      "surface": "שני",
+      "gloss": "سرخ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "و کتان"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "پیچیده"
+    }
+  ],
+  "timestamp": "2026-08-13T20:21:17.000563998Z",
+  "model": "glm-5.2"
+}

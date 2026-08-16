@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 14:17",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "کوتاه‌خشم ⟨∣⟩ نابخردانی می‌کند، و مردِ مکرها نفرت‌انگیز است.",
+  "tokens": [
+    {
+      "surface": "קצר",
+      "gloss": "کوتاه"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "خشم‌ها"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "می‌کند"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "نابخردانی"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "و مردِ"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "مکرها"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "نفرت‌انگیز است"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:00.525187537Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 5:18",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "به سببِ کوهِ تسیون ⟨که⟩ ویران ⟨است⟩، شغال‌ها در آن می‌گشتند.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "به سببِ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کوهِ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "تسیون"
+    },
+    {
+      "surface": "ששמם",
+      "gloss": "ویران"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "شغال‌ها"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "می‌گشتند"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در آن"
+    }
+  ],
+  "timestamp": "2026-08-13T23:19:31.644351845Z",
+  "model": "glm-5.2"
+}

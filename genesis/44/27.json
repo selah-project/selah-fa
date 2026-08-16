@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 44:27",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 44,
+  "translation": "و غلام تو، پدرم، به ما گفت: شما می‌دانید که زن من دو پسر برایم زاده است،",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "غلام تو"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پدرم"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "به ما"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "شما"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "می‌دانید"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "زاده است"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برایم"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "زن من"
+    }
+  ],
+  "timestamp": "2026-08-13T20:08:04.699226914Z",
+  "model": "glm-5.2"
+}

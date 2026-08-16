@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "که هم بارهاں بسیار دلت دانست ‹که› هم تو ⟨את⟩ دیگران را ناسزا گفتی.",
+  "tokens": [
+    {
+      "surface": "כִּ֛י",
+      "gloss": "که"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "פְּעָמִ֥ים",
+      "gloss": "بارها"
+    },
+    {
+      "surface": "רַבּ֖וֹת",
+      "gloss": "بسیار"
+    },
+    {
+      "surface": "יָדַ֣ע",
+      "gloss": "دانست"
+    },
+    {
+      "surface": "לִבֶּ֑ךָ",
+      "gloss": "دلت"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "که"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناسزایی تو بر دیگران"
+    },
+    {
+      "surface": "קִלַּ֥לְתָּ",
+      "gloss": "ناسزا گفتی"
+    },
+    {
+      "surface": "אֲחֵרִֽים",
+      "gloss": "دیگران"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:51.637442001Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "دیدی، ای یاهوه! خاموش مباش؛ ای اَدونای، از من دور مباش!",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "دیدی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ای یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مباش"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "خاموش"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ای اَدونای"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مباش"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "دور"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "از من"
+    }
+  ],
+  "timestamp": "2026-08-13T22:41:46.604642822Z",
+  "model": "glm-5.2"
+}

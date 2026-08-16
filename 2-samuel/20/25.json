@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 20:25",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "وشیا کاتب، و تصدوق و ابیاتر کاهنان بودند.",
+  "tokens": [
+    {
+      "surface": "ושיא",
+      "gloss": "و شیا"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "کاتب"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "و تصدوق"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "و ابیاتر"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "کاهنان"
+    }
+  ],
+  "timestamp": "2026-08-13T21:21:32.978752862Z",
+  "model": "glm-5.2"
+}

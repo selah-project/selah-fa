@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 23:14",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "تو با چوب او را می‌زنی و جانِ او را از شیئول رها می‌کنی.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "با چوب"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "او را می‌زنی"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "و جانِ او"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "از شیئول"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "رها می‌کنی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:20.555577176Z",
+  "model": "glm-5.2"
+}

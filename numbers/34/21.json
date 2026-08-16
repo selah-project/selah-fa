@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 34:21",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 34,
+  "translation": "برای سبطِ بینیامین، اَلیداد پسرِ کیسلون.",
+  "tokens": [
+    {
+      "surface": "לְמַטֵּה",
+      "gloss": "برای سبطِ"
+    },
+    {
+      "surface": "בִנְיָמִן",
+      "gloss": "بینیامین"
+    },
+    {
+      "surface": "אֱלִידָד",
+      "gloss": "اَلیداد"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "כִּסְלֹון",
+      "gloss": "کیسلون"
+    }
+  ],
+  "timestamp": "2026-08-13T20:42:07.329556478Z",
+  "model": "glm-5.2"
+}

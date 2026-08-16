@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و کوش ⟨את⟩ نمرود را زاد؛ او آغاز کرد به گِبر بودن در زمین.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "و کوش"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نمرود"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "نمرود"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "החל",
+      "gloss": "آغاز کرد"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "به بودن"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "گِبر"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "در زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:00.995916909Z",
+  "model": "glm-5.2"
+}

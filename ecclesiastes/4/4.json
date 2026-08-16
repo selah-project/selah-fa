@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و دیدم من ⟨את⟩ همهٔ رنج‌ها را و ⟨את⟩ همهٔ کامیابیِ کار را، که آن رشکِ مردی از همسایه‌اش است؛ همچنین این هُبَل و رنجِ جان است.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "و دیدم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همهٔ رنج‌ها"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "رنج‌ها"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "همهٔ کامیابیِ کار"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "کامیابیِ"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "היא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "رشکِ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "از همسایه‌اش"
+    },
+    {
+      "surface": "גם",
+      "gloss": "همچنین"
+    },
+    {
+      "surface": "זה",
+      "gloss": "این"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هُبَل"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "و رنجِ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "جان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:26.563787074Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و ⟨את⟩ رَسِن، میانِ نینِوه و میانِ کَلَح؛ او ⟨است⟩ آن شهرِ بزرگ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "رَسِن"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "رَسِن"
+    },
+    {
+      "surface": "בין",
+      "gloss": "میانِ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "نینِوه"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "و میانِ"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "کَلَح"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "آن شهرِ"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "بزرگ"
+    }
+  ],
+  "timestamp": "2026-08-13T19:57:10.065855249Z",
+  "model": "glm-5.2"
+}

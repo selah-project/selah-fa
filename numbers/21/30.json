@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "numbers 21:30",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و نیرِ آنان نابود شد — حشبون تا دیبون، و ویرانشان کردیم تا نوفَح، که تا مِیدبا می‌رسد.",
+  "tokens": [
+    {
+      "surface": "ונירם",
+      "gloss": "و نیرِ آنان"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "نابود شد"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "حشبون"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "دیبون"
+    },
+    {
+      "surface": "وנשים",
+      "gloss": "و ویرانشان کردیم"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "נפח",
+      "gloss": "نوفَح"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מידבא",
+      "gloss": "مِیدبا"
+    }
+  ],
+  "timestamp": "2026-08-15T03:53:06.961796579Z",
+  "model": "glm-5.3"
+}

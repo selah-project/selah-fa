@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "و بز بر خودِ ⟨את⟩ همهٔ گناهانِ آنها را به سرزمینِ جداافتاده برد، و بز را به بیابان رها کند.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "و برد"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "بز"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر خودِ او"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همهٔ گناهانِ آنها"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "گناهانِ آنها"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "سرزمینِ"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "جداافتاده"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "و رها کند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بز"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "بز"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "در بیابان"
+    }
+  ],
+  "timestamp": "2026-08-15T03:51:28.046000129Z",
+  "model": "glm-5.3"
+}

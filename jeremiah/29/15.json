@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "زیرا گفتید برانگیخته است برای ما یاهوه انبیا را در بابل،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "گفتید"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "برانگیخته است"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "برای ما"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "انبیا"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "در بابل"
+    }
+  ],
+  "timestamp": "2026-08-13T22:05:07.187811036Z",
+  "model": "glm-5.2"
+}

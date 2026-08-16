@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 32,
+  "translation": "که نامِ یاهوه را خواهم خواند، ببخشید بزرگی به الوهیمِ ما.",
+  "tokens": [
+    {
+      "surface": "כִּ֛י",
+      "gloss": "که"
+    },
+    {
+      "surface": "שֵׁ֥ם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֶקְרָ֑א",
+      "gloss": "خواهم خواند"
+    },
+    {
+      "surface": "הָב֥וּ",
+      "gloss": "ببخشید"
+    },
+    {
+      "surface": "גֹ֖דֶל",
+      "gloss": "بزرگی"
+    },
+    {
+      "surface": "לֵאלֹהֵֽינוּ",
+      "gloss": "به الوهیمِ ما"
+    }
+  ],
+  "timestamp": "2026-08-13T20:53:17.785459357Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "ref": "2-samuel 23:15",
+  "lang": "fa",
+  "book": "2-samuel",
+  "chapter": 23,
+  "verse": 15,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:55:53Z",
+  "translation": "و داوود آرزو کرد و گفت: «کیست که مرا آب بنوشاند از چاهِ بیت‌لَحِم که نزد دروازه ⟨است⟩؟»",
+  "tokens": [
+    {
+      "surface": "ויתאוה",
+      "gloss": "و آرزو کرد"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کیست که"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "مرا بنوشاند"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آب"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "از چاهِ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لَحِم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "نزد دروازه ⟨است⟩"
+    }
+  ]
+}

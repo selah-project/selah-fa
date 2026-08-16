@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 2:6",
+  "book": "song-of-songs",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "دستِ چپِ او زیرِ سرِ من، و دستِ راستِ او در آغوشِ ⟨می‌گیرد⟩ مرا.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "دستِ چپِ او"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "زیرِ"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "سرِ من"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "و دستِ راستِ او"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "در آغوشِ می‌گیرد مرا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:15:50.389692234Z",
+  "model": "glm-5.2"
+}

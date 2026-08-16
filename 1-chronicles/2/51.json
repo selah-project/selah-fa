@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 2:51",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "شَلْما پدرِ بَیت لَحِم، حارِف پدرِ بَیت گادِر.",
+  "tokens": [
+    {
+      "surface": "שלמא",
+      "gloss": "شَلْما"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پدرِ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بَیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لَحِم"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "حارِف"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پدرِ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بَیت"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "گادِر"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:14.687409494Z",
+  "model": "glm-5.2"
+}

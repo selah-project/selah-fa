@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "در روزِ نخست، فراخوانِ مقدّس برای شما خواهد بود؛ هر کارِ خدمت نکنید.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "نخست"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "فراخوانِ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدّس"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "خواهد بود"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "برای شما"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "کارِ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "خدمت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه \/ نکنید"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "بکنید"
+    }
+  ],
+  "timestamp": "2026-08-13T20:28:32.652030524Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "ezra 2:49",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "پسرانِ عُزّا، پسرانِ پاسِئَح، پسرانِ بِسای",
+  "tokens": [
+    {
+      "surface": "בְּנֵי",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "עֻזָּ֥א",
+      "gloss": "عُزّا"
+    },
+    {
+      "surface": "בְנֵי",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "פָסֵ֖חַ",
+      "gloss": "پاسِئَح"
+    },
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "בֵסָֽי",
+      "gloss": "بِسای"
+    }
+  ],
+  "timestamp": "2026-08-13T23:28:53.882607516Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 51:42",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 51,
+  "translation": "برخاسته است بر بابِل دریا؛ با هیاهوی موج‌هایش پوشیده شد.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "برخاسته است"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابِل"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "با هیاهویِ"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "موج‌هایش"
+    },
+    {
+      "surface": "نכסתה",
+      "gloss": "پوشیده شد"
+    }
+  ],
+  "timestamp": "2026-08-13T22:11:01.300009497Z",
+  "model": "glm-5.2"
+}

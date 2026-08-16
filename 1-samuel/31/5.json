@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و دید ناقلِ اسلحه‌اش که مُرده بود شائول، و افتاد نیز او بر شمشیرِ خود و مُرد با او.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "و دید"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ناقلِ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "اسلحه‌اش"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مُرده بود"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "و افتاد"
+    },
+    {
+      "surface": "גם",
+      "gloss": "نیز"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "شمشیرِ خود"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و مُرد"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "با او"
+    }
+  ],
+  "timestamp": "2026-08-13T21:16:47.649706141Z",
+  "model": "glm-5.2"
+}

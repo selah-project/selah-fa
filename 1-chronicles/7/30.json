@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 7:30",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "پسرانِ آشِر: یِمنه و یِشوه و یِشوی و بَریعه و سِراخ، خواهرِ آنان.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آشِر"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "یِمنه"
+    },
+    {
+      "surface": "וישוה",
+      "gloss": "و یِشوه"
+    },
+    {
+      "surface": "וישוי",
+      "gloss": "و یِشوی"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "و بَریعه"
+    },
+    {
+      "surface": "ושרח",
+      "gloss": "و سِراخ"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "خواهرِ آنان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:29.762151983Z",
+  "model": "glm-5.2"
+}

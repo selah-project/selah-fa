@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "جانِ مرا با گناهکاران گرد آور، و زندگیِ مرا با مردانِ خون‌ریز،",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "گرد آور"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "گناهکاران"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "جانِ من"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "و با"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "مردانِ"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "خون‌ریز"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "زندگیِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T22:40:22.570396313Z",
+  "model": "glm-5.2"
+}

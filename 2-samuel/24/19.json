@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 24:19",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و داوود بالا رفت بر اساس سخن گاد، چنان‌که یاهوه فرمان داده بود.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "و بالا رفت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "بر اساس سخن"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چنان‌که"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فرمان داده بود"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T21:23:41.758550442Z",
+  "model": "glm-5.2"
+}

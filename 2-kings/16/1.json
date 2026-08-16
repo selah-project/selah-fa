@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 16:1",
+  "book": "2-kings",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "در سالِ هفدهمِ پِکاح بنِ رَمَلیاهو، اَخاز بنِ یوتام پادشاهِ یهودا پادشاه شد.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "در سالِ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ده"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "לפקח",
+      "gloss": "پِکاح"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بنِ"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "رَمَلیاهو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاه شد"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "اَخاز"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بنِ"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "یوتام"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    }
+  ],
+  "timestamp": "2026-08-13T21:37:47.519876325Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و موشه به‌سویِ مردم فرود آمد، و با آنان سخن گفت.",
+  "tokens": [
+    {
+      "surface": "וַיֵּ֥רֶד",
+      "gloss": "و فرود آمد"
+    },
+    {
+      "surface": "מֹשֶׁ֖ה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "به‌سویِ"
+    },
+    {
+      "surface": "הָעָ֑ם",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "וַיֹּ֖אמֶר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "אֲלֵהֶֽם",
+      "gloss": "با آنان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:14:03.448304920Z",
+  "model": "glm-5.2"
+}

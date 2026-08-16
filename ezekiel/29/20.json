@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 29:20",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "پاداشِ او که در آن کار کرد، به او داده‌ام: ⟨את⟩ زمینِ مِصر را، که برای من کردند، گفتارِ اَدونای یاهوه.",
+  "tokens": [
+    {
+      "surface": "פעלתו",
+      "gloss": "پاداشِ او"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "کار کرد"
+    },
+    {
+      "surface": "בה",
+      "gloss": "در آن"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "داده‌ام"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمین مِصر"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینِ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِصر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کردند"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برای من"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "گفتارِ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:19:42.763216445Z",
+  "model": "glm-5.2"
+}

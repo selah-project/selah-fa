@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "زیاده صدیق مباش، و زیاده حکیم مشو؛ چرا ویران شوی؟",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مباش"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "باش"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صدیق"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "زیاده"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و مشو"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "حکیم شو"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "زیاده"
+    },
+    {
+      "surface": "למה",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "ویران شوی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:51.415535442Z",
+  "model": "glm-5.2"
+}

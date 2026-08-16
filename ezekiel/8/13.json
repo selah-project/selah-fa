@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 8:13",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و ⟨او⟩ به من گفت: باز بازگرد تا ⟨تو⟩ ببینی، تخفیف‌های بزرگ ⟨که⟩ آنان می‌کنند.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "باز"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "بازگرد"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ببینی"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "تخفیف‌ها"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "המה",
+      "gloss": "آنان"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "می‌کنند"
+    }
+  ],
+  "timestamp": "2026-08-13T22:14:04.865150598Z",
+  "model": "glm-5.2"
+}

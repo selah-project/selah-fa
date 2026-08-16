@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 19:14",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و یوآب و قومی که با او بودند، نزدیک شدند به حضورِ آرام برای جنگ، و از حضورِ او گریختند.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "و نزدیک شد"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "و قوم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "با او"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "به حضورِ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "آرام"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "برای جنگ"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "و گریختند"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "از حضورِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:45.423945085Z",
+  "model": "glm-5.2"
+}

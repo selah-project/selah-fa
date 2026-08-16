@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 12:24",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "زیرا دیگر نباشد هر دیدنِ پوچ و فالِ نرم، در میان بیت یِسرائیل.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "نباشد"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیگر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "دیدن"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "پوچ"
+    },
+    {
+      "surface": "ומקסם",
+      "gloss": "و فال"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "نرم"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "در میان"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-13T22:13:59.881452113Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "psalms 89:21",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 89,
+  "translation": "داوودِ بندهٔ خود را یافتم؛ با روغنِ قدسیِ خود او را مسح کردم.",
+  "tokens": [
+    {
+      "surface": "מצאתי",
+      "gloss": "یافتم"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "بندهٔ خود"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "با روغن"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "قدسیِ خود"
+    },
+    {
+      "surface": "משחתיו",
+      "gloss": "او را مسح کردم"
+    }
+  ],
+  "timestamp": "2026-08-15T04:24:23.538948646Z",
+  "model": "glm-5.3"
+}

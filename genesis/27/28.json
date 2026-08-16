@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 27:28",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و الوهیم بدهد به تو از شبنم آسمان‌ها و از چربی‌های زمین، و فراوانی غله و موست.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "و بدهد"
+    },
+    {
+      "surface": "לך",
+      "gloss": "به تو"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "מטל",
+      "gloss": "از شبنم"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمان‌ها"
+    },
+    {
+      "surface": "ומשמני",
+      "gloss": "و از چربی‌های"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "و فراوانی"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "غله"
+    },
+    {
+      "surface": "ותירש",
+      "gloss": "و موست"
+    }
+  ],
+  "timestamp": "2026-08-13T20:02:48.568037426Z",
+  "model": "glm-5.2"
+}

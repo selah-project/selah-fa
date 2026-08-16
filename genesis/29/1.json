@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و یاعکوو پای‌هایش را برداشت و رفت به سوی زمین پسرانِ شرق.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "و برداشت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعکوو"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "پاهایش را"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "و رفت"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "به سوی زمین"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسران"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "شرق"
+    }
+  ],
+  "timestamp": "2026-08-13T20:02:26.676892275Z",
+  "model": "glm-5.2"
+}

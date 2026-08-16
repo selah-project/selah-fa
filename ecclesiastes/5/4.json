@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "بهتر است آنکه نذر نگزاری، از آنکه نذر گزاری و ادا نکنی.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بهتر است"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنکه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "نذر نگزاری"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "از آنکه نذر گزاری"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "ادا نکنی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:28.665634802Z",
+  "model": "glm-5.2"
+}

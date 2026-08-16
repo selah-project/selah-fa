@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "jeremiah 5:21",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "بشنوید اکنون این را، ای قومِ نادان و بی‌دل؛ چشمانی دارند و نمی‌بینند، گوش‌هایی دارند و نمی‌شنوند.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "بشنوید"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اکنون"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "این را"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ای قوم"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و بی‌"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "چشمانی"
+    },
+    {
+      "surface": "להם",
+      "gloss": "دارند"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نمی‌"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "بینند"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "گوش‌هایی"
+    },
+    {
+      "surface": "להם",
+      "gloss": "دارند"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نمی‌"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "شنوند"
+    }
+  ],
+  "timestamp": "2026-08-15T04:11:07.450768529Z",
+  "model": "glm-5.3"
+}

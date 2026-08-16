@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 10:3",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "زیرا فرمان‌های امّت‌ها پوچ است؛ زیرا درختی از جنگل بریده‌اند، کارِ دست‌های صنعتگر با تَبر.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "فرمان‌های"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "امّت‌ها"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "پوچ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "است"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "درختی"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "از جنگل"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "بریده‌اند"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کارِ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "دست‌های"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "صنعتگر"
+    },
+    {
+      "surface": "במעצד",
+      "gloss": "با تَبر"
+    }
+  ],
+  "timestamp": "2026-08-13T21:58:52.633326137Z",
+  "model": "glm-5.2"
+}

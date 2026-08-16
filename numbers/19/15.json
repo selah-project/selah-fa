@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 19:15",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و هر ظرفِ بازِ که بندِ نَهاده‌شده بر آن نباشد، او نجس است.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ظرفِ"
+    },
+    {
+      "surface": "پתוח",
+      "gloss": "بازِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه"
+    },
+    {
+      "surface": "צמיד",
+      "gloss": "بندِ"
+    },
+    {
+      "surface": "پתיל",
+      "gloss": "نَهاده‌شده"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر او"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او است"
+    }
+  ],
+  "timestamp": "2026-08-13T20:37:45.429397971Z",
+  "model": "glm-5.2"
+}

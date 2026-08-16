@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "باشند برای تو، تنها برای تو، و نباشد برای غریبه‌ها ⟨את⟩ همراهِ تو.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "باشند"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برای تو"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "تنها برای تو"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نباشد"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "برای غریبه‌ها"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "همراهِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:59:57.943873612Z",
+  "model": "glm-5.2"
+}

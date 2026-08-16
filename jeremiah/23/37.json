@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 23:37",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "چنین بگوی به نبی: چه پاسخت داد یاهوه، و چه گفت یاهوه؟",
+  "tokens": [
+    {
+      "surface": "כֹּ֥ה",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "תֹאמַ֖ר",
+      "gloss": "بگوی"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "به"
+    },
+    {
+      "surface": "הַנָּבִ֑יא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "מֶה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "עָנָ֣ךְ",
+      "gloss": "پاسخت داد"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "וּמַה",
+      "gloss": "و چه"
+    },
+    {
+      "surface": "דִּבֶּ֖ר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:02:50.367820134Z",
+  "model": "glm-5.2"
+}

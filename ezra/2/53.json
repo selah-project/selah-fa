@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "ezra 2:53",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "پسرانِ بارقوس، پسرانِ سیسرا، پسرانِ تَماخ،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "ברקוס",
+      "gloss": "بارقوس"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "سیسرا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "تَماخ"
+    }
+  ],
+  "timestamp": "2026-08-13T23:28:51.219991940Z",
+  "model": "glm-5.2"
+}

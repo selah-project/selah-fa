@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "و برخاست اَوراهام، و تعظیم کرد به‌ پیشِ مردمِ زمین، به پسرانِ حِت.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "و برخاست"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراهام"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "و تعظیم کرد"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "به مردمِ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "به پسرانِ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "حِت"
+    }
+  ],
+  "timestamp": "2026-08-13T20:00:23.232397389Z",
+  "model": "glm-5.2"
+}

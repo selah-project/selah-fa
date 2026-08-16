@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 23:5",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "و اهُلِه زیرِ من زنا کرد، و هوس کرد بر عاشقانِ خود، به اَشّورِ نزدیکان.",
+  "tokens": [
+    {
+      "surface": "ותזן",
+      "gloss": "و زنا کرد"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "اهُلِه"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "زیرِ من"
+    },
+    {
+      "surface": "ותעגב",
+      "gloss": "و هوس کرد"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "عاشقانِ خود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اَشّور"
+    },
+    {
+      "surface": "קרובים",
+      "gloss": "نزدیکان"
+    }
+  ],
+  "timestamp": "2026-08-13T22:17:47.616996448Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 55,
+  "translation": "و گفتم: کی ⟨،⟩ به من بالی چون کبوتر خواهد داد؟ پرواز کنم و بیارامم.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "و گفتم"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "خواهد داد"
+    },
+    {
+      "surface": "לי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "بالی"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "چون کبوتر"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "پرواز کنم"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "و بیارامم"
+    }
+  ],
+  "timestamp": "2026-08-13T22:44:30.025058735Z",
+  "model": "glm-5.2"
+}

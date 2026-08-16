@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 13:4",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "بگیر ⟨את⟩ کمری را که خریدی، که بر کمرت است، و برخیز، به‌سویِ پَرات برو، و آن‌جا در شکافِ صخره پنهانش کن.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "بگیر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کمری"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "کمری"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "را-که"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "خریدی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "کمرت"
+    },
+    {
+      "surface": "וקום",
+      "gloss": "وبرخیز"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برو"
+    },
+    {
+      "surface": "פרתה",
+      "gloss": "به‌سویِ-پَرات"
+    },
+    {
+      "surface": "וטמנהو",
+      "gloss": "وپنهانش‌کن"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آن‌جا"
+    },
+    {
+      "surface": "בנקיק",
+      "gloss": "در-شکافِ"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "صخره"
+    }
+  ],
+  "timestamp": "2026-08-13T22:00:07.920150456Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و کسی که پدرش و مادرش را ناسزا گوید، مرگ اعدام شود.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "و کسی که ناسزا گوید"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پدرش"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "و مادرش"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرگ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "اعدام شود"
+    }
+  ],
+  "timestamp": "2026-08-13T20:16:14.985110679Z",
+  "model": "glm-5.2"
+}

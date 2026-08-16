@@ -1,0 +1,54 @@
+{
+  "tier": "4.6",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و پشیمان شد یاهوه که ساخت ⟨את⟩ آدم در زمین و اندوهگین شد به سوی قلبش",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "و پشیمان شد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ساخت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آدم"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "در زمین"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "و اندوهگین شد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "قلبش"
+    }
+  ],
+  "timestamp": "2026-08-15T03:29:57.477639611Z",
+  "model": "glm-4.6"
+}

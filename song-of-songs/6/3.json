@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "من برای دوستم هستم و دوستم برای من ⟨است⟩، ⟨ او ⟩ چراننده در سوسن‌ها.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "برای دوستم"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "و دوستم"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برای من"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "چراننده"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "در سوسن‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T23:15:50.279822185Z",
+  "model": "glm-5.2"
+}

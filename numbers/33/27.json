@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 33:27",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "و کوچ کردند از تاحَت، و اردو زدند در تَرَح.",
+  "tokens": [
+    {
+      "surface": "וַיִּסְעוּ",
+      "gloss": "و کوچ کردند"
+    },
+    {
+      "surface": "מִתָּחַת",
+      "gloss": "از تاحَت"
+    },
+    {
+      "surface": "וַיַּחֲנוּ",
+      "gloss": "و اردو زدند"
+    },
+    {
+      "surface": "בְּתָרַח",
+      "gloss": "در تَرَح"
+    }
+  ],
+  "timestamp": "2026-08-13T20:41:53.518138289Z",
+  "model": "glm-5.2"
+}

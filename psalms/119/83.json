@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 83,
+  "ref": "psalms 119:83",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 119,
+  "translation": "که شده‌ام مانندِ تشک در دود، فرمان‌هایت را فراموش نکردم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "شده‌ام"
+    },
+    {
+      "surface": "כנאד",
+      "gloss": "مانندِ تشک"
+    },
+    {
+      "surface": "בקיטור",
+      "gloss": "در دود"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "فرمان‌هایت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "فراموش کردم"
+    }
+  ],
+  "timestamp": "2026-08-13T22:55:41.328459739Z",
+  "model": "glm-5.2"
+}

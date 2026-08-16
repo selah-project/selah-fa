@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 10:23",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و پسرانِ اَرام: عوص و حول و گِتِر و ماش.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "اَرام"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "عوص"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "و حول"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "و گِتِر"
+    },
+    {
+      "surface": "ומש",
+      "gloss": "و ماش"
+    }
+  ],
+  "timestamp": "2026-08-13T19:57:01.605894102Z",
+  "model": "glm-5.2"
+}

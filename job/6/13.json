@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 6:13",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "آیا نیست یاوری در من، و توشیّه از من رانده ⟨شده⟩؟",
+  "tokens": [
+    {
+      "surface": "האם",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "یاورِ من"
+    },
+    {
+      "surface": "בי",
+      "gloss": "در من"
+    },
+    {
+      "surface": "ותשיה",
+      "gloss": "و توشیّه"
+    },
+    {
+      "surface": "נדחה",
+      "gloss": "رانده"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "از من"
+    }
+  ],
+  "timestamp": "2026-08-13T23:07:43.388164571Z",
+  "model": "glm-5.2"
+}

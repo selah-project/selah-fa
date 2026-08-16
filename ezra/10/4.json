@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 10:4",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "برخیز، که بر توست کار، و ما با تواییم؛ نیرومند باش و انجام بده!",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "برخیز"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "بر توست"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "کار"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "و ما"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "با تواییم"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "نیرومند باش"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "و انجام بده"
+    }
+  ],
+  "timestamp": "2026-08-13T23:30:51.090611249Z",
+  "model": "glm-5.2"
+}

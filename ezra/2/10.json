@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 2:10",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "پسرانِ بانی، ششصد و چهل و دو.",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "בָנִ֔י",
+      "gloss": "بانی"
+    },
+    {
+      "surface": "שֵׁ֥שׁ",
+      "gloss": "شش"
+    },
+    {
+      "surface": "מֵא֖וֹת",
+      "gloss": "صد"
+    },
+    {
+      "surface": "אַרְבָּעִ֥ים",
+      "gloss": "چهل"
+    },
+    {
+      "surface": "וּשְׁנָֽיִם",
+      "gloss": "و دو"
+    }
+  ],
+  "timestamp": "2026-08-13T23:28:05.746319246Z",
+  "model": "glm-5.2"
+}

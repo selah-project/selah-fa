@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 16:32",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "غریش کند دریا و پریِ آن؛ شادمان شود صحرا و همهٔ آنچه در اوست.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "غریش کند"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "ומלואו",
+      "gloss": "و پریِ آن"
+    },
+    {
+      "surface": "יעלץ",
+      "gloss": "شادمان شود"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "صحرا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و همهٔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنچه"
+    },
+    {
+      "surface": "בו",
+      "gloss": "در اوست"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:10.682540589Z",
+  "model": "glm-5.2"
+}

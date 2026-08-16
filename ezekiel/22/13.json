@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 22:13",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "واینک، من بر سودِ ناروای تو که به دست آوردی کف زدم، و بر خونِ تو که در میانِ تو بود.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "واینک"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "زدم"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "کفِ دستِ من"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "בצעך",
+      "gloss": "سودِ ناروای تو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "به دست آوردی"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "דמך",
+      "gloss": "خونِ تو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بود"
+    },
+    {
+      "surface": "בתוכך",
+      "gloss": "در میانِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:17:32.303597659Z",
+  "model": "glm-5.2"
+}

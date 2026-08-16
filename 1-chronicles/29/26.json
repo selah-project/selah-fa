@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 29:26",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و داوید پسرِ یِشای بر تمامِ یِسرائِیل پادشاهی کرد.",
+  "tokens": [
+    {
+      "surface": "וְדָוִיד֙",
+      "gloss": "و داوید"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "יִשָׁ֔י",
+      "gloss": "یِشای"
+    },
+    {
+      "surface": "מָלַ֖ךְ",
+      "gloss": "پادشاهی کرد"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "یِسرائِیل"
+    }
+  ],
+  "timestamp": "2026-08-13T23:42:52.657071544Z",
+  "model": "glm-5.2"
+}

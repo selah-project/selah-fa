@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 17:4",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "بدکار به لبِ اوَن گوش می‌سپارد، دروغ‌گو به زبانِ هلاکت گوش می‌دهد.",
+  "tokens": [
+    {
+      "surface": "מרע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "گوش می‌سپارد"
+    },
+    {
+      "surface": "על",
+      "gloss": "به"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "لبِ"
+    },
+    {
+      "surface": "און",
+      "gloss": "اوَن"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغ‌گو"
+    },
+    {
+      "surface": "מזין",
+      "gloss": "گوش می‌دهد"
+    },
+    {
+      "surface": "על",
+      "gloss": "به"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبانِ"
+    },
+    {
+      "surface": "הות",
+      "gloss": "هلاکت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:55.456069359Z",
+  "model": "glm-5.2"
+}

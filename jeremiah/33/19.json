@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 33:19",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "و دَبَرِ یاهوه به یِرمَیاهو ⟨به⟩، برای گفتن آمد.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دَبَر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمَیاهو"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "برای گفتن"
+    }
+  ],
+  "timestamp": "2026-08-14T00:07:14.125437654Z",
+  "model": "glm-5.2"
+}

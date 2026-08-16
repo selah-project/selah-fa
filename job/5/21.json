@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 5:21",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "از شلاقِ زبان پنهان خواهی شد، و از ویرانی نترسی هنگامی که بیاید.",
+  "tokens": [
+    {
+      "surface": "בשוט",
+      "gloss": "از شلاقِ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "תחבא",
+      "gloss": "پنهان خواهی شد"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "بترسی"
+    },
+    {
+      "surface": "משד",
+      "gloss": "از ویرانی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "بیاید"
+    }
+  ],
+  "timestamp": "2026-08-13T23:07:23.270394242Z",
+  "model": "glm-5.2"
+}

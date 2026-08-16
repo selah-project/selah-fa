@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 119,
+  "translation": "متکبّران برای من گودال‌ها کنده‌اند، که نه بر اساس تورات توست.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "کندند"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برای من"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "متکبّران"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "گودال‌ها"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "بر اساس تورات تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:55:42.613823286Z",
+  "model": "glm-5.2"
+}

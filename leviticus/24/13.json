@@ -1,0 +1,33 @@
+{
+  "tier": "4.6",
+  "verse": 13,
+  "ref": "leviticus 24:13",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و یاهوه ⟨ب⟩ موسه سخن گفت ⟨بیان‌کردن⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ب⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موسه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨بیان‌کردن⟩"
+    }
+  ],
+  "timestamp": "2026-08-15T03:51:56.301506788Z",
+  "model": "glm-4.6"
+}

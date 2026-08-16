@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 23:35",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "چنین بگویید، هر مرد به همسایهٔ خود و هر مرد به برادر خود: چه جواب داد یاهوه؟ و چه سخن گفت یاهوه؟",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "بگویید"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر مرد"
+    },
+    {
+      "surface": "על",
+      "gloss": "به"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "همسایهٔ خود"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "و هر مرد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برادر خود"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "جواب داد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "و چه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخن گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:02:46.004021360Z",
+  "model": "glm-5.2"
+}

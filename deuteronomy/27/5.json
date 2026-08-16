@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 27:5",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و آنجا مذباحی برای یاهوه الوهیمِ تو بسازی، مذبحی از سنگ‌ها؛ آهن را بر آن‌ها تَلَنّب نکنی.",
+  "tokens": [
+    {
+      "surface": "ובנית",
+      "gloss": "و بسازی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آنجا"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبحی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "برای یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "الوهیمِ تو"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبحی"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "از سنگ‌ها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "تلنّب کنی"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "بر آن‌ها"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "آهن را"
+    }
+  ],
+  "timestamp": "2026-08-13T20:50:39.547139683Z",
+  "model": "glm-5.2"
+}

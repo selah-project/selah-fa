@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 11:40",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "عیِرا هَیِتری گارِو هَیِتری",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "عیِرا"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "هَیِتری"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "گارِو"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "هَیِتری"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:47.161733852Z",
+  "model": "glm-5.2"
+}

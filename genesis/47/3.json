@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 47:3",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 47,
+  "translation": "و پَرعه به برادرانش گفت: کارِ شما چیست؟ و به پَرعه گفتند: چوپانِ گله، بندگانِ تو؛ هم ما هم پدرانِ ما.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پَرعه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برادرانش"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "מעשיכם",
+      "gloss": "کارِ شما"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "و گفتند"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پَرعه"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "چوپانِ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "گله"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "بندگانِ تو"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ما"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "پدرانِ ما"
+    }
+  ],
+  "timestamp": "2026-08-13T20:08:58.058580004Z",
+  "model": "glm-5.2"
+}

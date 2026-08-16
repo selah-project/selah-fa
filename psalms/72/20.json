@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 72,
+  "translation": "به پایان رسید دعاهای داوود پسرِ ییشای.",
+  "tokens": [
+    {
+      "surface": "כָּלּ֥וּ",
+      "gloss": "به پایان رسید"
+    },
+    {
+      "surface": "תְפִלּ֑וֹת",
+      "gloss": "دعاهای"
+    },
+    {
+      "surface": "דָּ֝וִ֗ד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "יִשָֽׁי",
+      "gloss": "ییشای"
+    }
+  ],
+  "timestamp": "2026-08-13T22:47:16.391352675Z",
+  "model": "glm-5.2"
+}

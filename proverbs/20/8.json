@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 20:8",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "پادشاهی که بر تختِ داوری می‌نشیند، با چشمانِ خود همهٔ بدی را می‌پراکند.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهی"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "که می‌نشیند"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تختِ"
+    },
+    {
+      "surface": "דין",
+      "gloss": "داوری"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "می‌پراکند"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "با چشمانِ خود"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بدی را"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:15.686283900Z",
+  "model": "glm-5.2"
+}

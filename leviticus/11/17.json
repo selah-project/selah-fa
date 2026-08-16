@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و ⟨את⟩ جغدِ کوچک و ⟨את⟩ باکلان و ⟨את⟩ جغدِ بزرگ،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "جغدِ کوچک"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "جغدِ کوچک"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "باکلان"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "باکلان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "جغدِ بزرگ"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "جغدِ بزرگ"
+    }
+  ],
+  "timestamp": "2026-08-13T20:24:24.893347224Z",
+  "model": "glm-5.2"
+}

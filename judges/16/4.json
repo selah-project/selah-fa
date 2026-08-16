@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 16:4",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "و پس از آن بود، و زنی را در وادیِ صُورِق دوست داشت، و نامِ او دلیله بود.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پس از"
+    },
+    {
+      "surface": "כן",
+      "gloss": "آن"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "و دوست داشت"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زنی را"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "در وادیِ"
+    },
+    {
+      "surface": "שרק",
+      "gloss": "صُورِق"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "و نامِ او"
+    },
+    {
+      "surface": "דלילה",
+      "gloss": "دلیله"
+    }
+  ],
+  "timestamp": "2026-08-13T21:06:42.648158125Z",
+  "model": "glm-5.2"
+}

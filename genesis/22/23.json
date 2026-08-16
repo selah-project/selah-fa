@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "و بَتوئیل رِبکا را زاد؛ این‌ها هشت ⟨هستند⟩ که میلکا برای ناحورِ برادرِ اَوراهام زاد.",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "و بَتوئیل"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ربکا"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "ربکا"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "هشت"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "میلکا"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "برای ناحور"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برادرِ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراهام"
+    }
+  ],
+  "timestamp": "2026-08-13T20:00:08.694429572Z",
+  "model": "glm-5.2"
+}

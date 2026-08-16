@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 17:11",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "و لاوی رضایت داد تا نزد ⟨את⟩ مرد بنشیند، و جوان برای او چون یکی از پسرانش شد.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "و رضایت داد"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "لاوی"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "تا بنشیند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مرد"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "جوان"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برای او"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "چون یکی"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "از پسرانش"
+    }
+  ],
+  "timestamp": "2026-08-13T21:06:01.808133118Z",
+  "model": "glm-5.2"
+}

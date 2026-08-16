@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 31:36",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و ⟨بود⟩ نیمه، سهمِ خروجانِ به لشکر، شمارِ گله‌ سه‌صد هزار و سی هزار و هفت هزار و پانصد.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "המחצה",
+      "gloss": "نیمه"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "سهم"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "خروجانِ"
+    },
+    {
+      "surface": "בצבא",
+      "gloss": "به لشکر"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "شمارِ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "گله‌"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سه‌صد"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "و سی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "و هفت"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "و پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:41:03.712887151Z",
+  "model": "glm-5.2"
+}

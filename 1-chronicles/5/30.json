@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "اِلعازار ⟨את⟩ پینهَس را زاد، پینهَس ⟨את⟩ اَویشوع را زاد.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "اِلعازار"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پینهَس"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "پینهَس"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "پینهَس"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَویشوع"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "اَویشوع"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:36.417734817Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 30:17",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "و الوهیم به لِئه گوش داد، و او باردار شد و برای یَعقُوو پسرِ پنجمین را زایید.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "و گوش داد"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لِئه"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "و باردار شد"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "و زایید"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "برای یَعقُوو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "پنجمین"
+    }
+  ],
+  "timestamp": "2026-08-13T20:02:56.880070672Z",
+  "model": "glm-5.2"
+}

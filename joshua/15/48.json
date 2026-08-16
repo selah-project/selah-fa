@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "joshua 15:48",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و در کوهستان: شامیر، و یَتیر، و سُکُّو؛",
+  "tokens": [
+    {
+      "surface": "וּבָהָ֑ר",
+      "gloss": "و در کوهستان"
+    },
+    {
+      "surface": "שָׁמִ֥יר",
+      "gloss": "شامیر"
+    },
+    {
+      "surface": "וְיַתִּ֖יר",
+      "gloss": "و یَتیر"
+    },
+    {
+      "surface": "וְשׂוֹכֹֽה",
+      "gloss": "و سُکّو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:58:03.168756824Z",
+  "model": "glm-5.2"
+}

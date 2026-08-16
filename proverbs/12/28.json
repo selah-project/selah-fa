@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "در راهِ صداقت، زندگی، و مسیرِ شگرف، نه مرگ.",
+  "tokens": [
+    {
+      "surface": "בְּאֹֽרַח",
+      "gloss": "در راهِ"
+    },
+    {
+      "surface": "צְדָקָ֥ה",
+      "gloss": "صداقت"
+    },
+    {
+      "surface": "חַיִּ֑ים",
+      "gloss": "زندگی"
+    },
+    {
+      "surface": "וְדֶ֖רֶךְ",
+      "gloss": "و مسیرِ"
+    },
+    {
+      "surface": "נְתִיבָ֣ה",
+      "gloss": "شگرف"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מָֽוֶת",
+      "gloss": "مرگ"
+    }
+  ],
+  "timestamp": "2026-08-13T23:01:43.836220516Z",
+  "model": "glm-5.2"
+}

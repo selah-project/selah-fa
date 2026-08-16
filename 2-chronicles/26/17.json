@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "2-chronicles 26:17",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "و از پیِ او عَزَریاهو کاهن درآمد، و با او هشتاد کاهنِ یاهوه، پسرانِ دلیر،",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "و درآمد"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "از پیِ او"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "عَزَریاهو"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "و با او"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "کاهنان"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "هشتاد"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "دلیر"
+    }
+  ],
+  "timestamp": "2026-08-15T04:35:27.916701988Z",
+  "model": "glm-5.3"
+}

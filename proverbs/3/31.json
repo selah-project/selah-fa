@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 3:31",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "بر مردِ ستمکار رشک مبر، و هیچ‌یک از راه‌های او برنگزین.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "رشک مبر"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "بر مردِ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ستمکار"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "برنگزین"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "هیچ‌یک از"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "راه‌های او"
+    }
+  ],
+  "timestamp": "2026-08-13T22:59:39.035683477Z",
+  "model": "glm-5.2"
+}

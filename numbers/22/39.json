@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 22:39",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "وَ بِلعام با بَلَق رفت، و به قِریَت حوتوت آمدند.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "وَ رفت"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بِلعام"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بَلَق"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "و آمدند"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قِریَتِ"
+    },
+    {
+      "surface": "חצות",
+      "gloss": "حوتوت"
+    }
+  ],
+  "timestamp": "2026-08-13T20:38:21.919786395Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 4:11",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و آب را به اندازه خواهی نوشید، یک‌ششمِ هین، از زمانی تا زمانی خواهی نوشید.",
+  "tokens": [
+    {
+      "surface": "ומים",
+      "gloss": "و آب"
+    },
+    {
+      "surface": "במשורה",
+      "gloss": "به اندازه"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "خواهی نوشید"
+    },
+    {
+      "surface": "ששית",
+      "gloss": "یک‌ششمِ"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "هین"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "از زمانی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "עת",
+      "gloss": "زمانی"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "خواهی نوشید"
+    }
+  ],
+  "timestamp": "2026-08-13T22:12:11.402320417Z",
+  "model": "glm-5.2"
+}

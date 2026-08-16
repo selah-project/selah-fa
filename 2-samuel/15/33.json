@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 15:33",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و داوود به او گفت: اگر با ⟨את⟩ من عبور کنی، تو بر من بار خواهی شد،",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "עברת",
+      "gloss": "عبور کنی"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "من"
+    },
+    {
+      "surface": "והית",
+      "gloss": "و خواهی بود"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "למשא",
+      "gloss": "به بار"
+    }
+  ],
+  "timestamp": "2026-08-13T21:20:32.652005676Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "برای نَفْتالی، اَحیرَع بن عِینان.",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "برای نَفْتالی"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "اَحیرَع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "عِینان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:30:28.766101217Z",
+  "model": "glm-5.2"
+}

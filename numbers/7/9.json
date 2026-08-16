@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 7:9",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و به پسرانِ قهات نداد، زیرا خدمتِ مقدّس بر ⟨آنهاست⟩؛ بر دوش حمل کنند.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "و به پسرانِ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قهات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "داد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "خدمتِ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدّس"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "بر آنهاست"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "بر دوش"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "حمل کنند"
+    }
+  ],
+  "timestamp": "2026-08-13T20:33:03.203460535Z",
+  "model": "glm-5.2"
+}

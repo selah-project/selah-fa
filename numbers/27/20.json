@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 27:20",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "و از هیبتِ خود بر او بده، تا تمامِ قومِ بنی‌یسرائیل گوش بسپارند.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "و بده"
+    },
+    {
+      "surface": "מהודך",
+      "gloss": "از هیبتِ تو"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "برِ او"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تا"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "گوش بسپارند"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "قومِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-13T20:40:25.189708191Z",
+  "model": "glm-5.2"
+}

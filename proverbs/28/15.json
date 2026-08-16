@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 28:15",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "شیری غران و خرسی باϡک، فرمانروای شریر بر قوم ضعیف است.",
+  "tokens": [
+    {
+      "surface": "אֲרִי",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "נֹ֭הֵם",
+      "gloss": "غران"
+    },
+    {
+      "surface": "וְדֹ֣ב",
+      "gloss": "و خرس"
+    },
+    {
+      "surface": "שׁוֹקֵ֑ק",
+      "gloss": "باϡک"
+    },
+    {
+      "surface": "מֹשֵׁ֥ל",
+      "gloss": "فرمانروای"
+    },
+    {
+      "surface": "רָ֝שָׁ֗ע",
+      "gloss": "شریر"
+    },
+    {
+      "surface": "עַ֣ל",
+      "gloss": "بر"
+    },
+    {
+      "surface": "עַם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "דָּֽל",
+      "gloss": "ضعیف"
+    }
+  ],
+  "timestamp": "2026-08-13T23:05:48.214339701Z",
+  "model": "glm-5.2"
+}

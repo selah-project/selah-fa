@@ -1,0 +1,70 @@
+{
+  "tier": "4.6",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "دو تا دو تا آمدند نزد نوح، به سوی کشتی، نر و ماده، همان‌طور ⟨که⟩ الوهیم ⟨את⟩ نوح را فرمان داده بود.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آمدند"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نزد"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "کشتی"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "و ماده"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "همان‌طور ⟨که⟩"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فرمان داده بود"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نوح"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    }
+  ],
+  "timestamp": "2026-08-15T03:29:02.353250186Z",
+  "model": "glm-4.6"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 41:22",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 41,
+  "translation": "و من دیدم در خوابِ خود، و اینک هفت خوشه بر روی یک ساقه سبز شده، پُر و خوب.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "و من دیدم"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "در خوابِ خود"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و اینک"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "خوشه"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "بروزِ سبز شده"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "بر رویِ ساقه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "پُر"
+    },
+    {
+      "surface": "וטבות",
+      "gloss": "و خوب"
+    }
+  ],
+  "timestamp": "2026-08-13T20:06:37.861166856Z",
+  "model": "glm-5.2"
+}

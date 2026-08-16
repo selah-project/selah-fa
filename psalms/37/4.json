@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 37,
+  "translation": "و بر یاهوه عیاشی کن، و او درخواست‌های دل تو را به تو ببخشد.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "و عیاشی کن"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "و ببخشد"
+    },
+    {
+      "surface": "לך",
+      "gloss": "به تو"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "درخواست‌های"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "دل تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:42:08.288957730Z",
+  "model": "glm-5.2"
+}

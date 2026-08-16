@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ruth 3:11",
+  "book": "ruth",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و اکنون، دخترِ من، نترس؛ هر آنچه بگویی برایت خواهم کرد، زیرا همهٔ دروازهٔ قومِ من می‌دانند که تو زنِ حَیِل هستی.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و اکنون"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "دخترِ من"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نـ"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "ترس"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آنچه"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "بگویی"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "خواهم کرد"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برای تو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "می‌دانند"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازه"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "قومِ من"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زنِ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "حَیِل"
+    },
+    {
+      "surface": "את",
+      "gloss": "تو"
+    }
+  ],
+  "timestamp": "2026-08-13T23:16:52.910116106Z",
+  "model": "glm-5.2"
+}

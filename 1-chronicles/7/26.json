@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 7:26",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "لَعْدان پسرش، عَمّیهود پسرش، اَلیشَماع پسرش.",
+  "tokens": [
+    {
+      "surface": "לעדן",
+      "gloss": "لَعْدان"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "عَمّیهود"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "اَلیشَماع"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:21.432270481Z",
+  "model": "glm-5.2"
+}

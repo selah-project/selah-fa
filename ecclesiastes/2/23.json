@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 2:23",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "چون تمام روزهایش دردها و خشمِ کوششش ⟨است⟩؛ همچنین در شب دلش نخوابید — همچنین این هبل است.",
+  "tokens": [
+    {
+      "surface": "כִּ֧י",
+      "gloss": "چون"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "יָמָ֣יו",
+      "gloss": "روزهایش"
+    },
+    {
+      "surface": "מַכְאֹבִ֗ים",
+      "gloss": "دردها"
+    },
+    {
+      "surface": "וָכַ֨עַס֙",
+      "gloss": "و خشم"
+    },
+    {
+      "surface": "עִנְיָנ֔וֹ",
+      "gloss": "کوششش"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "همچنین"
+    },
+    {
+      "surface": "בַּלַּ֖יְלָה",
+      "gloss": "در شب"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "שָׁכַ֣ב",
+      "gloss": "خوابید"
+    },
+    {
+      "surface": "לִבּ֑וֹ",
+      "gloss": "دلش"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "همچنین"
+    },
+    {
+      "surface": "זֶ֖ה",
+      "gloss": "این"
+    },
+    {
+      "surface": "הֶ֥בֶל",
+      "gloss": "هبل"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "است"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:11.829264666Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و چون تمام شدند همهٔ مردانِ جنگ برای مردن از میانِ آن قوم،",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و چون شد"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "آن‌گاه که"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "تمام شدند"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "مردانِ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "لמות",
+      "gloss": "برای مردن"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "از میانِ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "آن قوم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:43:00.244558052Z",
+  "model": "glm-5.2"
+}

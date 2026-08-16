@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 28:26",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "توکُل‌کننده بر دلِ خود، او کَسیل است؛ و می‌رود در حکمت، او رها می‌شود.",
+  "tokens": [
+    {
+      "surface": "בוטח",
+      "gloss": "توکُل‌کننده"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "بر دلِ خود"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "کَسیل"
+    },
+    {
+      "surface": "והולך",
+      "gloss": "و می‌رود"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "در حکمت"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "رها می‌شود"
+    }
+  ],
+  "timestamp": "2026-08-13T23:05:54.847316710Z",
+  "model": "glm-5.2"
+}

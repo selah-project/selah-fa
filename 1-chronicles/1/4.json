@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 1:4",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "نُوَح، شِم، حام، وَیَفَت.",
+  "tokens": [
+    {
+      "surface": "נֹ֥חַ",
+      "gloss": "نُوَح"
+    },
+    {
+      "surface": "שֵׁ֖ם",
+      "gloss": "شِم"
+    },
+    {
+      "surface": "חָ֥ם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "וָיָֽפֶת",
+      "gloss": "وَیَفَت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:47.720998222Z",
+  "model": "glm-5.2"
+}

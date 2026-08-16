@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "و موشه و اهارن به حضور خیمهٔ موعد در آمدند.",
+  "tokens": [
+    {
+      "surface": "וַיָּבֹ֤א",
+      "gloss": "وَ در آمد"
+    },
+    {
+      "surface": "מֹשֶׁה֙",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "וְאַהֲרֹ֔ן",
+      "gloss": "وَ اهارون"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "بهِ حضورِ"
+    },
+    {
+      "surface": "פְּנֵ֖י",
+      "gloss": "رویِ"
+    },
+    {
+      "surface": "אֹ֥הֶל",
+      "gloss": "خیمهٔ"
+    },
+    {
+      "surface": "מוֹעֵֽד",
+      "gloss": "موعد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:36:33.317794499Z",
+  "model": "glm-5.2"
+}

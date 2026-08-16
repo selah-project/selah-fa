@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "زیرا نانِ بدی را می‌خورند و شرابِ خشونت‌ها را می‌نوشند.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "לָ֭חֲמוּ",
+      "gloss": "خوردند"
+    },
+    {
+      "surface": "לֶ֣חֶם",
+      "gloss": "نانِ"
+    },
+    {
+      "surface": "רֶ֑שַׁע",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "וְיֵ֖ין",
+      "gloss": "و شرابِ"
+    },
+    {
+      "surface": "חֲמָסִ֣ים",
+      "gloss": "خشونت‌ها"
+    },
+    {
+      "surface": "יִשְׁתּֽוּ",
+      "gloss": "می‌نوشند"
+    }
+  ],
+  "timestamp": "2026-08-13T22:59:49.956319477Z",
+  "model": "glm-5.2"
+}

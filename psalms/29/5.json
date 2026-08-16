@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "صدای یاهوه سدرها را می‌شکند، و یاهوه ⟨את⟩ سدرهای لُبانون را می‌شکند.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "صدای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "می‌شکند"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "سدرها را"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "و می‌شکند"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سدرهای"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "سدرهایِ"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "لبانون را"
+    }
+  ],
+  "timestamp": "2026-08-13T22:40:39.441101093Z",
+  "model": "glm-5.2"
+}

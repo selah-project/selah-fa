@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و زمین ⟨بود⟩ توها و بوهو، و تاریکی بر رویِ تهوم؛ و روحِ الوهیم بر رویِ آب‌ها ⟨بود⟩ بال‌بال می‌زد.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "و زمین"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨بود⟩"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "توها"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "و بوهو"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "و تاریکی"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رویِ"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "تهوم"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "و روحِ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "بال‌بال می‌زد"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رویِ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "آب‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:17.142392099Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 22:28",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "اگر مردی دختری باکره را بیابد که نامزدشده نباشد، و او را بگیرد و با او بخوابد، و یافت شوند،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "بیابد"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "נער",
+      "gloss": "دختری"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "باکره"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ארשה",
+      "gloss": "نامزدشده باشد"
+    },
+    {
+      "surface": "ותפשה",
+      "gloss": "و بگیرد او را"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "و بخوابد"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "با او"
+    },
+    {
+      "surface": "ונמצאו",
+      "gloss": "و یافت شوند"
+    }
+  ],
+  "timestamp": "2026-08-13T20:50:00.051525817Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "چسبید زبانِ کودکِ شیرخوار به کامِ او از تشنگی؛ خردسالان نان خواستند، و پاره‌کننده‌ای برایشان نیست.",
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "چسبید"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبانِ"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "کودکِ شیرخوار"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "کامِ"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "از تشنگی"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "خردسالان"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "خواستند"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "پاره‌کننده"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "להם",
+      "gloss": "برایشان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:18:39.857447722Z",
+  "model": "glm-5.2"
+}

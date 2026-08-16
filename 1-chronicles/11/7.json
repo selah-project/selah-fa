@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و داوود در دژ نشست؛ بر این اساس، آن را «شهرِ داوود» خواندند.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "و نشست"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "در دژ"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "این"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "خواندند"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به آن"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شهرِ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:54.232254252Z",
+  "model": "glm-5.2"
+}

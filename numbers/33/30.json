@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 33:30",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "و حرکت کردند از حَشمونه، و اردو زدند در مُوسِروت.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "و حرکت کردند"
+    },
+    {
+      "surface": "מחשמנה",
+      "gloss": "از حَشمونه"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "و اردو زدند"
+    },
+    {
+      "surface": "במסרות",
+      "gloss": "در مُوسِروت"
+    }
+  ],
+  "timestamp": "2026-08-13T20:41:53.682032978Z",
+  "model": "glm-5.2"
+}

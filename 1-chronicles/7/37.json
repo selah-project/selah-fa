@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 7:37",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "بِصِر و هود و شَمّا و شِلْشا و یِتران و بِئیرا.",
+  "tokens": [
+    {
+      "surface": "בֶּ֣צֶר",
+      "gloss": "بِصِر"
+    },
+    {
+      "surface": "וָה֗וֹד",
+      "gloss": "و هود"
+    },
+    {
+      "surface": "וְשַׁמָּ֧א",
+      "gloss": "و شَمّا"
+    },
+    {
+      "surface": "וְשִׁלְשָׁ֛ה",
+      "gloss": "و شِلْشا"
+    },
+    {
+      "surface": "וְיִתְרָ֖ן",
+      "gloss": "و یِتران"
+    },
+    {
+      "surface": "וּבְאֵרָֽא",
+      "gloss": "و بِئیرا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:25.484325160Z",
+  "model": "glm-5.2"
+}

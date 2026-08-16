@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "زنِ فاز در عزت نگه‌می‌دارد، و ستم‌گران ثروت را نگه‌می‌دارند.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "زنِ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "فاز"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "در عزت نگه‌می‌دارد"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "عزت"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "و ستم‌گران"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "نگه‌می‌دارند"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ثروت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:01:35.186591253Z",
+  "model": "glm-5.2"
+}

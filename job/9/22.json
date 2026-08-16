@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "job 9:22",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "یکی ⟨است⟩؛ از این ⟨رو⟩ گفتم: بی‌گناه و گناهکار را ⟨او⟩ یکسان می‌نابودد.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨است⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "از"
+    },
+    {
+      "surface": "כן",
+      "gloss": "این ⟨رو⟩"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "گفتم"
+    },
+    {
+      "surface": "תם",
+      "gloss": "بی‌گناه"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "و گناهکار"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨او⟩"
+    },
+    {
+      "surface": "מכלה",
+      "gloss": "می‌نابودد"
+    }
+  ],
+  "timestamp": "2026-08-15T04:28:27.833469151Z",
+  "model": "glm-5.3"
+}

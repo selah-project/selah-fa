@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 103,
+  "translation": "دل‌رحم و گران‌مایه یاهوه، آرام‌خو و بسیارِ حَسَد.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "دل‌رحم"
+    },
+    {
+      "surface": "وחנון",
+      "gloss": "و گران‌مایه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "آرام‌خو"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "حَسَد"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "و بسیارِ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "حَسَد"
+    }
+  ],
+  "timestamp": "2026-08-13T22:51:42.594165683Z",
+  "model": "glm-5.2"
+}

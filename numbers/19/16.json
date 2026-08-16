@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 19:16",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و هر کس که بر رویِ صحرا، به کشته‌شده با شمشیر، یا به مرده، یا به استخوانِ آدم، یا به قبر، دست بزند، هفت روز نجس خواهد شد.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هر کس"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "دست بزند"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رویِ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "صحرا"
+    },
+    {
+      "surface": "בחלל",
+      "gloss": "به کشته‌شده"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "با شمشیر"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "במת",
+      "gloss": "به مرده"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "به استخوانِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "به قبر"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "نجس خواهد شد"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روز"
+    }
+  ],
+  "timestamp": "2026-08-13T20:37:45.429534929Z",
+  "model": "glm-5.2"
+}

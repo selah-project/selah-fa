@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "job 6:8",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "کی می‌دهد که درخواستِ من بیاید، و اِلوهیم امیدِ مرا بدهد؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "می‌دهد"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "بیاید"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "درخواستِ من"
+    },
+    {
+      "surface": "ותקותי",
+      "gloss": "و امیدِ من"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "بدهد"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "اِلوهیم"
+    }
+  ],
+  "timestamp": "2026-08-15T04:28:27.832658725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "ref": "2-kings 4:19",
+  "lang": "fa",
+  "book": "2-kings",
+  "chapter": 4,
+  "verse": 19,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:47:37Z",
+  "translation": "و به پدرش گفت: «سرم، سرم.» و به جوان گفت: «او را نزدِ مادرش ببر.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پدرش"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سرم"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سرم"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "جوان"
+    },
+    {
+      "surface": "שאהו",
+      "gloss": "او را ببر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نزدِ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "مادرش"
+    }
+  ]
+}

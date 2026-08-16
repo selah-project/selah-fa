@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و یاهوه در آن روز ⟨את⟩ یِسرائیل را نجات داد، و جنگ از کنار بیت آوَن گذشت.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "و نجات داد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روز"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرائیل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "و جنگ"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "گذشت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بیت آوَن"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "און",
+      "gloss": "آوَن"
+    }
+  ],
+  "timestamp": "2026-08-13T21:11:21.146972692Z",
+  "model": "glm-5.2"
+}

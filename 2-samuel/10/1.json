@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 10:1",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و شد پس از این، که پادشاهِ بَنی‌عَمّون مُرد، و حَنون پسرش به‌جایِ او پادشاه شد.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پس از"
+    },
+    {
+      "surface": "כן",
+      "gloss": "این"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و مُرد"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَنی‌"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عَمّون"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "و پادشاه شد"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "حَنون"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "به‌جایِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T21:18:34.156266744Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و ⟨את⟩ قوچِ دوم را بگیر، و اهارون و پسرانش دست‌هایشان را بر سرِ قوچ تکیه دهند.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "و بگیر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوچ دوم"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "قوچ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوم"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "و تکیه دهد"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "و پسرانش"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دست‌هایشان"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "دست‌هایشان"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سرِ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "قوچ"
+    }
+  ],
+  "timestamp": "2026-08-13T20:18:37.073946701Z",
+  "model": "glm-5.2"
+}

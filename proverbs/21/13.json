@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 21:13",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "بند کنندهٔ گوشش از فریادِ ضعیف، نیز او فریاد خواهد کشید و پاسخ داده نخواهد شد.",
+  "tokens": [
+    {
+      "surface": "אטם",
+      "gloss": "بند کنندهٔ"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "گوشش"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "از فریادِ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ضعیف"
+    },
+    {
+      "surface": "גם",
+      "gloss": "نیز"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "فریاد خواهد کشید"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "پاسخ داده خواهد شد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:26.274026047Z",
+  "model": "glm-5.2"
+}

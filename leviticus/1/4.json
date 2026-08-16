@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 1:4",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و تکیه دهد دستِ خود را بر سرِ عُلَه، و پذیرفته شود برای او، برای کفّاره بر او.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "و تکیه دهد"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دستِ خود را"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سرِ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "عُلَه"
+    },
+    {
+      "surface": "ונרצה",
+      "gloss": "و پذیرفته شود"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برای او"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "برای کفّاره"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:22:14.395303903Z",
+  "model": "glm-5.2"
+}

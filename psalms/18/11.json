@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و سوار شد بر کروب و پرواز کرد و اوج گرفت بر بال‌های باد",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "و سوار شد"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "کروب"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "و پرواز کرد"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "و اوج گرفت"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "بال‌های"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "باد"
+    }
+  ],
+  "timestamp": "2026-08-14T00:10:42.897725621Z",
+  "model": "glm-5.2"
+}

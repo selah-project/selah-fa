@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 29:26",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 29,
+  "translation": "و خشمِ یاهوه بر آن زمین افروخت، تا ⟨את⟩ تمامِ نفرینِ نوشته‌شده در این کتاب را بر آن بیاورد.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "و افروخت"
+    },
+    {
+      "surface": "אף",
+      "gloss": "خشم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "بر زمین"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "تا بیاورد"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "بر آن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تمامِ نفرین"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "نفرینِ"
+    },
+    {
+      "surface": "הכתובה",
+      "gloss": "نوشته‌شده"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "در کتاب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    }
+  ],
+  "timestamp": "2026-08-13T23:58:50.303968827Z",
+  "model": "glm-5.2"
+}

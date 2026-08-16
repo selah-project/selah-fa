@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "به یاهوه تکیه کن با تمامِ دلِ خود، و بر فهمِ خود تکیه مکن.",
+  "tokens": [
+    {
+      "surface": "בְּטַ֣ח",
+      "gloss": "تکیه کن"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "به"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "با تمامِ"
+    },
+    {
+      "surface": "לִבֶּ֑ךָ",
+      "gloss": "دلِ خود"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "בִּֽ֝ינָתְךָ֗",
+      "gloss": "فهمِ خود"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "مکن"
+    },
+    {
+      "surface": "תִּשָּׁעֵֽן",
+      "gloss": "تکیه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:59:21.634698587Z",
+  "model": "glm-5.2"
+}

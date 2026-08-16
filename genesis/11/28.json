@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 11:28",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و هاران در برابرِ رویِ تِراخ پدرش مرد، در زمینِ زادگاهش، در اُورِ کَلْدانیان.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "هاران"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "پני",
+      "gloss": "رویِ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تِراخ"
+    },
+    {
+      "surface": "אביو",
+      "gloss": "پدرِ او"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "در زمینِ"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "زادگاهِ او"
+    },
+    {
+      "surface": "באור",
+      "gloss": "در اُورِ"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "کَلْدانیان"
+    }
+  ],
+  "timestamp": "2026-08-13T19:57:23.697283598Z",
+  "model": "glm-5.2"
+}

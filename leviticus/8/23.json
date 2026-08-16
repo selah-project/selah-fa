@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 8:23",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و ذبح کرد، و موشه از خون آن گرفت و بر لاله گوش راست اهارون و بر شست دست راست و بر شست پای راست او نهاد.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "و ذبح کرد"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "و گرفت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "מדמו",
+      "gloss": "از خون آن"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "و نهاد"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "תנוך",
+      "gloss": "لاله گوش"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "گوش"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "راست"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "شست"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دستش"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "راست"
+    },
+    {
+      "surface": "وעל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "شست"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "پایش"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "راست"
+    }
+  ],
+  "timestamp": "2026-08-13T20:24:09.084535640Z",
+  "model": "glm-5.2"
+}

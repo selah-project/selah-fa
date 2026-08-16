@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 6:16",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "تاریک‌اند از برف، یخ بر آن‌ها پنهان می‌شود.",
+  "tokens": [
+    {
+      "surface": "הקדרים",
+      "gloss": "تاریک‌اند"
+    },
+    {
+      "surface": "מני",
+      "gloss": "از"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "برف"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "بر آن‌ها"
+    },
+    {
+      "surface": "יתעלם",
+      "gloss": "پنهان می‌شود"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "یخ"
+    }
+  ],
+  "timestamp": "2026-08-13T23:07:43.388851185Z",
+  "model": "glm-5.2"
+}

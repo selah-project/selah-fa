@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و اَوراهام گفت: من سوگند می‌خورم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراهام"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "سوگند می‌خورم"
+    }
+  ],
+  "timestamp": "2026-08-13T19:59:59.516288086Z",
+  "model": "glm-5.2"
+}

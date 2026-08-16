@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و یوآب جنگید در رَبّاتِ بنی‌عَمّون، و گرفت ⟨את⟩ شهرِ پادشاهی را.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "و جنگید"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "در رَبّاتِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی-"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عَمّون"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "و گرفت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شهرِ پادشاهی"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شهرِ"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "پادشاهی"
+    }
+  ],
+  "timestamp": "2026-08-13T21:18:43.947563702Z",
+  "model": "glm-5.2"
+}

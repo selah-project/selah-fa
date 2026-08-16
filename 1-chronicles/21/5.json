@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 21:5",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و یوآب شمارهٔ شمارشِ قوم را به داوود داد، و شد کلِّ یِسرائیل هزار هزار و صد هزار مرد کشندهٔ شمشیر، و یهودا چهار صد و هفتاد هزار مرد کشندهٔ شمشیر.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "و داد"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شماره"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "شماره"
+    },
+    {
+      "surface": "מפקד",
+      "gloss": "شمارش"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کلّ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "و صد"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "کشنده"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "شمشیر"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "و یهودا"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "و هفتاد"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "کشنده"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "شمشیر"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:34.425709217Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 24:21",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "وآن مرد مبهوت ⟨او⟩ می‌شد، در سکوت تا بداند آیا یاهوه راهش را کامیاب کرده یا نه.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "وآن مرد"
+    },
+    {
+      "surface": "משתאה",
+      "gloss": "مبهوت می‌شد"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨او⟩"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "در سکوت"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "تا بداند"
+    },
+    {
+      "surface": "ההצליח",
+      "gloss": "کامیاب کرده"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "راهش را"
+    },
+    {
+      "surface": "אם",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:01:08.957495482Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "بدهد گونه‌اش را به زنندهٔ ⟨او⟩، سیر شود از تقبیح.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "بدهد"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "به زنندهٔ او"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "گونه"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "سیر شود"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "از تقبیح"
+    }
+  ],
+  "timestamp": "2026-08-13T23:17:55.368349048Z",
+  "model": "glm-5.2"
+}

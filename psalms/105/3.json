@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 105,
+  "translation": "به نام قدُسش بِستایید، شاد شود دلِ جویندگانِ یاهوه.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "بِستایید"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "به نام"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "قدُسش"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "شاد شود"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دلِ"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "جویندگانِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:52:51.325140769Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 68:24",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 68,
+  "translation": "تا پایِ تو در خون بکوبد، زبانِ سگانِ تو، از دشمنان، سهمی ⟨ببرد⟩.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "تا"
+    },
+    {
+      "surface": "תמחץ",
+      "gloss": "بکوبد"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "پایِ تو"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "در خون"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبانِ"
+    },
+    {
+      "surface": "כלביך",
+      "gloss": "سگانِ تو"
+    },
+    {
+      "surface": "מאיבים",
+      "gloss": "از دشمنان"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "سهمی ⟨ببرد⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T22:46:34.221869983Z",
+  "model": "glm-5.2"
+}

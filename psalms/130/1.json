@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 130,
+  "translation": "سرودِ ماعلوت. از ژرفای‌ها تو را صدا زدم، ای یاهوه.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "سرود"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ماعلوت"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "از ژرفای‌ها"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "تو را صدا زدم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-15T20:54:06.115259738Z",
+  "model": "glm-5.3+hand"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "joshua 15:56",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "و یِزرَع‌اِل، و یُقدِعام، و زانُوح،",
+  "tokens": [
+    {
+      "surface": "ויזרעאל",
+      "gloss": "و یِزرَع‌اِل"
+    },
+    {
+      "surface": "ויקדעם",
+      "gloss": "و یُقدِعام"
+    },
+    {
+      "surface": "וזנוח",
+      "gloss": "و زانُوح"
+    }
+  ],
+  "timestamp": "2026-08-13T20:58:07.120215237Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 23:13",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "ودست‌گاهی برای تو باشد بیرون از اردوگاه، و بیرون شوی آن‌جا:",
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "و دست‌گاهی"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "باشد"
+    },
+    {
+      "surface": "לך",
+      "gloss": "برای تو"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "بیرون"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "از اردوگاه"
+    },
+    {
+      "surface": "ויצאת",
+      "gloss": "و بیرون شوی"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "آن‌جا"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "بیرون"
+    }
+  ],
+  "timestamp": "2026-08-13T20:50:17.661072642Z",
+  "model": "glm-5.2"
+}

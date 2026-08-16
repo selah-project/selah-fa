@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 31:46",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و جانِ انسان شانزده هزار",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "و جان"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "شش"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ده"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    }
+  ],
+  "timestamp": "2026-08-13T20:40:53.886086665Z",
+  "model": "glm-5.2"
+}

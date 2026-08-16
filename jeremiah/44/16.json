@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "jeremiah 44:16",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 44,
+  "translation": "سخنی که به ما گفتی به نامِ یاهوه — ما شنوای آن نیستیم ⟨از⟩ تو.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "سخنِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "گفتی"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "به ما"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "به نامِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نیستیم"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "شنوای"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "⟨از⟩ تو"
+    }
+  ],
+  "timestamp": "2026-08-15T04:14:34.421569962Z",
+  "model": "glm-5.3"
+}

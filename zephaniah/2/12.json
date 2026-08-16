@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 2:12",
+  "book": "zephaniah",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "شما نیز، ای کوشیان، کشته‌شدگانِ شمشیرِ من — آنان هستند.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "نیز"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "شما"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "کوشیان"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "کشته‌شدگانِ"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "شمشیرِ من"
+    },
+    {
+      "surface": "המה",
+      "gloss": "آنان هستند"
+    }
+  ],
+  "timestamp": "2026-08-13T22:33:49.056940378Z",
+  "model": "glm-5.2"
+}

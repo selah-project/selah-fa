@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 46,
+  "translation": "این‌ها پسرانِ راخِل هستند که برای یَعقوو به‌دنیا آمدند؛ همهٔ جان‌ها چهارده.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راخِل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "به‌دنیا آمدند"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "برای یَعقوو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان‌ها"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ده"
+    }
+  ],
+  "timestamp": "2026-08-13T20:07:59.523494750Z",
+  "model": "glm-5.2"
+}

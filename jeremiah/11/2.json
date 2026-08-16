@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 11:2",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "بشنوید ⟨את⟩ سخنان این پیمان را و آن‌ها را به مرد یهودا و بر ساکنان یروشالَییم بگویید",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "بشنوید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سخنان این پیمان"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "سخنانِ"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "پیمانِ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "و بگویید"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردانِ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ساکنانِ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشالَییم"
+    }
+  ],
+  "timestamp": "2026-08-13T21:59:13.377572870Z",
+  "model": "glm-5.2"
+}

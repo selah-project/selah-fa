@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "⟨את⟩ تمامِ آن سخن را که من ⟨את⟩ به شما فرمان می‌دهم، آن را نگاه دارید تا انجام دهید؛ بر آن نیفزایید و از آن نکاهشید.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تمامِ آن سخن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "آن سخن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "فرمان می‌دهم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ به شما",
+      "marks": "آن را"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "آن"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "نگه دارید"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "تا انجام دهید"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "بیفزایید"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر آن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "کاهشید"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "از آن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:47:45.586329814Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 14:20",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و گفت یاهوه: «بخشیدم، به‌سخنِ تو.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "סלחתי",
+      "gloss": "بخشیدم"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "به‌سخنِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:35:19.792402406Z",
+  "model": "glm-5.2"
+}

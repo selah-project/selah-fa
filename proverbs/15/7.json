@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "لب‌های حکیمان دانش را می‌پراکنند، و دلِ نادانان چنین نیست.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "لب‌های"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "حکیمان"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "می‌پراکنند"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "دانش را"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "و دلِ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "نادانان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چنین"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:20.314990829Z",
+  "model": "glm-5.2"
+}

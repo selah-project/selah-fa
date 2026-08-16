@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 19:37",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "و قِدِش، و اَدرَعی، و عِین حَتسور",
+  "tokens": [
+    {
+      "surface": "וְקֶ֥דֶשׁ",
+      "gloss": "و قِدِش"
+    },
+    {
+      "surface": "וְאֶדְרֶ֖עִי",
+      "gloss": "و اَدرَعی"
+    },
+    {
+      "surface": "וְעֵ֥ין",
+      "gloss": "و عِین"
+    },
+    {
+      "surface": "חָצֽוֹר",
+      "gloss": "حَتسور"
+    }
+  ],
+  "timestamp": "2026-08-13T20:58:53.852289818Z",
+  "model": "glm-5.2"
+}

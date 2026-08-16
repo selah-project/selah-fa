@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 21:33",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و چون مردی چاهی بگشاید یا چون مردی چاهی بکَند و آن را نپوشاند، و گاو یا الاغی در آنجا بیفتد،",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "و چون"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "بگشاید"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "בור",
+      "gloss": "چاهی"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "יכרה",
+      "gloss": "بکَند"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "בר",
+      "gloss": "چاهی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "آن را نپوشاند"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "و بیفتد"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "در آنجا"
+    },
+    {
+      "surface": "שור",
+      "gloss": "گاو"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "الاغ"
+    }
+  ],
+  "timestamp": "2026-08-13T20:15:52.486249222Z",
+  "model": "glm-5.2"
+}

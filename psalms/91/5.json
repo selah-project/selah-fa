@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 91,
+  "translation": "نترس از ترسِ شب، از تیری که روزگار می‌پرد،",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "بترسی"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "از ترسِ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شب"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "از تیر"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "می‌پرد"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "روزگار"
+    }
+  ],
+  "timestamp": "2026-08-13T22:50:42.521504815Z",
+  "model": "glm-5.2"
+}

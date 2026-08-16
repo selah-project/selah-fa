@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "زیرا یووَل او ⟨است⟩؛ مقدّس خواهد بود برای شما. از مزرعه بخورید ⟨את⟩ محصولِ آن را.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "یووَل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدّس"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "خواهد بود"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "برای شما"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "مزرعه"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "بخورید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "محصولِ آن"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "محصولِ آن"
+    }
+  ],
+  "timestamp": "2026-08-13T20:29:42.343302986Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "بارِ بابِل، که یِشَعْیاهو پسرِ آموص دید.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابِل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "دید"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "یِشَعْیاهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "آموص"
+    }
+  ],
+  "timestamp": "2026-08-13T21:43:49.586090182Z",
+  "model": "glm-5.2"
+}

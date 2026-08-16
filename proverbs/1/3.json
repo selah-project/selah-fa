@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 1:3",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "برایْ گرفتنِ مُوٴسارِ هَشَیار، صَدَق و مِیشپات و مِیشْریم:",
+  "tokens": [
+    {
+      "surface": "לקחת",
+      "gloss": "برایْ گرفتنِ"
+    },
+    {
+      "surface": "مוסר",
+      "gloss": "مُوٴسارِ"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "هَشَیار"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "صَدَق"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "و مِیشپات"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "و مِیشْریم"
+    }
+  ],
+  "timestamp": "2026-08-13T22:59:04.143468028Z",
+  "model": "glm-5.2"
+}

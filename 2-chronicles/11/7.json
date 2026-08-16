@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و ⟨את⟩ بیت‌صور و ⟨את⟩ سوخو و ⟨את⟩ عَدُلّام را.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "بیت‌صور"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "צור",
+      "gloss": "صور"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "سوخو"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "سوخو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "عَدُلّام"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "عَدُلّام"
+    }
+  ],
+  "timestamp": "2026-08-13T23:44:57.972318921Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 7:29",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "مردانِ قیریات یعاریم، کفیره و بئوروت، هفتصد و چهل و سه.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "مردانِ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قیریات"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "یعاریم"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "کفیره"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "و بئوروت"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چهل"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "و سه"
+    }
+  ],
+  "timestamp": "2026-08-14T00:17:07.028214731Z",
+  "model": "glm-5.2"
+}

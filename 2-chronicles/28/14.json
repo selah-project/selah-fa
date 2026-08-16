@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 28:14",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "و مسلّحان رها کردند ⟨את⟩ اسیران و ⟨את⟩ غنیمت را در برابرِ سران و تمامِ جمعیت.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "و رها کردند"
+    },
+    {
+      "surface": "החלוץ",
+      "gloss": "مسلّحان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسیران"
+    },
+    {
+      "surface": "השביה",
+      "gloss": "اسیران"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "غنیمت"
+    },
+    {
+      "surface": "הבזה",
+      "gloss": "غنیمت"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "در برابر"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "سران"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و تمام"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "جمعیت"
+    }
+  ],
+  "timestamp": "2026-08-14T00:19:07.349720089Z",
+  "model": "glm-5.2"
+}

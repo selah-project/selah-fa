@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 45:14",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 45,
+  "translation": "و فرمانِ روغن، بَتِ روغن، یک‌دهم بَت از کُر، ده بَت یک حومر است؛ زیرا ده بَت یک حومر است.",
+  "tokens": [
+    {
+      "surface": "וחק",
+      "gloss": "و فرمان"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "روغن"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "بَت"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "روغن"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "یک‌دهم"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "بَت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "کُر"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ده"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "بَت"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "حومر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ده"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "بَت"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "حومر"
+    }
+  ],
+  "timestamp": "2026-08-13T22:24:21.592652221Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 3:7",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و برای شائول کنیکی بود و نامش رِتصپه، دختر آیاه بود؛ و ایش‌بوشت به اَونِر گفت: «چرا نزد کنیک پدرم آمدی؟»",
+  "tokens": [
+    {
+      "surface": "והששי",
+      "gloss": ""
+    },
+    {
+      "surface": "והששי",
+      "gloss": ""
+    },
+    {
+      "surface": "והששי",
+      "gloss": ""
+    },
+    {
+      "surface": "והששי",
+      "gloss": ""
+    },
+    {
+      "surface": "והששי",
+      "gloss": ""
+    },
+    {
+      "surface": "והששי",
+      "gloss": ""
+    },
+    {
+      "surface": "והששי",
+      "gloss": ""
+    },
+    {
+      "surface": "והששי",
+      "gloss": ""
+    },
+    {
+      "surface": "והששי",
+      "gloss": ""
+    },
+    {
+      "surface": "והששי",
+      "gloss": ""
+    },
+    {
+      "surface": "והששי",
+      "gloss": ""
+    },
+    {
+      "surface": "و\thashashshii",
+      "gloss": ""
+    },
+    {
+      "surface": "והששי",
+      "gloss": ""
+    },
+    {
+      "surface": "והששי",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-13T21:16:45.202986370Z",
+  "model": "glm-5.2"
+}

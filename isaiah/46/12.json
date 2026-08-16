@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 46:12",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 46,
+  "translation": "به من گوش بسپارید، ای سرسختِ دل، دورکنندگان از عدالت:",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "به من گوش بسپارید"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "سرسختِ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "הרחוקים",
+      "gloss": "دورکنندگان"
+    },
+    {
+      "surface": "מצדקה",
+      "gloss": "از عدالت"
+    }
+  ],
+  "timestamp": "2026-08-13T21:50:56.745792990Z",
+  "model": "glm-5.2"
+}

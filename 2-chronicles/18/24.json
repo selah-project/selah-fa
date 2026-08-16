@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 18:24",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و گفت میخایاهو: اینک ⟨تو⟩ خواهی دید در روزِ آن که اتاقی در اتاقی درآیی، تا پنهان شوی.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "میخایاهو"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "اینک تو"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "خواهی دید"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "درآیی"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "اتاقی"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "در اتاقی"
+    },
+    {
+      "surface": "להחבא",
+      "gloss": "تا پنهان شوی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:47:00.926740246Z",
+  "model": "glm-5.2"
+}

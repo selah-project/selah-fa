@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 28:20",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "و شد سخنِ یاهوه به سویِ من، به گفتن:",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֥י",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "דְבַר",
+      "gloss": "سخنِ"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֵלַ֥י",
+      "gloss": "به سویِ من"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "به گفتن"
+    }
+  ],
+  "timestamp": "2026-08-13T22:19:40.959478479Z",
+  "model": "glm-5.2"
+}

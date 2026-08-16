@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 7:3",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "همچنین از پرندگان آسمان هفت جفت، نر و ماده، برای زنده ماندن ذریت بر روی تمام زمین.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "همچنین"
+    },
+    {
+      "surface": "מעוף",
+      "gloss": "از پرندگان"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمان"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "و ماده"
+    },
+    {
+      "surface": "לחיות",
+      "gloss": "برای زنده ماندن"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ذریت"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر روی"
+    },
+    {
+      "surface": "פני",
+      "gloss": "صورتِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:49.401044271Z",
+  "model": "glm-5.2"
+}

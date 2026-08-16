@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 8:2",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "و آورد عزرا كاهن ⟨את⟩ تورات را پیش از جامعه، از مرد تا زن، و هر فهمیده به شنیدن، در روز یکم از ماه هفتم.",
+  "tokens": [
+    {
+      "surface": "ויביא",
+      "gloss": "و آورد"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "عزرا"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "كاهن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تورات را"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیش از"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "جامعه"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "از مرد"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زن"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "فهمیده"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "به شنیدن"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روز"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکم"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "از ماه"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "هفتم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:33:55.433903590Z",
+  "model": "glm-5.2"
+}

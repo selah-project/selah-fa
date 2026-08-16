@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "joshua 15:58",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "حَلْحول، بَیت‌صور، و گَدور،",
+  "tokens": [
+    {
+      "surface": "חַלְח֥וּל",
+      "gloss": "حَلْحول"
+    },
+    {
+      "surface": "בֵּֽית",
+      "gloss": "بَیت"
+    },
+    {
+      "surface": "צ֖וּר",
+      "gloss": "صور"
+    },
+    {
+      "surface": "וּגְדֽוֹר",
+      "gloss": "و گَدور"
+    }
+  ],
+  "timestamp": "2026-08-13T20:58:05.698366748Z",
+  "model": "glm-5.2"
+}

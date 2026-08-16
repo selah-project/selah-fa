@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "پسرم، سخنان مرا نگاه دار و فرمان‌هایم را با ⟨את⟩ خود پنهان نما.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرم"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "نگاه دار"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "سخنان"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "و فرمان‌هایم"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "پنهان نما"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "خود"
+    }
+  ],
+  "timestamp": "2026-08-14T00:13:56.807164043Z",
+  "model": "glm-5.2"
+}

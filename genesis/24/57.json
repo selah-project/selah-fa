@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و گفتند: ندا کنیم ⟨به⟩ دختر را و بپرسیم ⟨את⟩ دهانِ او را.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "و گفتند"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "ندا کنیم"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "⟨به⟩ دختر را"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "و بپرسیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دهانِ او"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "دهانِ او"
+    }
+  ],
+  "timestamp": "2026-08-13T20:00:56.448934727Z",
+  "model": "glm-5.2"
+}

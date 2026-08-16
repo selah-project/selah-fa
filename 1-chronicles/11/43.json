@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 11:43",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "حانان پسر مَعاخه، و یوشافات هَمِتنی،",
+  "tokens": [
+    {
+      "surface": "חנן",
+      "gloss": "حانان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "مَعاخه"
+    },
+    {
+      "surface": "ויושפט",
+      "gloss": "و یوشافات"
+    },
+    {
+      "surface": "המתני",
+      "gloss": "هَمِتنی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:43.413265148Z",
+  "model": "glm-5.2"
+}

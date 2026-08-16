@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "شتاب‌من مباش از حضورِ او بیرون بروی، در کارِ بد نایست، که هرچه بخواهد می‌کند.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "مباش"
+    },
+    {
+      "surface": "תִּבָּהֵל",
+      "gloss": "شتاب‌من"
+    },
+    {
+      "surface": "מִפָּנָיו",
+      "gloss": "از حضورِ او"
+    },
+    {
+      "surface": "תֵלֵךְ",
+      "gloss": "بیرون بروی"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "مباش"
+    },
+    {
+      "surface": "תַּעֲמֹד",
+      "gloss": "نایست"
+    },
+    {
+      "surface": "בְדָבָר",
+      "gloss": "در کارِ"
+    },
+    {
+      "surface": "רָע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "که"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "هرچه"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יַחְפֹּץ",
+      "gloss": "بخواهد"
+    },
+    {
+      "surface": "יַעֲשֶׂה",
+      "gloss": "می‌کند"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:25.204552316Z",
+  "model": "glm-5.2"
+}

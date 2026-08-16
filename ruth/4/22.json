@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و عُووِید ⟨את⟩ یِشای را زاد، و یِشای ⟨את⟩ داوِد را زاد.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "و عُووِید"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِشای"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "یِشای"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "و یِشای"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داوِد"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:16:30.710751800Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 24:27",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "پسرانِ مراری: به یعزیاهو، پسرِ ⟨او⟩؛ و شوهام و زَخور و عیوری.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مراری"
+    },
+    {
+      "surface": "ליעזיהו",
+      "gloss": "به یعزیاهو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرِ ⟨او⟩"
+    },
+    {
+      "surface": "ושהם",
+      "gloss": "و شوهام"
+    },
+    {
+      "surface": "וזכור",
+      "gloss": "و زَخور"
+    },
+    {
+      "surface": "ועברי",
+      "gloss": "و عیوری"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:20.956912980Z",
+  "model": "glm-5.2"
+}

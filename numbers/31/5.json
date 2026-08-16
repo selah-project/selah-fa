@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "numbers 31:5",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و داده شدند از هزارانِ یسرائل، هزار برای هر سبط — دوازده هزار، آراستهٔ جنگ.",
+  "tokens": [
+    {
+      "surface": "וימסרו",
+      "gloss": "و داده شدند"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "از هزارانِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائل"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "برای هر سبط"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ده"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "آراستهٔ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "جنگ"
+    }
+  ],
+  "timestamp": "2026-08-15T03:53:49.770210216Z",
+  "model": "glm-5.3"
+}

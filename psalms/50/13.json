@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 50:13",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 50,
+  "translation": "آیا گوشت گاوهای نر را می‌خورم، و خون بزها را می‌نوشم؟",
+  "tokens": [
+    {
+      "surface": "האוכל",
+      "gloss": "آیا می‌خورم"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "گاوهای نر"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "و خون"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "بزها"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "می‌نوشم"
+    }
+  ],
+  "timestamp": "2026-08-13T22:44:10.017976407Z",
+  "model": "glm-5.2"
+}

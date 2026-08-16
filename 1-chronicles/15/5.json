@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "1-chronicles 15:5",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "از پسرانِ قهات: اوری‌اِل سرور، و برادرانِ او — صد و بیست.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "از پسرانِ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قهات"
+    },
+    {
+      "surface": "אוריאל",
+      "gloss": "اوری‌اِل"
+    },
+    {
+      "surface": "השר",
+      "gloss": "سرور"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "و برادرانِ او"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "صد"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "و بیست"
+    }
+  ],
+  "timestamp": "2026-08-15T20:54:39.991901271Z",
+  "model": "glm-5.3+hand"
+}

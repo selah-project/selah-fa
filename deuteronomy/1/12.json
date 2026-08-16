@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "چگونه به‌تنهایی بر دوش گیرم بارِ سنگینِ شما را و بارِ شما را و دشمنیِ شما را؟",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "چگونه"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "بر دوش گیرم"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "به‌تنهایی"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "بارِ سنگینِ شما"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "و بارِ شما"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "و دشمنیِ شما"
+    }
+  ],
+  "timestamp": "2026-08-15T03:54:25.895471506Z",
+  "model": "glm-5.3"
+}

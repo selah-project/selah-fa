@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "صحرایی که اَوراهام خرید از ⟨את⟩ پسرانِ حِت؛ آنجا دفن شد اَوراهام و ساراه زنِ ⟨ او⟩.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "صحرا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "خرید"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراهام"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "پسران حِت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "حِت"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "آنجام"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "دفن شد"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراهام"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "و ساراه"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "زنش"
+    }
+  ],
+  "timestamp": "2026-08-13T20:01:18.894943650Z",
+  "model": "glm-5.2"
+}

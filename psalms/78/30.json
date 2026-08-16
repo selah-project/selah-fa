@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 78,
+  "translation": "از آرزوی خود دور نشدند؛ هنوز خوراک در دهان ایشان بود،",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "دور شدند"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "از آرزوی ایشان"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "هنوز"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "خوراک ایشان"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "در دهان ایشان"
+    }
+  ],
+  "timestamp": "2026-08-13T22:48:30.117277407Z",
+  "model": "glm-5.2"
+}

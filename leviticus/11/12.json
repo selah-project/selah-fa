@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "هر آن‌چه که باله و فلس ندارد در آب‌ها — مکروه است، او، برای شما.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آن‌چه"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ندارد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برای او"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "باله"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "و فلس"
+    },
+    {
+      "surface": "במים",
+      "gloss": "در آب‌ها"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "مکروه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "برای شما"
+    }
+  ],
+  "timestamp": "2026-08-13T20:24:13.610653549Z",
+  "model": "glm-5.2"
+}

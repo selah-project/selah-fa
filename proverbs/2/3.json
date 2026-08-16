@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "که اگر برای بینش فرا بخوانی، برای فهم صدای خود را ببخشی،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "برای بینش"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "فرا بخوانی"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "برای فهم"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ببخشی"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "صدای خود را"
+    }
+  ],
+  "timestamp": "2026-08-13T23:00:03.912756617Z",
+  "model": "glm-5.2"
+}

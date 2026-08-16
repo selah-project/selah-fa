@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "ezekiel 22:9",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "مردانِ بدگو در تو بودند تا خون بریزند، و بر کوه‌ها در تو خوردند، ناراستی کردند در میانِ تو.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "مردانِ"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "بدگو"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بودند"
+    },
+    {
+      "surface": "בך",
+      "gloss": "در تو"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تا"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "بریزند"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "کوه‌ها"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "خوردند"
+    },
+    {
+      "surface": "בך",
+      "gloss": "در تو"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ناراستی"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کردند"
+    },
+    {
+      "surface": "בתוכך",
+      "gloss": "در میانِ تو"
+    }
+  ],
+  "timestamp": "2026-08-15T04:15:52.681327312Z",
+  "model": "glm-5.3"
+}

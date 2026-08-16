@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "ezekiel 33:23",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "و بود کلامِ یاهوه به من، به‌گفتهٔ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلامِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به‌گفتهٔ"
+    }
+  ],
+  "timestamp": "2026-08-15T20:50:48.656970520Z",
+  "model": "glm-5.3"
+}

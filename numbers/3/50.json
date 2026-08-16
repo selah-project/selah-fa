@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "از ⟨את⟩ نخست‌زادۀ بنی‌یِسرائیل، ⟨את⟩ نقره را گرفت: ۵ و ۶۰ و ۳ ۱۰۰، به شکلال مقدس.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "از ⟨את⟩",
+      "marks": "نخست‌زادۀ بنی‌یِسرائیل"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "نخست‌زاده"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنیـ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "گرفت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نقره"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "نقره"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "۵"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "و ۶۰"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "و ۳"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "۱۰۰"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "و ۱۰۰۰"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "به شکلال"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس"
+    }
+  ],
+  "timestamp": "2026-08-13T20:31:07.123521935Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "روی در روی، یاهوه با شما سخن گفت، در کوه، از میانِ آتش.",
+  "tokens": [
+    {
+      "surface": "پنیم",
+      "gloss": "روی"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "در روی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخن گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "با شما"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "در کوه"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "از میانِ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "آتش"
+    }
+  ],
+  "timestamp": "2026-08-13T20:44:37.653569884Z",
+  "model": "glm-5.2"
+}

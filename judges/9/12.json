@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 9:12",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و گفتند درختان به تاک: بیا، تو پادشاهی کن بر ما.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "و گفتند"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "درختان"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "به تاک"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "بیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "تو"
+    },
+    {
+      "surface": "מלוכי",
+      "gloss": "پادشاهی کن"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "بر ما"
+    }
+  ],
+  "timestamp": "2026-08-13T21:02:57.258580765Z",
+  "model": "glm-5.2"
+}

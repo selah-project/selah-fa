@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "⟨את⟩ برّهِ یکی را در صبح بکن، و ⟨את⟩ برّهِ دوم را در میانِ عصرها بکن.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "برّه"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "برّه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "بکن"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "در صبح"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "برّه"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "برّه"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوم"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "بکن"
+    },
+    {
+      "surface": "בין",
+      "gloss": "در میانِ"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "عصرها"
+    }
+  ],
+  "timestamp": "2026-08-13T20:40:33.189616543Z",
+  "model": "glm-5.2"
+}

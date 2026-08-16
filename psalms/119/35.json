@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 35,
+  "ref": "psalms 119:35",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 119,
+  "translation": "مرا در راهِ فرمان‌هایت بگردان که من بدان رغتم دارم.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "مرا بگردان"
+    },
+    {
+      "surface": "בנתיב",
+      "gloss": "در راهِ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "فرمان‌هایت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "בו",
+      "gloss": "بدان"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "رغتم دارم"
+    }
+  ],
+  "timestamp": "2026-08-15T04:26:11.938023312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "و ⟨את⟩ دو کلیه‌ها را، و ⟨את⟩ چربیِ که بر آن‌هاست، که بر پهلوهاست، و ⟨את⟩ زائدهٔ بر جگر، بر کلیه‌ها برمی‌داردش،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "دو کلیه‌ها"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "کلیه‌ها"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "چربی"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "چربیِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "بر آن‌هاست"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "پهلوهاست"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "زائده"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "زائدهٔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "جگر"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "کلیه‌ها"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "برمی‌داردش"
+    }
+  ],
+  "timestamp": "2026-08-13T20:21:44.281174020Z",
+  "model": "glm-5.2"
+}

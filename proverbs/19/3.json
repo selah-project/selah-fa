@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 19:3",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 19,
+  "translation": "نادانیِ انسان راهِ او را کج می‌کند، و بر یاهوه دلِ ⟨او⟩ خشمگین می‌شود.",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "نادانیِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "کج می‌کند"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "راهِ او را"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "יזעף",
+      "gloss": "خشمگین می‌شود"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دلِ ⟨او⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:42.013707785Z",
+  "model": "glm-5.2"
+}

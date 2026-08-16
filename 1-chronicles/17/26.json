@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "1-chronicles 17:26",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "و اکنون، یاهوه، تو خود ⟨هستی⟩ الوهیم، و دربارهٔ بندهٔ خود این خوبی سخن گفته‌ای.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و اکنون"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "خود"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "و سخن گفته‌ای"
+    },
+    {
+      "surface": "על",
+      "gloss": "دربارهٔ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "بندهٔ تو"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "این خوبی"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "این"
+    }
+  ],
+  "timestamp": "2026-08-15T17:41:39.438133580Z",
+  "model": "glm-5.3"
+}

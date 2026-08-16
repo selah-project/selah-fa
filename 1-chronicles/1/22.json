@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و ⟨את⟩ عیبال و ⟨את⟩ اویماایل و ⟨את⟩ شوا،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "عیبال"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "عیبال"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "اویماایل"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "اویماایل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "شوا"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شوا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:47.011472422Z",
+  "model": "glm-5.2"
+}

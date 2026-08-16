@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 11:33",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "حَصور، رَمه، گِتّاییم،",
+  "tokens": [
+    {
+      "surface": "חָצ֥וֹר",
+      "gloss": "حَصور"
+    },
+    {
+      "surface": "רָמָ֖ה",
+      "gloss": "رَمه"
+    },
+    {
+      "surface": "גִּתָּֽיִם",
+      "gloss": "گِتّاییم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:07.013777331Z",
+  "model": "glm-5.2"
+}

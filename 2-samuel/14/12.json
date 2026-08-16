@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 14:12",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "و گفت زن: سخن گوید، اکنون، کنیزِ تو نزدِ آقایم پادشاه سخنی. و گفت: بگو.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "زن"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "سخن گوید"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اکنون"
+    },
+    {
+      "surface": "שפחתך",
+      "gloss": "کنیزِ تو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نزدِ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "آقایم"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخنی"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "بگو"
+    }
+  ],
+  "timestamp": "2026-08-13T21:19:32.544193568Z",
+  "model": "glm-5.2"
+}

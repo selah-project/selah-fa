@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 69,
+  "translation": "زیرا به خاطرِ تو ننگ را بردم، و سرنوشتی چهرهٔ مرا پوشانده است.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "به خاطرِ تو"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "بردم"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ننگ را"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "پوشانده است"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "سرنوشتی"
+    },
+    {
+      "surface": "פני",
+      "gloss": "چهرهٔ مرا"
+    }
+  ],
+  "timestamp": "2026-08-14T00:12:15.295188488Z",
+  "model": "glm-5.2"
+}

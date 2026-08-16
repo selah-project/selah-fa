@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و سجده کرد و گفت: بندهٔ تو چیست، که تو به سوی سگِ مرده مثل من روی آورده‌ای؟",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "وسجده کرد"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وگفت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "بندهٔ تو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "روی آورده‌ای"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "سگِ"
+    },
+    {
+      "surface": "המת",
+      "gloss": "مرده"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "مثل من"
+    }
+  ],
+  "timestamp": "2026-08-13T21:18:32.931010564Z",
+  "model": "glm-5.2"
+}

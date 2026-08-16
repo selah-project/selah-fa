@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 24:25",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و برای مۆخیزانِگان دلپذیر است، و بر آنان برکتِ نیک می‌آید.",
+  "tokens": [
+    {
+      "surface": "ולמוכיחים",
+      "gloss": "و برای مۆخیزانِگان"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "دلپذیر است"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "و بر آنان"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "می‌آید"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "برکتِ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیک"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:32.789372461Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 15:6",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "خانهٔ فردِ دادگر داراییِ فراوان ⟨دارد⟩، و در درآمدِ بدکار آشوب است.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "خانهٔ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "فردِ دادگر"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "داراییِ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "فراوان"
+    },
+    {
+      "surface": "ובתבואת",
+      "gloss": "و در درآمدِ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "נעכרת",
+      "gloss": "آشوب است"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:20.314844112Z",
+  "model": "glm-5.2"
+}

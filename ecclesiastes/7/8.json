@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "بهتر است پایانِ چیز از آغازِ آن؛ بهتر است کشیده‌روح از بلندروح.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بهتر است"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "پایانِ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چیز"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "از آغازِ آن"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بهتر است"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "کشیده"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "از بلند"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:38.999182695Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "1-samuel 17:58",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 17,
+  "translation": "و شائول به او گفت: پسرِ کی هستی، ای جوان؟ و داوود گفت: پسرِ بَندۀ تو ییشای بِیت‌لَحْمی هستم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "هستی"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ای جوان"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "بَندۀ تو"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ییشای"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بِیتِ"
+    },
+    {
+      "surface": "הלחמי",
+      "gloss": "لَحْمی"
+    }
+  ],
+  "timestamp": "2026-08-14T00:00:13.434078426Z",
+  "model": "glm-5.2"
+}

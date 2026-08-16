@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 106,
+  "translation": "کارهای شگفت در سرزمینِ حام، و کارهای هراس‌انگیز بر دریای سوپ.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "کارهای شگفت"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "در سرزمینِ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "کارهای هراس‌انگیز"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دریای"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "سوپ"
+    }
+  ],
+  "timestamp": "2026-08-15T04:25:42.392891394Z",
+  "model": "glm-5.3"
+}

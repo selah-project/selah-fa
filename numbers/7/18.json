@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 7:18",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "در روزِ دوم، نَتانَئیل، پسرِ صوغار، رئیسِ یِساکار، ⟨آن را⟩ نزدیک کرد.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "در روزِ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوم"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "نزدیک کرد"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "نَتانَئیل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "صوغار"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "رئیسِ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "یِساکار"
+    }
+  ],
+  "timestamp": "2026-08-13T20:32:25.053985337Z",
+  "model": "glm-5.2"
+}

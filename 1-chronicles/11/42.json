@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 11:42",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "عَدینا پسر شیزا هَراؤبنی، سرِ هَراؤبنی‌ها، و بر او سی‌تن ⟨بودند⟩،",
+  "tokens": [
+    {
+      "surface": "עדינא",
+      "gloss": "عَدینا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "שיזא",
+      "gloss": "شیزا"
+    },
+    {
+      "surface": "הראובני",
+      "gloss": "هَراؤبنی"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "برایِ هَراؤبنی‌ها"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "و بر او"
+    },
+    {
+      "surface": "שלושים",
+      "gloss": "سی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:37:43.413135935Z",
+  "model": "glm-5.2"
+}

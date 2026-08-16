@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "nehemiah 12:40",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "و دو توده در خانهٔ الوهیم ایستادند، و من، و نیمی از سگانان با من.",
+  "tokens": [
+    {
+      "surface": "ותעמדנה",
+      "gloss": "و ایستادند"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "התודת",
+      "gloss": "توده"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "در خانهٔ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "و من"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "و نیمی از"
+    },
+    {
+      "surface": "הסגנים",
+      "gloss": "سگانان"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "با من"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:13.496402558Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "بارِ کلامِ یاهوه به اسرائیل ⟨به⟩ دستِ مَلأخی.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "به دستِ"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "مَلأخی"
+    }
+  ],
+  "timestamp": "2026-08-13T22:36:07.433094698Z",
+  "model": "glm-5.2"
+}

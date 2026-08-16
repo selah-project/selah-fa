@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "lamentations 3:44",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "پوشاندی خود را در ابر، از برایِ گذرِ نیامدنِ دعا.",
+  "tokens": [
+    {
+      "surface": "סַכּוֹתָה",
+      "gloss": "پوشاندی"
+    },
+    {
+      "surface": "בֶּעָנָן",
+      "gloss": "در ابر"
+    },
+    {
+      "surface": "לָךְ",
+      "gloss": "خود را"
+    },
+    {
+      "surface": "מֵעֲבוֹר",
+      "gloss": "از گذرِ نیامدنِ"
+    },
+    {
+      "surface": "תְּפִלָּה",
+      "gloss": "دعا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:18:02.697696035Z",
+  "model": "glm-5.2"
+}

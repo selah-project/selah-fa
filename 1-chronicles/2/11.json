@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و نَحشون ⟨את⟩ سَلْما را زاد، و سَلْما ⟨את⟩ بوعَز را زاد.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "و نَحشون"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سَلْما"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "سَلْما"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "و سَلْما"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بوعَز"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "بوعَز"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:15.798273977Z",
+  "model": "glm-5.2"
+}

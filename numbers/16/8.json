@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 16:8",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "و موشه گفت با قورَح: بشنوید، اکنون، ای پسرانِ لاوی!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "با"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورَح"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "بشنوید"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اکنون"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لاوی"
+    }
+  ],
+  "timestamp": "2026-08-13T20:36:07.151871644Z",
+  "model": "glm-5.2"
+}

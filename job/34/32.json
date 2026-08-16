@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 34:32",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 34,
+  "translation": "جز آنچه می‌بینم، تو به من بیاموز؛ اگر ستم کرده‌ام، دیگر نمی‌افزایم.»",
+  "tokens": [
+    {
+      "surface": "בלעדי",
+      "gloss": "جز"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "می‌بینم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "הרני",
+      "gloss": "به من بیاموز"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ستم"
+    },
+    {
+      "surface": "פעלתי",
+      "gloss": "کرده‌ام"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "می‌افزایم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:13:45.601288226Z",
+  "model": "glm-5.2"
+}

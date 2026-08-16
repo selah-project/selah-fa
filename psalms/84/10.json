@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 84,
+  "translation": "سپرِ ما را ببین، ای الوهیم، و به رویِ مَشیه‌ات بنگر.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "سپرِ ما"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ببین"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "و بنگر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رویِ"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "مَشیهِ تو"
+    }
+  ],
+  "timestamp": "2026-08-13T22:49:54.534266779Z",
+  "model": "glm-5.2"
+}

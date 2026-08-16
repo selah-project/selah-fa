@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 33:24",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 33,
+  "translation": "و کوچ کردند از کوهِ شِفِر، و اردو زدند در حَراده.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "و کوچ کردند"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "از کوهِ"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "شِفِر"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "و اردو زدند"
+    },
+    {
+      "surface": "בחרדה",
+      "gloss": "در حَراده"
+    }
+  ],
+  "timestamp": "2026-08-13T20:41:53.113612540Z",
+  "model": "glm-5.2"
+}

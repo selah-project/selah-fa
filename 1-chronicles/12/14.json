@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "یِرمیاهو دهمین، مَخبَنای یازدهم.",
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمیاهو"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "دهمین"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "مَخبَنای"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "یازده"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ـم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:39:24.340861252Z",
+  "model": "glm-5.2"
+}

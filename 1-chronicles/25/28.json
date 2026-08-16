@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 25:28",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "بیست‌ویکم برای هوتیر، پسرانش و برادرانش دوازده",
+  "tokens": [
+    {
+      "surface": "לְאֶחָ֤ד",
+      "gloss": "برای یک"
+    },
+    {
+      "surface": "וְעֶשְׂרִים֙",
+      "gloss": "و بیست"
+    },
+    {
+      "surface": "לְהוֹתִ֔יר",
+      "gloss": "برای هوتیر"
+    },
+    {
+      "surface": "בָּנָ֥יו",
+      "gloss": "پسرانش"
+    },
+    {
+      "surface": "וְאֶחָ֖יו",
+      "gloss": "و برادرانش"
+    },
+    {
+      "surface": "שְׁנֵ֥ים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עָשָֽׂר",
+      "gloss": "−ده"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:27.790509263Z",
+  "model": "glm-5.2"
+}

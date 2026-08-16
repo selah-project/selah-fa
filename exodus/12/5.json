@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "گوسفندی بی‌نقص، نر، یک‌ساله برای شما باشد؛ از گوسفندان یا از بزها بگیرید.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "گوسفند"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "بی‌نقص"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "باشد"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "برای شما"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "گوسفندان"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "و از"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "بزها"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "بگیرید"
+    }
+  ],
+  "timestamp": "2026-08-13T20:12:53.607858299Z",
+  "model": "glm-5.2"
+}

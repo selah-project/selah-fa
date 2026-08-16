@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 4:29",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و در بیلها، و در عِصِم، و در تولاد",
+  "tokens": [
+    {
+      "surface": "וּבְבִלְהָ֥ה",
+      "gloss": "و در بیلها"
+    },
+    {
+      "surface": "וּבְעֶ֖צֶם",
+      "gloss": "و در عِصِم"
+    },
+    {
+      "surface": "וּבְתוֹלָֽד",
+      "gloss": "و در تولاد"
+    }
+  ],
+  "timestamp": "2026-08-14T00:17:46.658373861Z",
+  "model": "glm-5.2"
+}

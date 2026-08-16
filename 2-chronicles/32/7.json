@@ -1,0 +1,85 @@
+{
+  "ref": "2-chronicles 32:7",
+  "lang": "fa",
+  "book": "2-chronicles",
+  "chapter": 32,
+  "verse": 7,
+  "model": "claude-fable-5/hand",
+  "tier": "hand",
+  "timestamp": "2026-08-14T17:47:37Z",
+  "translation": "قوی و دلیر باشید! مترسید و از پیشِ پادشاهِ آشور و از پیشِ همهٔ جماعتی که با اوست هراسان مشوید، زیرا ⟨آن که⟩ با ماست بزرگ‌تر است از ⟨آن که⟩ با اوست.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "قوی باشید"
+    },
+    {
+      "surface": "ואמצו",
+      "gloss": "و دلیر باشید"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "بترسید"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "هراسان شوید"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "از پیشِ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "آشور"
+    },
+    {
+      "surface": "ומלפני",
+      "gloss": "و از پیشِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "جماعتی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "با اوست"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "با ما"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بزرگ‌تر"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "از ⟨آن که⟩ با اوست"
+    }
+  ]
+}

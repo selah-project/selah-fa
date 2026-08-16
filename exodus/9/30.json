@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و تو و بندگانت، می‌دانم که هنوز نمی‌ترسید از رویِ یاهوه، الوهیم.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "و تو"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "و بندگانت"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "می‌دانم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "هنوز"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "نمی‌ترسید"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "از رویِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:11:50.692892619Z",
+  "model": "glm-5.2"
+}

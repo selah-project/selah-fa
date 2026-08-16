@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "⟨את⟩ اَدُوم و ⟨את⟩ مُوآب و ⟨את⟩ بَنِی عَمُّون را،",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَدُوم"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اَدُوم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مُوآب"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "بَنِی عَمُّون"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَنِی"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عَمُّون"
+    }
+  ],
+  "timestamp": "2026-08-13T22:02:23.753052216Z",
+  "model": "glm-5.2"
+}

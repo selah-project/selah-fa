@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 3:5",
+  "book": "habakkuk",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "پیش از روی او دَبَر می‌رفت، و رَشَف به‌سوی پاهای او بیرون می‌آمد.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "پیش از روی او"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "می‌رفت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دَبَر"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "و بیرون می‌آمد"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "رَشَف"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "به‌سوی پاهای او"
+    }
+  ],
+  "timestamp": "2026-08-13T22:33:32.283979322Z",
+  "model": "glm-5.2"
+}

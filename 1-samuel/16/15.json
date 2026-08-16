@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "و غلامانِ شائول به او گفتند: اینک الآن روحِ بدِ الوهیم ترسانت می‌سازد.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "و گفتند"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "غلامانِ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روحِ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدِ"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "ترسانت می‌سازد"
+    }
+  ],
+  "timestamp": "2026-08-13T21:11:56.212767019Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 14:14",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "بر بلندی‌هایِ اَب خواهم رفت، به عِلیون خواهم مانست.",
+  "tokens": [
+    {
+      "surface": "אעלה",
+      "gloss": "خواهم رفت"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "بلندی‌هایِ"
+    },
+    {
+      "surface": "עב",
+      "gloss": "اَب"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "خواهم مانست"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "به عِلیون"
+    }
+  ],
+  "timestamp": "2026-08-13T21:43:55.004341185Z",
+  "model": "glm-5.2"
+}

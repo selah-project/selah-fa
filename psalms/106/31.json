@@ -1,0 +1,41 @@
+{
+  "tier": "4.6",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 106,
+  "translation": "و این ⟨را⟩ به او ⟨به‌عنوان⟩ عدالت شمرد، برای نسل و نسل، تا ابد.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "و شمرد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "برای او"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "⟨به‌عنوان⟩ عدالت"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "برای نسل"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "و نسل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ابد"
+    }
+  ],
+  "timestamp": "2026-08-15T04:28:04.868482521Z",
+  "model": "glm-4.6"
+}

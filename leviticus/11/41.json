@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 11:41",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "و هر خزنده‌ای که بر زمین می‌خزد، موجزات است؛ خورده نشود.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هر"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "خزنده"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "می‌خزد"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "موجزات است"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "خورده شود"
+    }
+  ],
+  "timestamp": "2026-08-13T20:24:47.000209977Z",
+  "model": "glm-5.2"
+}

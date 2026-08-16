@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "دعوای خود را با ⟨את⟩ همسایه‌ات دعوی کن، و رازِ دیگری را فاش مکن.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "دعوای تو"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "دعوی کن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همسایه‌ات"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "همسایه‌ات"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "و رازِ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دیگری"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مکن"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "فاش"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:23.920582147Z",
+  "model": "glm-5.2"
+}

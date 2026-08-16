@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "ezekiel 23:46",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "زیرا چنین گفت اَدونای یاهوه: گردانی بر آنان ببر، و ⟨את⟩ آنان را به رِعب و به غارت بده.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "כה",
+      "gloss": "چنین"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گفت"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ببر"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "بر آنان"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "گردانی"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "و بده"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "آنها"
+    },
+    {
+      "surface": "לזעוה",
+      "gloss": "به رِعب"
+    },
+    {
+      "surface": "ולבז",
+      "gloss": "و به غارت"
+    }
+  ],
+  "timestamp": "2026-08-13T22:18:05.246824799Z",
+  "model": "glm-5.2"
+}

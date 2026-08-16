@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 4:24",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "پسرانِ شیم‌عون: نِموئیل و یامین، یاریب، زِرَح، شائول.",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֖י",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "שִׁמְע֑וֹן",
+      "gloss": "شیم‌عون"
+    },
+    {
+      "surface": "נְמוּאֵ֣ל",
+      "gloss": "نِموئیل"
+    },
+    {
+      "surface": "וְיָמִ֔ין",
+      "gloss": "و یامین"
+    },
+    {
+      "surface": "יָרִ֖יב",
+      "gloss": "یاریب"
+    },
+    {
+      "surface": "זֶ֥רַח",
+      "gloss": "زِرَح"
+    },
+    {
+      "surface": "שָׁאֽוּל",
+      "gloss": "شائول"
+    }
+  ],
+  "timestamp": "2026-08-13T23:36:10.804685921Z",
+  "model": "glm-5.2"
+}

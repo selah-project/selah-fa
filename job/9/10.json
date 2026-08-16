@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 9:10",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "کنندهٔ کارهایِ بزرگ تا بی‌کاوش، و شگفت‌ها تا بی‌شماری",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "کنندهٔ"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "کارهایِ بزرگ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "بی‌"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "کاوش"
+    },
+    {
+      "surface": "ונפלאות",
+      "gloss": "و شگفت‌ها"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "بی‌"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "شماری"
+    }
+  ],
+  "timestamp": "2026-08-13T23:07:52.739785911Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 2:23",
+  "book": "ezra",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "مردانِ عَناتوت، یکصد و بیست و هشت.",
+  "tokens": [
+    {
+      "surface": "אַנְשֵׁ֣י",
+      "gloss": "مردانِ"
+    },
+    {
+      "surface": "עֲנָת֔וֹת",
+      "gloss": "عناتوت"
+    },
+    {
+      "surface": "מֵאָ֖ה",
+      "gloss": "یکصد"
+    },
+    {
+      "surface": "עֶשְׂרִ֥ים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "וּשְׁמֹנָֽה",
+      "gloss": "و هشت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:27:44.449230150Z",
+  "model": "glm-5.2"
+}

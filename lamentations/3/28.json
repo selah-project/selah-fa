@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "بنشیند تنهایی و خامشی، زیرا بر او نهاده است.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "بنشیند"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "تنهایی"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "و خامشی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "نهاده است"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بر او"
+    }
+  ],
+  "timestamp": "2026-08-13T23:18:17.550821803Z",
+  "model": "glm-5.2"
+}

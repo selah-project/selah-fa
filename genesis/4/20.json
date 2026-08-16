@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و عاداه ⟨את⟩ یابال را زایید؛ او پدرِ ساکنانِ خیمه و دارایِ رمه بود.",
+  "tokens": [
+    {
+      "surface": "וַתֵּלֶד",
+      "gloss": "و زایید"
+    },
+    {
+      "surface": "עָדָה",
+      "gloss": "عاداه"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "یابال"
+    },
+    {
+      "surface": "יָבָל",
+      "gloss": "یابال"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "او"
+    },
+    {
+      "surface": "הָיָה",
+      "gloss": "بود"
+    },
+    {
+      "surface": "אֲבִי",
+      "gloss": "پدرِ"
+    },
+    {
+      "surface": "יֹשֵׁב",
+      "gloss": "ساکنانِ"
+    },
+    {
+      "surface": "אֹהֶל",
+      "gloss": "خیمه"
+    },
+    {
+      "surface": "וּמִקְנֶה",
+      "gloss": "و دارایِ رمه"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:57.526736723Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 20,
+  "translation": "بگیر ⟨את⟩ اَهارون و ⟨את⟩ اَلعازار پسرش را، و بالا ببر ⟨את⟩ آنان را به کوهِ هور،",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "بگیر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَهارون"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اَهارون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "اَلعازار"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "اَلعازار"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پسرش"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "و بالا ببر"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ آنان را",
+      "marks": "آنان"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کوهِ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "هور"
+    }
+  ],
+  "timestamp": "2026-08-13T20:37:20.876656494Z",
+  "model": "glm-5.2"
+}

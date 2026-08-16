@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 25:14",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و میشْما، و دومه، و ماسا.",
+  "tokens": [
+    {
+      "surface": "ומשמע",
+      "gloss": "و میشْما"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "و دومه"
+    },
+    {
+      "surface": "ומשא",
+      "gloss": "و ماسا"
+    }
+  ],
+  "timestamp": "2026-08-13T20:01:17.366687455Z",
+  "model": "glm-5.2"
+}

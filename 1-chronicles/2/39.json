@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و عَزَریا ⟨את⟩ خِلِتس را زاد، و خِلِتس ⟨את⟩ اِلعاسا را زاد.",
+  "tokens": [
+    {
+      "surface": "וַעֲזַרְיָה֙",
+      "gloss": "و عَزَریا"
+    },
+    {
+      "surface": "הֹלִ֣יד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "خِلِتس"
+    },
+    {
+      "surface": "חָ֔לֶץ",
+      "gloss": "خِلِتس"
+    },
+    {
+      "surface": "וְחֶ֖לֶץ",
+      "gloss": "و خِلِتس"
+    },
+    {
+      "surface": "הֹלִ֥יד",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "اِلعاسا"
+    },
+    {
+      "surface": "אֶלְעָשָֽׂה",
+      "gloss": "اِلعاسا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:05.589824011Z",
+  "model": "glm-5.2"
+}

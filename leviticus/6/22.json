@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "هر نَر از میانِ کوهنان آن را خواهد خورد؛ ⟨את⟩ قدسِ قدیسان است ⟨او⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نَر"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "از میانِ کوهنان"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "خواهد خورد"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "آن را"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قدس"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "قدیسان"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "است ⟨او⟩"
+    }
+  ],
+  "timestamp": "2026-08-15T03:50:02.567780683Z",
+  "model": "glm-5.3"
+}

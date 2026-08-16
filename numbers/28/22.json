@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 28:22",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "و یک بزِ گناه، برای کفاره بر شما.",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "و یک بزِ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "گناه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "برای کفاره"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "بر شما"
+    }
+  ],
+  "timestamp": "2026-08-13T20:39:56.719534829Z",
+  "model": "glm-5.2"
+}

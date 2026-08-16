@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و شلومه ⟨את⟩ گِزِر و ⟨את⟩ بِیت حورونِ پایین را بنا کرد.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "و بنا کرد"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گِزِر"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "گِزِر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "بِیت حورونِ پایین"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بِیت"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "حورون"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "پایین"
+    }
+  ],
+  "timestamp": "2026-08-13T21:26:56.656099222Z",
+  "model": "glm-5.2"
+}

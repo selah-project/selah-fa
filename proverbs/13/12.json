@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 13:12",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "امیدِ کشیده، بیماریِ دل است، و درختِ حیات، آرزویی است که می‌آید.",
+  "tokens": [
+    {
+      "surface": "תוחלת",
+      "gloss": "امیدِ"
+    },
+    {
+      "surface": "ממשכה",
+      "gloss": "کشیده"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "بیماریِ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "و درختِ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "حیات"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "آرزوی"
+    },
+    {
+      "surface": "באה",
+      "gloss": "می‌آید"
+    }
+  ],
+  "timestamp": "2026-08-13T23:01:42.602120771Z",
+  "model": "glm-5.2"
+}

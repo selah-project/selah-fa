@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "دلِ خردمندان، در خانهٔ سوگواری است، و دلِ نادانان، در خانهٔ شادی.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دلِ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "خردمندان"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "در خانهٔ"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "سوگواری"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "و دلِ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "نادانان"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "در خانهٔ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "شادی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:56.518554834Z",
+  "model": "glm-5.2"
+}

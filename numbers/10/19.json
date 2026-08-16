@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 10:19",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و بر لشکرِ سبطِ پسرانِ شیمون، شِلومی‌اِل پسرِ تسوری-شدّای بود.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشکرِ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "سبطِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شیمون"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "شِلومی‌اِل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "تسوری-"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّای"
+    }
+  ],
+  "timestamp": "2026-08-13T20:33:53.015570335Z",
+  "model": "glm-5.2"
+}

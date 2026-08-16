@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 34:26",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 34,
+  "translation": "و برای قبیلهٔ پسران ییسّاسخار، نَسی، پَلتی‌اِل پسر عَزّان.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "و برای قبیلهٔ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسران"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ییسّاسخار"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "نَسی"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "پَلتی‌اِل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "עזן",
+      "gloss": "عَزّان"
+    }
+  ],
+  "timestamp": "2026-08-13T20:42:04.197800353Z",
+  "model": "glm-5.2"
+}

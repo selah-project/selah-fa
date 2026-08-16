@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "یاهوه، نه، در خشمِ تو توخّیخ‌ام نکن، و نه، در غضبِ تو تربیتم نکن",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "در خشمِ تو"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "سرزنم کن"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "در غضبِ تو"
+    },
+    {
+      "surface": "תיסרנی",
+      "gloss": "تربیتم کن"
+    }
+  ],
+  "timestamp": "2026-08-13T22:37:58.569111439Z",
+  "model": "glm-5.2"
+}

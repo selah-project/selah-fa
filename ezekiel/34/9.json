@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 34:9",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 34,
+  "translation": "لِذا، ای چوپانان، بشنوید کلام یاهوه را.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "لِذا"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "چوپانان"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "بشنوید"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T22:21:08.539926853Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "job 31:17",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و ⟨את⟩ لقمم را تنها خورده‌ام، و یتیم از آن نخورده است —",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "و خورده‌ام"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "لقمهٔ من"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "تنها"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "خورده است"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "یتیم"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "از آن"
+    }
+  ],
+  "timestamp": "2026-08-15T04:28:34.036386771Z",
+  "model": "glm-5.3"
+}

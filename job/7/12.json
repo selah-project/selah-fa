@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "آیا دریا هستم من، یا تنّین، که نگهبانی بر من می‌گماری؟",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "آیا دریا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "هستم من"
+    },
+    {
+      "surface": "אם",
+      "gloss": "یا"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "تنّین"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "می‌گماری"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "نگهبانی"
+    }
+  ],
+  "timestamp": "2026-08-13T23:07:23.084759943Z",
+  "model": "glm-5.2"
+}

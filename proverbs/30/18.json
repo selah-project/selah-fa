@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 30:18",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "سه چیزند که مرا در شگفت می‌گذارند، و چهارم را نمی‌دانم.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "سه"
+    },
+    {
+      "surface": "המה",
+      "gloss": "چیزند"
+    },
+    {
+      "surface": "נפלאו",
+      "gloss": "در شگفت می‌گذارند"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "مرا"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "و چهارم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידעתים",
+      "gloss": "می‌دانم"
+    }
+  ],
+  "timestamp": "2026-08-13T23:06:04.966663781Z",
+  "model": "glm-5.2"
+}

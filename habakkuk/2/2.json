@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 2:2",
+  "book": "habakkuk",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و یاهوه مرا پاسخ داد و گفت: چون دیده را بنویس و بر لوح‌ها روشن ساز، تا هر که می‌خوانَدش بدود.",
+  "tokens": [
+    {
+      "surface": "ויענני",
+      "gloss": "و مرا پاسخ داد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "بنویس"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "دیده"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "و روشن ساز"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הלחות",
+      "gloss": "لوح‌ها"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تا"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "بدود"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "هر که می‌خوانَد"
+    },
+    {
+      "surface": "בו",
+      "gloss": "او را"
+    }
+  ],
+  "timestamp": "2026-08-13T22:32:43.791693587Z",
+  "model": "glm-5.2"
+}

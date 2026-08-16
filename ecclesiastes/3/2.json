@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "زمانِ زاییدن و زمانِ مُردن، زمانِ کاشتن و زمانِ برکندنِ کاشته‌شده.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "زمان"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "زاییدن"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "و زمان"
+    },
+    {
+      "surface": "למות",
+      "gloss": "مُردن"
+    },
+    {
+      "surface": "עת",
+      "gloss": "زمان"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "کاشتن"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "و زمان"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "برکندن"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "کاشته‌شده"
+    }
+  ],
+  "timestamp": "2026-08-13T23:20:09.181725583Z",
+  "model": "glm-5.2"
+}

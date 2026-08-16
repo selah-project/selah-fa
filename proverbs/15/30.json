@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 15:30",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 15,
+  "translation": "روشنیِ چشم‌ها شاد می‌کند دل را، و خبرِ خوب استخوان را فربه می‌کند.",
+  "tokens": [
+    {
+      "surface": "מאור",
+      "gloss": "روشنی"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "چشم‌ها"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "شاد می‌کند"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "خوب"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "فربه می‌کند"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "استخوان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:49.781852475Z",
+  "model": "glm-5.2"
+}

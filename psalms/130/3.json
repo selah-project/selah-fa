@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 130,
+  "translation": "اگر بی‌رحمی‌ها را نگه داری، ای یاه — اَدونای، کی ⟨خواهد⟩ ایستاد؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "بی‌رحمی‌ها را"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "نگه داری"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ای یاه"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ایستاد"
+    }
+  ],
+  "timestamp": "2026-08-13T22:56:58.246293380Z",
+  "model": "glm-5.2"
+}

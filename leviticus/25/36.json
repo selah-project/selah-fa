@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "ناگیر از او ⟨את⟩ بهره و افزونی، و از الوهیمِ خود بترس، و برادرت زنده بماند با تو.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "بگیر"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "از او ⟨את⟩",
+      "marks": "بهره و افزونی"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "بهره"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "وافزونی"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "وبترس"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "از الوهیمِ خود"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "وزنده بماند"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "برادرت"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "با تو"
+    }
+  ],
+  "timestamp": "2026-08-13T20:29:27.552179668Z",
+  "model": "glm-5.2"
+}

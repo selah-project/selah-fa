@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و داوود در بیابان شنید که نابال ⟨את⟩ گوسفندانِ خود را می‌چیند.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "و شنید"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "در بیابان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "می‌چیند"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نابال"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گوسفندانِ خود"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "گوسفندانِ خود"
+    }
+  ],
+  "timestamp": "2026-08-13T21:14:42.643784015Z",
+  "model": "glm-5.2"
+}

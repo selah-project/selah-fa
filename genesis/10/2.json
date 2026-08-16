@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "پسرانِ یافِت: گومِر، و مگوگ، و مادای، و یاوان، و تووَل، و مَشِخ، و تیراس.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "یافِت"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "گومِر"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "و مگوگ"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "و مادای"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "و یاوان"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "و تووَل"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "و مَشِخ"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "و تیراس"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:57.835517760Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 6:2",
+  "book": "ezekiel",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "پسرِ آدم، رویِ خود را به‌سوی کوه‌های یِسرائِل بگذار و بر ضدِّ آنان نبوّت کن،",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "שים",
+      "gloss": "بگذار"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "رویِ خود را"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به‌سوی"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "کوه‌های"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائِل"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "و نبوّت کن"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "بر ضدِّ آنان"
+    }
+  ],
+  "timestamp": "2026-08-13T22:12:57.682017757Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "زيرا كه ⟨اگر⟩ آينده‌ای هست و اميدِ تو قطع نشود.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "زيرا كه"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יֵשׁ",
+      "gloss": "هست"
+    },
+    {
+      "surface": "אַחֲרִית",
+      "gloss": "آينده"
+    },
+    {
+      "surface": "וְתִקְוָתְךָ",
+      "gloss": "و اميدِ تو"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תִכָּרֵת",
+      "gloss": "قطع شود"
+    }
+  ],
+  "timestamp": "2026-08-13T23:04:26.315082348Z",
+  "model": "glm-5.2"
+}

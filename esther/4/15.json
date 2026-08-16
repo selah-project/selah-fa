@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و اَستِر گفت تا پاسخ دهد به مردخای،",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "اَستِر"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "تا پاسخ دهد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مردخای"
+    }
+  ],
+  "timestamp": "2026-08-13T23:22:15.187497486Z",
+  "model": "glm-5.2"
+}

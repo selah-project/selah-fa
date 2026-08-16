@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 117,
+  "translation": "که بر ما چیره شد فروتانِ او، و راستیِ یاهوه برای همیشه؛ ستایید یاه را.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "چیره شد"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "بر ما"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "فروتانِ او"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "و راستیِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "برای همیشه"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ستایید"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه را"
+    }
+  ],
+  "timestamp": "2026-08-13T22:54:35.659852961Z",
+  "model": "glm-5.2"
+}

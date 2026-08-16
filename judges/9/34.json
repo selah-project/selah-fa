@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "judges 9:34",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و برخاست اَویملِخ و تمامِ قوم که با او بودند، در شب، و کمین گرفتند بر شکِم، چهار گروه.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "و برخاست"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "اَویملِخ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و تمامِ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "با او"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "در شب"
+    },
+    {
+      "surface": "ויארבו",
+      "gloss": "و کمین گرفتند"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شکیم"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چهار"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "گروه"
+    }
+  ],
+  "timestamp": "2026-08-13T21:03:17.804718943Z",
+  "model": "glm-5.2"
+}

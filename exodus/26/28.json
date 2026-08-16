@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 26:28",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "و میلهٔ میانی در میان تخته‌ها از کناره‌ای به‌کناره‌ای می‌تازد.",
+  "tokens": [
+    {
+      "surface": "והבריח",
+      "gloss": "و میلهٔ"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "میانی"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "در میانِ"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "تخته‌ها"
+    },
+    {
+      "surface": "מברח",
+      "gloss": "می‌تازد"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "کناره‌ای"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "کناره‌ای"
+    }
+  ],
+  "timestamp": "2026-08-13T20:16:55.286655103Z",
+  "model": "glm-5.2"
+}

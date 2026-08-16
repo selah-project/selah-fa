@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "nehemiah 7:56",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "پسرانِ نَصیَح، پسرانِ حَتیفا،",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "נְצִ֖יחַ",
+      "gloss": "نَصیَح"
+    },
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "חֲטִיפָֽא",
+      "gloss": "حَتیفا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:33:08.224433725Z",
+  "model": "glm-5.2"
+}

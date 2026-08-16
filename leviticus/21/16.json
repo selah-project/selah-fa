@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 21:16",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "و یاهوه با موسه سخن گفت، به‌قول:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "با"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موسه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به‌قول"
+    }
+  ],
+  "timestamp": "2026-08-13T20:27:35.356270791Z",
+  "model": "glm-5.2"
+}

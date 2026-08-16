@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "یک بزِ نر، موی‌دار، برای گناه.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "موی‌دار"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بز"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "برای-گناه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:32:05.786718927Z",
+  "model": "glm-5.2"
+}

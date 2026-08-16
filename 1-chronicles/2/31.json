@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 2:31",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و پسرانِ اَپّاییم: یِشعی؛ و پسرانِ یِشعی: شِشان؛ و پسرانِ شِشان: اَحلای.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "اَپّاییم"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "یِشعی"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "یِشعی"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "شِشان"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "و پسرانِ"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "شِشان"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "اَحلای"
+    }
+  ],
+  "timestamp": "2026-08-13T23:35:29.178741568Z",
+  "model": "glm-5.2"
+}

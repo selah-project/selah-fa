@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "تا آن‌گاه که خورشید و نور و ماه و ستارگان تاریک نشوند و ابرها پس از باران بازگردند.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آن‌گاه که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "تاریک شود"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "خورشید"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "و نور"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "و ماه"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "و ستارگان"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "و بازگردند"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "ابرها"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "پس از"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "باران"
+    }
+  ],
+  "timestamp": "2026-08-13T23:21:52.811399626Z",
+  "model": "glm-5.2"
+}

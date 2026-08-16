@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 8:18",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "⟨دردِ⟩ غم بر من چیره ⟨است⟩، بر من دلم بیمار است.",
+  "tokens": [
+    {
+      "surface": "מַבְלִ֥יגִיתִ֖י",
+      "gloss": "چیره‌ام"
+    },
+    {
+      "surface": "עֲלֵ֣י",
+      "gloss": "بر"
+    },
+    {
+      "surface": "יָג֑וֹן",
+      "gloss": "غم"
+    },
+    {
+      "surface": "עָלַ֖י",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "לִבִּ֥י",
+      "gloss": "دلم"
+    },
+    {
+      "surface": "דַוָּֽי",
+      "gloss": "بیمار است"
+    }
+  ],
+  "timestamp": "2026-08-13T21:59:09.396415030Z",
+  "model": "glm-5.2"
+}

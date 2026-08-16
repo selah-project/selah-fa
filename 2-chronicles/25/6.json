@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 25:6",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "و از یِسرائیل صد‌هزار جنگجوی دلاور را به صد کیکار نقره اجیر کرد.",
+  "tokens": [
+    {
+      "surface": "וישכר",
+      "gloss": "و اجیر کرد"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "از یِسرائیل"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "صد"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "جنگجوی"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "دلاور"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "به صد"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "کیکر"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "نقره"
+    }
+  ],
+  "timestamp": "2026-08-13T23:49:36.876001089Z",
+  "model": "glm-5.2"
+}

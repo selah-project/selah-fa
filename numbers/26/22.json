@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 26:22",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "این‌ها تیره‌های یهوداه به شمارشِ آنان بودند: شصت‌و‌شش هزار و پانصد.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "تیره‌های"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهوداه"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "به شمارشِ آنان"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "شش"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "و هفتاد"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "و پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:38:57.737508084Z",
+  "model": "glm-5.2"
+}

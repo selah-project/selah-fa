@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و سخت شد دلِ فرعون و نشنید ⟨آنها را⟩، چنانکه یاهوه گفته بود.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "و سخت شد"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "شنید"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "به آنها"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چنانکه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گفته بود"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:11:30.878563941Z",
+  "model": "glm-5.2"
+}

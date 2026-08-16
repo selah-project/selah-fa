@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 43:7",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 43,
+  "translation": "و وارد زمینِ مِصری شدند، زیرا در صدای یاهوه نشنیدند؛ و تا تَحْپَنْخِس وارد شدند.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "و وارد شدند"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینِ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصری"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "شنیدند"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "در صدای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "و وارد شدند"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "תחפנחס",
+      "gloss": "تحپنخیس"
+    }
+  ],
+  "timestamp": "2026-08-13T22:08:11.558632152Z",
+  "model": "glm-5.2"
+}

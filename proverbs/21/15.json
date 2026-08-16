@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 21:15",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "شادی است برای صدیق انجام دادنِ داد، و وحشت برای کنندگانِ باطل.",
+  "tokens": [
+    {
+      "surface": "שמחה",
+      "gloss": "شادی"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "برای صدیق"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "انجام دادنِ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "داد"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "و وحشت"
+    },
+    {
+      "surface": "לפעלי",
+      "gloss": "برای کنندگانِ"
+    },
+    {
+      "surface": "און",
+      "gloss": "باطل"
+    }
+  ],
+  "timestamp": "2026-08-13T23:03:26.274351224Z",
+  "model": "glm-5.2"
+}

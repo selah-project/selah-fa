@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 14:19",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "بدان پیش از نیکان سجده می‌کنند، و شریران — بر دروازه‌های دادگر.",
+  "tokens": [
+    {
+      "surface": "שחו",
+      "gloss": "سجده می‌کنند"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "بدان"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیش از"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "نیکان"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "و شریران"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "دروازه‌های"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "دادگر"
+    }
+  ],
+  "timestamp": "2026-08-13T23:02:00.525651616Z",
+  "model": "glm-5.2"
+}

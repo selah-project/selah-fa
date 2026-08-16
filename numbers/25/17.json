@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 25:17",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "دشمنی کنید با ⟨את⟩ مِدیانیان و ⟨את⟩ آنان را بزنید،",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "دشمنی کنید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مِدیانیان"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "مِدیانیان"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "و بزنید"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ آنان را"
+    }
+  ],
+  "timestamp": "2026-08-13T20:38:18.849798754Z",
+  "model": "glm-5.2"
+}

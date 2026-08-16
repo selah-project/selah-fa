@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 31:45",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و الاغران سی هزار و پانصد",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "و الاغران"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "و پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    }
+  ],
+  "timestamp": "2026-08-13T20:40:53.885905932Z",
+  "model": "glm-5.2"
+}

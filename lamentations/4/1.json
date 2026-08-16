@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 4:1",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "چگونه تیره شد طلا، تغییر یافت کتم ناب، ریخته شدند سنگ‌های مقدس در سرِ همه خیابان‌ها.",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "چگونه"
+    },
+    {
+      "surface": "יועם",
+      "gloss": "تیره شد"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "طلا"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "تغییر یافت"
+    },
+    {
+      "surface": "הכתם",
+      "gloss": "کتمِ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ناب"
+    },
+    {
+      "surface": "תשתפכנה",
+      "gloss": "ریخته شدند"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "سنگ‌های"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "در سرِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همه"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "خیابان‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T23:18:39.856933215Z",
+  "model": "glm-5.2"
+}

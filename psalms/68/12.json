@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 68,
+  "translation": "اَدونای سخن می‌بخشد؛ مژده‌دهندگانِ زن، لشکری بزرگ‌اند.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "می‌بخشد"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "سخن"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "مژده‌دهندگانِ زن"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشکری"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بزرگ"
+    }
+  ],
+  "timestamp": "2026-08-13T22:46:36.870841933Z",
+  "model": "glm-5.2"
+}

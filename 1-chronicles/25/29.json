@@ -1,0 +1,41 @@
+{
+  "tier": "4.6",
+  "verse": 29,
+  "ref": "1-chronicles 25:29",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "برای بیست و دو به گی‌دلْتی، پسرانش و برادرانش دوازده،",
+  "tokens": [
+    {
+      "surface": "לשנים",
+      "gloss": "برای دو"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "و بیست"
+    },
+    {
+      "surface": "לגדלתי",
+      "gloss": "به گی‌دلْتی"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "پسرانش"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "و برادرانش"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ده"
+    }
+  ],
+  "timestamp": "2026-08-15T04:36:13.111257152Z",
+  "model": "glm-4.6"
+}

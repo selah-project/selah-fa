@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 39,
+  "translation": "و ردیفِ سوم، لَشِم، شَبو و اَحلَمَه.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "و ردیفِ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "سوم"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "لَشِم"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "شَبو"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "و اَحلَمَه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:20:31.772744400Z",
+  "model": "glm-5.2"
+}

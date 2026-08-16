@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "jeremiah 23:34",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "و اما نبی، و کاهن، و قومی که بگوید: بار یاهوه، و من بر آن مرد و بر خانهٔ او بازخواست خواهم کرد.",
+  "tokens": [
+    {
+      "surface": "והנביא",
+      "gloss": "و اما نبی"
+    },
+    {
+      "surface": "והכהן",
+      "gloss": "و کاهن"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "و قوم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "بگوید"
+    },
+    {
+      "surface": "משא",
+      "gloss": "باری"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "و من بازخواست خواهم کرد"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "آن مرد"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "خانهٔ او"
+    }
+  ],
+  "timestamp": "2026-08-13T22:02:46.003870284Z",
+  "model": "glm-5.2"
+}

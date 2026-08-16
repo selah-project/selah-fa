@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 8:7",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 8,
+  "translation": "همهٔ قومِ بازمانده از حِتیّ و اِموری و پِریزی و حیوی و یِبوسی که از یِسرائیل نبودند، ایشان،",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قومِ"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "بازمانده"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "حِتیّ"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "و اِموری"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "و پِریزی"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "و حیوی"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "و یِبوسی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "از یِسرائیل"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ایشان"
+    }
+  ],
+  "timestamp": "2026-08-13T23:45:55.547058129Z",
+  "model": "glm-5.2"
+}

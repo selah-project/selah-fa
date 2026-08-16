@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 22:14",
+  "book": "numbers",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "وَسرورانِ موآب برخاستند و نزدِ بالاک آمدند و گفتند: بیلعام نپذیرفت با ما بیاید.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "وبرخاستند"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سرورانِ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "وآمدند"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نزدِ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاک"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "وگفتند"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "نپذیرفت"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بیلعام"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "آمدن"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "با ما"
+    }
+  ],
+  "timestamp": "2026-08-13T20:38:11.096091930Z",
+  "model": "glm-5.2"
+}

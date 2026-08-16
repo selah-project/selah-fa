@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 25:10",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 25,
+  "translation": "سوم زَکّور؛ پسرانش و برادرانش، دوازده.",
+  "tokens": [
+    {
+      "surface": "השלשי",
+      "gloss": "سوم"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "زَکّور"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "پسرانش"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "و برادرانش"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ده"
+    }
+  ],
+  "timestamp": "2026-08-13T23:41:22.007069267Z",
+  "model": "glm-5.2"
+}

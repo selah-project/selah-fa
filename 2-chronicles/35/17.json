@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 35,
+  "translation": "و پسران یِسرائیلِ یافت‌شده، فِصح را در آن زمان، و عیدِ مَصّوت‌ها را هفت روز، به‌جا آوردند.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "و به‌جا آوردند"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسران"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "یافت‌شده"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فِصح"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "فِصح"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "در زمان"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "عید"
+    },
+    {
+      "surface": "חג",
+      "gloss": "عید"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "مَصّوت‌ها"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روز"
+    }
+  ],
+  "timestamp": "2026-08-13T23:52:29.394507621Z",
+  "model": "glm-5.2"
+}

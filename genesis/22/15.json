@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 22,
+  "translation": "و فرشته‌ی یاهوه اَوراهام را بار دوم از آسمان‌ها ندا داد،",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "و‌ندا داد"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشته‌ی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراهام"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "بار دوم"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمان‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T20:00:36.659241826Z",
+  "model": "glm-5.2"
+}

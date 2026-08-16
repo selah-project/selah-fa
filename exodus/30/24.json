@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 30:24",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "و قلفه پانصد، به شکلِ مقدس، و روغنِ زیتون یک هین.",
+  "tokens": [
+    {
+      "surface": "וקדה",
+      "gloss": "و قلفه"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "به شکلِ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "و روغنِ"
+    },
+    {
+      "surface": "זית",
+      "gloss": "زیتون"
+    },
+    {
+      "surface": "הין",
+      "gloss": "هین"
+    }
+  ],
+  "timestamp": "2026-08-13T20:18:20.752784548Z",
+  "model": "glm-5.2"
+}

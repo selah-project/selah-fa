@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "lamentations 3:34",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "برای لگدمالِ ⟨کردن⟩ زیرِ پاهایِ خود همهٔ زندانیانِ زمین را،",
+  "tokens": [
+    {
+      "surface": "לְדַכֵּא֙",
+      "gloss": "برای لگدمالِ"
+    },
+    {
+      "surface": "תַּ֣חַת",
+      "gloss": "زیرِ"
+    },
+    {
+      "surface": "רַגְלָ֔יו",
+      "gloss": "پاهایِ خود"
+    },
+    {
+      "surface": "כֹּ֖ל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "אֲסִ֥ירֵי",
+      "gloss": "زندانیانِ"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T23:18:02.339854675Z",
+  "model": "glm-5.2"
+}

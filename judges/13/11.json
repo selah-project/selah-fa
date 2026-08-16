@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 13:11",
+  "book": "judges",
+  "lang": "fa",
+  "chapter": 13,
+  "translation": "و مَنوَحَخ برخاست و پشت سر زنش رفت، و نزد آن مرد آمد، و به او گفت: آیا تو آن مردی که با زن سخن گفتی؟ و گفت: من هستم.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "و برخاست"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "و رفت"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "مَنوَحَخ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پشت سر"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "زنش"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "و آمد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نزد"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "آن مرد"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به او"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "آیا تو"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "آن مردی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "سخن گفتی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "با"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "زن"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من هستم"
+    }
+  ],
+  "timestamp": "2026-08-13T21:04:31.256450889Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 14,
+  "translation": "اما ⟨تو⟩ به شئول فرو برده خواهی شد، به انتهای گودال.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "اما"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شئول"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "فرو برده خواهی شد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "انتهای"
+    },
+    {
+      "surface": "בור",
+      "gloss": "گودال"
+    }
+  ],
+  "timestamp": "2026-08-15T04:07:34.614570316Z",
+  "model": "glm-5.3"
+}

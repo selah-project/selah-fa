@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 2:18",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "زیرا خانهٔ او به سوی مرتغرق می‌شود، و گام‌هایش به سوی رفائیم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "فرو می‌رود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به سوی"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرگ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "خانهٔ او"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و به سوی"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رفائیم"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "گام‌هایش"
+    }
+  ],
+  "timestamp": "2026-08-14T00:13:55.031165520Z",
+  "model": "glm-5.2"
+}

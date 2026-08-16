@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 27:17",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 27,
+  "translation": "به ایشان گوش ندهید، به پادشاهِ بابِل خدمت کنید و زنده بمانید؛ چرا این شهر ویران شود؟",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "گوش دهید"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "به ایشان"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "خدمت کنید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پادشاه"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابِل"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "و زنده بمانید"
+    },
+    {
+      "surface": "למה",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "شود"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "این"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "ویران"
+    }
+  ],
+  "timestamp": "2026-08-13T22:03:59.602642880Z",
+  "model": "glm-5.2"
+}

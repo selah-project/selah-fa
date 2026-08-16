@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 10:2",
+  "book": "nehemiah",
+  "lang": "fa",
+  "chapter": 10,
+  "translation": "و بر مُهرشدگان: نَحَم‌یا، هَتیرْشاتا، پسرِ حَخَل‌یا، و صِدقیا.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "החתומים",
+      "gloss": "مُهرشدگان"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "نَحَم‌یا"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "هَتیرْشاتا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "حَخَل‌یا"
+    },
+    {
+      "surface": "וצדקיה",
+      "gloss": "و صِدقیا"
+    }
+  ],
+  "timestamp": "2026-08-13T23:33:18.130877003Z",
+  "model": "glm-5.2"
+}

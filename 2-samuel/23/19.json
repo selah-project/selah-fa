@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 23:19",
+  "book": "2-samuel",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "از سه، آیا او گرامی‌تر نبود؟ و او برایشان به سَر شد، و تا سه نخستین نیامد.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "השלשה",
+      "gloss": "سه"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "گرامی‌تر نبود"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "להם",
+      "gloss": "برایشان"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "به سر"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "השלשה",
+      "gloss": "سه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آمد"
+    }
+  ],
+  "timestamp": "2026-08-13T21:23:33.224006110Z",
+  "model": "glm-5.2"
+}

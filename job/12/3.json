@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "fa",
+  "chapter": 12,
+  "translation": "هم چنان من هم دلی چون شما دارم، بر شما فرونمی‌افتم من، و ⟨את⟩ کسی که چون این‌ها نیست کیست؟",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "לי",
+      "gloss": "برای من"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "چون شما"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "فرومی‌افتد"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "از شما"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "کسی"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کیست"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "چون"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها"
+    }
+  ],
+  "timestamp": "2026-08-13T23:08:53.590824631Z",
+  "model": "glm-5.2"
+}

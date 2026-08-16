@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 31:1",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 31,
+  "translation": "و یاهوه به موشه سخن گفت، به بیانِ:",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּר",
+      "gloss": "و سخن گفت"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "به"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "לֵּאמֹר",
+      "gloss": "به بیانِ"
+    }
+  ],
+  "timestamp": "2026-08-13T20:17:50.802074296Z",
+  "model": "glm-5.2"
+}

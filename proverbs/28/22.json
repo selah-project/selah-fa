@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 28,
+  "translation": "مردِ چشمِ بد به ثروت می‌لرزد، و نمی‌داند که فقر بر او خواهد آمد.",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "می‌لرزد"
+    },
+    {
+      "surface": "להון",
+      "gloss": "به ثروت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردِ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چشمِ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "می‌داند"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "فقر"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "بر او خواهد آمد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:05:35.768536451Z",
+  "model": "glm-5.2"
+}

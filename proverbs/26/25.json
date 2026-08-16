@@ -1,0 +1,53 @@
+{
+  "tier": "hand",
+  "verse": 25,
+  "ref": "proverbs 26:25",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "چون آوازش را دلنشین سازد، ⟨بر⟩ او اعتماد مکن؛ زیرا هفت مکروه در دلش ⟨است⟩.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "יְחַנֵּ֣ן",
+      "gloss": "دلنشین سازد"
+    },
+    {
+      "surface": "ק֭וֹלוֹ",
+      "gloss": "آوازش را"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "مکن"
+    },
+    {
+      "surface": "תַּֽאֲמֶן",
+      "gloss": "اعتماد"
+    },
+    {
+      "surface": "בּ֑וֹ",
+      "gloss": "⟨بر⟩ او"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "שֶׁ֖בַע",
+      "gloss": "هفت"
+    },
+    {
+      "surface": "תּוֹעֵב֣וֹת",
+      "gloss": "مکروه"
+    },
+    {
+      "surface": "בְּלִבּֽוֹ",
+      "gloss": "در دلش"
+    }
+  ],
+  "timestamp": "2026-08-14T17:46:57Z",
+  "model": "claude-fable-5/hand"
+}

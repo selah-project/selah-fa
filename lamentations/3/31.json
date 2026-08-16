@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "fa",
+  "chapter": 3,
+  "translation": "زیرا اَدونای، تا ابد طرد نخواهد کرد.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "طرد خواهد کرد"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "تا ابد"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    }
+  ],
+  "timestamp": "2026-08-13T23:17:55.368485024Z",
+  "model": "glm-5.2"
+}

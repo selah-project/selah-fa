@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 39,
+  "translation": "و حالا چه چشم‌داشتم من؟ اَدونای، امیدِ من بر توست.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و حالا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "چشم‌داشتم من؟"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "امیدِ من"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بر توست"
+    },
+    {
+      "surface": "היא",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-08-13T22:43:08.643153528Z",
+  "model": "glm-5.2"
+}

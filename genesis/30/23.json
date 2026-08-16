@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "و باردار شد و پسری زایید، و گفت: الوهیم ⟨את⟩ ننگِ مرا برداشت.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "و باردار شد"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "و زایید"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسری"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "برداشت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ننگِ مرا"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "ننگِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T20:02:09.950975283Z",
+  "model": "glm-5.2"
+}

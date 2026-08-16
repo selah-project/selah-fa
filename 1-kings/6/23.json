@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 6:23",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و در دَویر دو کَروب از چوبِ شَمَن ساخت، ده اَمّه بلندیِ آن‌ها.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و ساخت"
+    },
+    {
+      "surface": "בדביר",
+      "gloss": "در دَویر"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "کَروب"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "چوبِ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "شَمَن"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ده"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "اَمّه"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "بلندیِ آن"
+    }
+  ],
+  "timestamp": "2026-08-13T21:25:34.874182491Z",
+  "model": "glm-5.2"
+}

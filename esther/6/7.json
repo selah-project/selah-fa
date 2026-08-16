@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "fa",
+  "chapter": 6,
+  "translation": "و هامان به شاه گفت: مردی که شاه در بزرگداشتِ او خرسند ⟨است⟩ —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "המן",
+      "gloss": "هامان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاه"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاه"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "خرسند است"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "در بزرگداشتِ او"
+    }
+  ],
+  "timestamp": "2026-08-15T04:30:40.370680231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "بشکن ⟨את⟩ او پَر‌ها، و بر او بریز روغن — هدیه است.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "بشکن"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "پَر‌ها"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "پَر‌ها"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "و بریز"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "بر او"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "روغن"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "هدیه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "است"
+    }
+  ],
+  "timestamp": "2026-08-13T20:21:50.285156464Z",
+  "model": "glm-5.2"
+}

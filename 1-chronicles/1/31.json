@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "یِتور، نافیش، و قِدماه. این‌ها آنان‌ند پسرانِ ییشماعیل.",
+  "tokens": [
+    {
+      "surface": "יטור",
+      "gloss": "یِتور"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "نافیش"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "و قِدماه"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "این‌ها"
+    },
+    {
+      "surface": "הם",
+      "gloss": "آنان‌اند"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پسرانِ"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "ییشماعیل"
+    }
+  ],
+  "timestamp": "2026-08-13T23:34:59.867631084Z",
+  "model": "glm-5.2"
+}

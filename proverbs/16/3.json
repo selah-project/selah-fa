@@ -1,0 +1,37 @@
+{
+  "tier": "hand",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "بغلتان به یاهوه کارهایت را، و اندیشه‌هایت استوار خواهد شد.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "بغلتان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "کارهایت را"
+    },
+    {
+      "surface": "ויכנו",
+      "gloss": "و استوار خواهد شد"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "اندیشه‌هایت"
+    }
+  ],
+  "timestamp": "2026-08-14T17:46:57Z",
+  "model": "claude-fable-5/hand"
+}

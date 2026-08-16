@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 1:11",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و سخنِ یاهوه به من شد، به این مضمون: «چه می‌بینی، یِرمِیاهو؟» و گفتم: «چوبِ بادامْ، من می‌بینم.»",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و شد"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سخنِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به این مضمون"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "می‌بینی"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمِیاهو"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و گفتم"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "چوبِ"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "بادامْ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "می‌بینم"
+    }
+  ],
+  "timestamp": "2026-08-13T21:55:07.367803807Z",
+  "model": "glm-5.2"
+}

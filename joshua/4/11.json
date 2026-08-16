@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "joshua 4:11",
+  "book": "joshua",
+  "lang": "fa",
+  "chapter": 4,
+  "translation": "و چنین شد، چون تمام شد گذشتنِ همهٔ قوم، صندوقِ یاهوه گذشت، و کاهنان، پیشاپیشِ قوم.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و چنین شد"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چون"
+    },
+    {
+      "surface": "תם",
+      "gloss": "تمام شد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "گذشتن"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "و گذشت"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوقِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "و کاهنان"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشاپیشِ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    }
+  ],
+  "timestamp": "2026-08-15T03:57:12.860779982Z",
+  "model": "glm-5.3"
+}

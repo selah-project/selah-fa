@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 11:3",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 11,
+  "translation": "«به رَحَبعام، پسرِ شِلومو، پادشاهِ یهودا بگو، و به تمامِ یسرائیل که در یهودا و بنیامینند، به این سخن:",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "بگو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "رَحَبعام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسر"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شِلومو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و به"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "در یهودا"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "و بنیامین"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "به این سخن"
+    }
+  ],
+  "timestamp": "2026-08-13T23:46:08.838575471Z",
+  "model": "glm-5.2"
+}

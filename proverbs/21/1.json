@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 21:1",
+  "book": "proverbs",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "آب‌راه‌های آب دلِ پادشاه در دستِ یاهوه ⟨است⟩؛ بر هر که بخواهد، ⟨او⟩ آن را می‌کَند.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "آب‌راه‌های"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آب"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دلِ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "در دستِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "بخواهد"
+    },
+    {
+      "surface": "יטנו",
+      "gloss": "می‌کَند"
+    }
+  ],
+  "timestamp": "2026-08-14T00:14:14.824174258Z",
+  "model": "glm-5.2"
+}

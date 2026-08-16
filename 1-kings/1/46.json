@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 1:46",
+  "book": "1-kings",
+  "lang": "fa",
+  "chapter": 1,
+  "translation": "و همچنین نشست شلومه بر تخت پادشاهی.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "و همچنین"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "نشست"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومه"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "پادشاهی"
+    }
+  ],
+  "timestamp": "2026-08-13T21:24:07.657111198Z",
+  "model": "glm-5.2"
+}

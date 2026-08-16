@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "genesis 24:58",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و ندادند به رِفقَه و گفتند به او: آیا می‌روی با این مرد؟ و گفت: خواهم رفت.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "و ندادند"
+    },
+    {
+      "surface": "לרבקה",
+      "gloss": "به رِفقَه"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "و گفتند"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "به او"
+    },
+    {
+      "surface": "התלכי",
+      "gloss": "آیا می‌روی"
+    },
+    {
+      "surface": "עם",
+      "gloss": "با"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "این مرد"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "این"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "خواهم رفت"
+    }
+  ],
+  "timestamp": "2026-08-13T20:00:56.449191549Z",
+  "model": "glm-5.2"
+}

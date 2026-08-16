@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 30:28",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 30,
+  "translation": "و گفت: مزدِ خود را بر من مقرّر کن و آن را می‌دهم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و گفت"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "مقرّر کن"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "مزدِ تو"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بر من"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "و می‌دهم"
+    }
+  ],
+  "timestamp": "2026-08-13T20:03:10.126525951Z",
+  "model": "glm-5.2"
+}

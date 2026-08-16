@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 24:6",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و موشه نیمی از خون را گرفت و در کاسه‌ها نهاد؛ و نیمی از خون را بر مذبح پاشید.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "و گرفت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشه"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "نیمی از"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "و نهاد"
+    },
+    {
+      "surface": "באגנת",
+      "gloss": "در کاسه‌ها"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "و نیمی از"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "זרק",
+      "gloss": "پاشید"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مذبح"
+    }
+  ],
+  "timestamp": "2026-08-13T20:16:35.353057712Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 16:28",
+  "book": "1-chronicles",
+  "lang": "fa",
+  "chapter": 16,
+  "translation": "بدهید به یاهوه، ای طایفه‌های مردمان، بدهید به یاهوه شکوه و عزّت.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "بدهید"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "به یاهوه"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "طایفه‌های"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "مردمان"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "بدهید"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "به یاهوه"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شکوه"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "و عزّت"
+    }
+  ],
+  "timestamp": "2026-08-13T23:39:23.436499676Z",
+  "model": "glm-5.2"
+}

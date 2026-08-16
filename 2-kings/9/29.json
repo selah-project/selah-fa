@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 9:29",
+  "book": "2-kings",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و در سالِ یازدهمِ یورام پسرِ اَخآب، پادشاهی کرد اَخَزْیاه بر یهوداه.",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "و در سالِ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یِک"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ده"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ליורם",
+      "gloss": "یورام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پسرِ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "اَخآب"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهی کرد"
+    },
+    {
+      "surface": "אחזיה",
+      "gloss": "اَخَزْیاه"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهوداه"
+    }
+  ],
+  "timestamp": "2026-08-13T21:34:50.150987451Z",
+  "model": "glm-5.2"
+}

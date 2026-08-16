@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "isaiah 45:22",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 45,
+  "translation": "به سوی من روی آورید و نجات یابید، همهٔ کناره‌های زمین؛ زیرا من اِل هستم و دیگری نیست.",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "روی آورید"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "به سوی من"
+    },
+    {
+      "surface": "והושעו",
+      "gloss": "و نجات یابید"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همهٔ"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "کناره‌های"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نیست"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیگری"
+    }
+  ],
+  "timestamp": "2026-08-15T04:09:07.113207438Z",
+  "model": "glm-5.3"
+}

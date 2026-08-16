@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 2,
+  "translation": "و طلای آن زمین نیکو است؛ آنجا بْدُلْیاخ و سنگِ شُهام یافت می‌شود.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "و طلا"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیکو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آنجا"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "بدلیاخ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "و سنگ"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "شهام"
+    }
+  ],
+  "timestamp": "2026-08-13T19:55:00.429427536Z",
+  "model": "glm-5.2"
+}

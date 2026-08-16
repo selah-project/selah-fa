@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "و اگر بگویند «یاهوه زنده است»، پس به دروغ قسم می‌خورند",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و اگر"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زنده"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "بگویند"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "پس"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "به دروغ"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "قسم می‌خورند"
+    }
+  ],
+  "timestamp": "2026-08-13T21:57:33.642811751Z",
+  "model": "glm-5.2"
+}

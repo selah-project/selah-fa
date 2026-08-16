@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "fa",
+  "chapter": 23,
+  "translation": "آختهٔ شکافته و له‌شده و بریدهٔ لوله، در جامعهٔ یاهوه نیاید.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יָבֹא",
+      "gloss": "بیاید"
+    },
+    {
+      "surface": "פְצוּעַ",
+      "gloss": "شکافته"
+    },
+    {
+      "surface": "דַּכָּא",
+      "gloss": "له‌شده"
+    },
+    {
+      "surface": "וּכְרוּת",
+      "gloss": "و بریدهٔ"
+    },
+    {
+      "surface": "שָׁפְכָה",
+      "gloss": "لوله"
+    },
+    {
+      "surface": "בִּקְהַל",
+      "gloss": "در جامعهٔ"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T20:50:23.767401327Z",
+  "model": "glm-5.2"
+}

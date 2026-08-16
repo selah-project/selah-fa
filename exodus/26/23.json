@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 26:23",
+  "book": "exodus",
+  "lang": "fa",
+  "chapter": 26,
+  "translation": "و دو تخته برای گوشه‌های مسکن بساز، در دو انتها.",
+  "tokens": [
+    {
+      "surface": "ושני",
+      "gloss": "ودو"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "تخته"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "بساز"
+    },
+    {
+      "surface": "למקצעת",
+      "gloss": "برایِگوشه‌هایِ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکنِ"
+    },
+    {
+      "surface": "בירכתים",
+      "gloss": "درِدوانتها"
+    }
+  ],
+  "timestamp": "2026-08-13T20:16:46.940941933Z",
+  "model": "glm-5.2"
+}

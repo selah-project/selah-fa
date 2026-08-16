@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 18:28",
+  "book": "2-chronicles",
+  "lang": "fa",
+  "chapter": 18,
+  "translation": "و پادشاهِ یِسرائیل و یِهوشافاط، پادشاهِ یِهودا، به راموت-گیلعاد بالا رفتند.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "و بالا رفت"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "י שראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "و یِهوشافاط"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهِ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یِهودا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "راموتِ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گیلعاد"
+    }
+  ],
+  "timestamp": "2026-08-13T23:47:29.422330980Z",
+  "model": "glm-5.2"
+}

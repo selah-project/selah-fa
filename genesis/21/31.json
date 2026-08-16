@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 21:31",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 21,
+  "translation": "از این رو آن مکان را بئِر شِوَع خواند، زیرا آنجا هر دو با هم سوگند خوردند.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "این"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "خواند"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "آن مکان را"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بئِر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شِوَع"
+    },
+    {
+      "surface": "כי",
+      "gloss": "زیرا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آنجا"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "سوگند خوردند"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "هر دو"
+    }
+  ],
+  "timestamp": "2026-08-13T19:59:48.079993915Z",
+  "model": "glm-5.2"
+}

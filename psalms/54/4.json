@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "fa",
+  "chapter": 54,
+  "translation": "الوهیم، دعایِ مرا بشنو؛ به سخنانِ دهانِ من گُش بده.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "بشنو"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "دعایِ مرا"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "گُش بده"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "به سخنانِ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دهانِ من"
+    }
+  ],
+  "timestamp": "2026-08-13T22:44:30.700981650Z",
+  "model": "glm-5.2"
+}

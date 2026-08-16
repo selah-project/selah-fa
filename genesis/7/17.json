@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 7:17",
+  "book": "genesis",
+  "lang": "fa",
+  "chapter": 7,
+  "translation": "و بود مابول چهل روز بر زمین، و فزودند آب‌ها و برداشتند ⟨את⟩ تابوت و برخاست از بر فراز زمین.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بود"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "مابول"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چهل"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "و فزودند"
+    },
+    {
+      "surface": "המים",
+      "gloss": "آب‌ها"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "و برداشتند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تابوت"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "تابوت"
+    },
+    {
+      "surface": "ותרם",
+      "gloss": "و برخاست"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "از بر فراز"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-13T19:56:29.376424463Z",
+  "model": "glm-5.2"
+}

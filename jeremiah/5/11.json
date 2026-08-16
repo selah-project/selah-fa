@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "fa",
+  "chapter": 5,
+  "translation": "که خیانتِ محض کرده‌اند در من — بیت یِسرائیل و بیت یهودا، خروش یاهوه.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "خیانتِ محض"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "کرده‌اند"
+    },
+    {
+      "surface": "בי",
+      "gloss": "در من"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "و بیت"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "خروش"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-13T21:56:47.748568764Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 24:21",
+  "book": "isaiah",
+  "lang": "fa",
+  "chapter": 24,
+  "translation": "و در آن روز یاهوه بر لشکرِ بلندی در بلندی، و بر پادشاهانِ زمین بر زمین ⟨در ряд⟩ خواهد آمد.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و خواهد بود"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "در روز"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "خواهد آمد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشکرِ"
+    },
+    {
+      "surface": "המרום",
+      "gloss": "بلندیِ"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "در بلندی"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بر"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "پادشاهانِ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمینِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "بر"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمینِ"
+    }
+  ],
+  "timestamp": "2026-08-13T21:45:37.339716968Z",
+  "model": "glm-5.2"
+}

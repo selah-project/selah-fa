@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "fa",
+  "chapter": 9,
+  "translation": "و در شوشَنِ دژ، یهودیان پانصد مرد را کشتند و هلاک کردند.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "و در شوشَنِ"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "دژ"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "کشتند"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "یهودیان"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "و هلاک کردند"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پانصد"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "⟨مئو⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد را"
+    }
+  ],
+  "timestamp": "2026-08-13T23:23:19.771530816Z",
+  "model": "glm-5.2"
+}
