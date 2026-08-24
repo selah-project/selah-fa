@@ -5,29 +5,29 @@
   "book": "numbers",
   "lang": "fa",
   "chapter": 28,
-  "translation": "یک بز نر، برای کیفر بر ⟨⟨شما⟩⟩.",
+  "translation": "یک بزِ نر برای کیفر ⟨برای⟩ شما",
   "tokens": [
     {
-      "surface": "שְׂעִיר",
-      "gloss": "بز نر"
+      "surface": "שעיר",
+      "gloss": "بزِ نر"
     },
     {
-      "surface": "עִזִּים",
+      "surface": "עזים",
       "gloss": "بزها"
     },
     {
-      "surface": "אֶחָד",
-      "gloss": "یگانه"
+      "surface": "אחד",
+      "gloss": "یک"
     },
     {
-      "surface": "לְכַפֵּר",
+      "surface": "לכפר",
       "gloss": "برای کیفر"
     },
     {
-      "surface": "עֲלֵיכֶם",
-      "gloss": "بر شما"
+      "surface": "עליכם",
+      "gloss": "⟨برای⟩ شما"
     }
   ],
-  "timestamp": "2026-08-13T20:40:04.334930047Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:56:27.606932589Z",
+  "model": "glm-5.3"
 }

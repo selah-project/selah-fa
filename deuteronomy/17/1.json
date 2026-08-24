@@ -5,81 +5,81 @@
   "book": "deuteronomy",
   "lang": "fa",
   "chapter": 17,
-  "translation": "نخарам برای یاهوه الوهیمِ تو گاوی یا گوسفندی که در او نقصی باشد، هر چیزِ بد، زیرا که نفرت‌انگیزِ یاهوه الوهیمِ تو ⟨است⟩.",
+  "translation": "به یاهوه الوهیمِ تو گاو و گوسفندی که در او نقص باشد، هر چیزِ بد، را قربانی مکن، زیرا او follaty نزد یاهوه الوهیمِ تو است.",
   "tokens": [
     {
-      "surface": "לֹא",
-      "gloss": "نخار\/نه"
+      "surface": "לא",
+      "gloss": "مکن"
     },
     {
-      "surface": "תִזְבַּח",
-      "gloss": "تو ذبح کنی"
+      "surface": "תזבח",
+      "gloss": "قربانی"
     },
     {
-      "surface": "לַיהוָה",
-      "gloss": "برای یاهوه"
+      "surface": "ליהוה",
+      "gloss": "به یاهوه"
     },
     {
-      "surface": "אֱלֹהֶיךָ",
+      "surface": "אלהיך",
       "gloss": "الوهیمِ تو"
     },
     {
-      "surface": "שׁ֣וֹר",
+      "surface": "שור",
       "gloss": "گاو"
     },
     {
-      "surface": "וָשֶׂ֗ה",
-      "gloss": "یا گوسفند"
+      "surface": "ושה",
+      "gloss": "و گوسفند"
     },
     {
-      "surface": "אֲשֶׁ֨ר",
+      "surface": "אשר",
       "gloss": "که"
     },
     {
-      "surface": "יִהְיֶ֥ה",
+      "surface": "יהיה",
       "gloss": "باشد"
     },
     {
-      "surface": "בֽוֹ֙",
+      "surface": "בו",
       "gloss": "در او"
     },
     {
-      "surface": "מ֔וּם",
+      "surface": "מום",
       "gloss": "نقص"
     },
     {
-      "surface": "כֹּ֖ל",
+      "surface": "כל",
       "gloss": "هر"
     },
     {
-      "surface": "דָּבָ֣ר",
-      "gloss": "چیزِ"
+      "surface": "דבר",
+      "gloss": "چیز"
     },
     {
-      "surface": "רָ֑ע",
+      "surface": "רע",
       "gloss": "بد"
     },
     {
-      "surface": "כִּ֧י",
-      "gloss": "زیرا که"
+      "surface": "כי",
+      "gloss": "زیرا"
     },
     {
-      "surface": "תוֹעֲבַ֛ת",
-      "gloss": "نفرت‌انگیزِ"
+      "surface": "תועבת",
+      "gloss": "مکروه\/فعلِ نفرت‌انگیز"
     },
     {
-      "surface": "יְהוָ֥ה",
+      "surface": "יהוה",
       "gloss": "یاهوه"
     },
     {
-      "surface": "אֱלֹהֶ֖יךָ",
+      "surface": "אלהיך",
       "gloss": "الوهیمِ تو"
     },
     {
-      "surface": "הֽוּא",
-      "gloss": "او\/آن"
+      "surface": "הוא",
+      "gloss": "او است"
     }
   ],
-  "timestamp": "2026-08-13T20:49:27.809581440Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:56:48.837615991Z",
+  "model": "glm-5.3"
 }

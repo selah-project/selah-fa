@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "fa",
   "chapter": 21,
-  "translation": "و سخنِ یاهوه بر من ⟨⟨بود⟩⟩، به ⟨این⟩ گفتار:",
+  "translation": "و شد کلامِ یاهوه به من، به این گفتن:",
   "tokens": [
     {
-      "surface": "והיה",
+      "surface": "ויהי",
       "gloss": "و شد"
     },
     {
       "surface": "דבר",
-      "gloss": "سخنِ"
+      "gloss": "کلامِ"
     },
     {
       "surface": "יהוה",
@@ -21,13 +21,13 @@
     },
     {
       "surface": "אלי",
-      "gloss": "بر من"
+      "gloss": "به من"
     },
     {
       "surface": "לאמר",
-      "gloss": "به گفتار"
+      "gloss": "به این گفتن"
     }
   ],
-  "timestamp": "2026-08-13T22:16:45.730636735Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:58:51.978076755Z",
+  "model": "glm-5.3"
 }

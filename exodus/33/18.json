@@ -5,30 +5,30 @@
   "book": "exodus",
   "lang": "fa",
   "chapter": 33,
-  "translation": "و گفت: مرا покажи، теперьا، ⟨את⟩ جلالِ خود را.",
+  "translation": "و گفت: نشانم ده، خواهش می‌کنم، ⟨את⟩ جلالِ تو را.",
   "tokens": [
     {
-      "surface": "וַיֹּאמַר",
+      "surface": "ויאמר",
       "gloss": "و گفت"
     },
     {
-      "surface": "הַרְאֵנִי",
-      "gloss": "به من نشان بده"
+      "surface": "הראני",
+      "gloss": "نشانم ده"
     },
     {
-      "surface": "נָא",
-      "gloss": "اکنون"
+      "surface": "נא",
+      "gloss": "خواهش می‌کنم"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "جلالِ تو"
     },
     {
-      "surface": "כְּבֹדֶךָ",
+      "surface": "כבדך",
       "gloss": "جلالِ تو"
     }
   ],
-  "timestamp": "2026-08-13T20:19:52.272972225Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:56:21.422597795Z",
+  "model": "glm-5.3"
 }

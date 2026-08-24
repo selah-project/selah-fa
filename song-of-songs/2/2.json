@@ -1,19 +1,19 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 2,
   "ref": "song-of-songs 2:2",
   "book": "song-of-songs",
   "lang": "fa",
   "chapter": 2,
-  "translation": "همچون نیلوفری میان خارها، так بابهای من میان دختران.",
+  "translation": "چون سوسنی میانِ خارها، چنین ⟨است⟩ رعیهٔ من میانِ دختران.",
   "tokens": [
     {
       "surface": "כשושנה",
-      "gloss": "همچون نیلوفری"
+      "gloss": "چون سوسنی"
     },
     {
       "surface": "בין",
-      "gloss": "میان"
+      "gloss": "میانِ"
     },
     {
       "surface": "החוחים",
@@ -21,21 +21,21 @@
     },
     {
       "surface": "כן",
-      "gloss": "так"
+      "gloss": "چنین"
     },
     {
       "surface": "רעיתי",
-      "gloss": "بابهای من"
+      "gloss": "رعیهٔ من"
     },
     {
       "surface": "בין",
-      "gloss": "میان"
+      "gloss": "میانِ"
     },
     {
       "surface": "הבנות",
       "gloss": "دختران"
     }
   ],
-  "timestamp": "2026-08-15T04:29:39.347925772Z",
+  "timestamp": "2026-08-24T20:59:14.392258627Z",
   "model": "glm-5.3"
 }

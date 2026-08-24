@@ -5,61 +5,61 @@
   "book": "2-kings",
   "lang": "fa",
   "chapter": 6,
-  "translation": "و پادشاهِ یِسرائیل در حالی که بر دیوار می‌گذشت، زنی به‌سوی او فریاد زد، говоря «برس، ای آقایِ من پادشاه!»",
+  "translation": "ו适时 occurred: 以色列的王正经过城墙上，一个妇人向他呼喊说：「我主我王啊，拯救吧！」",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "و بود"
+      "gloss": "适发生"
     },
     {
       "surface": "מלך",
-      "gloss": "پادشاهِ"
+      "gloss": "王"
     },
     {
       "surface": "ישראל",
-      "gloss": "یِسرائیل"
+      "gloss": "以色列"
     },
     {
       "surface": "עבר",
-      "gloss": "می‌گذشت"
+      "gloss": "经过"
     },
     {
       "surface": "על",
-      "gloss": "بر"
+      "gloss": "在…之上"
     },
     {
       "surface": "החמה",
-      "gloss": "دیوار"
+      "gloss": "城墙"
     },
     {
       "surface": "ואשה",
-      "gloss": "و زنی"
+      "gloss": "一个妇人"
     },
     {
       "surface": "צעקה",
-      "gloss": "فریاد زد"
+      "gloss": "呼喊"
     },
     {
       "surface": "אליו",
-      "gloss": "به‌سوی او"
+      "gloss": "向他"
     },
     {
       "surface": "לאמר",
-      "gloss": "گوید"
+      "gloss": "说"
     },
     {
       "surface": "הושיעה",
-      "gloss": "برس، یاری ده"
+      "gloss": "拯救吧"
     },
     {
       "surface": "אדני",
-      "gloss": "ای آقایِ من"
+      "gloss": "我主"
     },
     {
       "surface": "המלך",
-      "gloss": "پادشاه"
+      "gloss": "王"
     }
   ],
-  "timestamp": "2026-08-13T21:33:54.136848535Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:57:37.843444095Z",
+  "model": "glm-5.3"
 }

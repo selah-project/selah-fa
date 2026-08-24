@@ -5,41 +5,42 @@
   "book": "jeremiah",
   "lang": "fa",
   "chapter": 34,
-  "translation": "و شد کلام یاهوه به یِرمَیاهو ⟨את⟩ از جانب یاهوه، говорячи:",
+  "translation": "و شدّ کلامِ یاهوه به ییرمَیاهو از ⟨את⟩ یاهوه، به‌گفتن:",
   "tokens": [
     {
-      "surface": "וַיְהִ֤י",
-      "gloss": "و شد"
+      "surface": "ויהי",
+      "gloss": "و شدّ"
     },
     {
-      "surface": "דְבַר",
+      "surface": "דבר",
       "gloss": "کلام"
     },
     {
-      "surface": "יְהוָה֙",
+      "surface": "יהוה",
       "gloss": "یاهوه"
     },
     {
-      "surface": "אֶֽל",
+      "surface": "אל",
       "gloss": "به"
     },
     {
-      "surface": "יִרְמְיָ֔הוּ",
-      "gloss": "یِرمَیاهو"
+      "surface": "ירמיהו",
+      "gloss": "ییرمَیاهو"
     },
     {
-      "surface": "מֵאֵ֥ת",
-      "gloss": "⟨את⟩ از جانب"
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوه"
     },
     {
-      "surface": "יְהוָ֖ה",
+      "surface": "יהוה",
       "gloss": "یاهوه"
     },
     {
-      "surface": "לֵאמֹֽר",
-      "gloss": "گوياчи"
+      "surface": "לאמר",
+      "gloss": "به‌گفتن"
     }
   ],
-  "timestamp": "2026-08-13T22:05:53.408405279Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:57:34.052876132Z",
+  "model": "glm-5.3"
 }

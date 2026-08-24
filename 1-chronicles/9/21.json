@@ -5,37 +5,37 @@
   "book": "1-chronicles",
   "lang": "fa",
   "chapter": 9,
-  "translation": "زکریّا پسر مَشَلَمیّا ⟨⟨بود⟩⟩ دربانِ دهانهٔ خیمهٔ موعد.",
+  "translation": "زَکاریا پسرِ مِشِلِمیا دربانِ درِ ورودیِ اُهلِ مُعاد بود.",
   "tokens": [
     {
-      "surface": "זְכַרְיָה",
-      "gloss": "زکریّا"
+      "surface": "זכריה",
+      "gloss": "زَکاریا"
     },
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "پسرِ"
     },
     {
-      "surface": "מְשֶֽׁלֶמְיָה",
-      "gloss": "مَشَلَمیّا"
+      "surface": "משלמיה",
+      "gloss": "مِشِلِمیا"
     },
     {
-      "surface": "שֹׁעֵר",
+      "surface": "שער",
       "gloss": "دربانِ"
     },
     {
-      "surface": "פֶּתַח",
-      "gloss": "دهانهٔ"
+      "surface": "פתח",
+      "gloss": "درِ ورودیِ"
     },
     {
-      "surface": "לְאֹהֶל",
-      "gloss": "خیمهٔ"
+      "surface": "לאהל",
+      "gloss": "اُهلِ"
     },
     {
-      "surface": "מוֹעֵֽד",
-      "gloss": "موعد"
+      "surface": "מועד",
+      "gloss": "مُعاد"
     }
   ],
-  "timestamp": "2026-08-13T23:38:10.908013548Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:59:15.110005575Z",
+  "model": "glm-5.3"
 }
