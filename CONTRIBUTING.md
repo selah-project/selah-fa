@@ -33,3 +33,8 @@
 با فرستادن اصلاح می‌پذیرید که کارتان زیر **CC BY-SA 4.0** منتشر
 شود، همان رخصتی که بر این مخزن است. هر تغییر پیش از ادغام بازبینی
 می‌شود.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
