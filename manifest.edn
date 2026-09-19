@@ -1,0 +1,69 @@
+#:rendering{:label "فارسی",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305461},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared []},
+            :role :pass,
+            :produced {:from "2026-08-13", :to "2026-08-24"},
+            :id "fa.v1",
+            :catalog {:ui "resources/i18n/ui/fa.edn"},
+            :license "CC BY-SA 4.0 (The Selah Persian Rendering)",
+            :model
+            {:provider :z.ai,
+             :models
+             {"glm-5.2" 20283,
+              "glm-5.3" 2253,
+              "glm-4.6" 456,
+              "claude-fable-5/hand" 172,
+              "glm-5.3+hand" 49},
+             :tiers
+             {"glm-5.2" 20512, "glm-5.3" 2073, "4.6" 456, "hand" 172},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/fa.md",
+             :rails-commit "b6554fa9",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אל" "اِل",
+              "אלהים" "الوهیم",
+              "יה" "یاه",
+              "יהוה" "یاهوه",
+              "שדי" "شدّای"},
+             :open-questions []},
+            :status :live,
+            :version "v1",
+            :lineage
+            {:git
+             {:repo "selah-project/selah-fa",
+              :ref "v1-final",
+              :commit nil,
+              :tags [],
+              :branches ["main"]},
+             :parents []},
+            :lang :fa}
