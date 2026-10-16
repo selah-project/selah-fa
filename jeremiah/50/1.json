@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "fa",
   "chapter": 50,
-  "translation": "سخنی که یاهوه دربارهٔ بابل و دربارهٔ سرزمین کَشدیان به‌دستِ یِرمیاهو پیامبر گفت",
+  "translation": "سخنی که یاهوه دربارهٔ بابل و دربارهٔ سرزمین کَشدیان به‌دستِ یِرمیاهو نبی گفت",
   "tokens": [
     {
       "surface": "הדבר",
@@ -53,9 +53,16 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "پیامبر"
+      "gloss": "نبی"
     }
   ],
   "timestamp": "2026-08-15T04:14:31.682698773Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "پیامبر": "نبی"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

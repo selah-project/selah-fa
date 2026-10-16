@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "fa",
   "chapter": 23,
-  "translation": "که هم پیامبر هم کاهن خوی برده‌اند؛ هم در خانهٔ من بدیِ ایشان را یافتم — خروشِ یاهوه.",
+  "translation": "که هم نبی هم کاهن خوی برده‌اند؛ هم در خانهٔ من بدیِ ایشان را یافتم — خروشِ یاهوه.",
   "tokens": [
     {
       "surface": "כי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נביא",
-      "gloss": "پیامبر"
+      "gloss": "نبی"
     },
     {
       "surface": "גם",
@@ -57,5 +57,12 @@
     }
   ],
   "timestamp": "2026-08-15T04:11:52.135030466Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "پیامبر": "نبی"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }
